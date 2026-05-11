@@ -886,6 +886,101 @@
     }
     .diet-link-btn:hover { background: var(--accent); color: #fff; }
 
+    /* ─── 国会質疑：質問見出し ──────────────────────────────── */
+    .diet-question-title {
+      font-size: 16px;
+      font-weight: 700;
+      color: var(--text);
+      line-height: 1.5;
+      margin-bottom: 10px;
+    }
+    .diet-question-title.diet-answer-only {
+      color: var(--text-muted);
+      font-style: italic;
+    }
+    .diet-no-answer {
+      font-size: 12px;
+      color: var(--text-muted);
+      margin-top: 8px;
+      opacity: .7;
+    }
+
+    /* ─── 国会質疑：小リンクボタン ─────────────────────────── */
+    .diet-link-btn-sm {
+      display: inline-flex;
+      align-items: center;
+      font-size: 13px;
+      color: var(--accent);
+      text-decoration: none;
+      padding: 1px 4px;
+      border-radius: 4px;
+      transition: background .15s;
+      margin-left: auto;
+    }
+    .diet-link-btn-sm:hover { background: var(--accent-light); }
+
+    /* ─── 国会質疑：答弁アコーディオン ─────────────────────── */
+    .diet-acc-trigger {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      margin-top: 12px;
+      font-size: 12px;
+      font-weight: 700;
+      color: #c05621;
+      background: rgba(192,86,33,.08);
+      border: 1px solid rgba(192,86,33,.25);
+      padding: 5px 12px;
+      border-radius: 20px;
+      cursor: pointer;
+      user-select: none;
+      transition: background .15s;
+    }
+    .diet-acc-trigger:hover { background: rgba(192,86,33,.15); }
+    [data-theme="dark"] .diet-acc-trigger {
+      color: #f6ad55;
+      background: rgba(192,86,33,.15);
+      border-color: rgba(192,86,33,.3);
+    }
+    .diet-acc-arrow {
+      display: inline-block;
+      transition: transform .2s;
+      font-style: normal;
+      font-size: 10px;
+    }
+    .diet-acc-trigger.open .diet-acc-arrow { transform: rotate(180deg); }
+    .diet-acc-count {
+      background: rgba(192,86,33,.15);
+      padding: 0 6px;
+      border-radius: 8px;
+      font-size: 11px;
+    }
+
+    .diet-acc-body {
+      display: none;
+      margin-top: 12px;
+      border-top: 1px solid var(--border);
+      padding-top: 12px;
+    }
+    .diet-acc-body.open { display: block; }
+
+    .diet-answer-item {
+      padding: 10px 0;
+      border-bottom: 1px dashed var(--border);
+    }
+    .diet-answer-item:last-child { border-bottom: none; }
+    .diet-answer-name { font-size: 14px; }
+    .diet-answer-excerpt {
+      font-size: 13px;
+      color: var(--text-muted);
+      line-height: 1.7;
+      margin: 6px 0 8px;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
     @media (max-width: 700px) {
       .controls { flex-direction: column; align-items: stretch; }
       .refresh-btn { width: 100%; }
@@ -1657,14 +1752,15 @@
   });
 
   // ─── 国会質疑 ─────────────────────────────────────────────────────────────
-  let dietSpeeches = [];
+  let dietExchanges = [];
 
   async function loadDiet() {
     try {
       const res = await fetch("diet_data.json", { cache: "no-store" });
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const data = await res.json();
-      dietSpeeches = data.speeches || [];
+      // 新形式（exchanges）と旧形式（speeches）の両方に対応
+      dietExchanges = data.exchanges || [];
       renderDiet(data);
     } catch (e) {
       document.getElementById("dietList").innerHTML = `
@@ -1677,7 +1773,7 @@
   }
 
   function renderDiet(data) {
-    const list = document.getElementById("dietList");
+    const list      = document.getElementById("dietList");
     const statsEl   = document.getElementById("dietStatsText");
     const updatedEl = document.getElementById("dietUpdatedText");
     const badgeEl   = document.getElementById("viewBadgeDiet");
@@ -1686,50 +1782,117 @@
       updatedEl.textContent = "最終更新: " + formatDateJP(new Date(data.updated));
     }
 
-    if (!dietSpeeches.length) {
+    if (!dietExchanges.length) {
       statsEl.textContent = "該当する質疑がありません";
       list.innerHTML = `<div class="empty-state"><h2>該当する国会質疑が見つかりません</h2></div>`;
       return;
     }
 
-    const ministerCount = dietSpeeches.filter(s => s.is_minister).length;
-    const questionCount = dietSpeeches.length - ministerCount;
+    const totalEx  = data.total_exchanges || dietExchanges.length;
+    const totalQ   = data.total_questions || 0;
+    const totalAns = data.total_answers   || 0;
     statsEl.textContent =
-      `${dietSpeeches.length} 件（質問 ${questionCount} 件 / 答弁 ${ministerCount} 件）`;
-    if (badgeEl) badgeEl.textContent = dietSpeeches.length;
+      `${totalEx} 件の質疑（質問 ${totalQ} 件 / 答弁 ${totalAns} 件）`;
+    if (badgeEl) badgeEl.textContent = totalEx;
 
-    const html = dietSpeeches.map(s => {
-      const isMin       = s.is_minister;
-      const houseLabel  = [s.nameOfHouse, s.nameOfMeeting].filter(Boolean).join(" ");
-      const sessionStr  = s.session ? `第${s.session}回国会` : "";
-      const dateStr     = s.date ? s.date.replace(/-/g, "/") : "";
-      const positionStr = s.speakerPosition || s.speakerRole || "";
-      const url         = s.speechURL || "#";
+    const html = dietExchanges.map((ex, idx) => {
+      const q          = ex.question;
+      const answers    = ex.answers || [];
+      const houseLabel = [ex.nameOfHouse, ex.nameOfMeeting].filter(Boolean).join(" ");
+      const sessionStr = ex.session ? `第${ex.session}回国会` : "";
+      const dateStr    = ex.date ? ex.date.replace(/-/g, "/") : "";
+      const uid        = `diet-acc-${idx}`;
 
-      return `
-        <div class="diet-card${isMin ? " is-minister" : ""}">
-          <div class="diet-card-header">
-            <span class="diet-house-badge${isMin ? " minister" : ""}">${escHtml(houseLabel || "国会")}</span>
-            ${sessionStr ? `<span class="diet-session-text">${escHtml(sessionStr)}</span>` : ""}
-            ${isMin      ? `<span class="diet-minister-badge">★ 答弁</span>` : ""}
-            <span class="diet-date-text">${dateStr}</span>
+      // ── 質問ブロック ──
+      let questionHtml = "";
+      if (q) {
+        const posQ = q.speakerPosition || q.speakerRole || "";
+        questionHtml = `
+          <div class="diet-question-title">${escHtml(q.title || q.excerpt || "（発言内容）")}</div>
+          <div class="diet-speaker-row">
+            <span class="diet-speaker-name">🏛️ ${escHtml(q.speaker || "（不明）")}</span>
+            ${q.speakerGroup ? `<span class="diet-party-tag">${escHtml(q.speakerGroup)}</span>` : ""}
+            ${posQ           ? `<span class="diet-position-text">（${escHtml(posQ)}）</span>` : ""}
+            <a class="diet-link-btn-sm" href="${escHtml(q.speechURL || "#")}"
+               target="_blank" rel="noopener noreferrer" title="質問の議事録">📜</a>
+          </div>`;
+      } else if (answers.length) {
+        // 答弁のみの場合：最初の答弁を主役に
+        const a0  = answers[0];
+        const pos = a0.speakerPosition || a0.speakerRole || "";
+        questionHtml = `
+          <div class="diet-question-title diet-answer-only">
+            ${escHtml(a0.title || a0.excerpt || "（答弁内容）")}
           </div>
           <div class="diet-speaker-row">
-            <span class="diet-speaker-name">🏛️ ${escHtml(s.speaker || "（不明）")}</span>
-            ${s.speakerGroup    ? `<span class="diet-party-tag">${escHtml(s.speakerGroup)}</span>` : ""}
-            ${positionStr       ? `<span class="diet-position-text">（${escHtml(positionStr)}）</span>` : ""}
+            <span class="diet-speaker-name">🏛️ ${escHtml(a0.speaker || "（不明）")}</span>
+            ${a0.speakerGroup ? `<span class="diet-party-tag">${escHtml(a0.speakerGroup)}</span>` : ""}
+            ${pos             ? `<span class="diet-position-text">（${escHtml(pos)}）</span>` : ""}
+            <span class="diet-minister-badge">★ 答弁</span>
+            <a class="diet-link-btn-sm" href="${escHtml(a0.speechURL || "#")}"
+               target="_blank" rel="noopener noreferrer" title="議事録">📜</a>
+          </div>`;
+      }
+
+      // ── 答弁アコーディオン ──（answer-only の場合は answers[1]以降を対象）
+      const accAnswers = (!q && answers.length > 0) ? answers.slice(1) : answers;
+      let accordionHtml = "";
+      if (accAnswers.length > 0) {
+        const ansItems = accAnswers.map(a => {
+          const pos = a.speakerPosition || a.speakerRole || "";
+          return `
+            <div class="diet-answer-item">
+              <div class="diet-speaker-row">
+                <span class="diet-speaker-name diet-answer-name">
+                  ${escHtml(a.speaker || "（不明）")}
+                </span>
+                ${a.speakerGroup ? `<span class="diet-party-tag">${escHtml(a.speakerGroup)}</span>` : ""}
+                ${pos            ? `<span class="diet-position-text">（${escHtml(pos)}）</span>` : ""}
+              </div>
+              ${a.excerpt ? `<div class="diet-answer-excerpt">${escHtml(a.excerpt)}</div>` : ""}
+              <a class="diet-link-btn-sm" href="${escHtml(a.speechURL || "#")}"
+                 target="_blank" rel="noopener noreferrer">📜 議事録を読む</a>
+            </div>`;
+        }).join("");
+
+        accordionHtml = `
+          <div class="diet-acc-trigger" onclick="toggleDietAcc('${uid}', this)" aria-expanded="false">
+            <i class="diet-acc-arrow">▼</i>
+            政府答弁を見る
+            <span class="diet-acc-count">${accAnswers.length}件</span>
           </div>
-          ${s.excerpt ? `<div class="diet-excerpt">${escHtml(s.excerpt)}</div>` : ""}
-          <div class="diet-card-footer">
-            <a class="diet-link-btn" href="${escHtml(url)}" target="_blank" rel="noopener noreferrer">
-              📜 議事録を読む →
-            </a>
+          <div class="diet-acc-body" id="${uid}">
+            ${ansItems}
+          </div>`;
+      } else if (q) {
+        accordionHtml = `<div class="diet-no-answer">答弁は取得されていません</div>`;
+      }
+
+      return `
+        <div class="diet-card${(!q && answers.length) ? " is-minister" : ""}">
+          <div class="diet-card-header">
+            <span class="diet-house-badge${(!q && answers.length) ? " minister" : ""}">
+              ${escHtml(houseLabel || "国会")}
+            </span>
+            ${sessionStr ? `<span class="diet-session-text">${escHtml(sessionStr)}</span>` : ""}
+            <span class="diet-date-text">${dateStr}</span>
           </div>
+          ${questionHtml}
+          ${accordionHtml}
         </div>`;
     }).join("");
 
     list.innerHTML = html;
   }
+
+  // アコーディオン開閉（国会質疑用）
+  window.toggleDietAcc = function(uid, trigger) {
+    const body   = document.getElementById(uid);
+    if (!body) return;
+    const isOpen = body.classList.toggle("open");
+    trigger.classList.toggle("open", isOpen);
+    trigger.setAttribute("aria-expanded", String(isOpen));
+  };
 
   // ─── 起動 ─────────────────────────────────────────────────────────────────
   init();
