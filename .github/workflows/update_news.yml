@@ -31,10 +31,13 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
 
-      - name: news_data.json をコミット & プッシュ
+      - name: 国会会議録を取得
+        run: python fetch_diet.py --force
+
+      - name: データをコミット & プッシュ
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: 'chore: update news data [skip ci]'
-          file_pattern: news_data.json news_latest.json
+          commit_message: 'chore: update news & diet data [skip ci]'
+          file_pattern: news_data.json news_latest.json diet_data.json
           commit_user_name: github-actions[bot]
           commit_user_email: github-actions[bot]@users.noreply.github.com

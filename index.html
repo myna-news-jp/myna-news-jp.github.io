@@ -707,6 +707,185 @@
     .back-top.show { opacity: 1; transform: translateY(0); pointer-events: auto; }
     .back-top:hover { background: var(--accent-hover); }
 
+    /* ─── ビュー切替ナビ ─────────────────────────────────────── */
+    .view-nav {
+      background: var(--surface);
+      border-bottom: 2px solid var(--border);
+      box-shadow: var(--shadow);
+      position: sticky;
+      top: 60px;
+      z-index: 90;
+    }
+    .view-nav-inner {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 0 16px;
+      display: flex;
+    }
+    .view-btn {
+      padding: 14px 20px;
+      border: none;
+      border-bottom: 3px solid transparent;
+      margin-bottom: -2px;
+      background: none;
+      color: var(--text-muted);
+      font-size: 14px;
+      font-weight: 700;
+      font-family: inherit;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      transition: color .15s, border-color .15s;
+      white-space: nowrap;
+    }
+    .view-btn:hover { color: var(--text); }
+    .view-btn.active { color: var(--accent); border-bottom-color: var(--accent); }
+    .view-badge {
+      font-size: 10px;
+      font-weight: 700;
+      background: var(--surface2);
+      color: var(--text-muted);
+      padding: 1px 7px;
+      border-radius: 10px;
+      font-weight: 500;
+    }
+    .view-btn.active .view-badge {
+      background: var(--accent-light);
+      color: var(--accent);
+    }
+
+    /* ─── 国会質疑セクション ─────────────────────────────────── */
+    .diet-section-inner {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 0 16px;
+    }
+    .diet-section-header {
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin: 16px 0 10px;
+    }
+    .diet-stats-text { font-size: 13px; color: var(--text-muted); }
+    .diet-updated-text { font-size: 12px; color: var(--text-muted); margin-left: auto; }
+    .diet-hint {
+      font-size: 12px;
+      color: var(--text-muted);
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 9px 14px;
+      margin-bottom: 14px;
+      line-height: 1.7;
+    }
+    .diet-list {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      margin-bottom: 60px;
+    }
+
+    /* ─── 国会質疑カード ─────────────────────────────────────── */
+    .diet-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-left: 4px solid #805ad5;
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      padding: 16px 18px;
+      transition: box-shadow .15s, transform .1s;
+    }
+    .diet-card:hover {
+      box-shadow: var(--shadow-hover);
+      transform: translateY(-1px);
+    }
+    .diet-card.is-minister { border-left-color: #c05621; }
+
+    .diet-card-header {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin-bottom: 10px;
+    }
+    .diet-house-badge {
+      font-size: 11px;
+      font-weight: 700;
+      background: rgba(128,90,213,.12);
+      color: #553c9a;
+      padding: 2px 9px;
+      border-radius: 20px;
+    }
+    .diet-house-badge.minister {
+      background: rgba(192,86,33,.12);
+      color: #c05621;
+    }
+    [data-theme="dark"] .diet-house-badge { background: rgba(128,90,213,.2); color: #b794f4; }
+    [data-theme="dark"] .diet-house-badge.minister { background: rgba(192,86,33,.2); color: #f6ad55; }
+    .diet-session-text { font-size: 12px; color: var(--text-muted); }
+    .diet-date-text    { font-size: 12px; color: var(--text-muted); margin-left: auto; }
+    .diet-minister-badge {
+      font-size: 10px;
+      font-weight: 700;
+      background: rgba(192,86,33,.12);
+      color: #c05621;
+      padding: 2px 8px;
+      border-radius: 4px;
+      border: 1px solid rgba(192,86,33,.3);
+    }
+    [data-theme="dark"] .diet-minister-badge { background: rgba(192,86,33,.2); color: #f6ad55; }
+
+    .diet-speaker-row {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin-bottom: 8px;
+    }
+    .diet-speaker-name { font-size: 15px; font-weight: 700; color: var(--text); }
+    .diet-party-tag {
+      font-size: 11px;
+      font-weight: 600;
+      background: var(--tag-bg);
+      color: var(--tag-text);
+      padding: 1px 8px;
+      border-radius: 20px;
+    }
+    .diet-position-text { font-size: 12px; color: var(--text-muted); }
+
+    .diet-excerpt {
+      font-size: 13px;
+      color: var(--text-muted);
+      line-height: 1.75;
+      margin-bottom: 12px;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+    .diet-card-footer {
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+    }
+    .diet-link-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      font-size: 12px;
+      font-weight: 700;
+      color: var(--accent);
+      text-decoration: none;
+      border: 1px solid var(--accent);
+      padding: 5px 14px;
+      border-radius: 6px;
+      transition: background .15s, color .15s;
+      font-family: inherit;
+    }
+    .diet-link-btn:hover { background: var(--accent); color: #fff; }
+
     @media (max-width: 700px) {
       .controls { flex-direction: column; align-items: stretch; }
       .refresh-btn { width: 100%; }
@@ -763,6 +942,20 @@
   </div>
 </div>
 
+<!-- ─── ビュー切替ナビ ───────────────────────────────────────────── -->
+<nav class="view-nav">
+  <div class="view-nav-inner">
+    <button class="view-btn active" data-view="news">
+      📰 ニュース <span class="view-badge" id="viewBadgeNews">―</span>
+    </button>
+    <button class="view-btn" data-view="diet">
+      🏛️ 国会質疑 <span class="view-badge" id="viewBadgeDiet">―</span>
+    </button>
+  </div>
+</nav>
+
+<!-- ─── ニュースセクション ──────────────────────────────────────── -->
+<div id="newsSection">
 
 <div class="controls">
   <div class="search-box">
@@ -804,6 +997,26 @@
 
 <!-- ページネーション（下） -->
 <div class="pagination-wrap bottom" id="paginationBottom" style="display:none"></div>
+
+</div><!-- /#newsSection -->
+
+<!-- ─── 国会質疑セクション ──────────────────────────────────────── -->
+<div id="dietSection" style="display:none">
+  <div class="diet-section-inner">
+    <div class="diet-section-header">
+      <span class="diet-stats-text" id="dietStatsText">読み込み中…</span>
+      <span class="diet-updated-text" id="dietUpdatedText"></span>
+    </div>
+    <div class="diet-hint">
+      💡 2024年10月以降の国会会議録から「マイナ保険証」「オンライン資格確認」「健康保険証」などのキーワードで取得しています。
+      <span style="color:#553c9a;font-weight:700;">■</span> 質問 ／
+      <span style="color:#c05621;font-weight:700;">■ ★答弁</span> は政府側発言です。
+    </div>
+    <div class="diet-list" id="dietList">
+      <div class="loading"><div class="spinner"></div><span>国会会議録を読み込んでいます…</span></div>
+    </div>
+  </div>
+</div><!-- /#dietSection -->
 
 <!-- トップへ戻るボタン -->
 <button class="back-top" id="backTopBtn" title="トップへ戻る" aria-label="トップへ戻る">↑</button>
@@ -958,6 +1171,10 @@
       srcSel.appendChild(opt);
     });
     if ([...srcSel.options].some(o => o.value === prevVal)) srcSel.value = prevVal;
+
+    // ニュースタブのバッジ件数を更新
+    const newsBadge = document.getElementById("viewBadgeNews");
+    if (newsBadge) newsBadge.textContent = allArticles.length;
 
     renderTabs();
     applyFilters();
@@ -1417,6 +1634,102 @@
   backTopBtn.addEventListener("click", () => {
     window.scrollTo({ top: 0, behavior: "smooth" });
   });
+
+  // ─── ビュー切替 ───────────────────────────────────────────────────────────
+  let activeView  = "news";
+  let dietLoaded  = false;
+
+  function switchView(view) {
+    activeView = view;
+    document.querySelectorAll(".view-btn").forEach(btn => {
+      btn.classList.toggle("active", btn.dataset.view === view);
+    });
+    document.getElementById("newsSection").style.display = view === "news" ? "" : "none";
+    document.getElementById("dietSection").style.display = view === "diet" ? "" : "none";
+    if (view === "diet" && !dietLoaded) {
+      dietLoaded = true;
+      loadDiet();
+    }
+  }
+
+  document.querySelectorAll(".view-btn").forEach(btn => {
+    btn.addEventListener("click", () => switchView(btn.dataset.view));
+  });
+
+  // ─── 国会質疑 ─────────────────────────────────────────────────────────────
+  let dietSpeeches = [];
+
+  async function loadDiet() {
+    try {
+      const res = await fetch("diet_data.json", { cache: "no-store" });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const data = await res.json();
+      dietSpeeches = data.speeches || [];
+      renderDiet(data);
+    } catch (e) {
+      document.getElementById("dietList").innerHTML = `
+        <div class="empty-state">
+          <h2>🏛️ 国会質疑データがありません</h2>
+          <p><code>python fetch_diet.py</code> を実行してデータを取得してください。</p>
+        </div>`;
+      document.getElementById("dietStatsText").textContent = "データなし";
+    }
+  }
+
+  function renderDiet(data) {
+    const list = document.getElementById("dietList");
+    const statsEl   = document.getElementById("dietStatsText");
+    const updatedEl = document.getElementById("dietUpdatedText");
+    const badgeEl   = document.getElementById("viewBadgeDiet");
+
+    if (data.updated) {
+      updatedEl.textContent = "最終更新: " + formatDateJP(new Date(data.updated));
+    }
+
+    if (!dietSpeeches.length) {
+      statsEl.textContent = "該当する質疑がありません";
+      list.innerHTML = `<div class="empty-state"><h2>該当する国会質疑が見つかりません</h2></div>`;
+      return;
+    }
+
+    const ministerCount = dietSpeeches.filter(s => s.is_minister).length;
+    const questionCount = dietSpeeches.length - ministerCount;
+    statsEl.textContent =
+      `${dietSpeeches.length} 件（質問 ${questionCount} 件 / 答弁 ${ministerCount} 件）`;
+    if (badgeEl) badgeEl.textContent = dietSpeeches.length;
+
+    const html = dietSpeeches.map(s => {
+      const isMin       = s.is_minister;
+      const houseLabel  = [s.nameOfHouse, s.nameOfMeeting].filter(Boolean).join(" ");
+      const sessionStr  = s.session ? `第${s.session}回国会` : "";
+      const dateStr     = s.date ? s.date.replace(/-/g, "/") : "";
+      const positionStr = s.speakerPosition || s.speakerRole || "";
+      const url         = s.speechURL || "#";
+
+      return `
+        <div class="diet-card${isMin ? " is-minister" : ""}">
+          <div class="diet-card-header">
+            <span class="diet-house-badge${isMin ? " minister" : ""}">${escHtml(houseLabel || "国会")}</span>
+            ${sessionStr ? `<span class="diet-session-text">${escHtml(sessionStr)}</span>` : ""}
+            ${isMin      ? `<span class="diet-minister-badge">★ 答弁</span>` : ""}
+            <span class="diet-date-text">${dateStr}</span>
+          </div>
+          <div class="diet-speaker-row">
+            <span class="diet-speaker-name">🏛️ ${escHtml(s.speaker || "（不明）")}</span>
+            ${s.speakerGroup    ? `<span class="diet-party-tag">${escHtml(s.speakerGroup)}</span>` : ""}
+            ${positionStr       ? `<span class="diet-position-text">（${escHtml(positionStr)}）</span>` : ""}
+          </div>
+          ${s.excerpt ? `<div class="diet-excerpt">${escHtml(s.excerpt)}</div>` : ""}
+          <div class="diet-card-footer">
+            <a class="diet-link-btn" href="${escHtml(url)}" target="_blank" rel="noopener noreferrer">
+              📜 議事録を読む →
+            </a>
+          </div>
+        </div>`;
+    }).join("");
+
+    list.innerHTML = html;
+  }
 
   // ─── 起動 ─────────────────────────────────────────────────────────────────
   init();
