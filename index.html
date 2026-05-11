@@ -827,7 +827,12 @@
   }
 
   function applyData(data) {
-    allArticles = data.articles || [];
+    // pub_date 降順（最新が先頭）で並び替え
+    allArticles = (data.articles || []).slice().sort((a, b) => {
+      const da = a.pub_date ? new Date(a.pub_date).getTime() : 0;
+      const db = b.pub_date ? new Date(b.pub_date).getTime() : 0;
+      return db - da;
+    });
 
     if (data.updated) {
       document.getElementById("updatedText").textContent =

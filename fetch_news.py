@@ -605,11 +605,19 @@ def parse_rss(content: bytes) -> list[dict]:
 
         raw_date = g("pubDate")
         iso_date = raw_date
-        try:
-            dt = datetime.datetime.strptime(raw_date, "%a, %d %b %Y %H:%M:%S %Z")
-            iso_date = (dt + datetime.timedelta(hours=9)).strftime("%Y-%m-%dT%H:%M:%S+09:00")
-        except ValueError:
-            pass
+        for fmt in ("%a, %d %b %Y %H:%M:%S %Z",   # GMT / UTC 等の文字形式
+                    "%a, %d %b %Y %H:%M:%S %z",    # +0000 / +09:00 等の数値オフセット
+                    "%Y-%m-%dT%H:%M:%S%z",
+                    "%Y-%m-%dT%H:%M:%SZ"):
+            try:
+                dt = datetime.datetime.strptime(raw_date, fmt)
+                if dt.tzinfo is None:
+                    dt = dt.replace(tzinfo=datetime.timezone.utc)
+                dt_jst = dt.astimezone(datetime.timezone(datetime.timedelta(hours=9)))
+                iso_date = dt_jst.strftime("%Y-%m-%dT%H:%M:%S+09:00")
+                break
+            except ValueError:
+                continue
 
         title_text   = g("title")
         raw_desc     = g("description")
