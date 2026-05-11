@@ -1,0 +1,192 @@
+{
+  "updated": "2026-05-11T16:25:29+09:00",
+  "news_monthly": [
+    {
+      "month": "2025-07",
+      "total": 25,
+      "categories": {
+        "トラブル": 2,
+        "一般": 9,
+        "制度変更": 14
+      }
+    },
+    {
+      "month": "2025-08",
+      "total": 29,
+      "categories": {
+        "トラブル": 1,
+        "統計": 2,
+        "一般": 10,
+        "制度変更": 15,
+        "使い方": 1
+      }
+    },
+    {
+      "month": "2025-09",
+      "total": 40,
+      "categories": {
+        "一般": 16,
+        "制度変更": 17,
+        "トラブル": 5,
+        "政治": 1,
+        "使い方": 1
+      }
+    },
+    {
+      "month": "2025-10",
+      "total": 22,
+      "categories": {
+        "一般": 10,
+        "制度変更": 9,
+        "政治": 1,
+        "統計": 2
+      }
+    },
+    {
+      "month": "2025-11",
+      "total": 65,
+      "categories": {
+        "統計": 5,
+        "トラブル": 7,
+        "一般": 12,
+        "制度変更": 38,
+        "使い方": 3
+      }
+    },
+    {
+      "month": "2025-12",
+      "total": 90,
+      "categories": {
+        "制度変更": 56,
+        "一般": 13,
+        "トラブル": 7,
+        "統計": 10,
+        "使い方": 4
+      }
+    },
+    {
+      "month": "2026-01",
+      "total": 40,
+      "categories": {
+        "トラブル": 9,
+        "一般": 17,
+        "制度変更": 12,
+        "統計": 2
+      }
+    },
+    {
+      "month": "2026-02",
+      "total": 37,
+      "categories": {
+        "制度変更": 17,
+        "統計": 2,
+        "一般": 10,
+        "トラブル": 4,
+        "使い方": 4
+      }
+    },
+    {
+      "month": "2026-03",
+      "total": 77,
+      "categories": {
+        "統計": 1,
+        "一般": 18,
+        "制度変更": 50,
+        "使い方": 2,
+        "トラブル": 5,
+        "政治": 1
+      }
+    },
+    {
+      "month": "2026-04",
+      "total": 72,
+      "categories": {
+        "制度変更": 31,
+        "政治": 3,
+        "一般": 31,
+        "統計": 6,
+        "トラブル": 1
+      }
+    },
+    {
+      "month": "2026-05",
+      "total": 3,
+      "categories": {
+        "一般": 1,
+        "制度変更": 1,
+        "使い方": 1
+      }
+    }
+  ],
+  "diet_monthly": [
+    {
+      "month": "2024-12",
+      "exchanges": 27,
+      "questions": 25,
+      "answers": 15
+    },
+    {
+      "month": "2025-02",
+      "exchanges": 16,
+      "questions": 15,
+      "answers": 5
+    },
+    {
+      "month": "2025-03",
+      "exchanges": 16,
+      "questions": 10,
+      "answers": 14
+    },
+    {
+      "month": "2025-04",
+      "exchanges": 36,
+      "questions": 33,
+      "answers": 14
+    },
+    {
+      "month": "2025-05",
+      "exchanges": 32,
+      "questions": 32,
+      "answers": 15
+    },
+    {
+      "month": "2025-06",
+      "exchanges": 41,
+      "questions": 40,
+      "answers": 19
+    },
+    {
+      "month": "2025-11",
+      "exchanges": 33,
+      "questions": 27,
+      "answers": 17
+    },
+    {
+      "month": "2025-12",
+      "exchanges": 16,
+      "questions": 14,
+      "answers": 4
+    },
+    {
+      "month": "2026-03",
+      "exchanges": 2,
+      "questions": 0,
+      "answers": 2
+    },
+    {
+      "month": "2026-04",
+      "exchanges": 6,
+      "questions": 5,
+      "answers": 5
+    }
+  ],
+  "categories_all": {
+    "一般": 147,
+    "制度変更": 260,
+    "使い方": 16,
+    "政治": 6,
+    "統計": 30,
+    "トラブル": 41
+  },
+  "card_issuance": []
+}
