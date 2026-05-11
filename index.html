@@ -1066,9 +1066,8 @@
       .hero-mascot img { width: 120px; height: 120px; }
       .back-top { bottom: 20px; right: 12px; width: 38px; height: 38px; font-size: 16px; }
       .card-thumb { width: 80px; height: 54px; }
-      .chart-grid { grid-template-columns: 1fr; }
+      .kpi-row { grid-template-columns: 1fr; }
       .chart-wrap { height: 220px; }
-      .chart-wrap-donut { height: 220px; }
     }
 
     /* ─── 統計ダッシュボード ─────────────────────────────────── */
@@ -1079,69 +1078,117 @@
     }
     .stats-header {
       display: flex;
-      align-items: baseline;
+      align-items: center;
       gap: 12px;
-      margin-bottom: 20px;
+      margin-bottom: 28px;
       flex-wrap: wrap;
     }
     .stats-title {
       font-size: 20px;
       font-weight: 700;
     }
+    .stats-source-link {
+      font-size: 11px;
+      color: var(--accent);
+      text-decoration: none;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 3px 9px;
+      white-space: nowrap;
+      transition: background .15s;
+    }
+    .stats-source-link:hover { background: var(--accent-light); }
     .stats-updated {
+      font-size: 12px;
+      color: var(--text-muted);
+      margin-left: auto;
+    }
+
+    /* ブロック（1/2 それぞれ） */
+    .stats-block {
+      margin-bottom: 40px;
+    }
+    .stats-block-header {
+      display: flex;
+      align-items: baseline;
+      gap: 10px;
+      margin-bottom: 16px;
+      flex-wrap: wrap;
+    }
+    .stats-block-num {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 26px; height: 26px;
+      background: var(--accent);
+      color: #fff;
+      font-size: 13px;
+      font-weight: 700;
+      border-radius: 50%;
+      flex-shrink: 0;
+    }
+    .stats-block-title {
+      font-size: 16px;
+      font-weight: 700;
+    }
+    .stats-block-sub {
       font-size: 12px;
       color: var(--text-muted);
     }
 
-    /* KPI カード */
-    .kpi-grid {
+    /* KPI 行 */
+    .kpi-row {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      grid-template-columns: repeat(3, 1fr);
       gap: 14px;
-      margin-bottom: 28px;
+      margin-bottom: 16px;
     }
     .kpi-card {
       background: var(--surface);
       border: 1px solid var(--border);
       border-radius: var(--radius);
-      padding: 18px 20px;
+      padding: 16px 18px;
       box-shadow: var(--shadow);
+    }
+    .kpi-primary {
+      border-left: 4px solid var(--accent);
     }
     .kpi-label {
       font-size: 11px;
       font-weight: 600;
-      text-transform: uppercase;
-      letter-spacing: .06em;
       color: var(--text-muted);
       margin-bottom: 6px;
+      letter-spacing: .03em;
     }
     .kpi-value {
-      font-size: 28px;
+      font-size: 30px;
       font-weight: 700;
       color: var(--accent);
       line-height: 1.1;
-      margin-bottom: 4px;
+      margin-bottom: 2px;
     }
+    .kpi-value-sm {
+      font-size: 20px;
+    }
+    .kpi-mom {
+      font-size: 13px;
+      font-weight: 600;
+      margin-bottom: 2px;
+    }
+    .kpi-mom.up   { color: #38a169; }
+    .kpi-mom.down { color: #e53e3e; }
     .kpi-sub {
-      font-size: 12px;
+      font-size: 11px;
       color: var(--text-muted);
     }
 
-    /* チャートグリッド */
-    .chart-grid {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 16px;
-    }
+    /* チャートカード */
     .chart-card {
       background: var(--surface);
       border: 1px solid var(--border);
       border-radius: var(--radius);
       padding: 18px 20px;
       box-shadow: var(--shadow);
-    }
-    .chart-wide {
-      grid-column: 1 / -1;
     }
     .chart-card-header {
       display: flex;
@@ -1159,16 +1206,7 @@
     }
     .chart-wrap {
       position: relative;
-      height: 260px;
-    }
-    .chart-wrap-donut {
       height: 280px;
-    }
-    .chart-no-data {
-      text-align: center;
-      padding: 40px 0;
-      color: var(--text-muted);
-      font-size: 13px;
     }
   </style>
 </head>
@@ -1333,73 +1371,83 @@
   <div class="stats-section-inner">
 
     <div class="stats-header">
-      <h2 class="stats-title">📊 統計ダッシュボード</h2>
+      <h2 class="stats-title">📊 マイナンバー普及ダッシュボード</h2>
+      <a class="stats-source-link" id="statsSourceLink"
+         href="https://www.digital.go.jp/resources/govdashboard/mynumber_penetration_rate"
+         target="_blank" rel="noopener noreferrer">
+        出典: デジタル庁
+      </a>
       <span class="stats-updated" id="statsUpdated"></span>
     </div>
 
-    <!-- KPI パネル -->
-    <div class="kpi-grid" id="kpiGrid">
-      <div class="kpi-card">
-        <div class="kpi-label">総ニュース記事数</div>
-        <div class="kpi-value" id="kpiNewsTotal">―</div>
-        <div class="kpi-sub" id="kpiNewsMonth">直近1ヶ月: ―</div>
+    <!-- ① マイナンバーカード普及率 -->
+    <div class="stats-block">
+      <div class="stats-block-header">
+        <span class="stats-block-num">１</span>
+        <span class="stats-block-title">マイナンバーカードの普及状況</span>
+        <span class="stats-block-sub">人口に対する保有率（総務省）</span>
       </div>
-      <div class="kpi-card">
-        <div class="kpi-label">国会質疑 exchanges</div>
-        <div class="kpi-value" id="kpiDietTotal">―</div>
-        <div class="kpi-sub" id="kpiDietMonth">直近1ヶ月: ―</div>
+      <div class="kpi-row">
+        <div class="kpi-card kpi-primary">
+          <div class="kpi-label">保有率</div>
+          <div class="kpi-value" id="kpiMynaRate">―</div>
+          <div class="kpi-mom" id="kpiMynaRateMom"></div>
+          <div class="kpi-sub" id="kpiMynaRateMonth"></div>
+        </div>
+        <div class="kpi-card">
+          <div class="kpi-label">保有枚数（累計）</div>
+          <div class="kpi-value kpi-value-sm" id="kpiMynaCumul">―</div>
+          <div class="kpi-sub" id="kpiMynaCumulMonth"></div>
+        </div>
+        <div class="kpi-card kpi-trend">
+          <div class="kpi-label">前月比（保有率）</div>
+          <div class="kpi-value" id="kpiMynaMom">―</div>
+          <div class="kpi-sub">前月差</div>
+        </div>
       </div>
-      <div class="kpi-card">
-        <div class="kpi-label">マイナカード交付率</div>
-        <div class="kpi-value" id="kpiCardRate">―</div>
-        <div class="kpi-sub" id="kpiCardMonth">取得中…</div>
-      </div>
-      <div class="kpi-card">
-        <div class="kpi-label">最多ニュースカテゴリ</div>
-        <div class="kpi-value" id="kpiTopCat">―</div>
-        <div class="kpi-sub" id="kpiTopCatCount"></div>
+      <div class="chart-card">
+        <div class="chart-card-header">
+          <span class="chart-card-title">保有率の推移</span>
+          <span class="chart-card-note">人口比 %</span>
+        </div>
+        <div class="chart-wrap">
+          <canvas id="chartMynaRate"></canvas>
+        </div>
       </div>
     </div>
 
-    <!-- チャートグリッド -->
-    <div class="chart-grid">
-      <div class="chart-card chart-wide">
-        <div class="chart-card-header">
-          <span class="chart-card-title">ニュース月次推移</span>
-          <span class="chart-card-note">記事件数</span>
-        </div>
-        <div class="chart-wrap">
-          <canvas id="chartNewsMonthly"></canvas>
-        </div>
+    <!-- ② 健康保険証としての利用登録 -->
+    <div class="stats-block">
+      <div class="stats-block-header">
+        <span class="stats-block-num">２</span>
+        <span class="stats-block-title">健康保険証としての利用登録</span>
+        <span class="stats-block-sub">有効登録数・登録率（厚生労働省）</span>
       </div>
-      <div class="chart-card chart-wide">
-        <div class="chart-card-header">
-          <span class="chart-card-title">国会質疑 月次推移</span>
-          <span class="chart-card-note">exchanges件数</span>
+      <div class="kpi-row">
+        <div class="kpi-card kpi-primary">
+          <div class="kpi-label">登録率</div>
+          <div class="kpi-value" id="kpiKenpoRate">―</div>
+          <div class="kpi-mom" id="kpiKenpoRateMom"></div>
+          <div class="kpi-sub" id="kpiKenpoRateMonth"></div>
         </div>
-        <div class="chart-wrap">
-          <canvas id="chartDietMonthly"></canvas>
+        <div class="kpi-card">
+          <div class="kpi-label">有効登録数（累計）</div>
+          <div class="kpi-value kpi-value-sm" id="kpiKenpoCumul">―</div>
+          <div class="kpi-sub" id="kpiKenpoCumulMonth"></div>
         </div>
-      </div>
-      <div class="chart-card">
-        <div class="chart-card-header">
-          <span class="chart-card-title">ニュース カテゴリ分布</span>
-          <span class="chart-card-note">全期間</span>
-        </div>
-        <div class="chart-wrap chart-wrap-donut">
-          <canvas id="chartCategories"></canvas>
+        <div class="kpi-card kpi-trend">
+          <div class="kpi-label">前月比（登録率）</div>
+          <div class="kpi-value" id="kpiKenpoMom">―</div>
+          <div class="kpi-sub">前月差</div>
         </div>
       </div>
       <div class="chart-card">
         <div class="chart-card-header">
-          <span class="chart-card-title">マイナカード交付率</span>
-          <span class="chart-card-note">総務省データ</span>
+          <span class="chart-card-title">利用登録率の推移</span>
+          <span class="chart-card-note">% ※マイナカード保有者に対する割合</span>
         </div>
         <div class="chart-wrap">
-          <canvas id="chartCardRate"></canvas>
-        </div>
-        <div class="chart-no-data" id="chartCardRateNoData" style="display:none">
-          データを取得できませんでした
+          <canvas id="chartKenpoRate"></canvas>
         </div>
       </div>
     </div>
@@ -2396,8 +2444,8 @@
   let _chartInstances = {};
 
   async function loadStats() {
-    const el = document.getElementById("statsSection");
-    el.querySelector(".stats-section-inner").insertAdjacentHTML("afterbegin",
+    const inner = document.querySelector("#statsSection .stats-section-inner");
+    inner.insertAdjacentHTML("afterbegin",
       `<div id="statsLoading" style="text-align:center;padding:40px 0;color:var(--text-muted)">
          <div class="spinner" style="margin:0 auto 12px"></div>読み込んでいます…
        </div>`
@@ -2412,180 +2460,186 @@
       if (ld) ld.textContent = "統計データの読み込みに失敗しました。";
       return;
     }
-
     const ld = document.getElementById("statsLoading");
     if (ld) ld.remove();
-
     renderStats(data);
   }
 
   function renderStats(data) {
-    // ─ 更新日時 ─
+    // 更新日時
     const upEl = document.getElementById("statsUpdated");
     if (data.updated) {
-      upEl.textContent = "更新: " + data.updated.replace("T", " ").replace(/\+.*$/, "");
+      upEl.textContent = "データ更新: " + data.updated.slice(0, 10);
     }
 
-    // ─ KPI ─
-    const nm = data.news_monthly  || [];
-    const dm = data.diet_monthly  || [];
-    const ca = data.categories_all || {};
-    const ci = data.card_issuance  || [];
+    const myna  = data.myna_card  || [];
+    const kenpo = data.kenpo_reg  || [];
 
-    // 総記事数
-    const newsTotal = nm.reduce((s, m) => s + (m.total || 0), 0);
-    document.getElementById("kpiNewsTotal").textContent =
-      newsTotal ? newsTotal.toLocaleString() : "―";
-    const lastNm = nm[nm.length - 1];
-    document.getElementById("kpiNewsMonth").textContent =
-      lastNm ? `${lastNm.month}: ${lastNm.total}件` : "―";
-
-    // 国会質疑
-    const dietTotal = dm.reduce((s, m) => s + (m.exchanges || 0), 0);
-    document.getElementById("kpiDietTotal").textContent =
-      dietTotal ? dietTotal.toLocaleString() : "―";
-    const lastDm = dm[dm.length - 1];
-    document.getElementById("kpiDietMonth").textContent =
-      lastDm ? `${lastDm.month}: ${lastDm.exchanges}件` : "―";
-
-    // マイナカード
-    if (ci.length > 0) {
-      const latest = ci[ci.length - 1];
-      document.getElementById("kpiCardRate").textContent = latest.rate + "%";
-      document.getElementById("kpiCardMonth").textContent = latest.month + " 時点";
-    } else {
-      document.getElementById("kpiCardRate").textContent = "―";
-      document.getElementById("kpiCardMonth").textContent = "総務省データ未取得";
+    // ─── ヘルパー ──────────────────────────────────────────────────────────
+    // 万単位に変換
+    function toMan(n) {
+      if (n == null) return "―";
+      const man = Math.round(n / 10000);
+      return man.toLocaleString() + "万枚";
+    }
+    // 前月差 (±X.Xpt)
+    function momDiff(arr, key) {
+      if (arr.length < 2) return null;
+      return Math.round((arr[arr.length - 1][key] - arr[arr.length - 2][key]) * 10) / 10;
+    }
+    function momText(diff, unit) {
+      if (diff == null) return "";
+      const sign = diff >= 0 ? "+" : "";
+      return `${sign}${diff}${unit}`;
+    }
+    function momClass(diff) {
+      return diff == null ? "" : diff >= 0 ? "up" : "down";
     }
 
-    // 最多カテゴリ
-    const catEntries = Object.entries(ca);
-    if (catEntries.length > 0) {
-      catEntries.sort((a, b) => b[1] - a[1]);
-      document.getElementById("kpiTopCat").textContent = catEntries[0][0];
-      document.getElementById("kpiTopCatCount").textContent = catEntries[0][1] + "件";
+    // ─── ① マイナカード ───────────────────────────────────────────────────
+    if (myna.length > 0) {
+      const latest = myna[myna.length - 1];
+      const diff   = momDiff(myna, "rate");
+
+      document.getElementById("kpiMynaRate").textContent = latest.rate + "%";
+      document.getElementById("kpiMynaRateMonth").textContent = latest.month + " 時点";
+
+      const momEl1 = document.getElementById("kpiMynaRateMom");
+      momEl1.textContent = momText(diff, "pt");
+      momEl1.className   = "kpi-mom " + momClass(diff);
+
+      document.getElementById("kpiMynaCumul").textContent = toMan(latest.cumul);
+      document.getElementById("kpiMynaCumulMonth").textContent = latest.month + " 時点";
+
+      const momEl2 = document.getElementById("kpiMynaMom");
+      momEl2.textContent = momText(diff, "pt");
+      momEl2.className   = "kpi-value " + (diff != null && diff >= 0 ? "" : "");
+      momEl2.style.color = diff == null ? "" : diff >= 0 ? "#38a169" : "#e53e3e";
     }
 
-    // ─ チャート ─
-    const isDark = document.documentElement.getAttribute("data-theme") === "dark";
-    const gridColor  = isDark ? "rgba(255,255,255,.08)" : "rgba(0,0,0,.06)";
+    // ─── ② 健保利用登録 ──────────────────────────────────────────────────
+    if (kenpo.length > 0) {
+      const latest = kenpo[kenpo.length - 1];
+      const diff   = momDiff(kenpo, "rate");
+
+      document.getElementById("kpiKenpoRate").textContent = latest.rate + "%";
+      document.getElementById("kpiKenpoRateMonth").textContent = latest.month + " 時点";
+
+      const momEl1 = document.getElementById("kpiKenpoRateMom");
+      momEl1.textContent = momText(diff, "pt");
+      momEl1.className   = "kpi-mom " + momClass(diff);
+
+      const kenpoCumulEl = document.getElementById("kpiKenpoCumul");
+      if (latest.cumul != null) {
+        const man = Math.round(latest.cumul / 10000);
+        kenpoCumulEl.textContent = man.toLocaleString() + "万件";
+      }
+      document.getElementById("kpiKenpoCumulMonth").textContent = latest.month + " 時点";
+
+      const momEl2 = document.getElementById("kpiKenpoMom");
+      momEl2.textContent = momText(diff, "pt");
+      momEl2.className   = "kpi-value";
+      momEl2.style.color = diff == null ? "" : diff >= 0 ? "#38a169" : "#e53e3e";
+    }
+
+    // ─── チャート共通設定 ─────────────────────────────────────────────────
+    const isDark     = document.documentElement.getAttribute("data-theme") === "dark";
+    const gridColor  = isDark ? "rgba(255,255,255,.07)" : "rgba(0,0,0,.06)";
     const textColor  = isDark ? "#94a3b8" : "#718096";
-    const accentBlue = isDark ? "#60a5fa" : "#2b6cb0";
-    const accentOrange = "#e07b2d";
-    const accentGreen  = "#38a169";
 
-    Chart.defaults.font.family = "'Hiragino Kaku Gothic ProN','Hiragino Sans','Yu Gothic UI','Meiryo',sans-serif";
-    Chart.defaults.font.size   = 12;
-    Chart.defaults.color       = textColor;
+    Chart.defaults.font.family =
+      "'Hiragino Kaku Gothic ProN','Hiragino Sans','Yu Gothic UI','Meiryo',sans-serif";
+    Chart.defaults.font.size = 12;
+    Chart.defaults.color     = textColor;
 
-    // ① ニュース月次折れ線
-    _destroyChart("chartNewsMonthly");
-    if (nm.length > 0) {
-      const ctx = document.getElementById("chartNewsMonthly").getContext("2d");
-      _chartInstances["chartNewsMonthly"] = new Chart(ctx, {
+    function lineOpts(unit) {
+      return {
+        responsive: true,
+        maintainAspectRatio: false,
+        interaction: { mode: "index", intersect: false },
+        plugins: {
+          legend: { display: false },
+          tooltip: { callbacks: { label: c => ` ${c.dataset.label}: ${c.raw}${unit}` } },
+        },
+        scales: {
+          x: {
+            grid: { color: gridColor },
+            ticks: { color: textColor, maxRotation: 45, autoSkip: true, maxTicksLimit: 8 },
+          },
+          y: {
+            grid: { color: gridColor },
+            ticks: { color: textColor, callback: v => v + unit },
+          },
+        },
+      };
+    }
+
+    // ① マイナカード保有率 折れ線
+    _destroyChart("chartMynaRate");
+    if (myna.length > 0) {
+      const ctx = document.getElementById("chartMynaRate").getContext("2d");
+      _chartInstances["chartMynaRate"] = new Chart(ctx, {
         type: "line",
         data: {
-          labels: nm.map(m => m.month),
+          labels: myna.map(m => m.month),
           datasets: [{
-            label: "ニュース件数",
-            data: nm.map(m => m.total),
-            borderColor: accentBlue,
-            backgroundColor: isDark ? "rgba(96,165,250,.12)" : "rgba(43,108,176,.1)",
-            borderWidth: 2,
-            pointRadius: 4,
-            pointHoverRadius: 6,
-            tension: .35,
+            label: "保有率",
+            data:  myna.map(m => m.rate),
+            borderColor: isDark ? "#60a5fa" : "#2b6cb0",
+            backgroundColor: isDark ? "rgba(96,165,250,.13)" : "rgba(43,108,176,.09)",
+            borderWidth: 2.5,
+            pointRadius: 5,
+            pointHoverRadius: 7,
+            tension: .3,
             fill: true,
           }]
         },
-        options: _lineOpts(gridColor, textColor, "件"),
-      });
-    }
-
-    // ② 国会質疑月次棒グラフ
-    _destroyChart("chartDietMonthly");
-    if (dm.length > 0) {
-      const ctx = document.getElementById("chartDietMonthly").getContext("2d");
-      _chartInstances["chartDietMonthly"] = new Chart(ctx, {
-        type: "bar",
-        data: {
-          labels: dm.map(m => m.month),
-          datasets: [
-            {
-              label: "questions",
-              data: dm.map(m => m.questions || 0),
-              backgroundColor: isDark ? "rgba(96,165,250,.7)" : "rgba(43,108,176,.7)",
-            },
-            {
-              label: "answers",
-              data: dm.map(m => m.answers || 0),
-              backgroundColor: isDark ? "rgba(224,123,45,.7)" : "rgba(224,123,45,.7)",
-            },
-          ]
-        },
         options: {
-          ..._lineOpts(gridColor, textColor, "件"),
-          plugins: {
-            legend: { position: "bottom", labels: { color: textColor } },
-            tooltip: { mode: "index" },
-          },
+          ...lineOpts("%"),
           scales: {
-            x: { stacked: false, grid: { color: gridColor }, ticks: { color: textColor } },
-            y: { stacked: false, grid: { color: gridColor }, ticks: { color: textColor, callback: v => v + "件" } },
+            ...lineOpts("%").scales,
+            y: {
+              ...lineOpts("%").scales.y,
+              min: Math.max(0, Math.floor(Math.min(...myna.map(m => m.rate)) - 2)),
+              max: Math.min(100, Math.ceil(Math.max(...myna.map(m => m.rate)) + 2)),
+            },
           },
         },
       });
     }
 
-    // ③ カテゴリドーナツ
-    _destroyChart("chartCategories");
-    if (catEntries.length > 0) {
-      const catColors = ["#2b6cb0","#e07b2d","#38a169","#d53f8c","#805ad5","#319795","#dd6b20","#2d3748"];
-      const ctx = document.getElementById("chartCategories").getContext("2d");
-      _chartInstances["chartCategories"] = new Chart(ctx, {
-        type: "doughnut",
-        data: {
-          labels: catEntries.map(e => e[0]),
-          datasets: [{
-            data: catEntries.map(e => e[1]),
-            backgroundColor: catColors,
-            borderColor: isDark ? "#1e293b" : "#fff",
-            borderWidth: 2,
-          }]
-        },
-        options: {
-          cutout: "60%",
-          plugins: {
-            legend: { position: "right", labels: { color: textColor, boxWidth: 12 } },
-            tooltip: { callbacks: { label: ctx => ` ${ctx.label}: ${ctx.raw}件` } },
-          },
-        },
-      });
-    }
-
-    // ④ マイナカード交付率
-    _destroyChart("chartCardRate");
-    if (ci.length > 0) {
-      const ctx = document.getElementById("chartCardRate").getContext("2d");
-      _chartInstances["chartCardRate"] = new Chart(ctx, {
+    // ② 健保利用登録率 折れ線
+    _destroyChart("chartKenpoRate");
+    if (kenpo.length > 0) {
+      const ctx = document.getElementById("chartKenpoRate").getContext("2d");
+      _chartInstances["chartKenpoRate"] = new Chart(ctx, {
         type: "line",
         data: {
-          labels: ci.map(m => m.month),
+          labels: kenpo.map(m => m.month),
           datasets: [{
-            label: "交付率",
-            data: ci.map(m => m.rate),
-            borderColor: accentGreen,
-            backgroundColor: isDark ? "rgba(56,161,105,.12)" : "rgba(56,161,105,.1)",
-            borderWidth: 2,
-            pointRadius: 4,
-            tension: .35,
+            label: "登録率",
+            data:  kenpo.map(m => m.rate),
+            borderColor: isDark ? "#34d399" : "#38a169",
+            backgroundColor: isDark ? "rgba(52,211,153,.13)" : "rgba(56,161,105,.09)",
+            borderWidth: 2.5,
+            pointRadius: 5,
+            pointHoverRadius: 7,
+            tension: .3,
             fill: true,
           }]
         },
-        options: _lineOpts(gridColor, textColor, "%"),
+        options: {
+          ...lineOpts("%"),
+          scales: {
+            ...lineOpts("%").scales,
+            y: {
+              ...lineOpts("%").scales.y,
+              min: Math.max(0, Math.floor(Math.min(...kenpo.map(m => m.rate)) - 2)),
+              max: Math.min(100, Math.ceil(Math.max(...kenpo.map(m => m.rate)) + 2)),
+            },
+          },
+        },
       });
-    } else {
-      document.getElementById("chartCardRateNoData").style.display = "";
     }
   }
 
@@ -2594,22 +2648,6 @@
       _chartInstances[id].destroy();
       delete _chartInstances[id];
     }
-  }
-
-  function _lineOpts(gridColor, textColor, unit) {
-    return {
-      responsive: true,
-      maintainAspectRatio: false,
-      interaction: { mode: "index", intersect: false },
-      plugins: {
-        legend: { display: false },
-        tooltip: { callbacks: { label: ctx => ` ${ctx.dataset.label || ""}: ${ctx.raw}${unit}` } },
-      },
-      scales: {
-        x: { grid: { color: gridColor }, ticks: { color: textColor, maxRotation: 45 } },
-        y: { grid: { color: gridColor }, ticks: { color: textColor, callback: v => v + unit } },
-      },
-    };
   }
 
   // ─── 起動 ─────────────────────────────────────────────────────────────────
