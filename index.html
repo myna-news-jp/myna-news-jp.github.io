@@ -1753,6 +1753,55 @@
     </div>
   </div>
   <p class="trends-note">※ 数値はGoogle トレンドの相対値（0〜100）です。100が計測期間中の最大値を示します。前日比・週平均比は相対値をもとに算出しています。</p>
+
+  <!-- 関連する検索語句（増加傾向）-->
+  <style>
+    .trends-related-wrap { margin-top: 4px; }
+    .related-tabs { display:flex; gap:10px; flex-wrap:wrap; margin-bottom:18px; }
+    .related-tab {
+      flex:1 1 0; min-width:130px; padding:13px 14px; border-radius:12px;
+      border:2px solid var(--border); background:var(--surface); color:var(--text);
+      font-family:inherit; font-size:14px; font-weight:700; cursor:pointer;
+      text-align:center; line-height:1.35;
+      transition:background .15s, border-color .15s, color .15s;
+    }
+    .related-tab:hover { border-color: var(--tab-color, var(--accent)); }
+    .related-tab.active {
+      background: var(--tab-color, var(--accent));
+      border-color: var(--tab-color, var(--accent));
+      color:#fff;
+    }
+    .related-list-head {
+      display:flex; align-items:center; gap:8px; font-size:13px; font-weight:700;
+      color:var(--text); margin-bottom:10px; padding-bottom:8px;
+      border-bottom:2px solid var(--tab-color, var(--accent));
+    }
+    .related-row {
+      display:flex; align-items:center; gap:12px; padding:9px 4px;
+      border-bottom:1px solid var(--border);
+    }
+    .related-row:last-child { border-bottom:none; }
+    .related-rank {
+      width:22px; height:22px; flex-shrink:0; border-radius:6px;
+      display:flex; align-items:center; justify-content:center;
+      font-size:12px; font-weight:800; color:#fff;
+      background: var(--tab-color, var(--accent));
+    }
+    .related-q { flex:1; min-width:0; font-size:14px; color:var(--text); word-break:break-word; }
+    .related-change {
+      flex-shrink:0; font-size:13px; font-weight:800; color:#16a34a; white-space:nowrap;
+    }
+    .related-change.breakout { color:#dc2626; }
+    .related-empty { padding:26px 10px; text-align:center; color:var(--text-muted); font-size:13px; line-height:1.7; }
+  </style>
+  <div class="trends-related-wrap" id="trendsRelatedWrap">
+    <div class="card" style="padding:20px;display:block">
+      <div style="font-size:14px;font-weight:700;color:var(--text);margin-bottom:4px">🔎 関連する検索語句（増加傾向）</div>
+      <div style="font-size:11px;color:var(--text-muted);margin-bottom:14px" id="relatedSub">キーワードを選ぶと、その語句と一緒に検索されて急増している語句を表示します（過去1週間）</div>
+      <div class="related-tabs" id="relatedTabs"></div>
+      <div class="related-panel" id="relatedPanel"></div>
+    </div>
+  </div>
 </div><!-- /#trendsSection -->
 
 <!-- トップへ戻るボタン -->
@@ -3000,6 +3049,16 @@
   let _trendsPeriod   = 7;
   let _trendsDateRange = null;
 
+  // 関連する検索語句（増加傾向）用
+  const RELATED_KW_ORDER = ["マイナンバーカード", "マイナ保険証", "保険証", "オンライン資格確認"];
+  const RELATED_COLORS = {
+    "マイナンバーカード": "#3b82f6",
+    "マイナ保険証":       "#8b5cf6",
+    "保険証":             "#10b981",
+    "オンライン資格確認": "#f59e0b",
+  };
+  let _relatedActive = "マイナンバーカード";
+
   async function loadTrends(force = false) {
     if (_trendsCooldown && !force) return;
     _trendsCooldown = true;
@@ -3134,6 +3193,9 @@
     // 急上昇の考察エリアを描画
     renderTrendsAnalysis(data);
 
+    // 関連する検索語句（増加傾向）を描画
+    renderRelatedQueries(data);
+
     // グローバルに保持して期間切替で再描画
     // requestAnimationFrame でDOMレイアウト確定後に描画
     _trendsData = data;
@@ -3212,6 +3274,58 @@
           <div class="analysis-disclaimer">※ AIによる推察です。生成: ${escHtml(genDate)}。根拠は上記ソースをご確認ください。</div>
         </div>`;
     }).join("");
+  }
+
+  // ─── 関連する検索語句（増加傾向）描画 ──────────────────────────────────────
+  function renderRelatedQueries(data) {
+    const tabsEl  = document.getElementById("relatedTabs");
+    const panelEl = document.getElementById("relatedPanel");
+    const subEl   = document.getElementById("relatedSub");
+    if (!tabsEl || !panelEl) return;
+
+    const rq  = data.related_queries || {};
+    const kws = RELATED_KW_ORDER;
+    if (!kws.includes(_relatedActive)) _relatedActive = kws[0];
+
+    // KWタブ（クリックで切替。アクティブは各KW色を背景に）
+    tabsEl.innerHTML = kws.map(kw => {
+      const color  = RELATED_COLORS[kw] || "var(--accent)";
+      const active = kw === _relatedActive;
+      return `<button class="related-tab${active ? " active" : ""}" data-kw="${escHtml(kw)}"
+        style="--tab-color:${color}">${escHtml(kw)}</button>`;
+    }).join("");
+    tabsEl.querySelectorAll(".related-tab").forEach(btn => {
+      btn.addEventListener("click", () => {
+        _relatedActive = btn.dataset.kw;
+        renderRelatedQueries(data);
+      });
+    });
+
+    // 増加傾向リスト（配色を選択タブにリンク）
+    const color = RELATED_COLORS[_relatedActive] || "var(--accent)";
+    panelEl.style.setProperty("--tab-color", color);
+    const items = (rq[_relatedActive] || []).slice(0, 10);
+    if (items.length === 0) {
+      panelEl.innerHTML =
+        `<div class="related-empty">「${escHtml(_relatedActive)}」の増加傾向データはまだありません。<br>
+         <small>次回のトレンド更新でデータが入ります。</small></div>`;
+    } else {
+      const rows = items.map((it, i) => {
+        const breakout = it.change === "急上昇";
+        return `<div class="related-row">
+            <span class="related-rank">${i + 1}</span>
+            <span class="related-q">${escHtml(it.query)}</span>
+            <span class="related-change${breakout ? " breakout" : ""}">${breakout ? "🚀 急上昇" : "▲ " + escHtml(it.change)}</span>
+          </div>`;
+      }).join("");
+      panelEl.innerHTML =
+        `<div class="related-list-head">📈 増加傾向の語句 ― ${escHtml(_relatedActive)}</div>${rows}`;
+    }
+
+    if (subEl) {
+      const when = data.related_updated ? " ／ 更新: " + new Date(data.related_updated).toLocaleString("ja-JP") : "";
+      subEl.textContent = `キーワードを選ぶと、その語句と一緒に検索されて急増している語句を表示します（過去1週間${when}）`;
+    }
   }
 
   function renderTrendsChart(days, dateRange = null) {

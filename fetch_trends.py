@@ -6,7 +6,7 @@ pytrends（非公式 Google Trends API）を使用して
 対象キーワード:
   - マイナ保険証
   - マイナンバーカード
-  - 健康保険証
+  - 保険証
   - マイナ保険証 使えない
   - 健康保険証 廃止
   - オンライン資格確認
@@ -64,7 +64,7 @@ TODAY_PARTIAL_OVERLAP  = 2          # 日次スケール換算に必要な重複
 KEYWORDS = [
     "マイナ保険証",        # ← アンカーキーワード（バッチ1・2 両方に含まれる）
     "マイナンバーカード",
-    "健康保険証",
+    "保険証",
     "マイナ保険証 使えない",
     "健康保険証 廃止",
     "オンライン資格確認",  # ← バッチ2 でアンカーとペアで取得
@@ -74,6 +74,13 @@ KEYWORDS = [
 ANCHOR_KW = KEYWORDS[0]   # "マイナ保険証"
 BATCH1    = KEYWORDS[:5]   # 一括取得できる上限5件
 BATCH2    = [ANCHOR_KW] + KEYWORDS[5:]   # アンカー + 残り
+
+# ─── 関連する検索語句（増加傾向）設定 ─────────────────────────────────────────
+# 指定KWと一緒に検索されて急増している語句を related_queries(rising) で取得する。
+# 「上位の語句」はAPI(pytrends)が変化率を返さないため扱わず、rising のみ対象。
+RELATED_KEYWORDS  = ["マイナンバーカード", "マイナ保険証", "保険証", "オンライン資格確認"]
+RELATED_TIMEFRAME = "now 7-d"   # 過去1週間（Googleトレンドの既定表示と同じ）
+RELATED_TOP_N     = 10
 
 # ─── 急上昇考察（AI）設定 ─────────────────────────────────────────────────────
 ANALYSIS_MODEL       = "claude-haiku-4-5"  # 考察生成モデル
@@ -283,6 +290,54 @@ def attach_today_partial(results: list[dict], hourly: dict) -> int:
             print(f"    [本日速報] {kpi['keyword']}: {tp['value']} "
                   f"(raw {tp['raw']} ×{tp['factor']}, {tp['hours']}h, 重複 {tp['overlap_days']}日)")
     return n
+
+
+# ─── 関連する検索語句（増加傾向）─────────────────────────────────────────────
+def _fmt_rising_value(v) -> str:
+    """related_queries(rising) の value を表示用文字列に整形。Breakout は『急上昇』。"""
+    try:
+        n = int(v)
+    except (TypeError, ValueError):
+        s = str(v).strip()
+        return "急上昇" if s.lower() in ("", "breakout", "急上昇", "none", "nan") else s
+    if n >= 5000:          # Google の Breakout 相当（pytrends は大きな整数で返す）
+        return "急上昇"
+    return f"+{n:,}%"
+
+
+def fetch_related_rising(pytrends) -> dict | None:
+    """RELATED_KEYWORDS の『増加傾向の語句』(rising) を取得。
+    kw -> [{query, change}] を返す。全体失敗時は None（呼び出し側で前回分を保持）。"""
+    try:
+        pytrends.build_payload(RELATED_KEYWORDS, timeframe=RELATED_TIMEFRAME, geo="JP")
+        rq = pytrends.related_queries()
+    except Exception as e:
+        print(f"  [関連語句] 取得失敗: {e}")
+        return None
+    if not rq:
+        return None
+    out = {}
+    for kw in RELATED_KEYWORDS:
+        entry  = rq.get(kw) or {}
+        rising = entry.get("rising")
+        items  = []
+        if rising is not None and not rising.empty:
+            for _, row in rising.head(RELATED_TOP_N).iterrows():
+                q = str(row.get("query", "")).strip()
+                if q:
+                    items.append({"query": q, "change": _fmt_rising_value(row.get("value"))})
+        out[kw] = items
+        print(f"    [関連語句] {kw}: {len(items)}件")
+    return out
+
+
+def _load_prev_trends(json_path: str) -> dict:
+    """前回の trends_data.json を丸ごと読む（取得失敗時のフォールバック用）"""
+    try:
+        with open(json_path, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except Exception:
+        return {}
 
 
 # ─── 急上昇考察（AI）─────────────────────────────────────────────────────────
@@ -591,10 +646,30 @@ def main():
     except Exception as e:
         print(f"  [本日速報] スキップ（{e}）")
 
+    # ── 関連する検索語句（増加傾向）─────────────────────────────────────────────
+    # RELATED_KEYWORDS ごとに rising（増加傾向）を取得。ベストエフォート。
+    related = None
+    related_updated = _iso_jst()
+    try:
+        time.sleep(random.uniform(SLEEP_BETWEEN, SLEEP_BETWEEN + 5))
+        print("  [関連語句] 増加傾向の語句を取得中...")
+        related = fetch_related_rising(pytrends)
+    except Exception as e:
+        print(f"  [関連語句] スキップ（{e}）")
+    if related is None:
+        prev = _load_prev_trends(json_path)
+        related = prev.get("related_queries") or {}
+        related_updated = prev.get("related_updated") or related_updated
+        if related:
+            print("  [関連語句] 取得失敗 → 前回分を保持")
+
     output = {
-        "updated":     _iso_jst(),
-        "alert_level": alert_level,
-        "keywords":    results,
+        "updated":           _iso_jst(),
+        "alert_level":       alert_level,
+        "keywords":          results,
+        "related_queries":   related,
+        "related_timeframe": RELATED_TIMEFRAME,
+        "related_updated":   related_updated,
     }
 
     with open(json_path, "w", encoding="utf-8") as f:
