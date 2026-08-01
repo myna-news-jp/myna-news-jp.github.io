@@ -54,6 +54,13 @@ SLEEP_BETWEEN   = 10     # バッチ間の待機秒（レート制限対策）
 SLEEP_INIT_MIN  = 5      # 初回リクエスト前の最小待機秒
 SLEEP_INIT_MAX  = 15     # 初回リクエスト前の最大待機秒
 
+# ─── 本日速報（now 7-d 時間別 → 日次換算）設定 ───────────────────────────────
+# Google Trends は today 3-m（日次）では「進行中の当日」を返さない（約1日遅れ）。
+# そこで now 7-d（時間別・当日を含む）を追加取得し、重複する完全日で日次スケールに
+# 正規化して「本日（速報・暫定）」値を算出する。取得失敗しても日次パイプラインは壊さない。
+HOURLY_TIMEFRAME       = "now 7-d"  # 時間別データ（当日を含む）
+TODAY_PARTIAL_OVERLAP  = 2          # 日次スケール換算に必要な重複日数の下限
+
 KEYWORDS = [
     "マイナ保険証",        # ← アンカーキーワード（バッチ1・2 両方に含まれる）
     "マイナンバーカード",
@@ -98,13 +105,16 @@ def is_fresh(json_path: str) -> bool:
 
 
 # ─── バッチ取得 ───────────────────────────────────────────────────────────────
-def fetch_batch(pytrends, keywords: list[str]) -> pd.DataFrame | None:
+def fetch_batch(pytrends, keywords: list[str],
+                timeframe: str = "today 3-m",
+                daily: bool = True) -> pd.DataFrame | None:
     """
-    複数キーワードを一括取得して日次 DataFrame を返す。
-    失敗時は None を返す。
+    複数キーワードを一括取得して DataFrame を返す。失敗時は None。
+      daily=True  … 日次にリサンプルして返す（既定・today 3-m 用）
+      daily=False … 生の粒度（now 7-d の時間別など）のまま返す
     """
     try:
-        pytrends.build_payload(keywords, timeframe="today 3-m", geo="JP")
+        pytrends.build_payload(keywords, timeframe=timeframe, geo="JP")
         df = pytrends.interest_over_time()
         if df is None or df.empty:
             print(f"    [スキップ] データなし: {keywords}")
@@ -113,9 +123,12 @@ def fetch_batch(pytrends, keywords: list[str]) -> pd.DataFrame | None:
         cols = [c for c in keywords if c in df.columns]
         if not cols:
             return None
-        df_daily = df[cols].resample("D").mean().round(2)
-        df_daily = df_daily.dropna(how="all")
-        return df_daily
+        if daily:
+            out = df[cols].resample("D").mean().round(2)
+            out = out.dropna(how="all")
+        else:
+            out = df[cols].astype(float)
+        return out
     except Exception as e:
         print(f"    [エラー] バッチ取得失敗 {keywords}: {e}")
         return None
@@ -175,6 +188,101 @@ def series_to_kpi(keyword: str, series: pd.Series) -> dict | None:
         "alert":       alert,
         "history":     history,
     }
+
+
+# ─── 本日速報（now 7-d 時間別 → 日次換算）─────────────────────────────────────
+def _hourly_to_daily(series) -> tuple[dict, dict]:
+    """時間別 Series を日付ごとの平均値/件数に集計する。
+    戻り値: ({date_str: 平均}, {date_str: 件数})"""
+    means_acc: dict = {}
+    for ts, val in series.dropna().items():
+        d = str(ts.date())
+        means_acc.setdefault(d, []).append(float(val))
+    counts = {d: len(v) for d, v in means_acc.items()}
+    means  = {d: round(sum(v) / len(v), 1) for d, v in means_acc.items()}
+    return means, counts
+
+
+def compute_today_partial(daily_history: list[dict], hourly_daily: dict,
+                          today_date: str, min_overlap: int = TODAY_PARTIAL_OVERLAP) -> dict | None:
+    """日次履歴と、時間別を日次換算した値から「本日（速報）」値を推定する（純粋関数）。
+
+    時間別データ（now 7-d）は日次データ（today 3-m）と別スケールで 0-100 正規化される
+    ため、両者に共通する完全日の平均比をスケール係数として当日値を日次スケールに補正する。
+    当日が既に日次側にある／重複日が不足／スケール分母が0 の場合は None。
+    """
+    daily_map = {h["date"]: h["value"] for h in (daily_history or [])}
+    if today_date in daily_map:
+        return None  # 既に確定日次点がある日は速報不要
+    overlap = sorted((set(daily_map) & set(hourly_daily)) - {today_date})
+    if len(overlap) < min_overlap:
+        return None
+    md = sum(daily_map[d]     for d in overlap) / len(overlap)
+    mh = sum(hourly_daily[d]  for d in overlap) / len(overlap)
+    if mh <= 0 or md <= 0:
+        return None
+    if today_date not in hourly_daily:
+        return None
+    factor = md / mh
+    value  = round(hourly_daily[today_date] * factor, 1)
+    value  = max(0.0, min(100.0, value))  # 0-100 にクランプ
+    return {
+        "date":         today_date,
+        "value":        value,
+        "raw":          round(hourly_daily[today_date], 1),
+        "factor":       round(factor, 4),
+        "overlap_days": len(overlap),
+    }
+
+
+def fetch_hourly_series(pytrends) -> dict:
+    """now 7-d の時間別データを取得し、kw -> スケール調整済み hourly Series を返す。
+    日次取得と同じアンカー方式でバッチ間スケールを揃える。失敗時は取れた分だけ返す。"""
+    out: dict = {}
+    print(f"  [時間別] バッチ1 {BATCH1}  (timeframe={HOURLY_TIMEFRAME})")
+    h1 = fetch_batch(pytrends, BATCH1, timeframe=HOURLY_TIMEFRAME, daily=False)
+    if h1 is None:
+        print("  [時間別] バッチ1 取得失敗 → 本日速報はスキップ")
+        return out
+    for kw in BATCH1:
+        if kw in h1.columns:
+            out[kw] = h1[kw]
+
+    extra = KEYWORDS[5:]
+    if extra:
+        time.sleep(random.uniform(SLEEP_BETWEEN, SLEEP_BETWEEN + 5))
+        print(f"  [時間別] バッチ2 {BATCH2}  （アンカー: {ANCHOR_KW}）")
+        h2 = fetch_batch(pytrends, BATCH2, timeframe=HOURLY_TIMEFRAME, daily=False)
+        if h2 is not None and ANCHOR_KW in h2.columns:
+            factor = calc_scale_factor(h1, h2, ANCHOR_KW)
+            print(f"    スケール係数（時間別）: {factor:.4f}")
+            for kw in extra:
+                if kw in h2.columns:
+                    out[kw] = (h2[kw] * factor).round(1)
+        else:
+            print("  [時間別] バッチ2 取得失敗 → 追加KWの本日速報はスキップ")
+    return out
+
+
+def attach_today_partial(results: list[dict], hourly: dict) -> int:
+    """各キーワードの KPI に today_partial（本日速報・暫定）を付与する。"""
+    n = 0
+    for kpi in results:
+        series = hourly.get(kpi["keyword"])
+        if series is None or len(series) == 0:
+            continue
+        means, counts = _hourly_to_daily(series)
+        if not means:
+            continue
+        today_date = max(means.keys())
+        tp = compute_today_partial(kpi.get("history", []), means, today_date)
+        if tp:
+            tp["hours"] = counts.get(today_date, 0)
+            kpi["today_partial"] = tp
+            n += 1
+            print(f"    [本日速報] {kpi['keyword']}: {tp['value']} "
+                  f"(raw {tp['raw']} ×{tp['factor']}, {tp['hours']}h, 重複 {tp['overlap_days']}日)")
+    return n
 
 
 # ─── 急上昇考察（AI）─────────────────────────────────────────────────────────
@@ -470,6 +578,18 @@ def main():
             print(f"  [考察] 新規生成 {gen} 件")
         except Exception as e:
             print(f"  [考察] スキップ（{e}）")
+
+    # ── 本日速報（now 7-d 時間別データを日次スケールへ換算）─────────────────────
+    # Google Trends は日次では当日を返さないため、時間別データから当日の速報値を推定。
+    # ベストエフォート（失敗しても日次データの保存は継続）。
+    try:
+        time.sleep(random.uniform(SLEEP_BETWEEN, SLEEP_BETWEEN + 5))
+        print("  [本日速報] now 7-d 時間別データを取得中...")
+        hourly = fetch_hourly_series(pytrends)
+        got = attach_today_partial(results, hourly)
+        print(f"  [本日速報] 付与: {got} 件")
+    except Exception as e:
+        print(f"  [本日速報] スキップ（{e}）")
 
     output = {
         "updated":     _iso_jst(),

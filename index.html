@@ -3055,11 +3055,16 @@
       const dayArrow   = changeDay  > 0  ? "▲" : changeDay  < 0 ? "▼" : "─";
       const weekArrow  = changeWeek > 0  ? "▲" : changeWeek < 0 ? "▼" : "─";
       const cardId = "spark_" + kw.keyword.replace(/\s/g,"_");
+      const lastDate = (kw.history || []).slice(-1)[0]?.date || "";
+      const tp = kw.today_partial;
       grid.insertAdjacentHTML("beforeend", `
         <div class="trend-card${kw.alert ? " alert" : ""}">
           ${kw.alert ? '<span class="trend-alert-badge">急上昇</span>' : ""}
           <div class="trend-card-kw">${escHtml(kw.keyword)}</div>
           <div class="trend-card-val">${kw.current ?? "―"}</div>
+          <div style="font-size:10px;color:var(--text-muted);margin-top:2px;line-height:1.5">
+            ${lastDate ? "最新 " + lastDate.slice(5).replace("-","/") + " 時点" : ""}${tp ? ` <span style="color:var(--accent);font-weight:700">・本日速報 ${tp.value}</span><span style="display:inline-block;margin-left:3px;padding:0 4px;border:1px solid currentColor;border-radius:3px;font-size:8px;opacity:.65">暫定</span>` : ""}
+          </div>
           <div class="trend-card-changes">
             <span class="${dayClass}">${dayArrow} 前日比 ${changeDay > 0 ? "+" : ""}${changeDay}%</span>
             <span class="${weekClass}">${weekArrow} 週平均比 ${changeWeek > 0 ? "+" : ""}${changeWeek}%</span>
@@ -3069,8 +3074,12 @@
           </div>
         </div>`);
 
-      // スパークラインチャート
-      const hist = (kw.history || []).slice(-7);
+      // スパークラインチャート（末尾に本日速報の暫定点を付ける）
+      const sparkBase = (kw.history || []).slice(-7);
+      const hist = tp
+        ? [...sparkBase, { date: tp.date, value: tp.value, partial: true }]
+        : sparkBase;
+      const sparkColor = kw.alert ? "#f59e0b" : "#60a5fa";
       if (hist.length >= 2) {
         const ctx = document.getElementById(cardId)?.getContext("2d");
         if (ctx) {
@@ -3080,12 +3089,19 @@
               labels: hist.map(h => h.date.slice(5)),
               datasets: [{
                 data: hist.map(h => h.value),
-                borderColor: kw.alert ? "#f59e0b" : "#60a5fa",
+                borderColor: sparkColor,
                 borderWidth: 2,
-                pointRadius: 0,
+                pointRadius: hist.map(h => h.partial ? 2.8 : 0),
+                pointStyle: hist.map(h => h.partial ? "rectRot" : "circle"),
+                pointBackgroundColor: "#fff",
+                pointBorderColor: sparkColor,
+                pointBorderWidth: 1.5,
                 tension: 0.4,
                 fill: true,
                 backgroundColor: kw.alert ? "rgba(245,158,11,.12)" : "rgba(96,165,250,.1)",
+                segment: {
+                  borderDash: sc => hist[sc.p1DataIndex]?.partial ? [4, 3] : undefined,
+                },
               }]
             },
             options: {
@@ -3097,7 +3113,7 @@
                   enabled: true,
                   callbacks: {
                     title: (items) => hist[items[0]?.dataIndex]?.date ?? "",
-                    label: (item) => `検索スコア: ${item.raw}`,
+                    label: (item) => `検索スコア: ${item.raw}` + (hist[item.dataIndex]?.partial ? "（本日速報・暫定）" : ""),
                   }
                 }
               },
@@ -3212,29 +3228,51 @@
     function getAvg(slice) {
       return slice.length ? slice.reduce((s, h) => s + h.value, 0) / slice.length : 0;
     }
+    // 描画用スライス：本日速報（today_partial）を末尾に含める（平均計算には含めない）
+    function getPlotSlice(kw) {
+      const base = getSlice(kw.history);
+      const tp = kw.today_partial;
+      if (!tp) return base;
+      const inRange = dateRange
+        ? (tp.date >= dateRange.start && tp.date <= dateRange.end)
+        : true;
+      if (!inRange || base.some(h => h.date === tp.date)) return base;
+      return [...base, { date: tp.date, value: tp.value, partial: true }];
+    }
+    const anyPartial = (_trendsData.keywords || []).some(k => k.today_partial);
 
-    // 選択期間の平均値降順でソート
+    // 選択期間の平均値降順でソート（暫定値は除外して安定させる）
     const keywords = [...(_trendsData.keywords || [])].sort((a, b) =>
       getAvg(getSlice(b.history)) - getAvg(getSlice(a.history))
     );
 
     const allDates = [...new Set(
-      keywords.flatMap(k => getSlice(k.history).map(h => h.date))
+      keywords.flatMap(k => getPlotSlice(k).map(h => h.date))
     )].sort();
 
-    const datasets = keywords.map((kw, i) => ({
-      label: kw.keyword,
-      data: allDates.map(d => {
-        const h = getSlice(kw.history).find(x => x.date === d);
-        return h ? h.value : null;
-      }),
-      borderColor: COLORS[i % COLORS.length],
-      backgroundColor: "transparent",
-      borderWidth: 2,
-      pointRadius: allDates.length <= 7 ? 3 : allDates.length <= 30 ? 2 : 1,
-      tension: 0.4,
-      spanGaps: true,
-    }));
+    const baseRadius = allDates.length <= 7 ? 3 : allDates.length <= 30 ? 2 : 1;
+    const datasets = keywords.map((kw, i) => {
+      const plot = getPlotSlice(kw);
+      const col  = COLORS[i % COLORS.length];
+      const at   = d => plot.find(x => x.date === d);
+      return {
+        label: kw.keyword,
+        data: allDates.map(d => { const h = at(d); return h ? h.value : null; }),
+        borderColor: col,
+        backgroundColor: "transparent",
+        borderWidth: 2,
+        pointRadius:          allDates.map(d => at(d)?.partial ? 4.5 : baseRadius),
+        pointStyle:           allDates.map(d => at(d)?.partial ? "rectRot" : "circle"),
+        pointBackgroundColor: allDates.map(d => at(d)?.partial ? "#fff" : col),
+        pointBorderColor:     col,
+        pointBorderWidth:     allDates.map(d => at(d)?.partial ? 2 : 1),
+        tension: 0.4,
+        spanGaps: true,
+        segment: {
+          borderDash: sc => allDates[sc.p1DataIndex] && at(allDates[sc.p1DataIndex])?.partial ? [5, 4] : undefined,
+        },
+      };
+    });
 
     if (_chartTrends) { _chartTrends.destroy(); _chartTrends = null; }
     const ctx = document.getElementById("chartTrends")?.getContext("2d");
@@ -3247,9 +3285,23 @@
           interaction: { mode: "index", intersect: false },
           plugins: {
             legend: { display: false },
+            subtitle: {
+              display: anyPartial,
+              text: "◇ 末尾の白いひし形＝本日の速報値（暫定：Googleトレンド時間別データを日次換算）",
+              position: "bottom", align: "start",
+              font: { size: 10 }, color: "rgba(128,128,128,.85)",
+              padding: { top: 6 },
+            },
             tooltip: {
               mode: "index", intersect: false,
-              callbacks: { title: (items) => allDates[items[0]?.dataIndex] ?? "" }
+              callbacks: {
+                title: (items) => allDates[items[0]?.dataIndex] ?? "",
+                label: (item) => {
+                  const kw = keywords[item.datasetIndex];
+                  const h  = getPlotSlice(kw).find(x => x.date === allDates[item.dataIndex]);
+                  return `${kw.keyword}: ${item.raw}` + (h?.partial ? "（速報）" : "");
+                }
+              }
             }
           },
           scales: {
