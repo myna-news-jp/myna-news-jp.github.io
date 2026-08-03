@@ -1888,7 +1888,6 @@
   let allArticles      = [];   // 全件
   let filteredGroups   = [];   // フィルタ後のグループ配列
   let currentPage      = 1;    // 現在のページ（1始まり）
-  let isFirstRender    = true; // 初回ロード判定（スクロールしない）
 
   // ─── 既読管理 ─────────────────────────────────────────────────────────────
   const READ_KEY = "myna_read_urls";
@@ -2041,7 +2040,7 @@
   }
 
   // ─── ページ描画 ────────────────────────────────────────────────────────────
-  function renderCurrentPage() {
+  function renderCurrentPage(scrollToTop = false) {
     const list        = document.getElementById("articleList");
     const period      = document.getElementById("periodFilter").value;
     const topWrap     = document.getElementById("paginationTop");
@@ -2182,11 +2181,10 @@
 
     updateStats(totalGroups, totalArticles);
 
-    // ページ切替時はリスト上部へスクロール（初回ロードはスキップ）
-    if (!isFirstRender) {
+    // ページ送り時のみリスト上部へスクロール（初回ロード・タブ切替・フィルタ時はしない）
+    if (scrollToTop) {
       document.getElementById("paginationTop").scrollIntoView({ behavior: "smooth", block: "start" });
     }
-    isFirstRender = false;
   }
 
   // ─── ページネーションHTML生成 ─────────────────────────────────────────────
@@ -2267,7 +2265,7 @@
   function goToPage(page) {
     const total = Math.ceil(filteredGroups.length / PAGE_SIZE);
     currentPage = Math.max(1, Math.min(page, total));
-    renderCurrentPage();
+    renderCurrentPage(true);   // ページ送り時のみ上部へスクロール
   }
 
   // ─── シェア機能 ──────────────────────────────────────────────────────────
