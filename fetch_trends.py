@@ -305,29 +305,36 @@ def _fmt_rising_value(v) -> str:
     return f"+{n:,}%"
 
 
-def fetch_related_rising(pytrends) -> dict | None:
-    """RELATED_KEYWORDS の『増加傾向の語句』(rising) を取得。
-    kw -> [{query, change}] を返す。全体失敗時は None（呼び出し側で前回分を保持）。"""
-    try:
-        pytrends.build_payload(RELATED_KEYWORDS, timeframe=RELATED_TIMEFRAME, geo="JP")
-        rq = pytrends.related_queries()
-    except Exception as e:
-        print(f"  [関連語句] 取得失敗: {e}")
-        return None
-    if not rq:
-        return None
-    out = {}
-    for kw in RELATED_KEYWORDS:
-        entry  = rq.get(kw) or {}
-        rising = entry.get("rising")
-        items  = []
-        if rising is not None and not rising.empty:
-            for _, row in rising.head(RELATED_TOP_N).iterrows():
-                q = str(row.get("query", "")).strip()
-                if q:
-                    items.append({"query": q, "change": _fmt_rising_value(row.get("value"))})
-        out[kw] = items
-        print(f"    [関連語句] {kw}: {len(items)}件")
+def fetch_related_rising(pytrends, prev_related: dict | None = None) -> dict:
+    """RELATED_KEYWORDS の『増加傾向の語句』(rising) を KW ごとに取得する。
+
+    Google はこの API（relatedsearches, KWごとに1リクエスト）を強くレート制限(429)する。
+    そこで KW 間に間隔を空け、取得できた KW のみ更新、取れなかった KW は
+    前回分(prev_related)を保持する（毎時実行のたびに少しずつ埋まり、一度入れば消えない）。"""
+    out = dict(prev_related or {})   # 前回結果をキャッシュの土台にする
+    for i, kw in enumerate(RELATED_KEYWORDS):
+        if i > 0:
+            time.sleep(random.uniform(SLEEP_BETWEEN, SLEEP_BETWEEN + 8))
+        try:
+            pytrends.build_payload([kw], timeframe=RELATED_TIMEFRAME, geo="JP")
+            rq = pytrends.related_queries()
+            rising = ((rq or {}).get(kw) or {}).get("rising")
+            if rising is not None and not rising.empty:
+                items = []
+                for _, row in rising.head(RELATED_TOP_N).iterrows():
+                    q = str(row.get("query", "")).strip()
+                    if q:
+                        items.append({"query": q, "change": _fmt_rising_value(row.get("value"))})
+                out[kw] = items
+                print(f"    [関連語句] {kw}: {len(items)}件（更新）")
+            else:
+                kept = len(out.get(kw) or [])
+                print(f"    [関連語句] {kw}: 今回0件"
+                      + (f" → 前回{kept}件を保持" if kept else "（空）"))
+        except Exception as e:
+            kept = len(out.get(kw) or [])
+            print(f"    [関連語句] {kw}: 取得失敗 {type(e).__name__}"
+                  + (f" → 前回{kept}件を保持" if kept else ""))
     return out
 
 
@@ -634,9 +641,23 @@ def main():
         except Exception as e:
             print(f"  [考察] スキップ（{e}）")
 
+    # ── 関連する検索語句（増加傾向）─────────────────────────────────────────────
+    # KWごとに rising を取得（レート制限対策に間隔）。取れたKWのみ更新し他は前回分保持。
+    # 日次の直後（リクエスト budget が残るうち）に実行して 429 を避ける。
+    prev_trends     = _load_prev_trends(json_path)
+    related         = prev_trends.get("related_queries") or {}
+    related_updated = prev_trends.get("related_updated") or _iso_jst()
+    try:
+        time.sleep(random.uniform(SLEEP_BETWEEN, SLEEP_BETWEEN + 5))
+        print("  [関連語句] 増加傾向の語句を取得中...")
+        related = fetch_related_rising(pytrends, related)
+        related_updated = _iso_jst()
+    except Exception as e:
+        print(f"  [関連語句] スキップ（{e}）")
+
     # ── 本日速報（now 7-d 時間別データを日次スケールへ換算）─────────────────────
     # Google Trends は日次では当日を返さないため、時間別データから当日の速報値を推定。
-    # ベストエフォート（失敗しても日次データの保存は継続）。
+    # ベストエフォート（失敗しても日次保存は継続）。日次が既に当日を含む日は付与しない。
     try:
         time.sleep(random.uniform(SLEEP_BETWEEN, SLEEP_BETWEEN + 5))
         print("  [本日速報] now 7-d 時間別データを取得中...")
@@ -645,23 +666,6 @@ def main():
         print(f"  [本日速報] 付与: {got} 件")
     except Exception as e:
         print(f"  [本日速報] スキップ（{e}）")
-
-    # ── 関連する検索語句（増加傾向）─────────────────────────────────────────────
-    # RELATED_KEYWORDS ごとに rising（増加傾向）を取得。ベストエフォート。
-    related = None
-    related_updated = _iso_jst()
-    try:
-        time.sleep(random.uniform(SLEEP_BETWEEN, SLEEP_BETWEEN + 5))
-        print("  [関連語句] 増加傾向の語句を取得中...")
-        related = fetch_related_rising(pytrends)
-    except Exception as e:
-        print(f"  [関連語句] スキップ（{e}）")
-    if related is None:
-        prev = _load_prev_trends(json_path)
-        related = prev.get("related_queries") or {}
-        related_updated = prev.get("related_updated") or related_updated
-        if related:
-            print("  [関連語句] 取得失敗 → 前回分を保持")
 
     output = {
         "updated":           _iso_jst(),
