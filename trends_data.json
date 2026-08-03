@@ -1,14 +1,14 @@
 {
-  "updated": "2026-08-03T13:35:16+09:00",
+  "updated": "2026-08-03T13:39:52+09:00",
   "alert_level": "red",
   "keywords": [
     {
       "keyword": "マイナ保険証",
-      "current": 23.0,
+      "current": 24.0,
       "yesterday": 11.0,
-      "change_day": 109.1,
-      "avg_7day": 18.6,
-      "change_week": 23.7,
+      "change_day": 118.2,
+      "avg_7day": 18.7,
+      "change_week": 28.3,
       "alert": false,
       "history": [
         {
@@ -381,17 +381,17 @@
         },
         {
           "date": "2026-08-03",
-          "value": 23.0
+          "value": 24.0
         }
       ]
     },
     {
       "keyword": "マイナンバーカード",
-      "current": 95.0,
+      "current": 94.0,
       "yesterday": 45.0,
-      "change_day": 111.1,
-      "avg_7day": 60.9,
-      "change_week": 56.0,
+      "change_day": 108.9,
+      "avg_7day": 60.7,
+      "change_week": 54.9,
       "alert": true,
       "history": [
         {
@@ -764,17 +764,17 @@
         },
         {
           "date": "2026-08-03",
-          "value": 95.0
+          "value": 94.0
         }
       ]
     },
     {
       "keyword": "保険証",
-      "current": 85.0,
+      "current": 87.0,
       "yesterday": 36.0,
-      "change_day": 136.1,
-      "avg_7day": 59.7,
-      "change_week": 42.4,
+      "change_day": 141.7,
+      "avg_7day": 60.0,
+      "change_week": 45.0,
       "alert": false,
       "history": [
         {
@@ -1147,7 +1147,7 @@
         },
         {
           "date": "2026-08-03",
-          "value": 85.0
+          "value": 87.0
         }
       ]
     },
@@ -2302,11 +2302,11 @@
     },
     {
       "keyword": "資格確認書",
-      "current": 29.2,
-      "yesterday": 9.9,
-      "change_day": 194.9,
-      "avg_7day": 17.8,
-      "change_week": 64.0,
+      "current": 30.5,
+      "yesterday": 10.0,
+      "change_day": 205.0,
+      "avg_7day": 18.0,
+      "change_week": 69.4,
       "alert": true,
       "history": [
         {
@@ -2355,7 +2355,7 @@
         },
         {
           "date": "2026-05-14",
-          "value": 9.9
+          "value": 10.0
         },
         {
           "date": "2026-05-15",
@@ -2379,7 +2379,7 @@
         },
         {
           "date": "2026-05-20",
-          "value": 9.9
+          "value": 10.0
         },
         {
           "date": "2026-05-21",
@@ -2415,7 +2415,7 @@
         },
         {
           "date": "2026-05-29",
-          "value": 9.9
+          "value": 10.0
         },
         {
           "date": "2026-05-30",
@@ -2463,7 +2463,7 @@
         },
         {
           "date": "2026-06-10",
-          "value": 9.9
+          "value": 10.0
         },
         {
           "date": "2026-06-11",
@@ -2499,7 +2499,7 @@
         },
         {
           "date": "2026-06-19",
-          "value": 9.9
+          "value": 10.0
         },
         {
           "date": "2026-06-20",
@@ -2595,7 +2595,7 @@
         },
         {
           "date": "2026-07-13",
-          "value": 15.2
+          "value": 15.3
         },
         {
           "date": "2026-07-14",
@@ -2623,7 +2623,7 @@
         },
         {
           "date": "2026-07-20",
-          "value": 9.9
+          "value": 10.0
         },
         {
           "date": "2026-07-21",
@@ -2631,7 +2631,7 @@
         },
         {
           "date": "2026-07-22",
-          "value": 22.5
+          "value": 22.6
         },
         {
           "date": "2026-07-23",
@@ -2659,7 +2659,7 @@
         },
         {
           "date": "2026-07-29",
-          "value": 15.2
+          "value": 15.3
         },
         {
           "date": "2026-07-30",
@@ -2667,19 +2667,19 @@
         },
         {
           "date": "2026-07-31",
-          "value": 25.8
+          "value": 25.9
         },
         {
           "date": "2026-08-01",
-          "value": 15.2
+          "value": 15.3
         },
         {
           "date": "2026-08-02",
-          "value": 9.9
+          "value": 10.0
         },
         {
           "date": "2026-08-03",
-          "value": 29.2
+          "value": 30.5
         }
       ]
     }
@@ -2691,5 +2691,5 @@
     "オンライン資格確認": []
   },
   "related_timeframe": "now 7-d",
-  "related_updated": "2026-08-03T13:35:00+09:00"
+  "related_updated": "2026-08-03T13:39:32+09:00"
 }
