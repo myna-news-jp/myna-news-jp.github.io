@@ -75,13 +75,6 @@ ANCHOR_KW = KEYWORDS[0]   # "マイナ保険証"
 BATCH1    = KEYWORDS[:5]   # 一括取得できる上限5件
 BATCH2    = [ANCHOR_KW] + KEYWORDS[5:]   # アンカー + 残り
 
-# ─── 関連する検索語句（増加傾向）設定 ─────────────────────────────────────────
-# 指定KWと一緒に検索されて急増している語句を related_queries(rising) で取得する。
-# 「上位の語句」はAPI(pytrends)が変化率を返さないため扱わず、rising のみ対象。
-RELATED_KEYWORDS  = ["マイナンバーカード", "マイナ保険証", "保険証", "オンライン資格確認"]
-RELATED_TIMEFRAME = "now 7-d"   # 過去1週間（Googleトレンドの既定表示と同じ）
-RELATED_TOP_N     = 10
-
 # ─── 急上昇考察（AI）設定 ─────────────────────────────────────────────────────
 ANALYSIS_MODEL       = "claude-haiku-4-5"  # 考察生成モデル
 ANALYSIS_NEWS_WINDOW = 3    # 急上昇日の何日前までのニュースを参照するか
@@ -290,61 +283,6 @@ def attach_today_partial(results: list[dict], hourly: dict) -> int:
             print(f"    [本日速報] {kpi['keyword']}: {tp['value']} "
                   f"(raw {tp['raw']} ×{tp['factor']}, {tp['hours']}h, 重複 {tp['overlap_days']}日)")
     return n
-
-
-# ─── 関連する検索語句（増加傾向）─────────────────────────────────────────────
-def _fmt_rising_value(v) -> str:
-    """related_queries(rising) の value を表示用文字列に整形。Breakout は『急上昇』。"""
-    try:
-        n = int(v)
-    except (TypeError, ValueError):
-        s = str(v).strip()
-        return "急上昇" if s.lower() in ("", "breakout", "急上昇", "none", "nan") else s
-    if n >= 5000:          # Google の Breakout 相当（pytrends は大きな整数で返す）
-        return "急上昇"
-    return f"+{n:,}%"
-
-
-def fetch_related_rising(pytrends, prev_related: dict | None = None) -> dict:
-    """RELATED_KEYWORDS の『増加傾向の語句』(rising) を KW ごとに取得する。
-
-    Google はこの API（relatedsearches, KWごとに1リクエスト）を強くレート制限(429)する。
-    そこで KW 間に間隔を空け、取得できた KW のみ更新、取れなかった KW は
-    前回分(prev_related)を保持する（毎時実行のたびに少しずつ埋まり、一度入れば消えない）。"""
-    out = dict(prev_related or {})   # 前回結果をキャッシュの土台にする
-    for i, kw in enumerate(RELATED_KEYWORDS):
-        if i > 0:
-            time.sleep(random.uniform(SLEEP_BETWEEN, SLEEP_BETWEEN + 8))
-        try:
-            pytrends.build_payload([kw], timeframe=RELATED_TIMEFRAME, geo="JP")
-            rq = pytrends.related_queries()
-            rising = ((rq or {}).get(kw) or {}).get("rising")
-            if rising is not None and not rising.empty:
-                items = []
-                for _, row in rising.head(RELATED_TOP_N).iterrows():
-                    q = str(row.get("query", "")).strip()
-                    if q:
-                        items.append({"query": q, "change": _fmt_rising_value(row.get("value"))})
-                out[kw] = items
-                print(f"    [関連語句] {kw}: {len(items)}件（更新）")
-            else:
-                kept = len(out.get(kw) or [])
-                print(f"    [関連語句] {kw}: 今回0件"
-                      + (f" → 前回{kept}件を保持" if kept else "（空）"))
-        except Exception as e:
-            kept = len(out.get(kw) or [])
-            print(f"    [関連語句] {kw}: 取得失敗 {type(e).__name__}"
-                  + (f" → 前回{kept}件を保持" if kept else ""))
-    return out
-
-
-def _load_prev_trends(json_path: str) -> dict:
-    """前回の trends_data.json を丸ごと読む（取得失敗時のフォールバック用）"""
-    try:
-        with open(json_path, "r", encoding="utf-8") as f:
-            return json.load(f)
-    except Exception:
-        return {}
 
 
 # ─── 急上昇考察（AI）─────────────────────────────────────────────────────────
@@ -641,20 +579,6 @@ def main():
         except Exception as e:
             print(f"  [考察] スキップ（{e}）")
 
-    # ── 関連する検索語句（増加傾向）─────────────────────────────────────────────
-    # KWごとに rising を取得（レート制限対策に間隔）。取れたKWのみ更新し他は前回分保持。
-    # 日次の直後（リクエスト budget が残るうち）に実行して 429 を避ける。
-    prev_trends     = _load_prev_trends(json_path)
-    related         = prev_trends.get("related_queries") or {}
-    related_updated = prev_trends.get("related_updated") or _iso_jst()
-    try:
-        time.sleep(random.uniform(SLEEP_BETWEEN, SLEEP_BETWEEN + 5))
-        print("  [関連語句] 増加傾向の語句を取得中...")
-        related = fetch_related_rising(pytrends, related)
-        related_updated = _iso_jst()
-    except Exception as e:
-        print(f"  [関連語句] スキップ（{e}）")
-
     # ── 本日速報（now 7-d 時間別データを日次スケールへ換算）─────────────────────
     # Google Trends は日次では当日を返さないため、時間別データから当日の速報値を推定。
     # ベストエフォート（失敗しても日次保存は継続）。日次が既に当日を含む日は付与しない。
@@ -668,12 +592,9 @@ def main():
         print(f"  [本日速報] スキップ（{e}）")
 
     output = {
-        "updated":           _iso_jst(),
-        "alert_level":       alert_level,
-        "keywords":          results,
-        "related_queries":   related,
-        "related_timeframe": RELATED_TIMEFRAME,
-        "related_updated":   related_updated,
+        "updated":     _iso_jst(),
+        "alert_level": alert_level,
+        "keywords":    results,
     }
 
     with open(json_path, "w", encoding="utf-8") as f:
