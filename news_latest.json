@@ -1,6 +1,38 @@
 {
-  "updated": "2026-08-05T11:31:40+09:00",
+  "updated": "2026-08-05T20:21:35+09:00",
   "articles": [
+    {
+      "title": "食料品消費税減税 政府が基本方針決定 来年4月から2年間1％に",
+      "link": "http://www3.nhk.or.jp/news/html/20260805/k10015197191000.html",
+      "pub_date": "2026-08-05T19:51:49+09:00",
+      "source": "NHKニュース",
+      "description": "食料品の消費税減税について、政府は、5日の臨時閣議で、来年4月から2年間、税率を1％に引き下げるなどとした基本方針を決定しました。決定された基本方針では、中低所得の人などの税や社会保険料の負担軽減を図っていく必要性などとともに、今後の減税や給付措置の進め方が明記されています。",
+      "thumbnail": "https://imgu.web.nhk/news/u/news/html/20260805/K10015197191_2608051611_0805164616_01_02.jpg",
+      "category": "一般",
+      "topic": "mynumber"
+    },
+    {
+      "title": "医療受診の新体制が始動 現行保険証の暫定措置が終了 - 月刊私塾界",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40NUNaLVJ2d00yc0Y3ZlN1Wi02ZkRieEZaUE1KTGlhQ3NZX3NfN1lMOEhCdkVKM1IwY1dEWEx6d3BKdXB2cS1icHJGYS1fMm1vdEE?oc=5",
+      "pub_date": "2026-08-05T17:54:34+09:00",
+      "source": "月刊私塾界",
+      "description": "「マイナ保険証」への移行に伴う暫定措置が間もなく終了する。8月からは従来の健康保険証を医療機関に持参した場合、医療費全額の10割負担を求められるかもしれない。安心して受診するためにも、気を付けたい二つのポイントを紹介する。 従来の保険証 ...",
+      "_glink": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40NUNaLVJ2d00yc0Y3ZlN1Wi02ZkRieEZaUE1KTGlhQ3NZX3NfN1lMOEhCdkVKM1IwY1dEWEx6d3BKdXB2cS1icHJGYS1fMm1vdEE?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40NUNaLVJ2d00yc0Y3ZlN1Wi02ZkRieEZaUE1KTGlhQ3NZX3NfN1lMOEhCdkVKM1IwY1dEWEx6d3BKdXB2cS1icHJGYS1fMm1vdEE?oc=5",
+      "category": "一般",
+      "topic": "insurance"
+    },
+    {
+      "title": "マイナ保険証で負担割合誤表示、上越市が設定ミス…対象者に差額返金へ - 新潟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1iN0FDbG1WNHRyS0s3MEozMkhINzBIRzM2M1o4Uk5SMjU3XzFsVm0wNW9OdlRqaHNJbGdRWkVoWWVwbWhaQW1BSkp5d1lRRExhcXA4SVlROXZ0WHZ2aGc?oc=5",
+      "pub_date": "2026-08-05T17:00:00+09:00",
+      "source": "新潟日報",
+      "description": "上越市は４日、マイナンバーカードに健康保険証機能を持たせた「マイナ保険証」で医療機関を受診した際、医療費の窓口負担割合や高額療養費制度の自己負担限度額の区分が正しく表示されない不具合が発生したと発表した。誤った負担割合で支払いをした ...",
+      "_glink": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1iN0FDbG1WNHRyS0s3MEozMkhINzBIRzM2M1o4Uk5SMjU3XzFsVm0wNW9OdlRqaHNJbGdRWkVoWWVwbWhaQW1BSkp5d1lRRExhcXA4SVlROXZ0WHZ2aGc?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1iN0FDbG1WNHRyS0s3MEozMkhINzBIRzM2M1o4Uk5SMjU3XzFsVm0wNW9OdlRqaHNJbGdRWkVoWWVwbWhaQW1BSkp5d1lRRExhcXA4SVlROXZ0WHZ2aGc?oc=5",
+      "category": "トラブル",
+      "topic": "insurance"
+    },
     {
       "title": "社説：マイナ救急 命を助けた事例積み重ねたい - 読売新聞",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LNkRENW9sVU1CbTJtb2JXNnNtbE11WVo0NjVsYTFSX0xMb0pOblpXUXY0VUFjY1dfMjJvZ194QmRYaEFPWlZQa281VHRlSC1tTE0xOFVuZFpZUFpDNUhxd3Bqa0hjYmM?oc=5",
@@ -515,39 +547,6 @@
       "_glink": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ocjdvZ2Jkd09hRXNDMmpYaEVIZmJabTg2M2lKemFUTDY0S1FTWGxEUi1NXzF1WnlZeEJ2NjlqOXdaZXd0dVpCUXh2YTFVOEg3QTlqa3BzM0pvQ21tV2VuejlGYjRTbXBYYTFyWXlDWERZeEMzTUd5VFZiRQ?oc=5",
       "_resolved_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ocjdvZ2Jkd09hRXNDMmpYaEVIZmJabTg2M2lKemFUTDY0S1FTWGxEUi1NXzF1WnlZeEJ2NjlqOXdaZXd0dVpCUXh2YTFVOEg3QTlqa3BzM0pvQ21tV2VuejlGYjRTbXBYYTFyWXlDWERZeEMzTUd5VFZiRQ?oc=5",
       "category": "制度変更",
-      "topic": "insurance"
-    },
-    {
-      "title": "従来の健康保険証が8月から使用不可に マイナ保険証か資格確認書の提示必要 (2026年7月31日掲載) - ライブドアニュース",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qamlER2hBd2tKY2dhNEFKTzVLTXNLY3VlRnUyZVRPRHVxTUxlZUdBMjliRWZrTk4zODEydnBsSkQ5U2dUbHdDdGtqUHBOUHd1TE1jRnJXZ2FIRlp2MVE?oc=5",
-      "pub_date": "2026-07-31T17:16:51+09:00",
-      "source": "ライブドアニュース",
-      "description": "従来の健康 保険 証が8月から使えなくなります。 保険 適用で診察を受ける際に必要な健康 保険 証は、去年12月にマイナンバーカードと一体化した「 マイナ保険証 」に移行しました。 その後は、期限が切れた従来の 保険 証でも 保険 診療を受けられる「暫定措置」が設けられていました。",
-      "_glink": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qamlER2hBd2tKY2dhNEFKTzVLTXNLY3VlRnUyZVRPRHVxTUxlZUdBMjliRWZrTk4zODEydnBsSkQ5U2dUbHdDdGtqUHBOUHd1TE1jRnJXZ2FIRlp2MVE?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qamlER2hBd2tKY2dhNEFKTzVLTXNLY3VlRnUyZVRPRHVxTUxlZUdBMjliRWZrTk4zODEydnBsSkQ5U2dUbHdDdGtqUHBOUHd1TE1jRnJXZ2FIRlp2MVE?oc=5",
-      "category": "制度変更",
-      "topic": "insurance"
-    },
-    {
-      "title": "「従来の保険証」あす8月1日から使用不可に…保険診療を受けるには「マイナ保険証」or「資格確認書」の提示が必要 - TBS NEWS DIG",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fWXV6UXl5Mm84bGt0N0pHTmV3SUtMUmdGZGVJX2l1c1RHR2xhRi1YY1A5cjdlRUlwX2lJTnA4a0paanRFeEs4UXBKVHRkSndxaHZUQ3NOT2ZVWWVvekxLTzJtQ0U5dUE?oc=5",
-      "pub_date": "2026-07-31T17:16:51+09:00",
-      "source": "TBS NEWS DIG",
-      "description": "健康保険証が使えなくなる話を聞いたことはないだろうか。従来の健康保険証は2025年12月1日をもって有効期限が終了している。 ただし、有効期限切れの保険証をそのまま使える「暫定措置」が複数回にわたって延長されているため、現在の状況がわかり ...",
-      "_glink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fWXV6UXl5Mm84bGt0N0pHTmV3SUtMUmdGZGVJX2l1c1RHR2xhRi1YY1A5cjdlRUlwX2lJTnA4a0paanRFeEs4UXBKVHRkSndxaHZUQ3NOT2ZVWWVvekxLTzJtQ0U5dUE?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fWXV6UXl5Mm84bGt0N0pHTmV3SUtMUmdGZGVJX2l1c1RHR2xhRi1YY1A5cjdlRUlwX2lJTnA4a0paanRFeEs4UXBKVHRkSndxaHZUQ3NOT2ZVWWVvekxLTzJtQ0U5dUE?oc=5",
-      "category": "制度変更",
-      "topic": "insurance"
-    },
-    {
-      "title": "「従来の保険証」あす8月1日から使用不可に…保険診療を受けるには「マイナ保険証」or「資格確認書」の提示が必要 - TBS NEWS DIG",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04UFBUX0RhbVhKQmhBVUpTbTFRVTU4ckU4bHJJSTlDNGlFUHotRnlMdjlMcEZETmhvZ2N6OElOUnd4ZUdtbG1oRlN1eWpwaDdnQ3JJTERvc09vQQ?oc=5",
-      "pub_date": "2026-07-31T17:16:51+09:00",
-      "source": "TBS NEWS DIG",
-      "description": "従来の健康保険証があす8月から使えなくなります。保険診療を受ける場合、「マイナ保険証」か「資格確認書」が必要です。 保険適用で診察を受ける際に必要な健康保険証は、去年12月にマイナンバーカードと一体化した「マイナ保険証」に移行しました。",
-      "_glink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04UFBUX0RhbVhKQmhBVUpTbTFRVTU4ckU4bHJJSTlDNGlFUHotRnlMdjlMcEZETmhvZ2N6OElOUnd4ZUdtbG1oRlN1eWpwaDdnQ3JJTERvc09vQQ?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04UFBUX0RhbVhKQmhBVUpTbTFRVTU4ckU4bHJJSTlDNGlFUHotRnlMdjlMcEZETmhvZ2N6OElOUnd4ZUdtbG1oRlN1eWpwaDdnQ3JJTERvc09vQQ?oc=5",
-      "category": "一般",
       "topic": "insurance"
     }
   ],
