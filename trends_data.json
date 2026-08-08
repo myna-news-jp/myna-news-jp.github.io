@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T03:53:18+09:00",
+  "updated": "2026-08-09T04:38:55+09:00",
   "alert_level": "green",
   "keywords": [
     {
@@ -7,8 +7,8 @@
       "current": 7.0,
       "yesterday": 11.0,
       "change_day": -36.4,
-      "avg_7day": 12.9,
-      "change_week": -45.7,
+      "avg_7day": 12.7,
+      "change_week": -44.9,
       "alert": false,
       "history": [
         {
@@ -361,7 +361,7 @@
         },
         {
           "date": "2026-08-03",
-          "value": 19.0
+          "value": 18.0
         },
         {
           "date": "2026-08-04",
@@ -387,11 +387,11 @@
     },
     {
       "keyword": "マイナンバーカード",
-      "current": 72.0,
+      "current": 73.0,
       "yesterday": 56.0,
-      "change_day": 28.6,
-      "avg_7day": 64.4,
-      "change_week": 11.8,
+      "change_day": 30.4,
+      "avg_7day": 64.7,
+      "change_week": 12.8,
       "alert": false,
       "history": [
         {
@@ -744,7 +744,7 @@
         },
         {
           "date": "2026-08-03",
-          "value": 82.0
+          "value": 83.0
         },
         {
           "date": "2026-08-04",
@@ -764,17 +764,17 @@
         },
         {
           "date": "2026-08-08",
-          "value": 72.0
+          "value": 73.0
         }
       ]
     },
     {
       "keyword": "保険証",
-      "current": 27.0,
-      "yesterday": 42.0,
-      "change_day": -35.7,
-      "avg_7day": 49.3,
-      "change_week": -45.2,
+      "current": 29.0,
+      "yesterday": 43.0,
+      "change_day": -32.6,
+      "avg_7day": 49.7,
+      "change_week": -41.6,
       "alert": false,
       "history": [
         {
@@ -1143,11 +1143,11 @@
         },
         {
           "date": "2026-08-07",
-          "value": 42.0
+          "value": 43.0
         },
         {
           "date": "2026-08-08",
-          "value": 27.0
+          "value": 29.0
         }
       ]
     },
@@ -2302,11 +2302,11 @@
     },
     {
       "keyword": "資格確認書",
-      "current": 8.0,
+      "current": 7.4,
       "yesterday": 14.1,
-      "change_day": -43.3,
+      "change_day": -47.5,
       "avg_7day": 14.8,
-      "change_week": -45.9,
+      "change_week": -50.0,
       "alert": false,
       "history": [
         {
@@ -2639,15 +2639,15 @@
         },
         {
           "date": "2026-07-29",
-          "value": 14.8
+          "value": 14.7
         },
         {
           "date": "2026-07-30",
-          "value": 14.8
+          "value": 14.7
         },
         {
           "date": "2026-07-31",
-          "value": 26.2
+          "value": 26.1
         },
         {
           "date": "2026-08-01",
@@ -2679,7 +2679,7 @@
         },
         {
           "date": "2026-08-08",
-          "value": 8.0
+          "value": 7.4
         }
       ]
     }
