@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T10:45:03+09:00",
+  "updated": "2026-08-11T19:01:06+09:00",
   "articles": [
     {
       "title": "厚さ3mm、財布にもスッと収まる。利用頻度が増えたマイナンバーカードを革で守ってみた - lifehacker.jp",
@@ -440,6 +440,17 @@
       "topic": "insurance"
     },
     {
+      "title": "マイナンバーカード電子証明書の更新手続きについて - city.niigata.lg.jp",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRk5IWXpjZHJqN24zcTh4SFZ0dmxPVk01bE9LN1VSOG8xX1kwcl96WmtMLTJLeEFWWWE0YU50Q0lNTTB4SnNRRkQwLXV1VVBuMmI3ZGY1N1Q4NERjVkxiRUlSMENxeS1CbkZoOTNEWHRpaG1NZVlnaFp5RDZ3ZmZpc0lzRkJNTkU?oc=5",
+      "pub_date": "2026-08-03T16:00:00+09:00",
+      "source": "city.niigata.lg.jp",
+      "description": "2024年12月2日から、医療機関で利用する健康保険証（※1）について、市町村や特別区が発行する「個人番号カード（マイナンバーカード）」を利用することが本則となりました。 （※1）国民健康保険（都道府県と市町村／特別区、または国民健康保険組合が ...",
+      "_glink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRk5IWXpjZHJqN24zcTh4SFZ0dmxPVk01bE9LN1VSOG8xX1kwcl96WmtMLTJLeEFWWWE0YU50Q0lNTTB4SnNRRkQwLXV1VVBuMmI3ZGY1N1Q4NERjVkxiRUlSMENxeS1CbkZoOTNEWHRpaG1NZVlnaFp5RDZ3ZmZpc0lzRkJNTkU?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRk5IWXpjZHJqN24zcTh4SFZ0dmxPVk01bE9LN1VSOG8xX1kwcl96WmtMLTJLeEFWWWE0YU50Q0lNTTB4SnNRRkQwLXV1VVBuMmI3ZGY1N1Q4NERjVkxiRUlSMENxeS1CbkZoOTNEWHRpaG1NZVlnaFp5RDZ3ZmZpc0lzRkJNTkU?oc=5",
+      "category": "使い方",
+      "topic": "insurance"
+    },
+    {
       "title": "後期高齢者医療制度について - city.ishigaki.okinawa.jp",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4tMzFQVnhfS1FlRHh6clQyLTdsZ19adVptcGtIMDBqZWxMYWVpZFVWUWN0eEp5OUVyT2lUUFc3QXlldVhGVXJ2eU5DLVJDTmNuMHlSaGNqQVdGdmhYYThCd2F0bHhCTzNBeENra1RvUXM2YVg0?oc=5",
       "pub_date": "2026-08-03T16:00:00+09:00",
@@ -537,17 +548,6 @@
       "_resolved_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5qRS04UWVFUHJsNV9WbGdaZ3F5UF8yOTJSM3VqUzhrWEZrUVhGd2NaWVIyd3gtR3VYYk9KLTF2Y1Q2Z3J5TlRiU3Nrd1dnMUY5?oc=5",
       "category": "一般",
       "topic": "insurance"
-    },
-    {
-      "title": "高齢者「登録法分からず」 マイナ完全移行、不安の声も 東京（時事通信） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHU3ZjM3NXdThTNFJYNWFJMEh0UERiTVhHczRwOFZjTGdUT0xOZm16Ul9nMGs2OE9DakpreEk3Z21DVWhxYjYyNktoejdqbjJNTEh4bVVtUjgtVjFFdEZ4RU9xME1ZT0tUaWp4aHBtS3dNY1AyNzI0bEVQMWtCZVU?oc=5",
-      "pub_date": "2026-08-01T07:19:54+09:00",
-      "source": "Yahoo!ニュース",
-      "description": "",
-      "_glink": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHU3ZjM3NXdThTNFJYNWFJMEh0UERiTVhHczRwOFZjTGdUT0xOZm16Ul9nMGs2OE9DakpreEk3Z21DVWhxYjYyNktoejdqbjJNTEh4bVVtUjgtVjFFdEZ4RU9xME1ZT0tUaWp4aHBtS3dNY1AyNzI0bEVQMWtCZVU?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHU3ZjM3NXdThTNFJYNWFJMEh0UERiTVhHczRwOFZjTGdUT0xOZm16Ul9nMGs2OE9DakpreEk3Z21DVWhxYjYyNktoejdqbjJNTEh4bVVtUjgtVjFFdEZ4RU9xME1ZT0tUaWp4aHBtS3dNY1AyNzI0bEVQMWtCZVU?oc=5",
-      "category": "一般",
-      "topic": "mynumber"
     }
   ],
   "total": 500
