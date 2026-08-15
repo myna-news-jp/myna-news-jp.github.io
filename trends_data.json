@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T12:00:16+09:00",
+  "updated": "2026-08-15T12:49:14+09:00",
   "alert_level": "green",
   "keywords": [
     {
@@ -390,8 +390,8 @@
       "current": 24.0,
       "yesterday": 30.0,
       "change_day": -20.0,
-      "avg_7day": 42.3,
-      "change_week": -43.3,
+      "avg_7day": 42.1,
+      "change_week": -43.0,
       "alert": false,
       "history": [
         {
@@ -732,7 +732,7 @@
         },
         {
           "date": "2026-08-07",
-          "value": 33.0
+          "value": 34.0
         },
         {
           "date": "2026-08-08",
@@ -756,7 +756,7 @@
         },
         {
           "date": "2026-08-13",
-          "value": 34.0
+          "value": 33.0
         },
         {
           "date": "2026-08-14",
@@ -770,11 +770,11 @@
     },
     {
       "keyword": "保険証",
-      "current": 18.0,
-      "yesterday": 17.0,
-      "change_day": 5.9,
+      "current": 17.0,
+      "yesterday": 18.0,
+      "change_day": -5.6,
       "avg_7day": 18.7,
-      "change_week": -3.7,
+      "change_week": -9.1,
       "alert": false,
       "history": [
         {
@@ -1143,11 +1143,11 @@
         },
         {
           "date": "2026-08-14",
-          "value": 17.0
+          "value": 18.0
         },
         {
           "date": "2026-08-15",
-          "value": 18.0
+          "value": 17.0
         }
       ]
     },
@@ -2248,7 +2248,7 @@
         },
         {
           "date": "2026-08-03",
-          "value": 1.2
+          "value": 0.8
         },
         {
           "date": "2026-08-04",
@@ -2302,11 +2302,11 @@
     },
     {
       "keyword": "資格確認書",
-      "current": 4.4,
+      "current": 4.0,
       "yesterday": 4.8,
-      "change_day": -8.3,
-      "avg_7day": 5.1,
-      "change_week": -13.7,
+      "change_day": -16.7,
+      "avg_7day": 5.0,
+      "change_week": -20.0,
       "alert": false,
       "history": [
         {
@@ -2647,7 +2647,7 @@
         },
         {
           "date": "2026-08-07",
-          "value": 7.6
+          "value": 8.0
         },
         {
           "date": "2026-08-08",
@@ -2679,7 +2679,7 @@
         },
         {
           "date": "2026-08-15",
-          "value": 4.4
+          "value": 4.0
         }
       ]
     }
