@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T10:18:47+09:00",
+  "updated": "2026-08-16T18:27:38+09:00",
   "articles": [
     {
       "title": "「マイナ保険証」対策！スキミング防止マイナンバーカード本革ケース「rokora」 - CAMPFIRE (キャンプファイヤー)",
@@ -375,6 +375,17 @@
       "topic": "insurance"
     },
     {
+      "title": "医師のサイバー被害や対策、実際の状況は？／医師1,000人アンケート｜CareNet.com - CareNet.com",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fLTdsTTFfbzh0UE9YbkNSWEtpMzc3LUFfdjhUdUxNODdiWnNHcGUyTnZXbW11ckRNUmZlM0c2ZGdPV0NDSm0yZGlBSjJwbnpybnhNZWdoZ2ZMZjJkeFQ4?oc=5",
+      "pub_date": "2026-08-05T16:00:00+09:00",
+      "source": "CareNet.com",
+      "description": "日本でも与党・金融庁が対応策を議論 アメリカの新興企業アンソロピック社が最近開発した生成AI「ミトス（Claude Mythos）」は、システムやソフトウエアの「穴」を見抜く能力が格段に優れ、これまで開発されたもっとも強力なAIだといわれる。 ミトスのよう ...",
+      "_glink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fLTdsTTFfbzh0UE9YbkNSWEtpMzc3LUFfdjhUdUxNODdiWnNHcGUyTnZXbW11ckRNUmZlM0c2ZGdPV0NDSm0yZGlBSjJwbnpybnhNZWdoZ2ZMZjJkeFQ4?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fLTdsTTFfbzh0UE9YbkNSWEtpMzc3LUFfdjhUdUxNODdiWnNHcGUyTnZXbW11ckRNUmZlM0c2ZGdPV0NDSm0yZGlBSjJwbnpybnhNZWdoZ2ZMZjJkeFQ4?oc=5",
+      "category": "トラブル",
+      "topic": "mynumber"
+    },
+    {
       "title": "社説：マイナ救急 命を助けた事例積み重ねたい - 読売新聞",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LNkRENW9sVU1CbTJtb2JXNnNtbE11WVo0NjVsYTFSX0xMb0pOblpXUXY0VUFjY1dfMjJvZ194QmRYaEFPWlZQa281VHRlSC1tTE0xOFVuZFpZUFpDNUhxd3Bqa0hjYmM?oc=5",
       "pub_date": "2026-08-05T05:00:00+09:00",
@@ -537,17 +548,6 @@
       "_resolved_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KMjZ5Y1JTdzlCMWF5YUZhRkpXZm5nSmVneVZ0aUVvam1BYU1rTzZzRWVlUG9oalRvbmx6MllHNmRiY0RGRzZzRHIxajEtNkFYTjBTNDc1Z1I?oc=5",
       "category": "トラブル",
       "topic": "insurance"
-    },
-    {
-      "title": "昭和人間vs AI人間？-広報アドバイザー 長野 香のコラム-第9回 - innovations-i.com",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WZFJnT0JmTm4xcnpDU1U0dW9OX2hSN1FoWHp3QjlwMVRQN0w5X01qaHZTV2xpd3k4RjVjYUFqN2U3R2pLTXM5eG9KMnFyZ0cyR19DRGtDaTdWMEZFc3E4UjNfMExFR0U?oc=5",
-      "pub_date": "2026-08-04T06:00:00+09:00",
-      "source": "innovations-i.com",
-      "description": "",
-      "_glink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WZFJnT0JmTm4xcnpDU1U0dW9OX2hSN1FoWHp3QjlwMVRQN0w5X01qaHZTV2xpd3k4RjVjYUFqN2U3R2pLTXM5eG9KMnFyZ0cyR19DRGtDaTdWMEZFc3E4UjNfMExFR0U?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WZFJnT0JmTm4xcnpDU1U0dW9OX2hSN1FoWHp3QjlwMVRQN0w5X01qaHZTV2xpd3k4RjVjYUFqN2U3R2pLTXM5eG9KMnFyZ0cyR19DRGtDaTdWMEZFc3E4UjNfMExFR0U?oc=5",
-      "category": "一般",
-      "topic": "mynumber"
     }
   ],
   "total": 500
