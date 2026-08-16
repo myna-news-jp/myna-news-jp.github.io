@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T03:41:55+09:00",
+  "updated": "2026-08-17T04:28:52+09:00",
   "alert_level": "green",
   "keywords": [
     {
@@ -724,11 +724,11 @@
         },
         {
           "date": "2026-08-06",
-          "value": 34.0
+          "value": 35.0
         },
         {
           "date": "2026-08-07",
-          "value": 34.0
+          "value": 33.0
         },
         {
           "date": "2026-08-08",
@@ -770,11 +770,11 @@
     },
     {
       "keyword": "保険証",
-      "current": 12.0,
+      "current": 13.0,
       "yesterday": 13.0,
-      "change_day": -7.7,
-      "avg_7day": 17.3,
-      "change_week": -30.6,
+      "change_day": 0.0,
+      "avg_7day": 17.4,
+      "change_week": -25.3,
       "alert": false,
       "history": [
         {
@@ -1107,7 +1107,7 @@
         },
         {
           "date": "2026-08-06",
-          "value": 27.0
+          "value": 28.0
         },
         {
           "date": "2026-08-07",
@@ -1147,7 +1147,7 @@
         },
         {
           "date": "2026-08-16",
-          "value": 12.0
+          "value": 13.0
         }
       ]
     },
