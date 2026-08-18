@@ -1,14 +1,14 @@
 {
-  "updated": "2026-08-18T12:04:57+09:00",
+  "updated": "2026-08-18T12:55:07+09:00",
   "alert_level": "red",
   "keywords": [
     {
       "keyword": "マイナ保険証",
-      "current": 11.0,
+      "current": 10.0,
       "yesterday": 11.0,
-      "change_day": 0.0,
-      "avg_7day": 6.3,
-      "change_week": 74.6,
+      "change_day": -9.1,
+      "avg_7day": 6.1,
+      "change_week": 63.9,
       "alert": true,
       "history": [
         {
@@ -381,17 +381,17 @@
         },
         {
           "date": "2026-08-18",
-          "value": 11.0
+          "value": 10.0
         }
       ]
     },
     {
       "keyword": "マイナンバーカード",
-      "current": 51.0,
+      "current": 52.0,
       "yesterday": 40.0,
-      "change_day": 27.5,
-      "avg_7day": 34.0,
-      "change_week": 50.0,
+      "change_day": 30.0,
+      "avg_7day": 34.1,
+      "change_week": 52.5,
       "alert": true,
       "history": [
         {
@@ -716,7 +716,7 @@
         },
         {
           "date": "2026-08-06",
-          "value": 38.0
+          "value": 37.0
         },
         {
           "date": "2026-08-07",
@@ -732,7 +732,7 @@
         },
         {
           "date": "2026-08-10",
-          "value": 43.0
+          "value": 42.0
         },
         {
           "date": "2026-08-11",
@@ -764,17 +764,17 @@
         },
         {
           "date": "2026-08-18",
-          "value": 51.0
+          "value": 52.0
         }
       ]
     },
     {
       "keyword": "保険証",
-      "current": 41.0,
-      "yesterday": 36.0,
-      "change_day": 13.9,
-      "avg_7day": 23.4,
-      "change_week": 75.2,
+      "current": 39.0,
+      "yesterday": 34.0,
+      "change_day": 14.7,
+      "avg_7day": 23.0,
+      "change_week": 69.6,
       "alert": true,
       "history": [
         {
@@ -1131,7 +1131,7 @@
         },
         {
           "date": "2026-08-14",
-          "value": 17.0
+          "value": 18.0
         },
         {
           "date": "2026-08-15",
@@ -1143,11 +1143,11 @@
         },
         {
           "date": "2026-08-17",
-          "value": 36.0
+          "value": 34.0
         },
         {
           "date": "2026-08-18",
-          "value": 41.0
+          "value": 39.0
         }
       ]
     },
@@ -2302,11 +2302,11 @@
     },
     {
       "keyword": "資格確認書",
-      "current": 13.6,
+      "current": 12.4,
       "yesterday": 9.1,
-      "change_day": 49.5,
-      "avg_7day": 6.7,
-      "change_week": 103.0,
+      "change_day": 36.3,
+      "avg_7day": 6.5,
+      "change_week": 90.8,
       "alert": true,
       "history": [
         {
@@ -2679,7 +2679,7 @@
         },
         {
           "date": "2026-08-18",
-          "value": 13.6
+          "value": 12.4
         }
       ]
     }
