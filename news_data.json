@@ -1,6 +1,17 @@
 {
-  "updated": "2026-08-24T10:17:29+09:00",
+  "updated": "2026-08-24T18:48:16+09:00",
   "articles": [
+    {
+      "title": "従来保険証が使用不可マイナ普及は無理なく - 47NEWS",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE41cWRhMUwyWVAwMnZfTlVBbk96cWZCWEZpakEtRGFzQlZsNXFMUl91V0J4dE9PUkxYTXpaNmtyVklrX0FxdE9uTlBWRQ?oc=5",
+      "pub_date": "2026-08-24T10:10:16+09:00",
+      "source": "47NEWS",
+      "description": "8月1日より、医療機関や薬局での受診時に「有効期限切れの従来の健康保険証」が一切使えなくなる。それに伴い、マイナ保険証や代替手段である「資格確認書」を持たずに受診した場合、保険証を忘れた場合と同様の対応となり、一時的に医療費を全額 ...",
+      "_glink": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE41cWRhMUwyWVAwMnZfTlVBbk96cWZCWEZpakEtRGFzQlZsNXFMUl91V0J4dE9PUkxYTXpaNmtyVklrX0FxdE9uTlBWRQ?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE41cWRhMUwyWVAwMnZfTlVBbk96cWZCWEZpakEtRGFzQlZsNXFMUl91V0J4dE9PUkxYTXpaNmtyVklrX0FxdE9uTlBWRQ?oc=5",
+      "category": "制度変更",
+      "topic": "insurance"
+    },
     {
       "title": "従来保険証が使用不可 マイナ普及は無理なく - 佐賀新聞",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwcHl4cF84eDRSRkJpaFh2UERUT2M5djR0QzlDYjZ4OHVtOHBod2hfNWtqZWhKWDJGeENTYXVoM1NkdzhHbXFYTVRiblVCbzNTeS1IMXRB?oc=5",
@@ -5453,15 +5464,6 @@
       "pub_date": "2026-04-24T15:00:00+09:00",
       "source": "デジタル庁",
       "description": "このたび、当社の連結子会社である株式会社医針盤（以下「医針盤」）の健康管理アプリ「ウィズウェルネス」が、デジタル庁の「マイナンバーカード・インフォ（民間事業者向けお役立ち情報）」に掲載されましたのでお知らせします。 「マイナンバー ...",
-      "category": "一般",
-      "topic": "mynumber"
-    },
-    {
-      "title": "マイナンバーカード・インフォ（自治体向け情報）Vol.121を掲載しました",
-      "link": "https://www.digital.go.jp/policies/mynumber/local-government/info",
-      "pub_date": "2026-04-24T15:00:00+09:00",
-      "source": "デジタル庁",
-      "description": "デジタルで未来最適をリードするスパイラル株式会社（東京都港区、代表取締役グループCEO佐谷 宣昭）は、当社の「インターネット投票システム」がつくば市様に採用された事例について、デジタル庁が運営する情報提供サービス「マイナンバーカード ...",
       "category": "一般",
       "topic": "mynumber"
     }
