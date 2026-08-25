@@ -1,6 +1,80 @@
 {
-  "updated": "2026-08-25T10:15:36+09:00",
+  "updated": "2026-08-25T18:35:40+09:00",
   "articles": [
+    {
+      "title": "新「マイナアプリ」提供開始　本人認証機能を追加―デジタル庁",
+      "link": "https://www.jiji.com/jc/article?k=2026082500736&g=pol&m=rss",
+      "pub_date": "2026-08-25T16:13:00+09:00",
+      "source": "時事通信",
+      "description": "デジタル庁は２５日、マイナンバーカードの機能をスマートフォンで利用できる「マイナポータルアプリ」を刷新し、新たに「マイナアプリ」として提供を始めた。従来のアプリに、同庁が別アプリで手掛けていた本人認証機能を統合し、行政手続きを行う利用者の利便性向上を ...",
+      "thumbnail": "https://www.jiji.com/news2/kiji_photos/202608/20260825ds74_o.jpg",
+      "category": "使い方",
+      "topic": "mynumber"
+    },
+    {
+      "title": "「マイナアプリ」リニューアル スマホあればカード不要の場面広がる - 朝日新聞",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tTWI5NlRoRVBaaFlyWW5jQUJoeXVGc29fQVczQ2RVdGNWMlhtczdDenZzV3BQM2pUWEs3M0oxRGxJYWc2NE9nMWkwT2lFWm81RWFXai1PdDFtb2MzVVpnbUlIeVkwS0E?oc=5",
+      "pub_date": "2026-08-25T14:33:10+09:00",
+      "source": "朝日新聞",
+      "description": "デジタル庁 によると、新アプリになることで、 スマートフォン に事前にマイナカードを読み込ませておけば、カードの実物を取り出さなくても、スマートフォンだけで本人確認ができるようになる。インターネット上の行政サービスなどで本人確認をする際、これまで必要だった別の認証アプリも不要になる。",
+      "_glink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tTWI5NlRoRVBaaFlyWW5jQUJoeXVGc29fQVczQ2RVdGNWMlhtczdDenZzV3BQM2pUWEs3M0oxRGxJYWc2NE9nMWkwT2lFWm81RWFXai1PdDFtb2MzVVpnbUlIeVkwS0E?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tTWI5NlRoRVBaaFlyWW5jQUJoeXVGc29fQVczQ2RVdGNWMlhtczdDenZzV3BQM2pUWEs3M0oxRGxJYWc2NE9nMWkwT2lFWm81RWFXai1PdDFtb2MzVVpnbUlIeVkwS0E?oc=5",
+      "category": "一般",
+      "topic": "mynumber"
+    },
+    {
+      "title": "第213回社会保障審議会医療保険部会（ペーパーレス）の開催について",
+      "link": "https://www.mhlw.go.jp/stf/newpage_75728.html",
+      "pub_date": "2026-08-25T14:00:00+09:00",
+      "source": "厚生労働省",
+      "description": "厚生労働省は3月26日の社会保障審議会医療部会（部会長：遠藤久夫・学習院大学長）で、2026年4月から始まる「医療法人の経営情報の第三者提供制度」に伴い、提供申出の審査等を行う専門委員会（仮称）を設置することを提案。部会は了承した（資料は ...",
+      "thumbnail": "https://www.mhlw.go.jp/common/img/img_ogp.jpg",
+      "category": "政治",
+      "topic": "mynumber"
+    },
+    {
+      "title": "【10月1日開始】マイナンバーカードを医療証に｜川ばた ひろこ（大阪市都島区） - 選挙ドットコム",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92aVY2RlA5bkpzakNNZlpLdU9td09hMkVyVDlmNVNoNElHVFpfZ1BocnBDclZYSTQ4VERfbDV1Q0p3cm82TzBiMFgyRFB0VVZfNThWS0ZJWFd0TFl2REtF?oc=5",
+      "pub_date": "2026-08-25T11:59:17+09:00",
+      "source": "選挙ドットコム",
+      "description": "",
+      "_glink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92aVY2RlA5bkpzakNNZlpLdU9td09hMkVyVDlmNVNoNElHVFpfZ1BocnBDclZYSTQ4VERfbDV1Q0p3cm82TzBiMFgyRFB0VVZfNThWS0ZJWFd0TFl2REtF?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92aVY2RlA5bkpzakNNZlpLdU9td09hMkVyVDlmNVNoNElHVFpfZ1BocnBDclZYSTQ4VERfbDV1Q0p3cm82TzBiMFgyRFB0VVZfNThWS0ZJWFd0TFl2REtF?oc=5",
+      "category": "一般",
+      "topic": "mynumber"
+    },
+    {
+      "title": "マイナアプリの提供を開始しました - デジタル庁 ウェブサービス・アプリケーション",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nV0QteTROSk9LVnVzUVdnVW1udVV4VGxydEFjOGR6cUdpUTVNQ3BiT1NFbGpOelN3QV83bnI2YXZwWUxMRDJjdVNFT0laU0dyc1h3YjF6TldTdHYxMWJqOFU5YU1ETkE?oc=5",
+      "pub_date": "2026-08-25T11:04:57+09:00",
+      "source": "デジタル庁 ウェブサービス・アプリケーション",
+      "description": "デジタル庁は、今夏提供予定としていた「マイナアプリ」について、提供開始日を8月25日にすると発表した。「マイナポータルアプリ」をアップデートすると、自動で「マイナアプリ」に切り替わる。 「マイナアプリ」は、別々に提供されていた「マイナ ...",
+      "_glink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nV0QteTROSk9LVnVzUVdnVW1udVV4VGxydEFjOGR6cUdpUTVNQ3BiT1NFbGpOelN3QV83bnI2YXZwWUxMRDJjdVNFT0laU0dyc1h3YjF6TldTdHYxMWJqOFU5YU1ETkE?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nV0QteTROSk9LVnVzUVdnVW1udVV4VGxydEFjOGR6cUdpUTVNQ3BiT1NFbGpOelN3QV83bnI2YXZwWUxMRDJjdVNFT0laU0dyc1h3YjF6TldTdHYxMWJqOFU5YU1ETkE?oc=5",
+      "category": "一般",
+      "topic": "mynumber"
+    },
+    {
+      "title": "2026年8月25日に「マイナアプリ」の提供を開始しました（デジタル庁ウェブサービス・アプリケーション）",
+      "link": "https://services.digital.go.jp/mynaapp/news/20260825-01/",
+      "pub_date": "2026-08-25T11:00:27+09:00",
+      "source": "デジタル庁",
+      "description": "デジタル庁は7月28日、新「マイナアプリ」を8月25日に提供開始すると発表した。 新「マイナアプリ」 ※クリックすると拡大画像が見られます マイナアプリは、従来の「マイナポータルアプリ」と、官民のサービスで導入が進む「デジタル認証アプリ」の ...",
+      "thumbnail": "https://services.digital.go.jp/uploads/og_images/20260728_mynaapp_01.png",
+      "category": "一般",
+      "topic": "mynumber"
+    },
+    {
+      "title": "スマホ用電子証明書をAndroid端末に追加する方法 - デジタル庁 ウェブサービス・アプリケーション",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IR25ObUcyaW0zT3lhUXY1cnJmMnNubzFHWm5vUkkxdkVKR2xTajZOcVlZTnN5WmpVLTA3NWdDSWFTeTlvZWhPVkU2Ny00VS1CWnFqS1MyS1Vpa1FHNTdNdWowNENyek0?oc=5",
+      "pub_date": "2026-08-24T23:30:58+09:00",
+      "source": "デジタル庁 ウェブサービス・アプリケーション",
+      "description": "マイナンバーカードの特徴の1つである電子証明書を使ったJPKI（公的個人認証）。マイナンバーカードのICチップ内に電子証明書を保管して、オンラインでの本人確認を確実に行えるというメリットがある。 そのJPKIをスマートフォンにも搭載する動きが進め ...",
+      "_glink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IR25ObUcyaW0zT3lhUXY1cnJmMnNubzFHWm5vUkkxdkVKR2xTajZOcVlZTnN5WmpVLTA3NWdDSWFTeTlvZWhPVkU2Ny00VS1CWnFqS1MyS1Vpa1FHNTdNdWowNENyek0?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IR25ObUcyaW0zT3lhUXY1cnJmMnNubzFHWm5vUkkxdkVKR2xTajZOcVlZTnN5WmpVLTA3NWdDSWFTeTlvZWhPVkU2Ny00VS1CWnFqS1MyS1Vpa1FHNTdNdWowNENyek0?oc=5",
+      "category": "一般",
+      "topic": "mynumber"
+    },
     {
       "title": "【2026年8月改正】高額療養費の月額上限はどう変わった？マイナ保険証があっても一部「償還払い」が発生するのはどんなとき？(LIMO) - Yahoo!ファイナンス",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPR1hmM2wxX3JaQ2ttRXduSlpRbzAzZHJjaDlpak9OaklCalVGOGhfTldvX0h3Sk5OSHJWd1M1UV9oYUZjNFhlTjVRVjNSaFFFNDFPYVRkMll4SzlYYVFQOVZpSlZXMzRRNjR3ZWtpdWtydXlkYlFMbmhueUpaMXJPSDg0VHphQUk?oc=5",
@@ -110,6 +184,16 @@
       "_resolved_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xZUxvUzZVd0UzRHdBVHJTMFFrM1dGN21LUk1ZU0NuSFFCMnJDYWhNelRzZ000YXVkdzdSRkJ6bVo4T01jbXNYWFN6SzhaUjMxLVpSUExQaTdwT3ZibEVCUVBzeHBydmEwZmZMWGFILTUxQTR3c3poZDdDZ3FLOFE?oc=5",
       "category": "一般",
       "topic": "insurance"
+    },
+    {
+      "title": "マイナンバーカード・インフォ（民間事業者向け情報）Vol.150、151を掲載しました",
+      "link": "https://www.digital.go.jp/policies/mynumber/private-business/info",
+      "pub_date": "2026-08-20T15:00:00+09:00",
+      "source": "デジタル庁",
+      "description": "デジタルで未来最適をリードするスパイラル株式会社（東京都港区、代表取締役グループCEO佐谷 宣昭）は、当社の「インターネット投票システム」がつくば市様に採用された事例について、デジタル庁が運営する情報提供サービス「マイナンバーカード ...",
+      "thumbnail": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
+      "category": "一般",
+      "topic": "mynumber"
     },
     {
       "title": "マイナンバーカード・インフォ（自治体向け情報）Vol.130、131を掲載しました",
@@ -5379,92 +5463,6 @@
       "description": "マイナ保険証に切り替えたものの、やはり紙の保険証の方が使いやすい、マイナ保険証では困る事態になったなどの理由で、マイナ保険証をやめたいという人もいるかもしれません。本記事ではマイナ保険証に切り替えた後、資格確認書に戻せるのかどうか解説します。※画像： ...",
       "_glink": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9TZ3pGLWpEMjBGNEJXd3lLNHRNVS01WjE2QUZwQ0VJbmRNTjJjWFZVYjJCWDQ5S1JLellKbnlxdU9XOWRMOXIta3FoSnZLMW81LWJfZml2aGhwUlR6SHV4aEdyRW1vRUJTeVQwY29aN3BhejdkSmxBWWd3?oc=5",
       "_resolved_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9TZ3pGLWpEMjBGNEJXd3lLNHRNVS01WjE2QUZwQ0VJbmRNTjJjWFZVYjJCWDQ5S1JLellKbnlxdU9XOWRMOXIta3FoSnZLMW81LWJfZml2aGhwUlR6SHV4aEdyRW1vRUJTeVQwY29aN3BhejdkSmxBWWd3?oc=5",
-      "category": "制度変更",
-      "topic": "insurance"
-    },
-    {
-      "title": "Q. マイナ保険証をやめたいです。1度切り替えたら、もう紙の保険証に戻ることはできないのでしょうか？ [社会ニュース] All About - All About（オールアバウト）",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1YMHVyMFNTTlhDdldLeDN0ZEVzMkh6LU5rWWhONEd4WDd3eDIwZXVyd2YwSnN5OXIxUEkyOGdPSXo2RE1kOTVucGt0bTE?oc=5",
-      "pub_date": "2026-04-25T19:00:11+09:00",
-      "source": "All About（オールアバウト）",
-      "description": "マイナ保険証に切り替えたものの、やはり紙の保険証の方が使いやすい、マイナ保険証では困る事態になったなどの理由で、マイナ保険証をやめたいという人もいるかもしれません。本記事ではマイナ保険証に切り替えた後、資格確認書に戻せるのかどうか解説します。※画像：amanaimages ...",
-      "_glink": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1YMHVyMFNTTlhDdldLeDN0ZEVzMkh6LU5rWWhONEd4WDd3eDIwZXVyd2YwSnN5OXIxUEkyOGdPSXo2RE1kOTVucGt0bTE?oc=5",
-      "category": "制度変更",
-      "topic": "insurance"
-    },
-    {
-      "title": "【マイナンバーカード】健康保険証廃止を4人に1人が「知らない」と明らかに - どう変わる? - ライブドアニュース",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtRmZrQ3hwQ0ZkbWlqWVIzSjZaa1NTWDRmbEwyR3A1YXhmM0JYeVhMVE14VUJVd2pLMmZ6OWxRUDdzenozdC03eS1vT1lGRFc4NElFa05YRWtidmJjNzBv?oc=5",
-      "pub_date": "2026-04-25T16:00:00+09:00",
-      "source": "ライブドアニュース",
-      "description": "2026年8月から健康保険証が使えなくなるなど、マイナンバーカードをめぐる制度変更が進む中、生活者の理解はどこまで進んでいるのだろうか。 そこで、株式会社スガワラくんはこのほど、全国の20歳以上70歳未満の男女300名を対象に「マイナ制度の認知と ...",
-      "_glink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtRmZrQ3hwQ0ZkbWlqWVIzSjZaa1NTWDRmbEwyR3A1YXhmM0JYeVhMVE14VUJVd2pLMmZ6OWxRUDdzenozdC03eS1vT1lGRFc4NElFa05YRWtidmJjNzBv?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtRmZrQ3hwQ0ZkbWlqWVIzSjZaa1NTWDRmbEwyR3A1YXhmM0JYeVhMVE14VUJVd2pLMmZ6OWxRUDdzenozdC03eS1vT1lGRFc4NElFa05YRWtidmJjNzBv?oc=5",
-      "category": "制度変更",
-      "topic": "insurance"
-    },
-    {
-      "title": "Q. マイナ保険証をやめたいです。1度切り替えたら、もう紙の保険証に戻ることはできないのでしょうか？（All About） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jNFhYYXhySXJfamxlX0pndzFqczRTdENGRExYaWdDMTEydzd2Sl9NX2ZZVlZuMXhPbWx6LWYtOGQ2XzFpV0FaYmpPeXV3NTNpRUwwWlhQMEl0TUpaQWFkUHF6ODUzdnB4RnRrTTM2NjdNa21uaW43cmljeXZSX28?oc=5",
-      "pub_date": "2026-04-25T16:00:00+09:00",
-      "source": "Yahoo!ニュース",
-      "description": "マイナ保険証に切り替えたものの、やはり紙の保険証の方が使いやすい、マイナ保険証では困る事態になったなどの理由で、マイナ保険証をやめたいという人もいるかもしれません。本記事ではマイナ保険証に切り替えた後、資格確認書に戻せるのかどうか解説します。※画像：amanaimages ...",
-      "_glink": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jNFhYYXhySXJfamxlX0pndzFqczRTdENGRExYaWdDMTEydzd2Sl9NX2ZZVlZuMXhPbWx6LWYtOGQ2XzFpV0FaYmpPeXV3NTNpRUwwWlhQMEl0TUpaQWFkUHF6ODUzdnB4RnRrTTM2NjdNa21uaW43cmljeXZSX28?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jNFhYYXhySXJfamxlX0pndzFqczRTdENGRExYaWdDMTEydzd2Sl9NX2ZZVlZuMXhPbWx6LWYtOGQ2XzFpV0FaYmpPeXV3NTNpRUwwWlhQMEl0TUpaQWFkUHF6ODUzdnB4RnRrTTM2NjdNa21uaW43cmljeXZSX28?oc=5",
-      "category": "制度変更",
-      "topic": "insurance"
-    },
-    {
-      "title": "4人に1人が8月以降、健康保険証が使えなくなることを「知らない」 - @DIME アットダイム",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9PM3hRS0x2OEhkQUVNUUY5WExmTS1ib3FXTEMtc0l1UzhUaXZ3REdmZUJfRzlJY1dldjE5ZTh3dUExaWEy?oc=5",
-      "pub_date": "2026-04-25T15:08:34+09:00",
-      "source": "@DIME アットダイム",
-      "description": "まず、「2026年8月から健康保険証が使えなくなることを知っているか？」と聞いたところ、「知っていて内容の理解している」と回答した人は4割弱（38.7％）で、「知っているが詳しくは知らない」（24.0％）を含めると6割超（62.7％）いたものの、「知 ...",
-      "_glink": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9PM3hRS0x2OEhkQUVNUUY5WExmTS1ib3FXTEMtc0l1UzhUaXZ3REdmZUJfRzlJY1dldjE5ZTh3dUExaWEy?oc=5",
-      "category": "一般",
-      "topic": "insurance"
-    },
-    {
-      "title": "【画像】【マイナンバーカード】健康保険証廃止を4人に1人が「知らない」と明らかに - どう変わる? 1/6 - ライブドアニュース",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9jRkJfM1RONEZQd2luanBJWGwwV0dyMWczdjU0bUVMYjAyQVVXVmNDM2ZVcHF4RS1DTVJXTFg4YlY5MzVrVTktNzQyU1ExaU9Gb0R3ZjdNdGpUU2VCZ2VobVI4VFFIV254bzYxVUVaWHdhWmVVd3BzWlNKNko?oc=5",
-      "pub_date": "2026-04-25T14:55:55+09:00",
-      "source": "ライブドアニュース",
-      "description": "株式会社スガワラくんのプレスリリース（2026年4月21日 10時20分）認知は進むが理解は不十分？マイナ制度のギャップ実態調査　保険証終了、知っているのは6割止まり　有効期限も3割が未理解、7割超が“今後は必要”と回答 ...",
-      "_glink": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9jRkJfM1RONEZQd2luanBJWGwwV0dyMWczdjU0bUVMYjAyQVVXVmNDM2ZVcHF4RS1DTVJXTFg4YlY5MzVrVTktNzQyU1ExaU9Gb0R3ZjdNdGpUU2VCZ2VobVI4VFFIV254bzYxVUVaWHdhWmVVd3BzWlNKNko?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9jRkJfM1RONEZQd2luanBJWGwwV0dyMWczdjU0bUVMYjAyQVVXVmNDM2ZVcHF4RS1DTVJXTFg4YlY5MzVrVTktNzQyU1ExaU9Gb0R3ZjdNdGpUU2VCZ2VobVI4VFFIV254bzYxVUVaWHdhWmVVd3BzWlNKNko?oc=5",
-      "category": "制度変更",
-      "topic": "insurance"
-    },
-    {
-      "title": "【マイナンバーカード】健康保険証廃止を4人に1人が「知らない」と明らかに - どう変わる? - マイナビニュース",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE04T3V0MHdFOF9VUXJSa2ZTRGhBZUszQWJFRl90N0FmSnVpS2U2M0l1M28weGZYeGp2dDB0M1JmLXp4Y21Da2FUR2xiSnJhQjA2RUNqRE1LcHMwUTFI?oc=5",
-      "pub_date": "2026-04-25T14:55:55+09:00",
-      "source": "マイナビニュース",
-      "description": "「2026年8月から健康保険証が使えなくなることを知っているか?」と聞いたところ、「知っていて内容の理解している」と回答した人は4割弱(38.7%)で、「知っているが詳しくは知らない」(24.0%)を含めると6割超(62.7%)いたものの、「知らない ...",
-      "_glink": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE04T3V0MHdFOF9VUXJSa2ZTRGhBZUszQWJFRl90N0FmSnVpS2U2M0l1M28weGZYeGp2dDB0M1JmLXp4Y21Da2FUR2xiSnJhQjA2RUNqRE1LcHMwUTFI?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE04T3V0MHdFOF9VUXJSa2ZTRGhBZUszQWJFRl90N0FmSnVpS2U2M0l1M28weGZYeGp2dDB0M1JmLXp4Y21Da2FUR2xiSnJhQjA2RUNqRE1LcHMwUTFI?oc=5",
-      "category": "制度変更",
-      "topic": "insurance"
-    },
-    {
-      "title": "後期高齢者医療の資格確認書について - city.yabu.hyogo.jp",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY0Y5Y2NKRjVfTGlXcnVJZnF6NU5GUEk4VndyWXVkRzJkTndaLWk1M3lmM0xEOTItOC0wbVBHalhpcnhsZFc1eXFSYVB4Xy1GRzN3UjZLTXllVlVmZTBYM3VCYnRlMmN5eEJqZmZDRWhWbHlleTBKSXQwSl94WVktdWxn?oc=5",
-      "pub_date": "2026-04-24T16:00:00+09:00",
-      "source": "city.yabu.hyogo.jp",
-      "description": "「後期高齢者医療制度」と「国民健康保険」の多くが、従来の保険証の期限切れを迎えました。そこで、登録者数120万人超のYouTubeチャンネル『脱・税理士スガワラくん』を運営する税理士の菅原 由一は、全国の国民健康保険および後期高齢者医療制度の ...",
-      "_glink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY0Y5Y2NKRjVfTGlXcnVJZnF6NU5GUEk4VndyWXVkRzJkTndaLWk1M3lmM0xEOTItOC0wbVBHalhpcnhsZFc1eXFSYVB4Xy1GRzN3UjZLTXllVlVmZTBYM3VCYnRlMmN5eEJqZmZDRWhWbHlleTBKSXQwSl94WVktdWxn?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY0Y5Y2NKRjVfTGlXcnVJZnF6NU5GUEk4VndyWXVkRzJkTndaLWk1M3lmM0xEOTItOC0wbVBHalhpcnhsZFc1eXFSYVB4Xy1GRzN3UjZLTXllVlVmZTBYM3VCYnRlMmN5eEJqZmZDRWhWbHlleTBKSXQwSl94WVktdWxn?oc=5",
-      "category": "制度変更",
-      "topic": "insurance"
-    },
-    {
-      "title": "資格確認書・資格情報のお知らせの交付（後期高齢者医療） - city.takatsuki.osaka.jp",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHSjc0WUtOQklGbzJGbTVRajNCNGMzeWxFX05WSDFKSmRQdlo5d3hRZUJhMmxRYnlXaTBsVFh2cVRIZnlteFhZM3c5X3FHaFBCZmEwa01WQjNzR2dzcW9aenJrcC1TYl9YNEE?oc=5",
-      "pub_date": "2026-04-24T16:00:00+09:00",
-      "source": "city.takatsuki.osaka.jp",
-      "description": "7月末で国民健康保険（国保）の多くは、従来の保険証の有効期限を迎える。 大量の期限切れを前に、厚生労働省は、国保加入者に限り、保険資格を確認する補助書類でも、保険証のように病院で受診できる例外を認めた。 マイナ保険証移行に伴うルール ...",
-      "_glink": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHSjc0WUtOQklGbzJGbTVRajNCNGMzeWxFX05WSDFKSmRQdlo5d3hRZUJhMmxRYnlXaTBsVFh2cVRIZnlteFhZM3c5X3FHaFBCZmEwa01WQjNzR2dzcW9aenJrcC1TYl9YNEE?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHSjc0WUtOQklGbzJGbTVRajNCNGMzeWxFX05WSDFKSmRQdlo5d3hRZUJhMmxRYnlXaTBsVFh2cVRIZnlteFhZM3c5X3FHaFBCZmEwa01WQjNzR2dzcW9aenJrcC1TYl9YNEE?oc=5",
       "category": "制度変更",
       "topic": "insurance"
     }
