@@ -1,6 +1,37 @@
 {
-  "updated": "2026-08-28T04:28:11+09:00",
+  "updated": "2026-08-28T18:55:19+09:00",
   "articles": [
+    {
+      "title": "デジタル推進委員向けのデジタル情報をまとめて案内するページ「教える人のためのデジタル情報ひろば」において「マイナポータルを知る」を更新しました",
+      "link": "https://www.digital.go.jp/policies/digital_promotion_staff/curation",
+      "pub_date": "2026-08-28T18:46:36+09:00",
+      "source": "デジタル庁",
+      "description": "1．Society5.0時代のデジタル人材育成に関する検討会 経済産業省では、今後のデジタル人材育成のあり方を議論するべく、「Society5.0時代のデジタル人材育成に関する検討会」及び「デジタル人材のスキル・学習の在り方ワーキンググループ」を開催し ...",
+      "thumbnail": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
+      "category": "一般",
+      "topic": "mynumber"
+    },
+    {
+      "title": "マイナンバーカードの普及と利活用に関するダッシュボードを更新しました",
+      "link": "https://www.digital.go.jp/resources/govdashboard/mynumber_card_penetration_usage",
+      "pub_date": "2026-08-28T15:00:00+09:00",
+      "source": "デジタル庁",
+      "description": "1．マイナンバーカード交付状況等に関するダッシュボードについて マイナンバーカードの有効期間は、発行日から10回目の誕生日（18歳未満は5回目）まで、電子証明書の有効期間は、年齢問わず発行日から5回目の誕生日までに設定されています。マイ ...",
+      "thumbnail": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
+      "category": "一般",
+      "topic": "mynumber"
+    },
+    {
+      "title": "派遣の健康保険はどこに加入する？保険証の扱いと派遣健保の解散後をまとめた解説ページを公開 - Newscast.jp",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12TF90WVh5bnZvd2daeHIxMWlZQzFxVzJYMUZZTjVjSEdOaEV4SjdiRDl2LUk2cUo5d2U4SXQ0VVA5NHJzdmdua0QzSGM5V2c?oc=5",
+      "pub_date": "2026-08-28T14:50:00+09:00",
+      "source": "Newscast.jp",
+      "description": "契約満了で退職予定の派遣社員です。退職後は無収入になります。健康保険は任意継続と国保のどちらを選ぶのがよいでしょうか？ 派遣社員として働いていて、契約満了で退職する予定の場合、退職後の健康保険をどうするかは早めに決めておきたい問題です ...",
+      "_glink": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12TF90WVh5bnZvd2daeHIxMWlZQzFxVzJYMUZZTjVjSEdOaEV4SjdiRDl2LUk2cUo5d2U4SXQ0VVA5NHJzdmdua0QzSGM5V2c?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12TF90WVh5bnZvd2daeHIxMWlZQzFxVzJYMUZZTjVjSEdOaEV4SjdiRDl2LUk2cUo5d2U4SXQ0VVA5NHJzdmdua0QzSGM5V2c?oc=5",
+      "category": "一般",
+      "topic": "insurance"
+    },
     {
       "title": "マイナンバーカードの入れ物、まだ初期装備の人へ。財布に収まる本革ケースという選択肢 - ライフハッカー",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4teklJaUR4YmZWVVNSeFhuSzBLMzJxcUlIZ3BKeEZfRHNkRWtXVzlLRDUwOHBEUXlUWGg5ZFVBTjUwaUZsNHFaZEVWWGxiMzRVR0JwUzVXejl0Rng3ZjBXcVM4Y0Z1NTU5b2Y5ZHBR?oc=5",
@@ -1323,6 +1354,17 @@
       "_glink": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Zb01BOERwcUJxdTBMd3dVOWt5WVh0YVBpUS1WM1BCc3g4MlItZDF4RjFpcTRQVXQ4aC1xdDU0a3c1VGJ0RXR2bXdpWmpsODczY1JyZlpqNDBvZG03TXhMN1doNjFGaEFGZ05CM2xqbzFKYUdnZ09mRDJ6aw?oc=5",
       "_resolved_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Zb01BOERwcUJxdTBMd3dVOWt5WVh0YVBpUS1WM1BCc3g4MlItZDF4RjFpcTRQVXQ4aC1xdDU0a3c1VGJ0RXR2bXdpWmpsODczY1JyZlpqNDBvZG03TXhMN1doNjFGaEFGZ05CM2xqbzFKYUdnZ09mRDJ6aw?oc=5",
       "category": "トラブル",
+      "topic": "insurance"
+    },
+    {
+      "title": "マイナンバーカードの健康保険証利用について（国民健康保険） - town.togitsu.nagasaki.jp",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUVAxcEpETjNQNVlFTzRxbVZQSVgtOXBuRmtXNlNDZ24za2pMYVk1NHJ3b3A4MndfemNVcHNpS2VDcTJKUUNPTVkweGUwRGhYRzN5dHkwa05LZ3hHdk5Dc2ZQV1pFR0dlTVlNeWpBMmhmeUdlY2tHOVEtZG5zWDU3ZDNiZmJNUkFZWUlQdXRodkY1dWpqUGtSdWJtckF5dldTMWJRdjNLTGJZZ2Y5ejFSTDN3aWp1UjBvLW9hLWxSdw?oc=5",
+      "pub_date": "2026-08-01T16:00:00+09:00",
+      "source": "town.togitsu.nagasaki.jp",
+      "description": "マイナンバーカードの健康保険証利用、いわゆる「マイナ保険証」をスマートフォンでも利用可能にするための実証実験が、7月1日にスタートした。2日には厚生労働大臣とデジタル大臣がデモンストレーションを行い、スマートフォン単体で病院の受付を ...",
+      "_glink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUVAxcEpETjNQNVlFTzRxbVZQSVgtOXBuRmtXNlNDZ24za2pMYVk1NHJ3b3A4MndfemNVcHNpS2VDcTJKUUNPTVkweGUwRGhYRzN5dHkwa05LZ3hHdk5Dc2ZQV1pFR0dlTVlNeWpBMmhmeUdlY2tHOVEtZG5zWDU3ZDNiZmJNUkFZWUlQdXRodkY1dWpqUGtSdWJtckF5dldTMWJRdjNLTGJZZ2Y5ejFSTDN3aWp1UjBvLW9hLWxSdw?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUVAxcEpETjNQNVlFTzRxbVZQSVgtOXBuRmtXNlNDZ24za2pMYVk1NHJ3b3A4MndfemNVcHNpS2VDcTJKUUNPTVkweGUwRGhYRzN5dHkwa05LZ3hHdk5Dc2ZQV1pFR0dlTVlNeWpBMmhmeUdlY2tHOVEtZG5zWDU3ZDNiZmJNUkFZWUlQdXRodkY1dWpqUGtSdWJtckF5dldTMWJRdjNLTGJZZ2Y5ejFSTDN3aWp1UjBvLW9hLWxSdw?oc=5",
+      "category": "政治",
       "topic": "insurance"
     },
     {
@@ -4292,6 +4334,17 @@
       "topic": "insurance"
     },
     {
+      "title": "【後期高齢者医療制度】水色の新しい資格確認書または資格情報のお知らせを送付します - city.nerima.tokyo.jp",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOc0lETkdPeXhIdDJ2RlBzdTZpakpsT29lOUo4ZlJXLWtINjhSME1fdGNRcTNsT3dZbEtmX1VweElPZjcweUtQb1ZpTDZSWkNUSzM3TjRjLXN0YklCcmI3R2RsTXVKQVFqY3drT2c0RzFEcHd3dGRDMG0ybGd1bVhVYkQ4RXJwUWtJbWZZ?oc=5",
+      "pub_date": "2026-06-11T16:00:00+09:00",
+      "source": "city.nerima.tokyo.jp",
+      "description": "85歳以上と84歳以下で届く書類が変わる 後期高齢者医療制度に加入している方のもとには、毎年7月ごろに保険証代わりとなる書類が届きます。今年（令和8年）も7月中に発送が行われましたが、令和8年8月からは、この書類の交付ルールが一部変わりました。",
+      "_glink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOc0lETkdPeXhIdDJ2RlBzdTZpakpsT29lOUo4ZlJXLWtINjhSME1fdGNRcTNsT3dZbEtmX1VweElPZjcweUtQb1ZpTDZSWkNUSzM3TjRjLXN0YklCcmI3R2RsTXVKQVFqY3drT2c0RzFEcHd3dGRDMG0ybGd1bVhVYkQ4RXJwUWtJbWZZ?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOc0lETkdPeXhIdDJ2RlBzdTZpakpsT29lOUo4ZlJXLWtINjhSME1fdGNRcTNsT3dZbEtmX1VweElPZjcweUtQb1ZpTDZSWkNUSzM3TjRjLXN0YklCcmI3R2RsTXVKQVFqY3drT2c0RzFEcHd3dGRDMG0ybGd1bVhVYkQ4RXJwUWtJbWZZ?oc=5",
+      "category": "一般",
+      "topic": "insurance"
+    },
+    {
       "title": "令和8年8月以降の資格確認書の取り扱いが変わります - city.soma.fukushima.jp",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcndaV0NpOFRQUEUySkhIQTB0eVRhVC1ac19LWEp6NldGTmRad0xyU2RoSzlZLTN6MWVsMmJRUFlZNE13dk1ZVWc3b2hoc0V3LUp3UDJ2MVZoVnYyV3BWTTRWODNhRlJLX2drN2FLc1hKb2luVWgxN1dIOUhNeG9OZHhIaWJUTUtmT1RRRDhtc28?oc=5",
       "pub_date": "2026-06-11T16:00:00+09:00",
@@ -5419,57 +5472,6 @@
       "_resolved_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBSeEM2M1lnQ0gyV2ZrVzdyaGx6UThOa09PYXROcUgtNThsUUt0SVozc3BfMS1VMXFYRlNwSHZvZUlPMlFyLVBuM3V6SWt2aDg3WHZoRWVfNkpKZnM4YnNfUk9PYzl0OUVkTkotcHR6Z1NuYm5IQVowMlhkQQ?oc=5",
       "category": "制度変更",
       "topic": "insurance"
-    },
-    {
-      "title": "マイナンバーカードの申請ができます！ - city.kawaguchi.lg.jp",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB4VzRhNENRYm5ZeGJjOWp4d20yaXVjRlhSc1k1VkJ0VHpBZHNiQmJ3c01NM3Z3OXd1N0FmRkk5NFVoOXlZdHpueXhSSnpjc053Yldsb01QOFpULURKXzM3UVc4czU3eFJBMU5QUGtKdC12Zk0?oc=5",
-      "pub_date": "2026-05-01T16:00:00+09:00",
-      "source": "city.kawaguchi.lg.jp",
-      "description": "デジタル庁は6月24日、iPhone向けの「個人番号カード（マイナンバーカード）」の搭載サービスを開始しました。iOS 18.5以降をインストールした「iPhone XS」「iPhone XR」以降の機種（第2／3世代の「iPhone SE」を含む）で利用できます。",
-      "_glink": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB4VzRhNENRYm5ZeGJjOWp4d20yaXVjRlhSc1k1VkJ0VHpBZHNiQmJ3c01NM3Z3OXd1N0FmRkk5NFVoOXlZdHpueXhSSnpjc053Yldsb01QOFpULURKXzM3UVc4czU3eFJBMU5QUGtKdC12Zk0?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB4VzRhNENRYm5ZeGJjOWp4d20yaXVjRlhSc1k1VkJ0VHpBZHNiQmJ3c01NM3Z3OXd1N0FmRkk5NFVoOXlZdHpueXhSSnpjc053Yldsb01QOFpULURKXzM3UVc4czU3eFJBMU5QUGtKdC12Zk0?oc=5",
-      "category": "一般",
-      "topic": "mynumber"
-    },
-    {
-      "title": "マイナンバーカードの申請ができます！ - city.kawaguchi.lg.jp",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB4VzRhNENRYm5ZeGJjOWp4d20yaXVjRlhSc1k1VkJ0VHpBZHNiQmJ3c01NM3Z3OXd1N0FmRkk5NFVoOXlZdHpueXhSSnpjc053Yldsb01QOFpULURKXzM3UVc4czU3eFJBMU5QUGtKdC12Zk0?oc=5",
-      "pub_date": "2026-05-01T16:00:00+09:00",
-      "source": "city.kawaguchi.lg.jp",
-      "description": "デジタル庁は6月24日、iPhone向けの「個人番号カード（マイナンバーカード）」の搭載サービスを開始しました。iOS 18.5以降をインストールした「iPhone XS」「iPhone XR」以降の機種（第2／3世代の「iPhone SE」を含む）で利用できます。",
-      "_glink": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB4VzRhNENRYm5ZeGJjOWp4d20yaXVjRlhSc1k1VkJ0VHpBZHNiQmJ3c01NM3Z3OXd1N0FmRkk5NFVoOXlZdHpueXhSSnpjc053Yldsb01QOFpULURKXzM3UVc4czU3eFJBMU5QUGtKdC12Zk0?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB4VzRhNENRYm5ZeGJjOWp4d20yaXVjRlhSc1k1VkJ0VHpBZHNiQmJ3c01NM3Z3OXd1N0FmRkk5NFVoOXlZdHpueXhSSnpjc053Yldsb01QOFpULURKXzM3UVc4czU3eFJBMU5QUGtKdC12Zk0?oc=5",
-      "category": "一般",
-      "topic": "mynumber"
-    },
-    {
-      "title": "助成金の手続きもご相談も、ここですぐ！介護情報基盤ポータル、アップデート - wam.go.jp",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV1J2SUdFMk5pOVd6b3o2VW8xWG5NQTROZmFJMEVoN1dJU1JHc180Z01mMUpqZGxTVmMwTENkMERpNmhSWlItLVQxcmNUSzUxSjFlalp5cDB1REZ0cGhXMUVMZW9NeFZZbnJLMXBJZjAzNGYzckR4NWpWc3R2NWJlV3E3dzdIdw?oc=5",
-      "pub_date": "2026-04-30T16:00:00+09:00",
-      "source": "wam.go.jp",
-      "description": "",
-      "_glink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV1J2SUdFMk5pOVd6b3o2VW8xWG5NQTROZmFJMEVoN1dJU1JHc180Z01mMUpqZGxTVmMwTENkMERpNmhSWlItLVQxcmNUSzUxSjFlalp5cDB1REZ0cGhXMUVMZW9NeFZZbnJLMXBJZjAzNGYzckR4NWpWc3R2NWJlV3E3dzdIdw?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV1J2SUdFMk5pOVd6b3o2VW8xWG5NQTROZmFJMEVoN1dJU1JHc180Z01mMUpqZGxTVmMwTENkMERpNmhSWlItLVQxcmNUSzUxSjFlalp5cDB1REZ0cGhXMUVMZW9NeFZZbnJLMXBJZjAzNGYzckR4NWpWc3R2NWJlV3E3dzdIdw?oc=5",
-      "category": "使い方",
-      "topic": "mynumber"
-    },
-    {
-      "title": "第38回社会保障審議会医療保険部会　あん摩マッサージ指圧、はり・きゅう療養費検討専門委員会配布資料",
-      "link": "https://www.mhlw.go.jp/stf/shingi2/newpage_00266.html",
-      "pub_date": "2026-04-30T12:00:00+09:00",
-      "source": "厚生労働省",
-      "description": "厚生労働省が4月4日に開いた社会保障審議会医療保険部会で、高額療養費制度の自己負担限度額の見直しの一連の動きを巡り、保険局長の鹿沼均氏が部会の委員に対し「心からお詫びを申し上げる。引き続き部会で議論をお願いしたいと考えている」と述べた。委員から「その前に医療費財源 ...",
-      "category": "制度変更",
-      "topic": "insurance"
-    },
-    {
-      "title": "第35回社会保障審議会医療保険部会 柔道整復療養費検討専門委員会配布資料",
-      "link": "https://www.mhlw.go.jp/stf/shingi2/newpage_00265.html",
-      "pub_date": "2026-04-30T12:00:00+09:00",
-      "source": "厚生労働省",
-      "description": "厚生労働省は5月1日に開いた社会保障審議会医療保険部会で、部会の下に新たに「高額療養費制度の在り方に関する専門委員会（仮称）」を設置し、高額療養費制度について集中的に検討する方針を提示、了承を得た。委員には患者など当事者の声を反映 ...",
-      "category": "政治",
-      "topic": "mynumber"
     }
   ]
 }
