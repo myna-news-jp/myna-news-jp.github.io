@@ -1,6 +1,17 @@
 {
-  "updated": "2026-08-31T13:02:40+09:00",
+  "updated": "2026-09-01T01:45:52+09:00",
   "articles": [
+    {
+      "title": "マイナンバーカードの一体化による利便性についてどう思いますか？ - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBjbVROY0ZBUVlHaG1ncXgzUk9KZ3VLOU1zVUNXLWlYNUVJV3Z4UDdGcmtQNXVMOEtkLWxEQk1sU3hDaHpLZFEtbTZEeTc?oc=5",
+      "pub_date": "2026-09-01T00:00:57+09:00",
+      "source": "Yahoo!ニュース",
+      "description": "出入国在留管理庁は6月14日、在留カードとマイナンバーカードの機能を1枚にまとめたICカード「特定在留カード」の運用を始めた。両カードに関わる手続きを一元化し、外国人の利便性向上と行政の効率化を図る。取得は義務ではなく任意。 一体化された ...",
+      "_glink": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBjbVROY0ZBUVlHaG1ncXgzUk9KZ3VLOU1zVUNXLWlYNUVJV3Z4UDdGcmtQNXVMOEtkLWxEQk1sU3hDaHpLZFEtbTZEeTc?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBjbVROY0ZBUVlHaG1ncXgzUk9KZ3VLOU1zVUNXLWlYNUVJV3Z4UDdGcmtQNXVMOEtkLWxEQk1sU3hDaHpLZFEtbTZEeTc?oc=5",
+      "category": "使い方",
+      "topic": "mynumber"
+    },
     {
       "title": "マイナ保険証時代でも医療費の領収書を必ず保管！医療費控除で「マイナポータル連携」は絶対やめた方がいい【確定申告準備】 - FP Cafe",
       "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5PZVR1cmpaQmR2MklqY1VFeU1XVDROUmQzMUcyRjVhM0xLeHM0WFRWeTU3ZU5tOHZabExIQ09zOThVUQ?oc=5",
@@ -531,17 +542,6 @@
       "_glink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUDYwVmRPaHVqWXpZOEtMUlduenJnbGJoN1o1Q09ZRkFUNk9pRFljejRqcG9mOVJmT3JWT2ExaEFnei0zMklpSlIwTFRLM09qcW95bkczOXNsRTMxaXlXNlcxVWZkVXNwQXlDUnFnSzFIbm0yNXduQWdVaDNMN2Qxc0N3?oc=5",
       "_resolved_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUDYwVmRPaHVqWXpZOEtMUlduenJnbGJoN1o1Q09ZRkFUNk9pRFljejRqcG9mOVJmT3JWT2ExaEFnei0zMklpSlIwTFRLM09qcW95bkczOXNsRTMxaXlXNlcxVWZkVXNwQXlDUnFnSzFIbm0yNXduQWdVaDNMN2Qxc0N3?oc=5",
       "category": "統計",
-      "topic": "insurance"
-    },
-    {
-      "title": "国民健康保険証が廃止へ。マイナ保険証を持っていない場合はどうなる？ - LIMO | くらしとお金の経済メディア",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wOXBIN2w2OE1uWVFPZTVfeF8tUEw4eER3UjdPdWNQaEVhRDRJZXRycGFzVFd2eDZfd2U4am4wUVZnM0xrbmNmU0ZPcHVpM3JEelVxS0xn?oc=5",
-      "pub_date": "2026-08-17T09:22:58+09:00",
-      "source": "LIMO | くらしとお金の経済メディア",
-      "description": "健康保険証の新規発行が2024年12月1日に終了したのに伴い、その1年後となる2025年12月1日をもって、既存の発行済みの健康保険証も有効期限を迎える。これにより、12月2日からはマイナ保険証を基本とする仕組みになる。マイナ保険証に登録していない人には ...",
-      "_glink": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wOXBIN2w2OE1uWVFPZTVfeF8tUEw4eER3UjdPdWNQaEVhRDRJZXRycGFzVFd2eDZfd2U4am4wUVZnM0xrbmNmU0ZPcHVpM3JEelVxS0xn?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wOXBIN2w2OE1uWVFPZTVfeF8tUEw4eER3UjdPdWNQaEVhRDRJZXRycGFzVFd2eDZfd2U4am4wUVZnM0xrbmNmU0ZPcHVpM3JEelVxS0xn?oc=5",
-      "category": "制度変更",
       "topic": "insurance"
     }
   ],
