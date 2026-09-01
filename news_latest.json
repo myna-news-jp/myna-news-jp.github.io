@@ -1,6 +1,27 @@
 {
-  "updated": "2026-09-01T01:45:52+09:00",
+  "updated": "2026-09-01T12:53:03+09:00",
   "articles": [
+    {
+      "title": "デジタル庁設立5年 ～デジタルで変わる、一人ひとりの暮らし～ - デジタル庁",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WNVFZSzlma0lhSWxmZ0NsZEFtVkVfckR6dDdCb0tyYldJZUZJc0Nkd3VwSGp6YXI4VVFEa2FhS2FTZ1MzcXhNMUVXbTgybVBZZEhFZDBPcUJaZw?oc=5",
+      "pub_date": "2026-09-01T09:59:46+09:00",
+      "source": "デジタル庁",
+      "description": "※本稿は、JBpress Innovation Review主催の「行政イノベーションフォーラム」における「基調講演：人口減少時代における行政DX／デジタル庁デジタル監 三角育生氏」（2026年3月に配信）を基に制作しています。 社会環境の変化を受け「ガバメントAI」基盤の構築 ...",
+      "_glink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WNVFZSzlma0lhSWxmZ0NsZEFtVkVfckR6dDdCb0tyYldJZUZJc0Nkd3VwSGp6YXI4VVFEa2FhS2FTZ1MzcXhNMUVXbTgybVBZZEhFZDBPcUJaZw?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WNVFZSzlma0lhSWxmZ0NsZEFtVkVfckR6dDdCb0tyYldJZUZJc0Nkd3VwSGp6YXI4VVFEa2FhS2FTZ1MzcXhNMUVXbTgybVBZZEhFZDBPcUJaZw?oc=5",
+      "category": "一般",
+      "topic": "mynumber"
+    },
+    {
+      "title": "「先進企業に学ぶ！マイナンバーカード友の会ミートアップ！！」を開催しました",
+      "link": "https://www.digital.go.jp/news/0f95a36a-87fe-4e04-b232-f1960f63ea96",
+      "pub_date": "2026-09-01T09:57:10+09:00",
+      "source": "デジタル庁",
+      "description": "",
+      "thumbnail": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
+      "category": "一般",
+      "topic": "mynumber"
+    },
     {
       "title": "マイナンバーカードの一体化による利便性についてどう思いますか？ - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBjbVROY0ZBUVlHaG1ncXgzUk9KZ3VLOU1zVUNXLWlYNUVJV3Z4UDdGcmtQNXVMOEtkLWxEQk1sU3hDaHpLZFEtbTZEeTc?oc=5",
@@ -520,28 +541,6 @@
       "_glink": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBERDdpR25oZ3g2UjNkS3hFZlp1b1ZFQlRZWFdGZzhMNFFWVHVjb1lXY1daTGhQM0tDRW1OS2hmdi13c24wZGVScw?oc=5",
       "_resolved_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBERDdpR25oZ3g2UjNkS3hFZlp1b1ZFQlRZWFdGZzhMNFFWVHVjb1lXY1daTGhQM0tDRW1OS2hmdi13c24wZGVScw?oc=5",
       "category": "一般",
-      "topic": "insurance"
-    },
-    {
-      "title": "【識者の眼】「保険証が消えた夏、救急の窓口で」薬師寺泰匡 - 日本医事新報社",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1NmlBemk4TnZlQ3dXczAxVUNCSWFlX1ZDS2xrZUtJTmtNbXUyQ3dCdFF3WDVaMGJoT180MFlrbTVuLWROM2hNYU9ENnh3dE1HSUhLRE03ZUR1OEtoVzNvQQ?oc=5",
-      "pub_date": "2026-08-17T10:01:36+09:00",
-      "source": "日本医事新報社",
-      "description": "厚生労働省は社会保障審議会の医療保険部会にマイナ保険証の利用率を報告した 厚生労働省は18日、マイナンバーカードと健康保険証を一体にした「マイナ保険証」の4月の利用率が68.15%だったと報告した。紙やプラスチックの保険証を持参した場合も1〜3割 ...",
-      "_glink": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1NmlBemk4TnZlQ3dXczAxVUNCSWFlX1ZDS2xrZUtJTmtNbXUyQ3dCdFF3WDVaMGJoT180MFlrbTVuLWROM2hNYU9ENnh3dE1HSUhLRE03ZUR1OEtoVzNvQQ?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1NmlBemk4TnZlQ3dXczAxVUNCSWFlX1ZDS2xrZUtJTmtNbXUyQ3dCdFF3WDVaMGJoT180MFlrbTVuLWROM2hNYU9ENnh3dE1HSUhLRE03ZUR1OEtoVzNvQQ?oc=5",
-      "category": "統計",
-      "topic": "insurance"
-    },
-    {
-      "title": "マイナ保険証が医療福祉費（マル福）・はぐくみ受給者証として利用できます - city.chikusei.lg.jp",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUDYwVmRPaHVqWXpZOEtMUlduenJnbGJoN1o1Q09ZRkFUNk9pRFljejRqcG9mOVJmT3JWT2ExaEFnei0zMklpSlIwTFRLM09qcW95bkczOXNsRTMxaXlXNlcxVWZkVXNwQXlDUnFnSzFIbm0yNXduQWdVaDNMN2Qxc0N3?oc=5",
-      "pub_date": "2026-08-17T09:29:07+09:00",
-      "source": "city.chikusei.lg.jp",
-      "description": "マイナンバーカードと健康保険証が一体化した「マイナ保険証」の和歌山県内での利用率が全都道府県でワースト2位と低迷している。県は利用を促す一方、医療現場からは課題を指摘する声も上がる。 従来の健康保険証は昨年12月に新規発行が停止されて ...",
-      "_glink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUDYwVmRPaHVqWXpZOEtMUlduenJnbGJoN1o1Q09ZRkFUNk9pRFljejRqcG9mOVJmT3JWT2ExaEFnei0zMklpSlIwTFRLM09qcW95bkczOXNsRTMxaXlXNlcxVWZkVXNwQXlDUnFnSzFIbm0yNXduQWdVaDNMN2Qxc0N3?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUDYwVmRPaHVqWXpZOEtMUlduenJnbGJoN1o1Q09ZRkFUNk9pRFljejRqcG9mOVJmT3JWT2ExaEFnei0zMklpSlIwTFRLM09qcW95bkczOXNsRTMxaXlXNlcxVWZkVXNwQXlDUnFnSzFIbm0yNXduQWdVaDNMN2Qxc0N3?oc=5",
-      "category": "統計",
       "topic": "insurance"
     }
   ],
