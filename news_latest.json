@@ -1,6 +1,16 @@
 {
-  "updated": "2026-09-03T12:14:22+09:00",
+  "updated": "2026-09-03T22:17:41+09:00",
   "articles": [
+    {
+      "title": "マイナンバーカードを用いた公的個人認証サービス（JPKI）導入事業者及び事例一覧を更新しました",
+      "link": "https://www.digital.go.jp/policies/mynumber/private-business/jpki-introduction/mynumbercard-user-list",
+      "pub_date": "2026-09-03T15:00:00+09:00",
+      "source": "デジタル庁",
+      "description": "宮城県で先行導入。行政情報の案内を起点に、AX時代の行政と住民をつなぐ基盤へ ...",
+      "thumbnail": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
+      "category": "一般",
+      "topic": "mynumber"
+    },
     {
       "title": "デジタル庁5年、マイナカード1億枚超 三角デジタル監がAIエージェント活用を提起 - BigGo ファイナンス",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OWTB2aTJiM3MtZlQtalNTa3JRMl9YN3h5c19zZWlxU0JOTGJ4em94ZVM5eEJTcy1vRlYzeGJMOXltbDBtV050VEl5X3RQZnhRVVJrNXVVeGpzZzJHUm9DU3pzNnM1MHFkYUtMaXdrVkdXSW92?oc=5",
@@ -529,17 +539,6 @@
       "_glink": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81OXdHeWk3QnZPdWZ4cDRjQWYyNWJPb3AwaEhLelpCa2hDVHV4aDNaeXNRTE5SdUZkQy1CN2tLaWMxT0thVVphS2hMeHAtMktCMVZrVkhSMlowOVhheHBpOXhBV1hQSVlHUGx1SUg5UDVBY3BTeEFCdTF2T3dYLVE?oc=5",
       "_resolved_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81OXdHeWk3QnZPdWZ4cDRjQWYyNWJPb3AwaEhLelpCa2hDVHV4aDNaeXNRTE5SdUZkQy1CN2tLaWMxT0thVVphS2hMeHAtMktCMVZrVkhSMlowOVhheHBpOXhBV1hQSVlHUGx1SUg5UDVBY3BTeEFCdTF2T3dYLVE?oc=5",
       "category": "一般",
-      "topic": "insurance"
-    },
-    {
-      "title": "【識者の眼】「保険証が消えた夏、救急の窓口で」薬師寺泰匡 - メディカルサポネット",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PT1hGSGU1WFVYM2xBclMxeTh4aV9NSHRQX25TZGZoQXlDZXQ3ZzNxbGVrelAyOWhFY3hOQ3IyZllBSDBleTVWZm9aa19GVGpUQURpVXZ2ZGE1ZzRCbGZCMVNGSTFMWkotVXE2NHh6WQ?oc=5",
-      "pub_date": "2026-08-18T10:10:10+09:00",
-      "source": "メディカルサポネット",
-      "description": "厚生労働省は社会保障審議会の医療保険部会にマイナ保険証の利用率を報告した 厚生労働省は18日、マイナンバーカードと健康保険証を一体にした「マイナ保険証」の4月の利用率が68.15%だったと報告した。紙やプラスチックの保険証を持参した場合も1〜3割 ...",
-      "_glink": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PT1hGSGU1WFVYM2xBclMxeTh4aV9NSHRQX25TZGZoQXlDZXQ3ZzNxbGVrelAyOWhFY3hOQ3IyZllBSDBleTVWZm9aa19GVGpUQURpVXZ2ZGE1ZzRCbGZCMVNGSTFMWkotVXE2NHh6WQ?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PT1hGSGU1WFVYM2xBclMxeTh4aV9NSHRQX25TZGZoQXlDZXQ3ZzNxbGVrelAyOWhFY3hOQ3IyZllBSDBleTVWZm9aa19GVGpUQURpVXZ2ZGE1ZzRCbGZCMVNGSTFMWkotVXE2NHh6WQ?oc=5",
-      "category": "統計",
       "topic": "insurance"
     }
   ],

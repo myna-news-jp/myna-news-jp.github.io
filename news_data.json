@@ -1,6 +1,16 @@
 {
-  "updated": "2026-09-03T12:14:22+09:00",
+  "updated": "2026-09-03T22:17:41+09:00",
   "articles": [
+    {
+      "title": "マイナンバーカードを用いた公的個人認証サービス（JPKI）導入事業者及び事例一覧を更新しました",
+      "link": "https://www.digital.go.jp/policies/mynumber/private-business/jpki-introduction/mynumbercard-user-list",
+      "pub_date": "2026-09-03T15:00:00+09:00",
+      "source": "デジタル庁",
+      "description": "宮城県で先行導入。行政情報の案内を起点に、AX時代の行政と住民をつなぐ基盤へ ...",
+      "thumbnail": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
+      "category": "一般",
+      "topic": "mynumber"
+    },
     {
       "title": "デジタル庁5年、マイナカード1億枚超 三角デジタル監がAIエージェント活用を提起 - BigGo ファイナンス",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OWTB2aTJiM3MtZlQtalNTa3JRMl9YN3h5c19zZWlxU0JOTGJ4em94ZVM5eEJTcy1vRlYzeGJMOXltbDBtV050VEl5X3RQZnhRVVJrNXVVeGpzZzJHUm9DU3pzNnM1MHFkYUtMaXdrVkdXSW92?oc=5",
@@ -5465,16 +5475,6 @@
       "_resolved_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZERuMnN0V25WMTZ4SktDblpXWDJMNHVsTDJmc1dwMVZKUUtKM05NcGYta1pKeTBvMmFIcWJPb2J3Q004SlhDVVhYYWp3QjlEWlYwT3VaOVhCbHBsVnZTQnhnSmVZdDBMcTRkSU5LNXlzc2dHMDl1d2g0NnZ5Z0VpeU1RRGRQVjMwZzBVc2tvTDAxLW9XSml0S2NJdw?oc=5",
       "category": "一般",
       "topic": "insurance"
-    },
-    {
-      "title": "マイナ取得義務化検討 自民提言へ",
-      "link": "https://news.yahoo.co.jp/pickup/6580710?source=rss",
-      "pub_date": "2026-05-18T20:35:29+09:00",
-      "source": "Yahoo!ニュース",
-      "description": "自民党が、マイナンバーカード取得の義務化を検討するよう政府に提言することが分かった。義務化した場合の罰則は設けないとしている。いまはマイナカードの申請は任意で、政府はポイントを付与するなどして普及を進めてきた。",
-      "thumbnail": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/18/0c33f68eab0277556cadc9ded04bbf86e52f80b5c18915a7cab392b5f4a6f450.jpg",
-      "category": "制度変更",
-      "topic": "mynumber"
     }
   ]
 }
