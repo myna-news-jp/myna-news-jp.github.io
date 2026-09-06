@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T12:15:38+09:00",
+  "updated": "2026-09-06T21:40:28+09:00",
   "articles": [
     {
       "title": "マイナンバーカードを用いた公的個人認証サービス（JPKI）導入事業者及び事例一覧を更新しました",
@@ -31,6 +31,17 @@
       "_glink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVFRHMHlEc3BEMFBjb1JSVnNLODRNeFN6NFFkR0dOUHY5ajNHc3FYZE9iNkw4c0diTzVDRGloY3BObU5mVDV1bWI0SkpTSDdHRkIycnBkYXhYMTZrQUJ4V3J2emVrWTllZmVsN0w4a2NMLXpscWlQcVdFcGRfTDNkSEhiWThYYnByaFBZQllTd09YbVpvQUQ4?oc=5",
       "_resolved_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVFRHMHlEc3BEMFBjb1JSVnNLODRNeFN6NFFkR0dOUHY5ajNHc3FYZE9iNkw4c0diTzVDRGloY3BObU5mVDV1bWI0SkpTSDdHRkIycnBkYXhYMTZrQUJ4V3J2emVrWTllZmVsN0w4a2NMLXpscWlQcVdFcGRfTDNkSEhiWThYYnByaFBZQllTd09YbVpvQUQ4?oc=5",
       "category": "一般",
+      "topic": "insurance"
+    },
+    {
+      "title": "後期高齢者医療制度について - city.moka.lg.jp",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQS2FIU2FxVTJhZ2lBOElWVXdUNFczRVBOdHlqWnBKMy1mcUE1X0RwYy1tSTYzWENITEpQS0Zqcnh1NExKSlZUZTR1c0hJc3FWdHJQdnRZVU0wYlcyS3NuazkwdjhpUkhGdG01Q0xLOE1mOGdNeDYySWd2UlNtdmVOT2djUnBCYWM?oc=5",
+      "pub_date": "2026-09-01T16:00:00+09:00",
+      "source": "city.moka.lg.jp",
+      "description": "75歳になると、原則として後期高齢者医療制度の対象となり「医療費の自己負担」は1割になります。 【フローチャート図】後期高齢者医療制度の「窓口負担割合」1・2・3割どれになるか見てみる！ただし、すべての後期高齢者が同じ負担割合になるわけで ...",
+      "_glink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQS2FIU2FxVTJhZ2lBOElWVXdUNFczRVBOdHlqWnBKMy1mcUE1X0RwYy1tSTYzWENITEpQS0Zqcnh1NExKSlZUZTR1c0hJc3FWdHJQdnRZVU0wYlcyS3NuazkwdjhpUkhGdG01Q0xLOE1mOGdNeDYySWd2UlNtdmVOT2djUnBCYWM?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQS2FIU2FxVTJhZ2lBOElWVXdUNFczRVBOdHlqWnBKMy1mcUE1X0RwYy1tSTYzWENITEpQS0Zqcnh1NExKSlZUZTR1c0hJc3FWdHJQdnRZVU0wYlcyS3NuazkwdjhpUkhGdG01Q0xLOE1mOGdNeDYySWd2UlNtdmVOT2djUnBCYWM?oc=5",
+      "category": "統計",
       "topic": "insurance"
     },
     {
@@ -527,17 +538,6 @@
       "description": "マイナ保険証の問題点を考えるシンポジウムが29日、明治大駿河台キャンパス（東京都千代田区神田駿河台1）のグローバルフロント2階4021教室で開かれる。「Zoom」によるオンライン配信も行う。参加無料。",
       "_glink": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSOUNJTHU2N1dHUWt6TXBWZjlhS2xoNlh4QS1lVGJVZkV4eGdVVzJMWTRtajJfbUxQdHkzQTBaVHBFY1dQX2dzaW9EdXc2N3Zzdmw4?oc=5",
       "_resolved_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSOUNJTHU2N1dHUWt6TXBWZjlhS2xoNlh4QS1lVGJVZkV4eGdVVzJMWTRtajJfbUxQdHkzQTBaVHBFY1dQX2dzaW9EdXc2N3Zzdmw4?oc=5",
-      "category": "一般",
-      "topic": "insurance"
-    },
-    {
-      "title": "マイナ保険証 問題考える　大学教授や医師が講演　明大で29日 シンポ、オンライン配信 - ｄメニューニュース",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nTFZ4UVR6UXd1X3VqXzdNZWl3YWxrWlhpSUxRVm83UkN5ZkFhWW5YTHZRb1pDTS1OM0RpVjIwVHdIZk4tUGwyR0tvWEd5M285d1lwR2tKc25KaUZLOGFJTVVmc1ZxTGM2ZmZXcmJTbmFvUkXSAXhBVV95cUxNYzd6Rzc4ZDZ0UGFfT1NGMlNGVUZKdVFBY1Mzb3NLY3V6N2ZRVXU2Z0ZvWFU1WG5pZ3ltYm5XYnphcEJOdzRkRXlhRTNudzNJR3dsZTNHR2hEQ29ZbXF2ckRqWjNCZ3ZodklNX1hxMUkxcWFYbHl1bDU?oc=5",
-      "pub_date": "2026-08-19T07:40:50+09:00",
-      "source": "ｄメニューニュース",
-      "description": "マイナ保険証の問題点を考えるシンポジウムが29日、明治大駿河台キャンパス（東京都千代田区神田駿河台1）のグローバルフロント2階4021教室で開かれる。「Zoom」によるオンライン配信も行う。参加無料。",
-      "_glink": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nTFZ4UVR6UXd1X3VqXzdNZWl3YWxrWlhpSUxRVm83UkN5ZkFhWW5YTHZRb1pDTS1OM0RpVjIwVHdIZk4tUGwyR0tvWEd5M285d1lwR2tKc25KaUZLOGFJTVVmc1ZxTGM2ZmZXcmJTbmFvUkXSAXhBVV95cUxNYzd6Rzc4ZDZ0UGFfT1NGMlNGVUZKdVFBY1Mzb3NLY3V6N2ZRVXU2Z0ZvWFU1WG5pZ3ltYm5XYnphcEJOdzRkRXlhRTNudzNJR3dsZTNHR2hEQ29ZbXF2ckRqWjNCZ3ZodklNX1hxMUkxcWFYbHl1bDU?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nTFZ4UVR6UXd1X3VqXzdNZWl3YWxrWlhpSUxRVm83UkN5ZkFhWW5YTHZRb1pDTS1OM0RpVjIwVHdIZk4tUGwyR0tvWEd5M285d1lwR2tKc25KaUZLOGFJTVVmc1ZxTGM2ZmZXcmJTbmFvUkXSAXhBVV95cUxNYzd6Rzc4ZDZ0UGFfT1NGMlNGVUZKdVFBY1Mzb3NLY3V6N2ZRVXU2Z0ZvWFU1WG5pZ3ltYm5XYnphcEJOdzRkRXlhRTNudzNJR3dsZTNHR2hEQ29ZbXF2ckRqWjNCZ3ZodklNX1hxMUkxcWFYbHl1bDU?oc=5",
       "category": "一般",
       "topic": "insurance"
     }
