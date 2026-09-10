@@ -1,6 +1,16 @@
 {
-  "updated": "2026-09-10T12:23:52+09:00",
+  "updated": "2026-09-10T22:21:50+09:00",
   "articles": [
+    {
+      "title": "学園祭での年齢確認にマイナンバーカードを活用しています",
+      "link": "https://www.digital.go.jp/news/6a52d1e9-30cc-455a-9154-f32479d1731a",
+      "pub_date": "2026-09-10T15:00:00+09:00",
+      "source": "デジタル庁",
+      "description": "マイナンバーカードを活用したデジタルIDソリューションを展開するxID（クロスアイディ）株式会社（本社：東京都千代田区、代表取締役社長：日下 光、以下：当社）は、民間企業を対象に、最適なソリューションの選定からシステム実装までを一気通貫で ...",
+      "thumbnail": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
+      "category": "一般",
+      "topic": "mynumber"
+    },
     {
       "title": "マイナ救急、漫画で周知 水戸市消防局が啓発チラシ制作 AED利用も呼びかけ 茨城 - 47NEWS",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xWFE1RjJSeVZxbS1GcFNoSWFlNE54ekxuT3dOR0lRdDBaMFhwSlg5UDhsTk9ETkJHY2gxaTF0T3BHaUo5ODhmN01zNA?oc=5",
@@ -3616,6 +3626,17 @@
       "topic": "mynumber"
     },
     {
+      "title": "75歳からの「後期高齢者医療制度」で月々の保険料や窓口の医療費負担はどう変わる？（LIMO） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fTVBIWnlEQzZ0WEx6NVpJTGY4dzJhdDBmZWlNUEJ0aXlCb1BpUWpISmRuN1RybU9MVlgyRzcyZDBweGhPbDRhVlF3VU9IRDVTZEVnWWRvVEJqNUFmZVI5d2NIcGpaWW9YeWVNMWM1THdhekJMb3FSZWZYYjNuam8?oc=5",
+      "pub_date": "2026-07-24T16:00:00+09:00",
+      "source": "Yahoo!ニュース",
+      "description": "2026年で75歳を迎える人も多いでしょう。75歳になると、私たちは後期高齢者医療制度に加入し、保険料を支払います。 【写真】75歳で保険負担が「重くなる人」と「軽くなる人」とは？後期高齢者医療制度に移行する際は、保険料に変動がある可能性が ...",
+      "_glink": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fTVBIWnlEQzZ0WEx6NVpJTGY4dzJhdDBmZWlNUEJ0aXlCb1BpUWpISmRuN1RybU9MVlgyRzcyZDBweGhPbDRhVlF3VU9IRDVTZEVnWWRvVEJqNUFmZVI5d2NIcGpaWW9YeWVNMWM1THdhekJMb3FSZWZYYjNuam8?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fTVBIWnlEQzZ0WEx6NVpJTGY4dzJhdDBmZWlNUEJ0aXlCb1BpUWpISmRuN1RybU9MVlgyRzcyZDBweGhPbDRhVlF3VU9IRDVTZEVnWWRvVEJqNUFmZVI5d2NIcGpaWW9YeWVNMWM1THdhekJMb3FSZWZYYjNuam8?oc=5",
+      "category": "一般",
+      "topic": "insurance"
+    },
+    {
       "title": "従来の健康保険証は7月31日で利用不可に 8月1日以降は「マイナ保険証」「資格確認書」の利用を - itmedia.co.jp",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GWEdUaHVLcmZRQ0RDSFhpTHZnYUtLdzVGSF92dHM2ZWJBQ3lzYjBpYnQ4c1JxSnNyNlZQUWNrWUlfWlFLTzhWU2NnUHY4QWZ4WTJOWHJvbFJGZl9USi1laVRLckZNN3pPME0yMmp6TQ?oc=5",
       "pub_date": "2026-07-24T16:00:00+09:00",
@@ -5459,28 +5480,6 @@
       "_glink": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1TV0k2LUZYNU5XS2p5MFQxWWtDLUdTRUJOdHdPX2YtblNqd1RXVFpaR1pUbEcwTWZTSnFhSkJBenMxMkVUX044ZlE5ZnduQ01QeWNjcVhqY0FYM3hzUkVlUXNuaVRvT2xQelNZS1prOUt1XzVZeXRDc3BlbEE?oc=5",
       "_resolved_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1TV0k2LUZYNU5XS2p5MFQxWWtDLUdTRUJOdHdPX2YtblNqd1RXVFpaR1pUbEcwTWZTSnFhSkJBenMxMkVUX044ZlE5ZnduQ01QeWNjcVhqY0FYM3hzUkVlUXNuaVRvT2xQelNZS1prOUt1XzVZeXRDc3BlbEE?oc=5",
       "category": "制度変更",
-      "topic": "insurance"
-    },
-    {
-      "title": "⑲【オンライン資格確認】NTT西日本スタートパック Katy Perry (9iziaIYVd3) - Mshale",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zR1BXaGptNER5aE14Ylc0RXRYOTBzMUxfQU53UEg2dnBGLVd1U0JrVGRITTdTWVhhbHV0MTVHVHZqVHZrcWQycUYyRE93bUVwOV9QZWJQeDZfZGM?oc=5",
-      "pub_date": "2026-05-27T13:39:38+09:00",
-      "source": "Mshale",
-      "description": "",
-      "_glink": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zR1BXaGptNER5aE14Ylc0RXRYOTBzMUxfQU53UEg2dnBGLVd1U0JrVGRITTdTWVhhbHV0MTVHVHZqVHZrcWQycUYyRE93bUVwOV9QZWJQeDZfZGM?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zR1BXaGptNER5aE14Ylc0RXRYOTBzMUxfQU53UEg2dnBGLVd1U0JrVGRITTdTWVhhbHV0MTVHVHZqVHZrcWQycUYyRE93bUVwOV9QZWJQeDZfZGM?oc=5",
-      "category": "一般",
-      "topic": "insurance"
-    },
-    {
-      "title": "医療費助成、マイナポータルの受給者証で資格確認　　機器不具合時 - MEDIFAX web",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5qbXoxem9yN29UOXJfdXlJWGtxelZzTkdfejZyWVdObWZCc0E1MGRMWVJUNnZnVE1lYXc5bFVaUjAySDZxLVlRRNIBTkFVX3lxTFBoSmdEcWUyTHFxRlJSUGhlTWdOZTZlWXF2UC1TY09qNVBIdUJlY05yY005WFNwcDNhRGxVbC1TNkkxSXJhZE93akdiVVF3dw?oc=5",
-      "pub_date": "2026-05-26T18:20:00+09:00",
-      "source": "MEDIFAX web",
-      "description": "マイナ保険証で「エラー」が出るとどうなる？ たとえ医療機関の窓口で「マイナ保険証のシステムエラー」になると不安になります。 でもそれだけで即座に 医療費 10割自己負担になるわけではありません。保険制度の性質上、本来適切に保険給付を受けられるべき人は、エラーがあった場合で ...",
-      "_glink": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5qbXoxem9yN29UOXJfdXlJWGtxelZzTkdfejZyWVdObWZCc0E1MGRMWVJUNnZnVE1lYXc5bFVaUjAySDZxLVlRRNIBTkFVX3lxTFBoSmdEcWUyTHFxRlJSUGhlTWdOZTZlWXF2UC1TY09qNVBIdUJlY05yY005WFNwcDNhRGxVbC1TNkkxSXJhZE93akdiVVF3dw?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5qbXoxem9yN29UOXJfdXlJWGtxelZzTkdfejZyWVdObWZCc0E1MGRMWVJUNnZnVE1lYXc5bFVaUjAySDZxLVlRRNIBTkFVX3lxTFBoSmdEcWUyTHFxRlJSUGhlTWdOZTZlWXF2UC1TY09qNVBIdUJlY05yY005WFNwcDNhRGxVbC1TNkkxSXJhZE93akdiVVF3dw?oc=5",
-      "category": "トラブル",
       "topic": "insurance"
     }
   ]
