@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T12:25:19+09:00",
+  "updated": "2026-09-12T21:39:51+09:00",
   "articles": [
     {
       "title": "普及進まない「マイナ免許証」 福井県内では1割にとどまる 「このままでいい」メリットあっても“決め手”にならない背景 - Yahoo!ニュース",
@@ -53,6 +53,17 @@
       "_resolved_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xWFE1RjJSeVZxbS1GcFNoSWFlNE54ekxuT3dOR0lRdDBaMFhwSlg5UDhsTk9ETkJHY2gxaTF0T3BHaUo5ODhmN01zNA?oc=5",
       "category": "一般",
       "topic": "mynumber"
+    },
+    {
+      "title": "「救急の日」ＡＥＤ活用やマイナ保険証携行を呼びかけ 水戸 - NHKニュース",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SVkNSTFM1SzRJS2lxOXNDcFA3dnQxZjcwaWhvckxYUE5oa3VnWkhpR1ZPeWRDLWhmNzdMLVFoMXZFYmRVa0FzdEpBd3hZTVhtS05XaDViR1U?oc=5",
+      "pub_date": "2026-09-09T16:46:00+09:00",
+      "source": "NHKニュース",
+      "description": "健康保険証の機能を持たせたマイナンバーカード（マイナ保険証）を救急業務に生かす「マイナ救急」の取り組みが今年度、全国で始まった。 救急搬送される患者の救命率を向上させていくことが重要だ。 救急隊員は通常、現場に到着すると、患者の名前 ...",
+      "_glink": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SVkNSTFM1SzRJS2lxOXNDcFA3dnQxZjcwaWhvckxYUE5oa3VnWkhpR1ZPeWRDLWhmNzdMLVFoMXZFYmRVa0FzdEpBd3hZTVhtS05XaDViR1U?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SVkNSTFM1SzRJS2lxOXNDcFA3dnQxZjcwaWhvckxYUE5oa3VnWkhpR1ZPeWRDLWhmNzdMLVFoMXZFYmRVa0FzdEpBd3hZTVhtS05XaDViR1U?oc=5",
+      "category": "一般",
+      "topic": "insurance"
     },
     {
       "title": "あなたの命を守る「マイナ救急」（広報動画） - city.joyo.kyoto.jp",
@@ -1842,6 +1853,17 @@
       "_glink": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Zb01BOERwcUJxdTBMd3dVOWt5WVh0YVBpUS1WM1BCc3g4MlItZDF4RjFpcTRQVXQ4aC1xdDU0a3c1VGJ0RXR2bXdpWmpsODczY1JyZlpqNDBvZG03TXhMN1doNjFGaEFGZ05CM2xqbzFKYUdnZ09mRDJ6aw?oc=5",
       "_resolved_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Zb01BOERwcUJxdTBMd3dVOWt5WVh0YVBpUS1WM1BCc3g4MlItZDF4RjFpcTRQVXQ4aC1xdDU0a3c1VGJ0RXR2bXdpWmpsODczY1JyZlpqNDBvZG03TXhMN1doNjFGaEFGZ05CM2xqbzFKYUdnZ09mRDJ6aw?oc=5",
       "category": "トラブル",
+      "topic": "insurance"
+    },
+    {
+      "title": "令和8年8月1日からの資格確認書等の交付について - city.shiroi.chiba.jp",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNXlmQWNyNGtMdjVkRFVrLTY3d0FDanAteW1rbGVmc3RvWXloVG9yRGhPd0tZVWRnMTBLaFNaWEJFdzc1d1YzUE83M3hUQTVyeHRoeHVxVzFmLUNVQllTMXZKZmdUTkg2Y1QxYnBfVDZPYVRqVTJ2eWUyaTZ0eUktbXU1cVRVN2RUWkE?oc=5",
+      "pub_date": "2026-08-01T16:00:00+09:00",
+      "source": "city.shiroi.chiba.jp",
+      "description": "",
+      "_glink": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNXlmQWNyNGtMdjVkRFVrLTY3d0FDanAteW1rbGVmc3RvWXloVG9yRGhPd0tZVWRnMTBLaFNaWEJFdzc1d1YzUE83M3hUQTVyeHRoeHVxVzFmLUNVQllTMXZKZmdUTkg2Y1QxYnBfVDZPYVRqVTJ2eWUyaTZ0eUktbXU1cVRVN2RUWkE?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNXlmQWNyNGtMdjVkRFVrLTY3d0FDanAteW1rbGVmc3RvWXloVG9yRGhPd0tZVWRnMTBLaFNaWEJFdzc1d1YzUE83M3hUQTVyeHRoeHVxVzFmLUNVQllTMXZKZmdUTkg2Y1QxYnBfVDZPYVRqVTJ2eWUyaTZ0eUktbXU1cVRVN2RUWkE?oc=5",
+      "category": "一般",
       "topic": "insurance"
     },
     {
@@ -3746,6 +3768,17 @@
       "topic": "insurance"
     },
     {
+      "title": "スマホ認証機構と資格確認用PCを内蔵した新型「顔認証付きカードリーダー」を発表：医療機器ニュース（1/2 ページ） - MONOist",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51bFBaSjBQNDJ5WFVuT2lQU1ZDV1ZVLWN2MDhOazdsY3djRU5LaEtReWMtb21LRUNfSVlVNzhfUlB3RjVoMVhmZ0VTa0tRRFBteUtqVjByY1J1YjJpalRNc3U3YnZNbjJwZnNwa0lLOA?oc=5",
+      "pub_date": "2026-07-23T16:00:00+09:00",
+      "source": "MONOist",
+      "description": "パナソニック コネクトグループ（以下、パナソニック コネクト）は2026年7月22日、東京都内とオンラインで会見を開き、医療機関／薬局向けに展開している「顔認証付きカードリーダー」の新型モデルを同年8月24日から販売を開始すると発表した。価格 ...",
+      "_glink": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51bFBaSjBQNDJ5WFVuT2lQU1ZDV1ZVLWN2MDhOazdsY3djRU5LaEtReWMtb21LRUNfSVlVNzhfUlB3RjVoMVhmZ0VTa0tRRFBteUtqVjByY1J1YjJpalRNc3U3YnZNbjJwZnNwa0lLOA?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51bFBaSjBQNDJ5WFVuT2lQU1ZDV1ZVLWN2MDhOazdsY3djRU5LaEtReWMtb21LRUNfSVlVNzhfUlB3RjVoMVhmZ0VTa0tRRFBteUtqVjByY1J1YjJpalRNc3U3YnZNbjJwZnNwa0lLOA?oc=5",
+      "category": "一般",
+      "topic": "insurance"
+    },
+    {
       "title": "マイナンバーカードを持ち歩くのが面倒な人が「今すぐやるべきこと」 - ダイヤモンド・オンライン",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9aVGlmVjBBRnpaNXNRZXVvdnZMZGU4N0dCeG5iNVVCZ3JlOWxlT2psRjF3ZTdtNlh5UklaYWwyRG9lV2h2TlBsUHl5eU_SAU9BVV95cUxNNGItREZxQWtmb0JJdjcwQlNSVUhMV0I4Z1RrR0xxMWNYam1TM0FKQTBWeTVFX1ZVOFdNalU1V0ZubFlGT0ZTSWs2MDZBZnA0?oc=5",
       "pub_date": "2026-07-23T16:00:00+09:00",
@@ -5446,39 +5479,6 @@
       "_glink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9FcjQzVGtsZzVhQUYwLXp4dld5N1ltNjZzVkwwbU1BdndOalBYOVctTXdPZ0R0NzJTbzVIU1VwOWFaM09pbG5yOGkzdU5hNHJqbXN5WTQ3eDQwSjh0cjZyM2NR?oc=5",
       "_resolved_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9FcjQzVGtsZzVhQUYwLXp4dld5N1ltNjZzVkwwbU1BdndOalBYOVctTXdPZ0R0NzJTbzVIU1VwOWFaM09pbG5yOGkzdU5hNHJqbXN5WTQ3eDQwSjh0cjZyM2NR?oc=5",
       "category": "トラブル",
-      "topic": "insurance"
-    },
-    {
-      "title": "後期高齢者医療制度の資格確認書類について - town.hokkaido-mori.lg.jp",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVWpNeHEzX09pdkRLUm1EVHJ6T1ZJNnljcG05UG9TYjE1aE1VMmYyN00wZV82UWp1NHhCNG9Cblg1dmtUT3EtanRvOThyNzItaTZ0eUkxWU0yWWdKOWRNZjcyWUhuVXMtaExBY2F0QTQ3cms5LTlsQ0xoLWg2ZnhKRUo3SnRERVlPam0xWFg3LTlHWklyOHpuVA?oc=5",
-      "pub_date": "2026-05-29T16:00:00+09:00",
-      "source": "town.hokkaido-mori.lg.jp",
-      "description": "「後期高齢者医療制度」と「国民健康保険」の多くが、従来の保険証の期限切れを迎えました。そこで、登録者数120万人超のYouTubeチャンネル『脱・税理士スガワラくん』を運営する税理士の菅原 由一は、全国の国民健康保険および後期高齢者医療制度の ...",
-      "_glink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVWpNeHEzX09pdkRLUm1EVHJ6T1ZJNnljcG05UG9TYjE1aE1VMmYyN00wZV82UWp1NHhCNG9Cblg1dmtUT3EtanRvOThyNzItaTZ0eUkxWU0yWWdKOWRNZjcyWUhuVXMtaExBY2F0QTQ3cms5LTlsQ0xoLWg2ZnhKRUo3SnRERVlPam0xWFg3LTlHWklyOHpuVA?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVWpNeHEzX09pdkRLUm1EVHJ6T1ZJNnljcG05UG9TYjE1aE1VMmYyN00wZV82UWp1NHhCNG9Cblg1dmtUT3EtanRvOThyNzItaTZ0eUkxWU0yWWdKOWRNZjcyWUhuVXMtaExBY2F0QTQ3cms5LTlsQ0xoLWg2ZnhKRUo3SnRERVlPam0xWFg3LTlHWklyOHpuVA?oc=5",
-      "category": "制度変更",
-      "topic": "insurance"
-    },
-    {
-      "title": "DXの推進に伴う窓口業務の見直し - city.osaki.miyagi.jp",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM3k4LUFZU1JQVFVRT0t3dFlKSDdtVDJMQkhlYkpzbHYxT08wNHI5RktaV1J6dXlvaDN0MU9nZE9rdUpjMXZiMmZzLWJOR1RIdjExNnB5YkdEVTBEcTY0VFdXZHFERldVZV90cWRMbm1nUzk1VHRSLXZfNU5wUkxkblZIbTZmZHZ1bUpJcEVFbw?oc=5",
-      "pub_date": "2026-05-29T16:00:00+09:00",
-      "source": "city.osaki.miyagi.jp",
-      "description": "マニュアルトータルソリューションを提供し、企業の業務効率化を支援する株式会社テンダ(本社／東京都渋谷区、代表取締役会長兼社長CEO／薗部 晃、以下「テンダ」)は、Unite Partners株式会社と共に、オンラインセミナー「業務改善を起点としたDX推進 ...",
-      "_glink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM3k4LUFZU1JQVFVRT0t3dFlKSDdtVDJMQkhlYkpzbHYxT08wNHI5RktaV1J6dXlvaDN0MU9nZE9rdUpjMXZiMmZzLWJOR1RIdjExNnB5YkdEVTBEcTY0VFdXZHFERldVZV90cWRMbm1nUzk1VHRSLXZfNU5wUkxkblZIbTZmZHZ1bUpJcEVFbw?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM3k4LUFZU1JQVFVRT0t3dFlKSDdtVDJMQkhlYkpzbHYxT08wNHI5RktaV1J6dXlvaDN0MU9nZE9rdUpjMXZiMmZzLWJOR1RIdjExNnB5YkdEVTBEcTY0VFdXZHFERldVZV90cWRMbm1nUzk1VHRSLXZfNU5wUkxkblZIbTZmZHZ1bUpJcEVFbw?oc=5",
-      "category": "制度変更",
-      "topic": "mynumber"
-    },
-    {
-      "title": "オンライン資格確認 次期カードリーダー導入に上限12万1千円の費用補助 - 厚生政策情報センター",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wVGZja3NmNVNTMnhBOW1wWEpQRXlYbmowc3JSVEFWVzE1XzZiWWljZzlMNzZsbk91VkFDcDMzZnNvMndla09ZTUNtSmNhcFFLa3M0?oc=5",
-      "pub_date": "2026-05-29T14:09:52+09:00",
-      "source": "厚生政策情報センター",
-      "description": "株式会社NTTドコモ（以下、ドコモ）は、「dカード&#174;」のオンライン入会手続きの利便性向上および不正利用防止の強化を目的として、マイナンバーカードを用いた公的個人認証サービス（以下、JPKI ※1）による本人確認を、2026年4月23日（木）から導入しました ...",
-      "_glink": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wVGZja3NmNVNTMnhBOW1wWEpQRXlYbmowc3JSVEFWVzE1XzZiWWljZzlMNzZsbk91VkFDcDMzZnNvMndla09ZTUNtSmNhcFFLa3M0?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wVGZja3NmNVNTMnhBOW1wWEpQRXlYbmowc3JSVEFWVzE1XzZiWWljZzlMNzZsbk91VkFDcDMzZnNvMndla09ZTUNtSmNhcFFLa3M0?oc=5",
-      "category": "使い方",
       "topic": "insurance"
     }
   ]
