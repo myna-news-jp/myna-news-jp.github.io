@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T22:56:11+09:00",
+  "updated": "2026-09-23T12:37:34+09:00",
   "articles": [
     {
       "title": "『マイナ保険証』問題 期限切れ保険証も使える『暫定措置終了』で 患者から「何をもっていけばいいの?」問い合わせ急増 「資格情報のお知らせ」だけで受診しようとする人も（FNNプライムオンライン） - Yahoo!ニュース",
@@ -96,6 +96,17 @@
       "description": "マイナンバーカードに健康保険証の機能を持たせた「マイナ保険証」が利用できる体制の整備などを医療機関に義務付けたのは違法として、医師ら１２３０人が国に義務の無効確認と１人当たり１０万円の損害賠償を求めた訴訟の控訴審判決が１６日、東京高裁であった。",
       "_glink": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5iXzJMbkhhcy1mREl6UlY1WmhQb0lxa1l6WUdweGtwMUVXY2ZjSlNicDlXZU52bjR3TnlkUVdDWFBLYzhYTjVpMGhCNA?oc=5",
       "_resolved_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5iXzJMbkhhcy1mREl6UlY1WmhQb0lxa1l6WUdweGtwMUVXY2ZjSlNicDlXZU52bjR3TnlkUVdDWFBLYzhYTjVpMGhCNA?oc=5",
+      "category": "制度変更",
+      "topic": "insurance"
+    },
+    {
+      "title": "マイナ保険証義務化、二審も「適法」 医師らの訴え退ける 東京高裁（時事通信） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04SkpHUk55VlJQNEE0UllBYzVaQjhQbHpfaHVuMGhrZFMweFdzUTFacWVlbmxUTVNUZjRmOGZ2MWRDSWN2a3FkWkFEMGlld095RmM4RkVJMV9ZcVBHdE5iaHpxU21nS1VhNldLUWhOU1ZPWktWOWlmVThaWjBGcUk?oc=5",
+      "pub_date": "2026-09-16T18:16:14+09:00",
+      "source": "Yahoo!ニュース",
+      "description": "政府は、今年度から介護保険証とマイナンバーカードを一体化し、マイナカードのみで資格確認できる仕組みの導入を進めている。介護情報を電子データ化してシステム上で共有し、介護サービスの向上や事業所の負担軽減につなげる狙いがある。新 ...",
+      "_glink": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04SkpHUk55VlJQNEE0UllBYzVaQjhQbHpfaHVuMGhrZFMweFdzUTFacWVlbmxUTVNUZjRmOGZ2MWRDSWN2a3FkWkFEMGlld095RmM4RkVJMV9ZcVBHdE5iaHpxU21nS1VhNldLUWhOU1ZPWktWOWlmVThaWjBGcUk?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04SkpHUk55VlJQNEE0UllBYzVaQjhQbHpfaHVuMGhrZFMweFdzUTFacWVlbmxUTVNUZjRmOGZ2MWRDSWN2a3FkWkFEMGlld095RmM4RkVJMV9ZcVBHdE5iaHpxU21nS1VhNldLUWhOU1ZPWktWOWlmVThaWjBGcUk?oc=5",
       "category": "制度変更",
       "topic": "insurance"
     },
@@ -5458,25 +5469,14 @@
       "topic": "insurance"
     },
     {
-      "title": "国民健康保険の資格確認書を一斉交付します - city.hachinohe.aomori.jp",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV0ViWlA1NUs2X2YyUkdTYTRzMW4xWVpUY2xBV0NwLTN3eG5JRHFhNHhDdXo1Y3Z6MFFUZlNOMzUySzVjSFJLUlZhZnRVUzVtQkNtaWVMNWVkdUhWRE83MS12VzZRT1gxN3RYZENJSUJmZUVpV1g5WVNBSkVtN0R0NW96YTZaOHJ5OG1iWHQ4ZWs0Wm45MWViTmNzZw?oc=5",
+      "title": "資格確認書または資格情報のお知らせの送付について - city.komatsu.lg.jp",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE91enV5dTQ5djRsb18wM2pKazBha3dXNUFDcERFcnYyaWUzVkFvSVg2ME1ISk52TXY2LXU3NGlfa3JZRUE4OWtSLTNZaERDNHU3VHZCZzVRYmFVUVd2QktrYTVIdkZ6TEdtMVJOY0pNSjB4N3pZNHhR?oc=5",
       "pub_date": "2026-06-12T16:00:00+09:00",
-      "source": "city.hachinohe.aomori.jp",
-      "description": "マイナンバーカードと健康保険証を一体化させた「マイナ保険証」を巡り、東京都世田谷区と渋谷区は、マイナ保険証の有無にかかわらず、両区の国民健康保険に加入する区民全員に保険証の代わりとなる「資格確認書」を送付することを決めた。 記者会見 ...",
-      "_glink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV0ViWlA1NUs2X2YyUkdTYTRzMW4xWVpUY2xBV0NwLTN3eG5JRHFhNHhDdXo1Y3Z6MFFUZlNOMzUySzVjSFJLUlZhZnRVUzVtQkNtaWVMNWVkdUhWRE83MS12VzZRT1gxN3RYZENJSUJmZUVpV1g5WVNBSkVtN0R0NW96YTZaOHJ5OG1iWHQ4ZWs0Wm45MWViTmNzZw?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV0ViWlA1NUs2X2YyUkdTYTRzMW4xWVpUY2xBV0NwLTN3eG5JRHFhNHhDdXo1Y3Z6MFFUZlNOMzUySzVjSFJLUlZhZnRVUzVtQkNtaWVMNWVkdUhWRE83MS12VzZRT1gxN3RYZENJSUJmZUVpV1g5WVNBSkVtN0R0NW96YTZaOHJ5OG1iWHQ4ZWs0Wm45MWViTmNzZw?oc=5",
-      "category": "一般",
-      "topic": "insurance"
-    },
-    {
-      "title": "令和8年8月以降の資格確認書の交付について - city.fujioka.gunma.jp",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQM0RvZUxGbFZHS09JUVBwMzBOR2d2aUFTU0xyZlk3VEhMUXdqdE50eUh3a01laV9EZDB3OTd1TkticjdTSnhlV3kyTDdmVTB4RTJBRVJoMTF0b2t4VVhCSFJxbEROU3hPZklvaFotQUZmOUhKNDlUcXNaV2pSM1RlNg?oc=5",
-      "pub_date": "2026-06-12T16:00:00+09:00",
-      "source": "city.fujioka.gunma.jp",
-      "description": "",
-      "_glink": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQM0RvZUxGbFZHS09JUVBwMzBOR2d2aUFTU0xyZlk3VEhMUXdqdE50eUh3a01laV9EZDB3OTd1TkticjdTSnhlV3kyTDdmVTB4RTJBRVJoMTF0b2t4VVhCSFJxbEROU3hPZklvaFotQUZmOUhKNDlUcXNaV2pSM1RlNg?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQM0RvZUxGbFZHS09JUVBwMzBOR2d2aUFTU0xyZlk3VEhMUXdqdE50eUh3a01laV9EZDB3OTd1TkticjdTSnhlV3kyTDdmVTB4RTJBRVJoMTF0b2t4VVhCSFJxbEROU3hPZklvaFotQUZmOUhKNDlUcXNaV2pSM1RlNg?oc=5",
-      "category": "一般",
+      "source": "city.komatsu.lg.jp",
+      "description": "7月末で国民健康保険（国保）の多くは、従来の保険証の有効期限を迎える。 大量の期限切れを前に、厚生労働省は、国保加入者に限り、保険資格を確認する補助書類でも、保険証のように病院で受診できる例外を認めた。 マイナ保険証移行に伴うルール ...",
+      "_glink": "https://news.google.com/rss/articles/CBMid0FVX3lxTE91enV5dTQ5djRsb18wM2pKazBha3dXNUFDcERFcnYyaWUzVkFvSVg2ME1ISk52TXY2LXU3NGlfa3JZRUE4OWtSLTNZaERDNHU3VHZCZzVRYmFVUVd2QktrYTVIdkZ6TEdtMVJOY0pNSjB4N3pZNHhR?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE91enV5dTQ5djRsb18wM2pKazBha3dXNUFDcERFcnYyaWUzVkFvSVg2ME1ISk52TXY2LXU3NGlfa3JZRUE4OWtSLTNZaERDNHU3VHZCZzVRYmFVUVd2QktrYTVIdkZ6TEdtMVJOY0pNSjB4N3pZNHhR?oc=5",
+      "category": "制度変更",
       "topic": "insurance"
     }
   ]
