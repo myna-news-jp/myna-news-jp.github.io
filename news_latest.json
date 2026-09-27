@@ -1,6 +1,17 @@
 {
-  "updated": "2026-09-27T13:00:56+09:00",
+  "updated": "2026-09-27T23:35:49+09:00",
   "articles": [
+    {
+      "title": "マイナンバーカードは廃止されるのか？「作らない方がいい」と言われる理由の実態と、資格確認書があるため急いで取得しなくても困らない仕組みまで詳しく解説 情報漏洩への不安と、コンビニ交付・確定申告で生じる実務上の不便さを分けて整理。次期カードの検討状況もあわ - LIMO | くらしとお金の経済メディア",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5Kb1MzU2lvclhDd1NWX1VSU1VNTnFFV0VWbV9zaUZodFZ0aDF4MzZDTldGTTYzY0ctS3ZMM3NEU3JDdnlRY09yM0lGSk4?oc=5",
+      "pub_date": "2026-09-27T13:09:00+09:00",
+      "source": "LIMO | くらしとお金の経済メディア",
+      "description": "情報漏洩への不安と、コンビニ交付・確定申告で生じる実務上の不便さを分けて整理。次期カードの検討状況もあわせて確認 ...",
+      "_glink": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5Kb1MzU2lvclhDd1NWX1VSU1VNTnFFV0VWbV9zaUZodFZ0aDF4MzZDTldGTTYzY0ctS3ZMM3NEU3JDdnlRY09yM0lGSk4?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5Kb1MzU2lvclhDd1NWX1VSU1VNTnFFV0VWbV9zaUZodFZ0aDF4MzZDTldGTTYzY0ctS3ZMM3NEU3JDdnlRY09yM0lGSk4?oc=5",
+      "category": "トラブル",
+      "topic": "insurance"
+    },
     {
       "title": "オンライン資格確認義務は「適法」、医師ら上告の方針 ─「義務不存在確認」訴訟 - メディカルサポネット",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ibGcza1NnODhxanVPMHJIekFNbGNBd0M5ZWhEY01FMkpLUzJZaVR4TldiNk9rcmdjMzRPZHpscF95UlpWSHdoZ1h0Skc2X0F1ak9EZ0VTaUtvbjJfWGFXSlB4bXB3WUtsWUswVE9Ycw?oc=5",
@@ -531,17 +542,6 @@
       "thumbnail": "https://www.mhlw.go.jp/common/img/img_ogp.jpg",
       "category": "一般",
       "topic": "insurance"
-    },
-    {
-      "title": "デジタル庁、発足5年 その成果とは マイナンバーカードの普及に貢献 - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uM0NTdnh2bldlSncxUExUWVhJemRDZWd4eXdQY2tYN2hIallVcW5yLUxCb0NLaG03Y2JqX3UzQk12WWU3dFNyQTlvbXZ5RVdTcThRWXdCNVpzWmRLVHJHOWVwbEM0REtaY2M1VEZfS0F4a0NpOE9rWE9lRXBMQkE?oc=5",
-      "pub_date": "2026-09-01T11:20:00+09:00",
-      "source": "Yahoo!ニュース",
-      "description": "松本尚デジタル大臣は13日の記者会見で、16日開始の確定申告について、iPhoneのマイナンバーカードだけで完了できるようになったことを案内した。あわせて、デジタル庁のGSS（Government Solution Service）班が人事院総裁賞を受賞したことを紹介した。 iPhoneだけ ...",
-      "_glink": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uM0NTdnh2bldlSncxUExUWVhJemRDZWd4eXdQY2tYN2hIallVcW5yLUxCb0NLaG03Y2JqX3UzQk12WWU3dFNyQTlvbXZ5RVdTcThRWXdCNVpzWmRLVHJHOWVwbEM0REtaY2M1VEZfS0F4a0NpOE9rWE9lRXBMQkE?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uM0NTdnh2bldlSncxUExUWVhJemRDZWd4eXdQY2tYN2hIallVcW5yLUxCb0NLaG03Y2JqX3UzQk12WWU3dFNyQTlvbXZ5RVdTcThRWXdCNVpzWmRLVHJHOWVwbEM0REtaY2M1VEZfS0F4a0NpOE9rWE9lRXBMQkE?oc=5",
-      "category": "政治",
-      "topic": "mynumber"
     }
   ],
   "total": 500
