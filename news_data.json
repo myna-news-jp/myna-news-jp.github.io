@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-01T00:42:11+09:00",
+  "updated": "2026-10-01T13:30:37+09:00",
   "articles": [
+    {
+      "title": "医療機関・薬局向け顔認証付きカードリーダー「Caora 2」を販売開始 - ZDNET Japan",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3Z0dOSlpUbTc3c3FsUjlyS1FWN0F3TUM0MU1hdHcyY3VyVWl0Y21LMHhuUExFZFFjcGdQYjJrZVhIX1NGZ05EdVhPc2l0SEgzNFpZ?oc=5",
+      "pub_date": "2026-10-01T10:00:00+09:00",
+      "source": "ZDNET Japan",
+      "description": "株式会社PFU（社長執行役員：平原 英治、以下 PFU）は、病院や薬局などの受付でマイナンバーカードによる資格確認に利用されている「顔認証付きカードリーダー Caora（カオラ）」の後継製品「Caora 2」（以下 Caora 2）を、2026年10月に提供を開始する予定です。",
+      "_glink": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3Z0dOSlpUbTc3c3FsUjlyS1FWN0F3TUM0MU1hdHcyY3VyVWl0Y21LMHhuUExFZFFjcGdQYjJrZVhIX1NGZ05EdVhPc2l0SEgzNFpZ?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3Z0dOSlpUbTc3c3FsUjlyS1FWN0F3TUM0MU1hdHcyY3VyVWl0Y21LMHhuUExFZFFjcGdQYjJrZVhIX1NGZ05EdVhPc2l0SEgzNFpZ?oc=5",
+      "category": "一般",
+      "topic": "insurance"
+    },
+    {
+      "title": "第58回社会保険労務士試験の合格者発表",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76425.html",
+      "pub_date": "2026-10-01T09:30:00+09:00",
+      "source": "厚生労働省",
+      "description": "こんにちは、あめです。 本日10月1日、第58回社労士試験の合格発表がありました。 結果は、不合格でした！ 結果の確認について ...",
+      "thumbnail": "https://www.mhlw.go.jp/common/img/img_ogp.jpg",
+      "category": "一般",
+      "topic": "mynumber"
+    },
+    {
+      "title": "「マイナ保険証だけでは手続きできない」難病患者に紙の書類を求め続ける石川県、隣県は「画面を見せるだけ」で完了 - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pVUdxbHQ4YU5UZGFibXZFeFQxVUlRTlg2ZF9HN0U2VnJnemdvcFRZYlUwb2VkNDlrVkpUNzRuZjItOHRJdmhQdjZ2SmpWaHJMOGZfTWlWUWhZSDRwY2VxV0hUNWFyTlYtX3Q3czFHOXRBTmJzVTJlcDhfMDdzWFU?oc=5",
+      "pub_date": "2026-10-01T07:00:44+09:00",
+      "source": "Yahoo!ニュース",
+      "description": "指定難病の患者が医療費助成を受けるための更新手続きで、マイナ保険証への移行後も紙の書類提出が求められ、患者や家族から戸惑いの声が上がっている。2026年9月28日の石川県議会でこの問題が指摘された。",
+      "_glink": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pVUdxbHQ4YU5UZGFibXZFeFQxVUlRTlg2ZF9HN0U2VnJnemdvcFRZYlUwb2VkNDlrVkpUNzRuZjItOHRJdmhQdjZ2SmpWaHJMOGZfTWlWUWhZSDRwY2VxV0hUNWFyTlYtX3Q3czFHOXRBTmJzVTJlcDhfMDdzWFU?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pVUdxbHQ4YU5UZGFibXZFeFQxVUlRTlg2ZF9HN0U2VnJnemdvcFRZYlUwb2VkNDlrVkpUNzRuZjItOHRJdmhQdjZ2SmpWaHJMOGZfTWlWUWhZSDRwY2VxV0hUNWFyTlYtX3Q3czFHOXRBTmJzVTJlcDhfMDdzWFU?oc=5",
+      "category": "使い方",
+      "topic": "insurance"
+    },
     {
       "title": "「小遣い稼ぎになると…」 虚偽の在留資格証明書を申請した疑いで元行政書士を逮捕 - 中日新聞Web",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1YUjBSZ3QwYUtZTm5aT0ZxaDRZYlFXZHI1UDVSNmFoVHpaZDZkT0dLTXFfMy0tRjZGTnplbDRSMVV5MTVaRmpocFNIX2dsZ0lCUnVvbA?oc=5",
@@ -650,6 +682,17 @@
       "description": "医療機関で子どもの医療費助成などを受ける際に、マイナンバーカードに健康保険証機能を持たせた「マイナ保険証」の提示だけで済む自治体が、今年度末に1400超に増える見通しであることがデジタル庁のまとめでわかった。医療機関側にも利点が ...",
       "_glink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVFRHMHlEc3BEMFBjb1JSVnNLODRNeFN6NFFkR0dOUHY5ajNHc3FYZE9iNkw4c0diTzVDRGloY3BObU5mVDV1bWI0SkpTSDdHRkIycnBkYXhYMTZrQUJ4V3J2emVrWTllZmVsN0w4a2NMLXpscWlQcVdFcGRfTDNkSEhiWThYYnByaFBZQllTd09YbVpvQUQ4?oc=5",
       "_resolved_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVFRHMHlEc3BEMFBjb1JSVnNLODRNeFN6NFFkR0dOUHY5ajNHc3FYZE9iNkw4c0diTzVDRGloY3BObU5mVDV1bWI0SkpTSDdHRkIycnBkYXhYMTZrQUJ4V3J2emVrWTllZmVsN0w4a2NMLXpscWlQcVdFcGRfTDNkSEhiWThYYnByaFBZQllTd09YbVpvQUQ4?oc=5",
+      "category": "一般",
+      "topic": "insurance"
+    },
+    {
+      "title": "後期高齢者医療資格確認書と資格情報のお知らせについて - city.kumamoto.jp",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jRWU1Yml6SHhfRjlCNEx0eVUwSXNJN2ZIWlZSWmswWER2WExsTjI5YWpQbHo5MElBaXhXemc5NDBxZUduajAxRGVISHJTb0JISnpHVFZ4SjBrYXQ2LTJRRE5n?oc=5",
+      "pub_date": "2026-09-01T16:00:00+09:00",
+      "source": "city.kumamoto.jp",
+      "description": "【家電コンサルのお得な話・310】 後期高齢者医療制度では、2026年8月から資格確認書の交付方法が変わった。変更のポイントは、全員一律の扱いではなくなることである。【写真ギャラリー】 「資格確認書」と「マイナ保険証」の新しい扱い基準年齢は84 ...",
+      "_glink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jRWU1Yml6SHhfRjlCNEx0eVUwSXNJN2ZIWlZSWmswWER2WExsTjI5YWpQbHo5MElBaXhXemc5NDBxZUduajAxRGVISHJTb0JISnpHVFZ4SjBrYXQ2LTJRRE5n?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jRWU1Yml6SHhfRjlCNEx0eVUwSXNJN2ZIWlZSWmswWER2WExsTjI5YWpQbHo5MElBaXhXemc5NDBxZUduajAxRGVISHJTb0JISnpHVFZ4SjBrYXQ2LTJRRE5n?oc=5",
       "category": "一般",
       "topic": "insurance"
     },
@@ -5432,50 +5475,6 @@
       "_glink": "https://news.google.com/rss/articles/CBMic0FVX3lxTE52dFJ1MmV1VFpLM1FySXF1SVM5XzdtQjhaSFRsNV9KTllpVy1JVUt2WGFQdHpwcWhrR184N2JtUEpKcEpCcktIZzF1U2VCblAwMlhwMUlhd3hrQ3ZqN29mR0xQY2R5Yk5EdWNWY1otRjQ2MFU?oc=5",
       "_resolved_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE52dFJ1MmV1VFpLM1FySXF1SVM5XzdtQjhaSFRsNV9KTllpVy1JVUt2WGFQdHpwcWhrR184N2JtUEpKcEpCcktIZzF1U2VCblAwMlhwMUlhd3hrQ3ZqN29mR0xQY2R5Yk5EdWNWY1otRjQ2MFU?oc=5",
       "category": "制度変更",
-      "topic": "insurance"
-    },
-    {
-      "title": "保険証を取り戻そう マイナ制度反対連絡会 各界からトーク - 全国商工団体連合会",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoYWY1NVF2dTRlV01KZmY1SFA5MHpPVHR1a3R6RURzYWJWRnplaVlLajJNeDA3NkZpUFlPbm1QRXJSY01EZnZIaXBXb3RWZ1JGalNRT3BrVU9YRFpLc2c?oc=5",
-      "pub_date": "2026-06-29T16:00:00+09:00",
-      "source": "全国商工団体連合会",
-      "description": "",
-      "_glink": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoYWY1NVF2dTRlV01KZmY1SFA5MHpPVHR1a3R6RURzYWJWRnplaVlLajJNeDA3NkZpUFlPbm1QRXJSY01EZnZIaXBXb3RWZ1JGalNRT3BrVU9YRFpLc2c?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoYWY1NVF2dTRlV01KZmY1SFA5MHpPVHR1a3R6RURzYWJWRnplaVlLajJNeDA3NkZpUFlPbm1QRXJSY01EZnZIaXBXb3RWZ1JGalNRT3BrVU9YRFpLc2c?oc=5",
-      "category": "一般",
-      "topic": "insurance"
-    },
-    {
-      "title": "保険証の新規交付廃止について - city.osaki.miyagi.jp",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMklPUVN5c0Z1MzdKVS1TR1ExUVlKTjFwMFhQUlVpSm5JVGhnZHh5NUFhaW1ZNFlGTGcxbkFDdlBtTjcyaFdGQVc2WmFnZHhpWndBVUFJN2hsdWVsMkJVbUV2M0NmdDZXMS0tX0JUOXFpbThFWi00MFVMYmtEZGFLUDJndjZ5UDNLTE5fUXJTUlVsX3M1VlU4QmxfXzM?oc=5",
-      "pub_date": "2026-06-29T16:00:00+09:00",
-      "source": "city.osaki.miyagi.jp",
-      "description": "健康保険証が使えなくなる話を聞いたことはないだろうか。従来の健康保険証は2025年12月1日をもって有効期限が終了している。 ただし、有効期限切れの保険証をそのまま使える「暫定措置」が複数回にわたって延長されているため、現在の状況がわかり ...",
-      "_glink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMklPUVN5c0Z1MzdKVS1TR1ExUVlKTjFwMFhQUlVpSm5JVGhnZHh5NUFhaW1ZNFlGTGcxbkFDdlBtTjcyaFdGQVc2WmFnZHhpWndBVUFJN2hsdWVsMkJVbUV2M0NmdDZXMS0tX0JUOXFpbThFWi00MFVMYmtEZGFLUDJndjZ5UDNLTE5fUXJTUlVsX3M1VlU4QmxfXzM?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMklPUVN5c0Z1MzdKVS1TR1ExUVlKTjFwMFhQUlVpSm5JVGhnZHh5NUFhaW1ZNFlGTGcxbkFDdlBtTjcyaFdGQVc2WmFnZHhpWndBVUFJN2hsdWVsMkJVbUV2M0NmdDZXMS0tX0JUOXFpbThFWi00MFVMYmtEZGFLUDJndjZ5UDNLTE5fUXJTUlVsX3M1VlU4QmxfXzM?oc=5",
-      "category": "制度変更",
-      "topic": "insurance"
-    },
-    {
-      "title": "５種類の医療費助成 マイナカードで受給資格確認へ 静岡市、２０２７年４月から - 静岡新聞DIGITAL",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9sRG1OZXFWMFdnZEpfQm1KRXRHUGt6NkRET0JuYloyZjEyVTJRdmhNTF9ENDJLV3I0YngwVFN5OGswcFJDcXI0ZDJpMFRfZw?oc=5",
-      "pub_date": "2026-06-27T16:00:00+09:00",
-      "source": "静岡新聞DIGITAL",
-      "description": "医療機関で子どもの医療費助成などを受ける際に、マイナンバーカードに健康保険証機能を持たせた「マイナ保険証」の提示だけで済む自治体が、今年度末に1400超に増える見通しであることがデジタル庁のまとめでわかった。医療機関側にも利点が ...",
-      "_glink": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9sRG1OZXFWMFdnZEpfQm1KRXRHUGt6NkRET0JuYloyZjEyVTJRdmhNTF9ENDJLV3I0YngwVFN5OGswcFJDcXI0ZDJpMFRfZw?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9sRG1OZXFWMFdnZEpfQm1KRXRHUGt6NkRET0JuYloyZjEyVTJRdmhNTF9ENDJLV3I0YngwVFN5OGswcFJDcXI0ZDJpMFRfZw?oc=5",
-      "category": "一般",
-      "topic": "insurance"
-    },
-    {
-      "title": "令和8年度後期高齢者医療資格確認書・資格情報のお知らせを発送します - city.toride.ibaraki.jp",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWC1qWWc1WEFIUVJzdDdfQ3ZibXdLd1EzVkUtU0NiOFdFQjRUYWRudXRONHctMWNtRTlFQXN1cXNoQldpcEpxYlU1ZDZVUU85Y3BJMDdJVE5aVW9EWGFUU2F6RXFvVm5BcXlrX0Zva2MtU2JFQzM4OElGOXYzbzhQWmgxN0F3SFlGTjNiQ0xWakhVOHNuSGww?oc=5",
-      "pub_date": "2026-06-26T16:00:00+09:00",
-      "source": "city.toride.ibaraki.jp",
-      "description": "原則として75歳以上（一定以上の障害がある方は65歳以上）になると、「後期高齢者医療制度」に加入することになります。 【一覧】後期高齢者医療制度の令和8・9年度の保険料率が決定！先日、2026年度の保険料額が決定しました。 本記事では最新の保険 ...",
-      "_glink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWC1qWWc1WEFIUVJzdDdfQ3ZibXdLd1EzVkUtU0NiOFdFQjRUYWRudXRONHctMWNtRTlFQXN1cXNoQldpcEpxYlU1ZDZVUU85Y3BJMDdJVE5aVW9EWGFUU2F6RXFvVm5BcXlrX0Zva2MtU2JFQzM4OElGOXYzbzhQWmgxN0F3SFlGTjNiQ0xWakhVOHNuSGww?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWC1qWWc1WEFIUVJzdDdfQ3ZibXdLd1EzVkUtU0NiOFdFQjRUYWRudXRONHctMWNtRTlFQXN1cXNoQldpcEpxYlU1ZDZVUU85Y3BJMDdJVE5aVW9EWGFUU2F6RXFvVm5BcXlrX0Zva2MtU2JFQzM4OElGOXYzbzhQWmgxN0F3SFlGTjNiQ0xWakhVOHNuSGww?oc=5",
-      "category": "トラブル",
       "topic": "insurance"
     }
   ]
