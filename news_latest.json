@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T13:23:05+09:00",
+  "updated": "2026-10-03T00:26:35+09:00",
   "articles": [
     {
       "title": "医療機関・薬局における導入・設定の負担を軽減するオンライン資格確認端末「RICOH EZX2100」を今冬発売 - PR TIMES",
@@ -73,6 +73,17 @@
       "description": "指定難病の患者が医療費助成を受けるための更新手続きで、マイナ保険証への移行後も紙の書類提出が求められ、患者や家族から戸惑いの声が上がっている。2026年9月28日の石川県議会でこの問題が指摘された。",
       "_glink": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pVUdxbHQ4YU5UZGFibXZFeFQxVUlRTlg2ZF9HN0U2VnJnemdvcFRZYlUwb2VkNDlrVkpUNzRuZjItOHRJdmhQdjZ2SmpWaHJMOGZfTWlWUWhZSDRwY2VxV0hUNWFyTlYtX3Q3czFHOXRBTmJzVTJlcDhfMDdzWFU?oc=5",
       "_resolved_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pVUdxbHQ4YU5UZGFibXZFeFQxVUlRTlg2ZF9HN0U2VnJnemdvcFRZYlUwb2VkNDlrVkpUNzRuZjItOHRJdmhQdjZ2SmpWaHJMOGZfTWlWUWhZSDRwY2VxV0hUNWFyTlYtX3Q3czFHOXRBTmJzVTJlcDhfMDdzWFU?oc=5",
+      "category": "使い方",
+      "topic": "insurance"
+    },
+    {
+      "title": "「マイナ保険証だけでは手続きできない」難病患者に紙の書類を求め続ける石川県、隣県は「画面を見せるだけ」で完了 - FNNプライムオンライン",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1pTXU5bTJQenhLM0J4SVFRdEU1b0hydGdfVS02RkVXY01VOFNLSzl0UW0ySmtQM2VIWnZ2SDBxRUhScWdqLVRfRkVNUGdqZw?oc=5",
+      "pub_date": "2026-10-01T07:00:00+09:00",
+      "source": "FNNプライムオンライン",
+      "description": "指定難病の患者が医療費助成を受けるための更新手続きで、マイナ保険証への移行後も紙の書類提出が求められ、患者や家族から戸惑いの声が上がっている。2026年9月28日の石川県議会でこの問題が指摘された。",
+      "_glink": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1pTXU5bTJQenhLM0J4SVFRdEU1b0hydGdfVS02RkVXY01VOFNLSzl0UW0ySmtQM2VIWnZ2SDBxRUhScWdqLVRfRkVNUGdqZw?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1pTXU5bTJQenhLM0J4SVFRdEU1b0hydGdfVS02RkVXY01VOFNLSzl0UW0ySmtQM2VIWnZ2SDBxRUhScWdqLVRfRkVNUGdqZw?oc=5",
       "category": "使い方",
       "topic": "insurance"
     },
@@ -533,16 +544,6 @@
       "_resolved_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HZ05uZmVvLXZZOEFKZVFCOXBRQ1kzMmRKVEdWWTY3eUl1bWlXbXFBR1lwSVMzeHZtODgtcmdkTk9peHh2cXMtODBIRV8xNExMOWxRVkU0VFYxeGxBXzMzNDNVZExhWWNuTm5fVUt3?oc=5",
       "category": "一般",
       "topic": "insurance"
-    },
-    {
-      "title": "学園祭での年齢確認にマイナンバーカードを活用しています",
-      "link": "https://www.digital.go.jp/news/6a52d1e9-30cc-455a-9154-f32479d1731a",
-      "pub_date": "2026-09-10T15:00:00+09:00",
-      "source": "デジタル庁",
-      "description": "マイナンバーカードを活用したデジタルIDソリューションを展開するxID（クロスアイディ）株式会社（本社：東京都千代田区、代表取締役社長：日下 光、以下：当社）は、民間企業を対象に、最適なソリューションの選定からシステム実装までを一気通貫で ...",
-      "thumbnail": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
-      "category": "一般",
-      "topic": "mynumber"
     }
   ],
   "total": 500
