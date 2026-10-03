@@ -1,6 +1,50 @@
 {
-  "updated": "2026-10-03T00:26:35+09:00",
+  "updated": "2026-10-03T13:05:00+09:00",
   "articles": [
+    {
+      "title": "「Androidのマイナンバーカード」は10月20日開始予定｜Google ウォレットで本人確認・年齢確認 対応機種は20日までに公開 - Smart Watch Life",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9FMUI2T3pGUVpaQVBUb2dLanN6WE5zejR3NmV3MFFqanJ6dXk4RDB4N2xrWXVOZ0pkeGhIT3FGRk5NNHRRamlEV2JQUnI?oc=5",
+      "pub_date": "2026-10-03T08:13:55+09:00",
+      "source": "Smart Watch Life",
+      "description": "デジタル庁は2026年10月2日、Google ウォレットに入れて使う「Androidのマイナンバーカード」を10月20日に提供開始する予定だと発表した。現行サービスに「属性証明機能」を加え、実物のカードを出さずに窓口などで本人確認や年齢確認を受けられるようにする。",
+      "_glink": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9FMUI2T3pGUVpaQVBUb2dLanN6WE5zejR3NmV3MFFqanJ6dXk4RDB4N2xrWXVOZ0pkeGhIT3FGRk5NNHRRamlEV2JQUnI?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9FMUI2T3pGUVpaQVBUb2dLanN6WE5zejR3NmV3MFFqanJ6dXk4RDB4N2xrWXVOZ0pkeGhIT3FGRk5NNHRRamlEV2JQUnI?oc=5",
+      "category": "一般",
+      "topic": "mynumber"
+    },
+    {
+      "title": "市川市 マイナンバーカード｜申請・受け取り・更新・便利な使い方をまとめて解説 - 選挙ドットコム",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBLSlVwcS1iU1JtTi1rbk9sUVVsVVRhX2NQY0lHZFN1UUxoaFlacEktdU5yYlJDVVFjODVpLVN2RlRWMUNERzVMbXZ6aV9RcHVSXzU2MXRmbGZNdkFNZ0hz?oc=5",
+      "pub_date": "2026-10-03T07:04:22+09:00",
+      "source": "選挙ドットコム",
+      "description": "シフトプラス株式会社（代表取締役：中尾 裕也、本店：宮崎県都城市宮丸町3070番地1／本社：大阪府大阪市西区江戸堀2丁目1番1号江戸堀センタービル8階／以下シフトプラス）は、自治体業務の効率化と住民サービス向上を支援する汎用予約システム ...",
+      "_glink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBLSlVwcS1iU1JtTi1rbk9sUVVsVVRhX2NQY0lHZFN1UUxoaFlacEktdU5yYlJDVVFjODVpLVN2RlRWMUNERzVMbXZ6aV9RcHVSXzU2MXRmbGZNdkFNZ0hz?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBLSlVwcS1iU1JtTi1rbk9sUVVsVVRhX2NQY0lHZFN1UUxoaFlacEktdU5yYlJDVVFjODVpLVN2RlRWMUNERzVMbXZ6aV9RcHVSXzU2MXRmbGZNdkFNZ0hz?oc=5",
+      "category": "使い方",
+      "topic": "mynumber"
+    },
+    {
+      "title": "リコーPFU、オンライン資格確認端末「RICOH EZX2100」今冬発売 ソフト組込で設定負担軽減 - 医療テックニュース",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5fNEhFSHQxVmNiR0hhR0tlN2ZRN0xNZGdUSElmSUlyaXNrcUlobVI3ZkwxRE9BNGcwbjdhemxfUG5KYW1DRnJ4Sy1hRDVEaXhqX1o5NWNvMHhZYk9wLWhNYWpDR21ERXFEcW11c2Zn?oc=5",
+      "pub_date": "2026-10-03T02:03:08+09:00",
+      "source": "医療テックニュース",
+      "description": "リコーPFUコンピューティング（神奈川・海老名市）は10月2日、医療機関・薬局向けのオンライン資格確認専用PC「RICOH EZX2100」を今冬に発売すると発表した。小型きょう体を採用し、必要なソフトウエアを組み込んで提供する。長期供給や5年間の保守も行う。",
+      "_glink": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5fNEhFSHQxVmNiR0hhR0tlN2ZRN0xNZGdUSElmSUlyaXNrcUlobVI3ZkwxRE9BNGcwbjdhemxfUG5KYW1DRnJ4Sy1hRDVEaXhqX1o5NWNvMHhZYk9wLWhNYWpDR21ERXFEcW11c2Zn?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5fNEhFSHQxVmNiR0hhR0tlN2ZRN0xNZGdUSElmSUlyaXNrcUlobVI3ZkwxRE9BNGcwbjdhemxfUG5KYW1DRnJ4Sy1hRDVEaXhqX1o5NWNvMHhZYk9wLWhNYWpDR21ERXFEcW11c2Zn?oc=5",
+      "category": "一般",
+      "topic": "insurance"
+    },
+    {
+      "title": "リコーPFUコンピューティング、オンライン資格確認端末「RICOH EZX2100」を発売 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0YnNxMVZDaTFCMjQxcVAyZlhtZmNhdkd5bGJJbjlEX0loeEFDQTJnOUd0akhZMmlLSXFpcWxLWHAxY2I4NlhoLVhfR1hPNE9LMnZZNDBPRHRZQTVvbXdWem1jeUtaSjVhLXM0?oc=5",
+      "pub_date": "2026-10-02T14:49:00+09:00",
+      "source": "日本経済新聞",
+      "description": "【プレスリリース】発表日:2026年10月02日医療機関・薬局における導入・設定の負担を軽減するオンライン資格確認端末「RICOH EZX2100」を今冬発売〜受付スペースに最適な小型筐体と長期供給・保守に対応し、オンライン資格確認環境のスムーズな移行を支援〜リコーPFUコンピューティング株式会社（…",
+      "_glink": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0YnNxMVZDaTFCMjQxcVAyZlhtZmNhdkd5bGJJbjlEX0loeEFDQTJnOUd0akhZMmlLSXFpcWxLWHAxY2I4NlhoLVhfR1hPNE9LMnZZNDBPRHRZQTVvbXdWem1jeUtaSjVhLXM0?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0YnNxMVZDaTFCMjQxcVAyZlhtZmNhdkd5bGJJbjlEX0loeEFDQTJnOUd0akhZMmlLSXFpcWxLWHAxY2I4NlhoLVhfR1hPNE9LMnZZNDBPRHRZQTVvbXdWem1jeUtaSjVhLXM0?oc=5",
+      "category": "一般",
+      "topic": "insurance"
+    },
     {
       "title": "医療機関・薬局における導入・設定の負担を軽減するオンライン資格確認端末「RICOH EZX2100」を今冬発売 - PR TIMES",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82YnRUMHpkV1JsV2tvU045RTZnMS15Vmx2QUVHTVFrcVpPVkRRSHhzWG13cGNoTE1SQ0hhTEtNaDlIRE5DRk03N2pwNlZRZGFTU1dONG8tbDczZWdiNUdQNUluQkVnX2VUMWc?oc=5",
@@ -499,49 +543,6 @@
       "source": "厚生労働省",
       "description": "厚生労働省は6月18日、マイナ保険証の受付に使う「第2世代（次期）顔認証付きカードリーダー」の販売が2026年度から順次始まったことを、社会保障審議会医療保険部会の資料で明らかにした。最大の特徴は、本体だけでスマートフォンのマイナ保険証を ...",
       "thumbnail": "https://www.mhlw.go.jp/common/img/img_ogp.jpg",
-      "category": "一般",
-      "topic": "insurance"
-    },
-    {
-      "title": "普及進まない「マイナ免許証」 福井県内では1割にとどまる 「このままでいい」メリットあっても“決め手”にならない背景 - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4MzlVQTMtZXJObXYtZDZBZlZWcnVXV0ZoTUJ5MEwyMXFmVWdIOW91c1BYQXVac0xxWm5vbmhkbllKSUpZN3RQam9VRUlMT0otNlNCQTB0R3FHWThVUlk5bDFmNVUxXzh3c29xeWFfRlF5LUhOOVNwUXJUYVNnZWs?oc=5",
-      "pub_date": "2026-09-11T20:18:02+09:00",
-      "source": "Yahoo!ニュース",
-      "description": "マイナンバーカードを運転免許証として利用できる制度が去年3月から運用されました。免許更新の際にオンラインで講習を受けられるなどのメリットはあるものの、運用から1年半近くがたった現在も、福井県内での普及は1割ほどにとどまっています。普及が進まない背景について専門家に聞きました。",
-      "_glink": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4MzlVQTMtZXJObXYtZDZBZlZWcnVXV0ZoTUJ5MEwyMXFmVWdIOW91c1BYQXVac0xxWm5vbmhkbllKSUpZN3RQam9VRUlMT0otNlNCQTB0R3FHWThVUlk5bDFmNVUxXzh3c29xeWFfRlF5LUhOOVNwUXJUYVNnZWs?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4MzlVQTMtZXJObXYtZDZBZlZWcnVXV0ZoTUJ5MEwyMXFmVWdIOW91c1BYQXVac0xxWm5vbmhkbllKSUpZN3RQam9VRUlMT0otNlNCQTB0R3FHWThVUlk5bDFmNVUxXzh3c29xeWFfRlF5LUhOOVNwUXJUYVNnZWs?oc=5",
-      "category": "一般",
-      "topic": "mynumber"
-    },
-    {
-      "title": "マイナンバーカードが「マイナ保険証」として使えます - city.fukuroi.shizuoka.jp",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IT0FocVk2dWtzSlJHemw0QkF2dkh5bWxyYTNmRjd0WGtmblpMSEtsMmxSUEhoam5XdWVLeWpITnY0X3VXMFBmbllnUldpZF9HYzBFS0U5X0I3d0oyTV9VRXVQcGpnU2w4LWtxTnA3NFRBU2w1?oc=5",
-      "pub_date": "2026-09-11T16:00:00+09:00",
-      "source": "city.fukuroi.shizuoka.jp",
-      "description": "有効期限切れの健康保険証でも保険診療（1〜3割負担）を受けられる暫定措置が、7月末まで延長される。しかし4カ月後、「保険証利用登録を済ませたマイナンバーカード」（マイナ保険証）などがないと保険診療が受けられず、全額自己負担（10割負担）と ...",
-      "_glink": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IT0FocVk2dWtzSlJHemw0QkF2dkh5bWxyYTNmRjd0WGtmblpMSEtsMmxSUEhoam5XdWVLeWpITnY0X3VXMFBmbllnUldpZF9HYzBFS0U5X0I3d0oyTV9VRXVQcGpnU2w4LWtxTnA3NFRBU2w1?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IT0FocVk2dWtzSlJHemw0QkF2dkh5bWxyYTNmRjd0WGtmblpMSEtsMmxSUEhoam5XdWVLeWpITnY0X3VXMFBmbllnUldpZF9HYzBFS0U5X0I3d0oyTV9VRXVQcGpnU2w4LWtxTnA3NFRBU2w1?oc=5",
-      "category": "制度変更",
-      "topic": "insurance"
-    },
-    {
-      "title": "電子処方箋の導入状況に関するダッシュボードを更新しました",
-      "link": "https://www.digital.go.jp/resources/govdashboard/electronic-prescription",
-      "pub_date": "2026-09-11T15:00:00+09:00",
-      "source": "デジタル庁",
-      "description": "PHCホールディングス株式会社（本社：東京都千代田区、東証プライム：6523）傘下のウィーメックス株式会社（本社：東京都渋谷区、代表取締役社長：高橋秀明、以下「ウィーメックス」）は、ウィーメックスが提供するシステムと連携した医療機関 ...",
-      "thumbnail": "https://www.digital.go.jp/assets/contents/node/basic_page/field_thumbnail_image/42e67f07-4d20-46e7-8774-eb5493db76dd/5a4075ae/%E9%9B%BB%E5%AD%90%E5%87%A6%E6%96%B9%E7%AE%8B%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%83%80%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9C%E3%83%BC%E3%83%89.png",
-      "category": "一般",
-      "topic": "insurance"
-    },
-    {
-      "title": "マイナンバーカードの署名用電子証明書が意図せず失効｜市原市、マイナ保険証は影響なし・案内は郵送予定 - ジモはる",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HZ05uZmVvLXZZOEFKZVFCOXBRQ1kzMmRKVEdWWTY3eUl1bWlXbXFBR1lwSVMzeHZtODgtcmdkTk9peHh2cXMtODBIRV8xNExMOWxRVkU0VFYxeGxBXzMzNDNVZExhWWNuTm5fVUt3?oc=5",
-      "pub_date": "2026-09-11T11:28:48+09:00",
-      "source": "ジモはる",
-      "description": "市原市は2026年9月11日、マイナンバーカードの「署名用電子証明書」が意図せず失効するケースが一部で判明したと発表しました。戸籍への氏名の振り仮名記載にともなって住民票にも振り仮名を記載した際、システム上で本人確認情報が変更されたと誤って ...",
-      "_glink": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HZ05uZmVvLXZZOEFKZVFCOXBRQ1kzMmRKVEdWWTY3eUl1bWlXbXFBR1lwSVMzeHZtODgtcmdkTk9peHh2cXMtODBIRV8xNExMOWxRVkU0VFYxeGxBXzMzNDNVZExhWWNuTm5fVUt3?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HZ05uZmVvLXZZOEFKZVFCOXBRQ1kzMmRKVEdWWTY3eUl1bWlXbXFBR1lwSVMzeHZtODgtcmdkTk9peHh2cXMtODBIRV8xNExMOWxRVkU0VFYxeGxBXzMzNDNVZExhWWNuTm5fVUt3?oc=5",
       "category": "一般",
       "topic": "insurance"
     }
