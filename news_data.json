@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-19T12:32:47+09:00",
+  "updated": "2026-10-20T01:15:19+09:00",
   "articles": [
+    {
+      "title": "「Androidのマイナンバーカード」が利用可能なスマホが判明 フル対応の機種は少なめ - ASCII.jp",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83dVd4VE1GRU53Z3lUbTdfSEdoMDNmN3JVcXpqcnJycXFZRkpnY0dwZXI0ZnJha3FQd0V3T0V2LVhHcGcybjRVc3otNlhqcE4wV2VoLQ?oc=5",
+      "pub_date": "2026-10-19T15:00:00+09:00",
+      "source": "ASCII.jp",
+      "description": "デジタル庁は、10月20日に提供開始を予定する「Androidのマイナンバーカード」の対応機種の一覧を公開している。10月19日時点の一覧によると、本人確認や年齢確認などに使う新たな「属性証明機能」は、一部の対応機種でのみ利用できる。",
+      "_glink": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83dVd4VE1GRU53Z3lUbTdfSEdoMDNmN3JVcXpqcnJycXFZRkpnY0dwZXI0ZnJha3FQd0V3T0V2LVhHcGcybjRVc3otNlhqcE4wV2VoLQ?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83dVd4VE1GRU53Z3lUbTdfSEdoMDNmN3JVcXpqcnJycXFZRkpnY0dwZXI0ZnJha3FQd0V3T0V2LVhHcGcybjRVc3otNlhqcE4wV2VoLQ?oc=5",
+      "category": "一般",
+      "topic": "mynumber"
+    },
+    {
+      "title": "マイナンバー制度における制度解説の情報連携に係る資料を更新しました",
+      "link": "https://www.digital.go.jp/policies/mynumber/explanation",
+      "pub_date": "2026-10-19T15:00:00+09:00",
+      "source": "デジタル庁",
+      "description": "これまでは郵送が必要であった中小企業診断士の登録・管理における申請等（新規登録申請や更新登録申請等）について、2026年6月1日(月)10:00よりマイナポータルを用いたオンライン手続きが可能となりました。以降は、原則「オンラインによる受付」とさせ ...",
+      "thumbnail": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
+      "category": "使い方",
+      "topic": "mynumber"
+    },
     {
       "title": "2026年分確定申告、スマホ・マイナポータル連携でさらに便利に - 創業手帳株式会社",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5URmhoTk1yU2VrMXhtMEU0cmtSSTNVYmRYYzBUYzhIWDVCZE01Tmt1SHlBaFprUG1iZ05Fa05tLTJMTmlKNnRkaUhqYTg5UHpTTUE?oc=5",
@@ -3004,6 +3025,17 @@
       "topic": "insurance"
     },
     {
+      "title": "8月1日から「マイナ保険証」か「資格確認書」の提示がないと\"一時的に医療費が全額負担となる可能性あり\"「従来の健康保険証が使える暫定措置」7月31日で終了 - TBS NEWS DIG",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QMHNWRnVqTEZEakR5WG1LRVZUaUNKTms2V3prQUl6OE9ZS011T09YN3g4MjRsQ3lOUXpwZHQxdUhFWGdtZGFQQ3FHQW5TTmtSVTY4XzZvYU9JUQ?oc=5",
+      "pub_date": "2026-08-01T16:00:00+09:00",
+      "source": "TBS NEWS DIG",
+      "description": "保険診療を受ける際、8月1日からマイナンバーカードと一体化した「マイナ保険証」か、マイナ保険証を持たない人に発行される「資格確認書」のどちらかを使う仕組みに完全移行する。有効期限が切れた従来の健康保険証でも受診を認める暫定措置は7 ...",
+      "_glink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QMHNWRnVqTEZEakR5WG1LRVZUaUNKTms2V3prQUl6OE9ZS011T09YN3g4MjRsQ3lOUXpwZHQxdUhFWGdtZGFQQ3FHQW5TTmtSVTY4XzZvYU9JUQ?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QMHNWRnVqTEZEakR5WG1LRVZUaUNKTms2V3prQUl6OE9ZS011T09YN3g4MjRsQ3lOUXpwZHQxdUhFWGdtZGFQQ3FHQW5TTmtSVTY4XzZvYU9JUQ?oc=5",
+      "category": "制度変更",
+      "topic": "insurance"
+    },
+    {
       "title": "【後期高齢者医療制度の被保険者の方】マイナ保険証をご利用ください - 福津市",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Mcy1xdzlKakdMb2VuN2RfOTlhaFZGS2FRQ28wWGtFbHQ4NzM5WDV0LXU1VEh0dGdFNi1xclY0STlwYlI0Vm1xb3dCem9hYlhBT3FyNFIzVHlUdlczU0x2eXU1ZnoyMlJGbmVOSUNPdk4xMVdMNFFhNzh0alAyZw?oc=5",
       "pub_date": "2026-08-01T16:00:00+09:00",
@@ -5438,39 +5470,6 @@
       "description": "医療機関で子どもの医療費助成などを受ける際に、マイナンバーカードに健康保険証機能を持たせた「マイナ保険証」の提示だけで済む自治体が、今年度末に1400超に増える見通しであることがデジタル庁のまとめでわかった。医療機関側にも利点が ...",
       "_glink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ESDF6dzVPQ0dINTFHaUtNWUVCeFpGM3d1akhxb3ZuTFZhTHZQRjFCNnlYS1g1TGcwNzZ0V3JiUDNKcFg2SGxDZjM3ZmZlLUtjSDcxSG42WWIwcHBHLU5reV9n?oc=5",
       "_resolved_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ESDF6dzVPQ0dINTFHaUtNWUVCeFpGM3d1akhxb3ZuTFZhTHZQRjFCNnlYS1g1TGcwNzZ0V3JiUDNKcFg2SGxDZjM3ZmZlLUtjSDcxSG42WWIwcHBHLU5reV9n?oc=5",
-      "category": "一般",
-      "topic": "insurance"
-    },
-    {
-      "title": "小岩広宣社労士の「人材サービスと労務の視点」３３５・マイナ保険証への切り替えと保険証の有効期限 - アドバンスニュース",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KQjdKTjdfeU1fazZwdWRRX1NqRnZoR0RYUnExaDh1VjdpM1VDQ1pYamdLQlBpdzdkSGxJRlNESHFacjkzLTNNb0RDcUR5N3dxam1VQnQ4dlZpUExMMHBBSGJHQUZoNlpYLXktbw?oc=5",
-      "pub_date": "2026-07-16T16:00:00+09:00",
-      "source": "アドバンスニュース",
-      "description": "『顧問先の「人事労務課題」を見える化し、より的確かつ継続的なサポートを可能にする』労務監査クラウドサービス「ヨクスル」を開発・運営する株式会社全国労務診断協会（代表取締役：今田 真吾、所在地：広島県広島市、以下「当社」）は、株式会社 ...",
-      "_glink": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KQjdKTjdfeU1fazZwdWRRX1NqRnZoR0RYUnExaDh1VjdpM1VDQ1pYamdLQlBpdzdkSGxJRlNESHFacjkzLTNNb0RDcUR5N3dxam1VQnQ4dlZpUExMMHBBSGJHQUZoNlpYLXktbw?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KQjdKTjdfeU1fazZwdWRRX1NqRnZoR0RYUnExaDh1VjdpM1VDQ1pYamdLQlBpdzdkSGxJRlNESHFacjkzLTNNb0RDcUR5N3dxam1VQnQ4dlZpUExMMHBBSGJHQUZoNlpYLXktbw?oc=5",
-      "category": "制度変更",
-      "topic": "insurance"
-    },
-    {
-      "title": "マイナ保険証があれば「おくすり手帳は要らない」と考える人が知らない事実〈再配信〉 - ダイヤモンド・オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sYVpGcXNVYWx6dDNfX0JRU2ZWSE0wLUVLam9TbTc1YlRBX3pxdTFsQUkyVUpDb1JfaXRRVjFjMnV6X1FfQTkxOXIwZGNPamJaLTgwamZn0gFPQVVfeXFMTzNzMTlfZkhlSHNnbnl0VTB4dENyUEQ0cXFPcGg2VnpaZVlHeHM3ZnJUTG9rM25NQ3JvUTdac3c4Vklwal82TXRCdlJJdTR4MA?oc=5",
-      "pub_date": "2026-07-16T16:00:00+09:00",
-      "source": "ダイヤモンド・オンライン",
-      "description": "マイナ保険証と資格確認書は、何が違う？それぞれが交付される条件から、できることや使い方、よくある質問まで、わかりやすくまとめます。 健康保険証の新規発行が2024年12月2日をもって終了し、医療機関の受診方法は大きく変わりつつあります。",
-      "_glink": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sYVpGcXNVYWx6dDNfX0JRU2ZWSE0wLUVLam9TbTc1YlRBX3pxdTFsQUkyVUpDb1JfaXRRVjFjMnV6X1FfQTkxOXIwZGNPamJaLTgwamZn0gFPQVVfeXFMTzNzMTlfZkhlSHNnbnl0VTB4dENyUEQ0cXFPcGg2VnpaZVlHeHM3ZnJUTG9rM25NQ3JvUTdac3c4Vklwal82TXRCdlJJdTR4MA?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sYVpGcXNVYWx6dDNfX0JRU2ZWSE0wLUVLam9TbTc1YlRBX3pxdTFsQUkyVUpDb1JfaXRRVjFjMnV6X1FfQTkxOXIwZGNPamJaLTgwamZn0gFPQVVfeXFMTzNzMTlfZkhlSHNnbnl0VTB4dENyUEQ0cXFPcGg2VnpaZVlHeHM3ZnJUTG9rM25NQ3JvUTdac3c4Vklwal82TXRCdlJJdTR4MA?oc=5",
-      "category": "使い方",
-      "topic": "insurance"
-    },
-    {
-      "title": "マイナ保険証があれば「おくすり手帳は要らない」と考える人が知らない事実〈再配信〉 - ダイヤモンド・オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1GcFJrcV96QkJXSmxkcVNheUEwSGN2b2J0YUlMXzhxRzJPMHRIM2lQSmZpOTVCd0FjMllQejMwSVNCanVHOUJmMDlZSnbSAU9BVV95cUxPM3MxOV9mSGVIc2dueXRVMHh0Q3JQRDRxcU9waDZWelplWUd4czdmclRMb2szbk1Dcm9RN1pzdzhWSXBqXzZNdEJ2Ukl1NHgw?oc=5",
-      "pub_date": "2026-07-16T16:00:00+09:00",
-      "source": "ダイヤモンド・オンライン",
-      "description": "病院や診療所で処方された薬の情報を時系列で記録する「おくすり手帳」。患者の同意があればマイナ保険証でも投薬履歴は確認できるが、「おくすり手帳」の利便性にはかなわない。『医療費の裏ワザと落とし穴』302回では、マイナ保険証と一緒におくすり手帳も携帯すべき理由をお伝えする。 2ページ目 ...",
-      "_glink": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1GcFJrcV96QkJXSmxkcVNheUEwSGN2b2J0YUlMXzhxRzJPMHRIM2lQSmZpOTVCd0FjMllQejMwSVNCanVHOUJmMDlZSnbSAU9BVV95cUxPM3MxOV9mSGVIc2dueXRVMHh0Q3JQRDRxcU9waDZWelplWUd4czdmclRMb2szbk1Dcm9RN1pzdzhWSXBqXzZNdEJ2Ukl1NHgw?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1GcFJrcV96QkJXSmxkcVNheUEwSGN2b2J0YUlMXzhxRzJPMHRIM2lQSmZpOTVCd0FjMllQejMwSVNCanVHOUJmMDlZSnbSAU9BVV95cUxPM3MxOV9mSGVIc2dueXRVMHh0Q3JQRDRxcU9waDZWelplWUd4czdmclRMb2szbk1Dcm9RN1pzdzhWSXBqXzZNdEJ2Ukl1NHgw?oc=5",
       "category": "一般",
       "topic": "insurance"
     }
