@@ -1,6 +1,60 @@
 {
-  "updated": "2026-10-20T01:15:19+09:00",
+  "updated": "2026-10-20T12:42:34+09:00",
   "articles": [
+    {
+      "title": "「Androidのマイナンバーカード」サービス開始　概要とセットアップ方法を紹介 - Infoseek",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiTlJrZGl2X0JTb0F0d3hvR05ULWJYbll6LUJFeHpPVkx0WUZtQnJmWVNkcHJFeEJPN3U0V0lIOF8zQlZUMi15ZHp2X0xmY0h1NTRGTk85aUZhU0VQakk2RzgwMXptWGZRU25NUlRPbFrSAXZBVV95cUxOaEROazJGc1JYNkxaMV91OUV6U0g3aWwyVkZmaXY1VEg0blJiMDVtLTA4MUZCS2hsWHVDRlEwb2Iwc3FSdGJQT2tCVThWcmtWVWdtanJwM0RjeE9xaHJpc25PX2dIZ0NCNjJjSEpZTmFDeDQ3b2tR?oc=5",
+      "pub_date": "2026-10-20T10:55:40+09:00",
+      "source": "Infoseek",
+      "description": "",
+      "_glink": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiTlJrZGl2X0JTb0F0d3hvR05ULWJYbll6LUJFeHpPVkx0WUZtQnJmWVNkcHJFeEJPN3U0V0lIOF8zQlZUMi15ZHp2X0xmY0h1NTRGTk85aUZhU0VQakk2RzgwMXptWGZRU25NUlRPbFrSAXZBVV95cUxOaEROazJGc1JYNkxaMV91OUV6U0g3aWwyVkZmaXY1VEg0blJiMDVtLTA4MUZCS2hsWHVDRlEwb2Iwc3FSdGJQT2tCVThWcmtWVWdtanJwM0RjeE9xaHJpc25PX2dIZ0NCNjJjSEpZTmFDeDQ3b2tR?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiTlJrZGl2X0JTb0F0d3hvR05ULWJYbll6LUJFeHpPVkx0WUZtQnJmWVNkcHJFeEJPN3U0V0lIOF8zQlZUMi15ZHp2X0xmY0h1NTRGTk85aUZhU0VQakk2RzgwMXptWGZRU25NUlRPbFrSAXZBVV95cUxOaEROazJGc1JYNkxaMV91OUV6U0g3aWwyVkZmaXY1VEg0blJiMDVtLTA4MUZCS2hsWHVDRlEwb2Iwc3FSdGJQT2tCVThWcmtWVWdtanJwM0RjeE9xaHJpc25PX2dIZ0NCNjJjSEpZTmFDeDQ3b2tR?oc=5",
+      "category": "一般",
+      "topic": "mynumber"
+    },
+    {
+      "title": "「Androidのマイナンバーカード」の提供を開始しました（デジタル庁 ウェブサービス・アプリケーション）",
+      "link": "https://services.digital.go.jp/mynumbercard-android/news/13d5101e1dce63e2b6bdc/",
+      "pub_date": "2026-10-20T09:31:53+09:00",
+      "source": "デジタル庁",
+      "description": "",
+      "thumbnail": "https://services.digital.go.jp/ogp.png",
+      "category": "一般",
+      "topic": "mynumber"
+    },
+    {
+      "title": "Androidのマイナンバーカードが10月20日から本人確認に対応。使えるのはPixel 6以降など一部機種 - GAZLOG",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDZ1QyZy1MYUE4ZTBWeWNUd1dudGl6T0FrTnh0aGZPaGdNQTJoekFHZ2RRcC1tZFgtYjV3cHYwZERHMDVtYmw0cmRkTmZ4c1VQZlhKeG1vdEg0T0c3V1E?oc=5",
+      "pub_date": "2026-10-20T07:40:00+09:00",
+      "source": "GAZLOG",
+      "description": "",
+      "_glink": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDZ1QyZy1MYUE4ZTBWeWNUd1dudGl6T0FrTnh0aGZPaGdNQTJoekFHZ2RRcC1tZFgtYjV3cHYwZERHMDVtYmw0cmRkTmZ4c1VQZlhKeG1vdEg0T0c3V1E?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDZ1QyZy1MYUE4ZTBWeWNUd1dudGl6T0FrTnh0aGZPaGdNQTJoekFHZ2RRcC1tZFgtYjV3cHYwZERHMDVtYmw0cmRkTmZ4c1VQZlhKeG1vdEg0T0c3V1E?oc=5",
+      "category": "一般",
+      "topic": "mynumber"
+    },
+    {
+      "title": "『Androidのマイナンバーカード』OPPOスマホは２機種のみ対応 - OPPOラボ",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxdy1kb2hqZlBZOEw3bkc5UG5TR3AySmJpZjB6V2x4X3hJek5XMURuTmtEaXY2SkViSjNTYjZTU05wYjEyZVdXLTFjaUpPUVNrZnpZa18zTDNqWDlPd3BQdHRzeDRlLUU?oc=5",
+      "pub_date": "2026-10-20T04:50:00+09:00",
+      "source": "OPPOラボ",
+      "description": "",
+      "_glink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxdy1kb2hqZlBZOEw3bkc5UG5TR3AySmJpZjB6V2x4X3hJek5XMURuTmtEaXY2SkViSjNTYjZTU05wYjEyZVdXLTFjaUpPUVNrZnpZa18zTDNqWDlPd3BQdHRzeDRlLUU?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxdy1kb2hqZlBZOEw3bkc5UG5TR3AySmJpZjB6V2x4X3hJek5XMURuTmtEaXY2SkViSjNTYjZTU05wYjEyZVdXLTFjaUpPUVNrZnpZa18zTDNqWDlPd3BQdHRzeDRlLUU?oc=5",
+      "category": "一般",
+      "topic": "mynumber"
+    },
+    {
+      "title": "マイナンバーカードの一体化による利便性についてどう思いますか？ - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE01aVVmZ0hYZXVhWXVaVUJUV09GemZwRUNaaldjZk0zaTB6V0RTTm13Nm9BN3BGTWs1OElhSDJzaUExb0F5WjdhOFcxdV8?oc=5",
+      "pub_date": "2026-10-20T00:08:57+09:00",
+      "source": "Yahoo!ニュース",
+      "description": "",
+      "_glink": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE01aVVmZ0hYZXVhWXVaVUJUV09GemZwRUNaaldjZk0zaTB6V0RTTm13Nm9BN3BGTWs1OElhSDJzaUExb0F5WjdhOFcxdV8?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE01aVVmZ0hYZXVhWXVaVUJUV09GemZwRUNaaldjZk0zaTB6V0RTTm13Nm9BN3BGTWs1OElhSDJzaUExb0F5WjdhOFcxdV8?oc=5",
+      "category": "一般",
+      "topic": "mynumber"
+    },
     {
       "title": "「Androidのマイナンバーカード」が利用可能なスマホが判明 フル対応の機種は少なめ - ASCII.jp",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83dVd4VE1GRU53Z3lUbTdfSEdoMDNmN3JVcXpqcnJycXFZRkpnY0dwZXI0ZnJha3FQd0V3T0V2LVhHcGcybjRVc3otNlhqcE4wV2VoLQ?oc=5",
@@ -5416,61 +5470,6 @@
       "_glink": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8waDJXNmhsblQ5RjRCMVB3ZUhLeURZei1jcjJHMzhRNjk0S3NURHNSN1pLVmRGcnZadWtySUd6SGZMWWVWaHE5RWRSMjlSb1lDYlFFNjBjVUtaMWdQakF2Q2tKdGM2cGJHR3pJdQ?oc=5",
       "_resolved_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8waDJXNmhsblQ5RjRCMVB3ZUhLeURZei1jcjJHMzhRNjk0S3NURHNSN1pLVmRGcnZadWtySUd6SGZMWWVWaHE5RWRSMjlSb1lDYlFFNjBjVUtaMWdQakF2Q2tKdGM2cGJHR3pJdQ?oc=5",
       "category": "制度変更",
-      "topic": "insurance"
-    },
-    {
-      "title": "実は「マイナポイント」申請すれば今でももらえる！“知らないと損”な狙い目マイナポイント制度とは？（All About） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHejZqVWNjY2FyYTBZVFhNeUJsdjdvRktXaUNWdWhaU1RJWkVKaEJBWUJDcFItd1VzbEFPMDBsbmJ4Rnc2aFhfVjFYdk5RcXpISHNIWWhhUlNadUZ2c2tGc1R4WFFjR2l2cHlJanB2bGI2YUlCc2dMU2pYckVBdXc?oc=5",
-      "pub_date": "2026-07-19T16:00:00+09:00",
-      "source": "Yahoo!ニュース",
-      "description": "「マイナポイントがもらえるのなんて、もうずいぶん前の話」――そう思っている人がほとんどではないでしょうか。かつて、最大2万円分のポイントがもらえることで話題になった「マイナポイント事業」ですが、2026年の現在でもマイナポイントが ...",
-      "_glink": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHejZqVWNjY2FyYTBZVFhNeUJsdjdvRktXaUNWdWhaU1RJWkVKaEJBWUJDcFItd1VzbEFPMDBsbmJ4Rnc2aFhfVjFYdk5RcXpISHNIWWhhUlNadUZ2c2tGc1R4WFFjR2l2cHlJanB2bGI2YUlCc2dMU2pYckVBdXc?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHejZqVWNjY2FyYTBZVFhNeUJsdjdvRktXaUNWdWhaU1RJWkVKaEJBWUJDcFItd1VzbEFPMDBsbmJ4Rnc2aFhfVjFYdk5RcXpISHNIWWhhUlNadUZ2c2tGc1R4WFFjR2l2cHlJanB2bGI2YUlCc2dMU2pYckVBdXc?oc=5",
-      "category": "一般",
-      "topic": "mynumber"
-    },
-    {
-      "title": "後期高齢者医療制度のマイナ保険証・資格確認書・その他の証 - city.ome.tokyo.jp",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TMW52WUJaUHpRaXhFZl9uRzFQczdXVUxSMmJWRUlHYkVSTUZ3UjFBTURtZ1RxTl9yc200dTVfUUszUk1yQ1FRMkxFLWFfTEJKVERLanJ1Z3pNQzlyQkFWaw?oc=5",
-      "pub_date": "2026-07-17T16:00:00+09:00",
-      "source": "city.ome.tokyo.jp",
-      "description": "2026年7月31日、特例措置で据え置きになっていた従来の健康保険証が、ついに廃止となります。健康保険証の新規発行は2024年12月2日で終了し、医療機関や薬局ではマイナ保険証または資格確認書を使う仕組みに移行しています。しかし、「資格確認書はどこ ...",
-      "_glink": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TMW52WUJaUHpRaXhFZl9uRzFQczdXVUxSMmJWRUlHYkVSTUZ3UjFBTURtZ1RxTl9yc200dTVfUUszUk1yQ1FRMkxFLWFfTEJKVERLanJ1Z3pNQzlyQkFWaw?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TMW52WUJaUHpRaXhFZl9uRzFQczdXVUxSMmJWRUlHYkVSTUZ3UjFBTURtZ1RxTl9yc200dTVfUUszUk1yQ1FRMkxFLWFfTEJKVERLanJ1Z3pNQzlyQkFWaw?oc=5",
-      "category": "制度変更",
-      "topic": "insurance"
-    },
-    {
-      "title": "マイナ保険証を基本とする仕組みへの移行について - city.hiroshima.lg.jp",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaDE3d1VMdVktblRTRlVCMUhSZWRnVlNVbW8zbDUyZFhsU0hkcUROOS1lYm5DMldzX3ZLRGNUcUpjYjYwT2xBZEw1OXpDb0dvWG9sQ09CT1lmLUUxSmxiZnFYaTJ0bFZEZG5IMG12LWRNdFkxN2Z5Y3p0ZlJFYkZncHo1allONWV1?oc=5",
-      "pub_date": "2026-07-17T16:00:00+09:00",
-      "source": "city.hiroshima.lg.jp",
-      "description": "健康保険証の新規発行が2024年12月1日に終了したのに伴い、その1年後となる2025年12月1日をもって、既存の発行済みの健康保険証も有効期限を迎える。これにより、12月2日からはマイナ保険証を基本とする仕組みになる。マイナ保険証に登録していない人には ...",
-      "_glink": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaDE3d1VMdVktblRTRlVCMUhSZWRnVlNVbW8zbDUyZFhsU0hkcUROOS1lYm5DMldzX3ZLRGNUcUpjYjYwT2xBZEw1OXpDb0dvWG9sQ09CT1lmLUUxSmxiZnFYaTJ0bFZEZG5IMG12LWRNdFkxN2Z5Y3p0ZlJFYkZncHo1allONWV1?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaDE3d1VMdVktblRTRlVCMUhSZWRnVlNVbW8zbDUyZFhsU0hkcUROOS1lYm5DMldzX3ZLRGNUcUpjYjYwT2xBZEw1OXpDb0dvWG9sQ09CT1lmLUUxSmxiZnFYaTJ0bFZEZG5IMG12LWRNdFkxN2Z5Y3p0ZlJFYkZncHo1allONWV1?oc=5",
-      "category": "制度変更",
-      "topic": "insurance"
-    },
-    {
-      "title": "10割負担？マイったナ 保険証、移行特例が月末で終了 マイナカード期限確認を／「資格確認書」はOK - 毎日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yODh4cmU3N0RETE9iNWhWMG5ITEZQQ2xwRXVmVUFTa3RtMG5MaUljQmQzd3BwN2lUVjlkZnFyb09yNUk4Z2gzcnFlZnVUQzlvRXJjQWo2UkV5d2lXYzl2MFFVd3lra2l6?oc=5",
-      "pub_date": "2026-07-17T16:00:00+09:00",
-      "source": "毎日新聞",
-      "description": "「マイナ保険証」への移行に伴う暫定措置が間もなく終了する。8月からは従来の健康保険証を医療機関に持参した場合、医療費全額の10割負担を求められるかもしれない。安心して受診するためにも、気を付けたい二つのポイントを紹介する。",
-      "_glink": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yODh4cmU3N0RETE9iNWhWMG5ITEZQQ2xwRXVmVUFTa3RtMG5MaUljQmQzd3BwN2lUVjlkZnFyb09yNUk4Z2gzcnFlZnVUQzlvRXJjQWo2UkV5d2lXYzl2MFFVd3lra2l6?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yODh4cmU3N0RETE9iNWhWMG5ITEZQQ2xwRXVmVUFTa3RtMG5MaUljQmQzd3BwN2lUVjlkZnFyb09yNUk4Z2gzcnFlZnVUQzlvRXJjQWo2UkV5d2lXYzl2MFFVd3lra2l6?oc=5",
-      "category": "制度変更",
-      "topic": "insurance"
-    },
-    {
-      "title": "マイナ保険証でも捨てちゃダメ？ 手元に残すべき「医療費の領収書」の見分け方 - マネーフォワード",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ESDF6dzVPQ0dINTFHaUtNWUVCeFpGM3d1akhxb3ZuTFZhTHZQRjFCNnlYS1g1TGcwNzZ0V3JiUDNKcFg2SGxDZjM3ZmZlLUtjSDcxSG42WWIwcHBHLU5reV9n?oc=5",
-      "pub_date": "2026-07-17T16:00:00+09:00",
-      "source": "マネーフォワード",
-      "description": "医療機関で子どもの医療費助成などを受ける際に、マイナンバーカードに健康保険証機能を持たせた「マイナ保険証」の提示だけで済む自治体が、今年度末に1400超に増える見通しであることがデジタル庁のまとめでわかった。医療機関側にも利点が ...",
-      "_glink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ESDF6dzVPQ0dINTFHaUtNWUVCeFpGM3d1akhxb3ZuTFZhTHZQRjFCNnlYS1g1TGcwNzZ0V3JiUDNKcFg2SGxDZjM3ZmZlLUtjSDcxSG42WWIwcHBHLU5reV9n?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ESDF6dzVPQ0dINTFHaUtNWUVCeFpGM3d1akhxb3ZuTFZhTHZQRjFCNnlYS1g1TGcwNzZ0V3JiUDNKcFg2SGxDZjM3ZmZlLUtjSDcxSG42WWIwcHBHLU5reV9n?oc=5",
-      "category": "一般",
       "topic": "insurance"
     }
   ]

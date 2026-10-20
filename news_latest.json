@@ -1,6 +1,60 @@
 {
-  "updated": "2026-10-20T01:15:19+09:00",
+  "updated": "2026-10-20T12:42:34+09:00",
   "articles": [
+    {
+      "title": "「Androidのマイナンバーカード」サービス開始　概要とセットアップ方法を紹介 - Infoseek",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiTlJrZGl2X0JTb0F0d3hvR05ULWJYbll6LUJFeHpPVkx0WUZtQnJmWVNkcHJFeEJPN3U0V0lIOF8zQlZUMi15ZHp2X0xmY0h1NTRGTk85aUZhU0VQakk2RzgwMXptWGZRU25NUlRPbFrSAXZBVV95cUxOaEROazJGc1JYNkxaMV91OUV6U0g3aWwyVkZmaXY1VEg0blJiMDVtLTA4MUZCS2hsWHVDRlEwb2Iwc3FSdGJQT2tCVThWcmtWVWdtanJwM0RjeE9xaHJpc25PX2dIZ0NCNjJjSEpZTmFDeDQ3b2tR?oc=5",
+      "pub_date": "2026-10-20T10:55:40+09:00",
+      "source": "Infoseek",
+      "description": "",
+      "_glink": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiTlJrZGl2X0JTb0F0d3hvR05ULWJYbll6LUJFeHpPVkx0WUZtQnJmWVNkcHJFeEJPN3U0V0lIOF8zQlZUMi15ZHp2X0xmY0h1NTRGTk85aUZhU0VQakk2RzgwMXptWGZRU25NUlRPbFrSAXZBVV95cUxOaEROazJGc1JYNkxaMV91OUV6U0g3aWwyVkZmaXY1VEg0blJiMDVtLTA4MUZCS2hsWHVDRlEwb2Iwc3FSdGJQT2tCVThWcmtWVWdtanJwM0RjeE9xaHJpc25PX2dIZ0NCNjJjSEpZTmFDeDQ3b2tR?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiTlJrZGl2X0JTb0F0d3hvR05ULWJYbll6LUJFeHpPVkx0WUZtQnJmWVNkcHJFeEJPN3U0V0lIOF8zQlZUMi15ZHp2X0xmY0h1NTRGTk85aUZhU0VQakk2RzgwMXptWGZRU25NUlRPbFrSAXZBVV95cUxOaEROazJGc1JYNkxaMV91OUV6U0g3aWwyVkZmaXY1VEg0blJiMDVtLTA4MUZCS2hsWHVDRlEwb2Iwc3FSdGJQT2tCVThWcmtWVWdtanJwM0RjeE9xaHJpc25PX2dIZ0NCNjJjSEpZTmFDeDQ3b2tR?oc=5",
+      "category": "一般",
+      "topic": "mynumber"
+    },
+    {
+      "title": "「Androidのマイナンバーカード」の提供を開始しました（デジタル庁 ウェブサービス・アプリケーション）",
+      "link": "https://services.digital.go.jp/mynumbercard-android/news/13d5101e1dce63e2b6bdc/",
+      "pub_date": "2026-10-20T09:31:53+09:00",
+      "source": "デジタル庁",
+      "description": "",
+      "thumbnail": "https://services.digital.go.jp/ogp.png",
+      "category": "一般",
+      "topic": "mynumber"
+    },
+    {
+      "title": "Androidのマイナンバーカードが10月20日から本人確認に対応。使えるのはPixel 6以降など一部機種 - GAZLOG",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDZ1QyZy1MYUE4ZTBWeWNUd1dudGl6T0FrTnh0aGZPaGdNQTJoekFHZ2RRcC1tZFgtYjV3cHYwZERHMDVtYmw0cmRkTmZ4c1VQZlhKeG1vdEg0T0c3V1E?oc=5",
+      "pub_date": "2026-10-20T07:40:00+09:00",
+      "source": "GAZLOG",
+      "description": "",
+      "_glink": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDZ1QyZy1MYUE4ZTBWeWNUd1dudGl6T0FrTnh0aGZPaGdNQTJoekFHZ2RRcC1tZFgtYjV3cHYwZERHMDVtYmw0cmRkTmZ4c1VQZlhKeG1vdEg0T0c3V1E?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDZ1QyZy1MYUE4ZTBWeWNUd1dudGl6T0FrTnh0aGZPaGdNQTJoekFHZ2RRcC1tZFgtYjV3cHYwZERHMDVtYmw0cmRkTmZ4c1VQZlhKeG1vdEg0T0c3V1E?oc=5",
+      "category": "一般",
+      "topic": "mynumber"
+    },
+    {
+      "title": "『Androidのマイナンバーカード』OPPOスマホは２機種のみ対応 - OPPOラボ",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxdy1kb2hqZlBZOEw3bkc5UG5TR3AySmJpZjB6V2x4X3hJek5XMURuTmtEaXY2SkViSjNTYjZTU05wYjEyZVdXLTFjaUpPUVNrZnpZa18zTDNqWDlPd3BQdHRzeDRlLUU?oc=5",
+      "pub_date": "2026-10-20T04:50:00+09:00",
+      "source": "OPPOラボ",
+      "description": "",
+      "_glink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxdy1kb2hqZlBZOEw3bkc5UG5TR3AySmJpZjB6V2x4X3hJek5XMURuTmtEaXY2SkViSjNTYjZTU05wYjEyZVdXLTFjaUpPUVNrZnpZa18zTDNqWDlPd3BQdHRzeDRlLUU?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxdy1kb2hqZlBZOEw3bkc5UG5TR3AySmJpZjB6V2x4X3hJek5XMURuTmtEaXY2SkViSjNTYjZTU05wYjEyZVdXLTFjaUpPUVNrZnpZa18zTDNqWDlPd3BQdHRzeDRlLUU?oc=5",
+      "category": "一般",
+      "topic": "mynumber"
+    },
+    {
+      "title": "マイナンバーカードの一体化による利便性についてどう思いますか？ - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE01aVVmZ0hYZXVhWXVaVUJUV09GemZwRUNaaldjZk0zaTB6V0RTTm13Nm9BN3BGTWs1OElhSDJzaUExb0F5WjdhOFcxdV8?oc=5",
+      "pub_date": "2026-10-20T00:08:57+09:00",
+      "source": "Yahoo!ニュース",
+      "description": "",
+      "_glink": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE01aVVmZ0hYZXVhWXVaVUJUV09GemZwRUNaaldjZk0zaTB6V0RTTm13Nm9BN3BGTWs1OElhSDJzaUExb0F5WjdhOFcxdV8?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE01aVVmZ0hYZXVhWXVaVUJUV09GemZwRUNaaldjZk0zaTB6V0RTTm13Nm9BN3BGTWs1OElhSDJzaUExb0F5WjdhOFcxdV8?oc=5",
+      "category": "一般",
+      "topic": "mynumber"
+    },
     {
       "title": "「Androidのマイナンバーカード」が利用可能なスマホが判明 フル対応の機種は少なめ - ASCII.jp",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83dVd4VE1GRU53Z3lUbTdfSEdoMDNmN3JVcXpqcnJycXFZRkpnY0dwZXI0ZnJha3FQd0V3T0V2LVhHcGcybjRVc3otNlhqcE4wV2VoLQ?oc=5",
@@ -490,60 +544,6 @@
       "_resolved_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZbGROOUs0RHZyb09hdWxrNmZZeFNuX3FRVDNUOFJ4NTBWdUtfT1B6X2U2RnZpTlFxeW5Pc2gxbjhoeHJFNlZZV1ZPRDJuX3gtTVd4cnFyOU5zNWVVU2gzdmxmbWhTMF9v0gFuQVVfeXFMT2pxSHJxSTVSLUxZYmFWdGx2LV9aVG93Nk0ybXl0ZE9Kd3p2c3N1S1lYTlZJRWRxcTJPbXctTlJhMW9uajJyLU82ems2bEVCM3EzYm92aHV2aFZ5UzRvU241TnpnSm8wUEFYTnVrcGc?oc=5",
       "category": "一般",
       "topic": "mynumber"
-    },
-    {
-      "title": "オンライン資格確認の「どこに相談すればいい？」をひとつの窓口に。三栄メディシスが医療機関向け導入・運用サポートを開始 - STRAIGHT PRESS",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5uTzY5OGNJMy04TlotMkwtN3Zka2VVMmMxN05iMHZmZWI2cU5mZFl2RGd2MmNMNmpWSnZYZERVNEdJdWFzQzJQR2lFSWUtaWlMZUJJRkVMVHRRNGtEd3J5cEx3RjRxYU5BbE0zNGhqNE1FZ0kwb1E?oc=5",
-      "pub_date": "2026-09-29T16:00:00+09:00",
-      "source": "STRAIGHT PRESS",
-      "description": "オンライン資格確認のサポートを開始しました 三栄メディシス株式会社（京都市山科区）は、医療機関向け「オンライン資格確認サポート」の提供を開始しました。導入前の環境確認から、必要な機器の選定、端末設定、レセコン連携、導入後のトラブル ...",
-      "_glink": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5uTzY5OGNJMy04TlotMkwtN3Zka2VVMmMxN05iMHZmZWI2cU5mZFl2RGd2MmNMNmpWSnZYZERVNEdJdWFzQzJQR2lFSWUtaWlMZUJJRkVMVHRRNGtEd3J5cEx3RjRxYU5BbE0zNGhqNE1FZ0kwb1E?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5uTzY5OGNJMy04TlotMkwtN3Zka2VVMmMxN05iMHZmZWI2cU5mZFl2RGd2MmNMNmpWSnZYZERVNEdJdWFzQzJQR2lFSWUtaWlMZUJJRkVMVHRRNGtEd3J5cEx3RjRxYU5BbE0zNGhqNE1FZ0kwb1E?oc=5",
-      "category": "トラブル",
-      "topic": "insurance"
-    },
-    {
-      "title": "オンライン資格確認の「どこに相談すればいい？」をひとつの窓口に。三栄メディシスが医療機関向け導入・運用サポートを開始 - 朝日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QWkZaMllwZ24yZHBweW0xZlBkSEtURFdFQ0JUWEN6VUNPUDJic3JJZDJBN0Y5NW10QzF1Zjl5TF9qV0pLSDNBR19ibHg1SnUyY3VvWjNoTDFDb2s?oc=5",
-      "pub_date": "2026-09-29T16:00:00+09:00",
-      "source": "朝日新聞",
-      "description": "オンライン資格確認のサポートを開始しました 三栄メディシス株式会社（京都市山科区）は、医療機関向け「オンライン資格確認サポート」の提供を開始しました。導入前の環境確認から、必要な機器の選定、端末設定、レセコン連携、導入後のトラブル ...",
-      "_glink": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QWkZaMllwZ24yZHBweW0xZlBkSEtURFdFQ0JUWEN6VUNPUDJic3JJZDJBN0Y5NW10QzF1Zjl5TF9qV0pLSDNBR19ibHg1SnUyY3VvWjNoTDFDb2s?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QWkZaMllwZ24yZHBweW0xZlBkSEtURFdFQ0JUWEN6VUNPUDJic3JJZDJBN0Y5NW10QzF1Zjl5TF9qV0pLSDNBR19ibHg1SnUyY3VvWjNoTDFDb2s?oc=5",
-      "category": "トラブル",
-      "topic": "insurance"
-    },
-    {
-      "title": "オンライン資格確認の「どこに相談すればいい？」をひとつの窓口に。三栄メディシスが医療機関向け導入・運用サポートを開始 - ASCII.jp",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBtbURBME5KU1c0NlZjUUExenRXWFNMTU9ha3hYWnBJWi05bnJiRF9iWlVnQ1EzNGw2aDRTd2dxUEpKbnBSODRPMnQ4b0lpcWo1bTluWA?oc=5",
-      "pub_date": "2026-09-29T14:04:52+09:00",
-      "source": "ASCII.jp",
-      "description": "オンライン資格確認を巡り、医師・歯科医師が国を訴えた裁判の控訴審の第3回期日が6月10日、東京高裁（三木素子裁判長）で開かれ、弁論が終結した。判決は9月16日に言い渡される予定だ。 第3回期日で原告側は、控訴審におけるこれまでの主張の骨子を ...",
-      "_glink": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBtbURBME5KU1c0NlZjUUExenRXWFNMTU9ha3hYWnBJWi05bnJiRF9iWlVnQ1EzNGw2aDRTd2dxUEpKbnBSODRPMnQ4b0lpcWo1bTluWA?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBtbURBME5KU1c0NlZjUUExenRXWFNMTU9ha3hYWnBJWi05bnJiRF9iWlVnQ1EzNGw2aDRTd2dxUEpKbnBSODRPMnQ4b0lpcWo1bTluWA?oc=5",
-      "category": "一般",
-      "topic": "insurance"
-    },
-    {
-      "title": "第217回社会保障審議会医療保険部会（ペーパーレス）の開催について",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76382.html",
-      "pub_date": "2026-09-29T14:00:00+09:00",
-      "source": "厚生労働省",
-      "description": "厚生労働省は3月26日の社会保障審議会医療部会（部会長：遠藤久夫・学習院大学長）で、2026年4月から始まる「医療法人の経営情報の第三者提供制度」に伴い、提供申出の審査等を行う専門委員会（仮称）を設置することを提案。部会は了承した（資料は ...",
-      "thumbnail": "https://www.mhlw.go.jp/common/img/img_ogp.jpg",
-      "category": "政治",
-      "topic": "mynumber"
-    },
-    {
-      "title": "オンライン資格確認の「どこに相談すればいい？」をひとつの窓口に。三栄メディシスが医療機関向け導入・運用サポートを開始 - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBua2NJSmFkUG1UY2tBQVBWM2J3VHhXZmhXVmQ0VDk0Wk94a0U5cFVQTkNkam43VDVxTFc3MU9qOWFYaWNLX19FNXFzWFdhRjV6TjBGUFBuQ01lQnp5YWxBWDZNQmJCcTI3TWc?oc=5",
-      "pub_date": "2026-09-29T10:30:02+09:00",
-      "source": "PR TIMES",
-      "description": "オンライン資格確認を巡り、医師・歯科医師が国を訴えた裁判の控訴審の第3回期日が6月10日、東京高裁（三木素子裁判長）で開かれ、弁論が終結した。判決は9月16日に言い渡される予定だ。 第3回期日で原告側は、控訴審におけるこれまでの主張の骨子を ...",
-      "_glink": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBua2NJSmFkUG1UY2tBQVBWM2J3VHhXZmhXVmQ0VDk0Wk94a0U5cFVQTkNkam43VDVxTFc3MU9qOWFYaWNLX19FNXFzWFdhRjV6TjBGUFBuQ01lQnp5YWxBWDZNQmJCcTI3TWc?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBua2NJSmFkUG1UY2tBQVBWM2J3VHhXZmhXVmQ0VDk0Wk94a0U5cFVQTkNkam43VDVxTFc3MU9qOWFYaWNLX19FNXFzWFdhRjV6TjBGUFBuQ01lQnp5YWxBWDZNQmJCcTI3TWc?oc=5",
-      "category": "一般",
-      "topic": "insurance"
     }
   ],
   "total": 500
