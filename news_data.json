@@ -1,6 +1,17 @@
 {
-  "updated": "2026-10-20T23:09:15+09:00",
+  "updated": "2026-10-21T12:34:36+09:00",
   "articles": [
+    {
+      "title": "マイナンバーカードの健康保険証としての利用 - www.city.shinagawa.tokyo.jp",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yZlIzMjd1aUI0NVRJd1lLVUVRZ1FZSk1GeURveUtmb2phUjFNZHBUYXRvd1h4ck9sVHRCd29MWU1uUVF1SmJ1aTZzaW82eGRSZVlGUkl3TmFzWTcwQ19JZTE5QnZPUnBacEZ0blFuY2FvSDdkNkNiTkhVQ2Zndw?oc=5",
+      "pub_date": "2026-10-21T08:38:47+09:00",
+      "source": "www.city.shinagawa.tokyo.jp",
+      "description": "健康保険証の新規発行が2024年12月1日に終了したのに伴い、その1年後となる2025年12月1日をもって、既存の発行済みの健康保険証も有効期限を迎える。これにより、12月2日からはマイナ保険証を基本とする仕組みになる。マイナ保険証に登録していない人には ...",
+      "_glink": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yZlIzMjd1aUI0NVRJd1lLVUVRZ1FZSk1GeURveUtmb2phUjFNZHBUYXRvd1h4ck9sVHRCd29MWU1uUVF1SmJ1aTZzaW82eGRSZVlGUkl3TmFzWTcwQ19JZTE5QnZPUnBacEZ0blFuY2FvSDdkNkNiTkhVQ2Zndw?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yZlIzMjd1aUI0NVRJd1lLVUVRZ1FZSk1GeURveUtmb2phUjFNZHBUYXRvd1h4ck9sVHRCd29MWU1uUVF1SmJ1aTZzaW82eGRSZVlGUkl3TmFzWTcwQ19JZTE5QnZPUnBacEZ0blFuY2FvSDdkNkNiTkhVQ2Zndw?oc=5",
+      "category": "制度変更",
+      "topic": "insurance"
+    },
     {
       "title": "【2027年7月まで】協会けんぽ限度額認定証の期限。マイナ保険証なら入院時の事前手続なし（LIMO） - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EaWwtZ1FCMWZ2VkpWaXI1ZW5ibHNfY1B5UXdybXQ0Q0VBcy0zRWVvby04b20yTTJnaU9qcnB6Mk9BWThXOWZQQnR5ZFY1Vk1ya19wNzVtZ1BWT0pUektHdm5WVU1jTmFURXlpYklpOXRqMHI3YjNMN1lkdDRLc28?oc=5",
@@ -1132,6 +1143,17 @@
       "_glink": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SVkNSTFM1SzRJS2lxOXNDcFA3dnQxZjcwaWhvckxYUE5oa3VnWkhpR1ZPeWRDLWhmNzdMLVFoMXZFYmRVa0FzdEpBd3hZTVhtS05XaDViR1U?oc=5",
       "_resolved_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SVkNSTFM1SzRJS2lxOXNDcFA3dnQxZjcwaWhvckxYUE5oa3VnWkhpR1ZPeWRDLWhmNzdMLVFoMXZFYmRVa0FzdEpBd3hZTVhtS05XaDViR1U?oc=5",
       "category": "一般",
+      "topic": "insurance"
+    },
+    {
+      "title": "マイナ保険証有用性の訴えが足りない - 47NEWS",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1qNlAzUVBrZll4LUFWaW9pLVdpMlhoanZwNF8wLUpCVVo2RG1YZGRBTzlGSEhTd1VSbDZsRUNyM2p5Q0VPVmJES3l0bw?oc=5",
+      "pub_date": "2026-09-09T16:00:00+09:00",
+      "source": "47NEWS",
+      "description": "8月1日より、医療機関や薬局での受診時に「有効期限切れの従来の健康保険証」が一切使えなくなる。それに伴い、マイナ保険証や代替手段である「資格確認書」を持たずに受診した場合、保険証を忘れた場合と同様の対応となり、一時的に医療費を全額 ...",
+      "_glink": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1qNlAzUVBrZll4LUFWaW9pLVdpMlhoanZwNF8wLUpCVVo2RG1YZGRBTzlGSEhTd1VSbDZsRUNyM2p5Q0VPVmJES3l0bw?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1qNlAzUVBrZll4LUFWaW9pLVdpMlhoanZwNF8wLUpCVVo2RG1YZGRBTzlGSEhTd1VSbDZsRUNyM2p5Q0VPVmJES3l0bw?oc=5",
+      "category": "制度変更",
       "topic": "insurance"
     },
     {
@@ -5440,36 +5462,14 @@
       "topic": "insurance"
     },
     {
-      "title": "紙の保険証、月末終了 スマホ搭載800万人 1年で8倍以上に増加 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFZHhxak1fZFpadUdCazc5M04wTmhsZHpZZnVMbGVQRDlfY3F5Z0VaVDQ1OVhLWXNjVVJzMlNnQWUyV1NDUmlzUlhtcWpiUnhVYWRRcGI4QmQ4dGkwd1pETlI2WXJzVkF1dzdEUA?oc=5",
+      "title": "マイナ保険証の暫定措置が7月末で終了！8月から受診に必要なもの・10割負担を避けるポイントを解説 - 補助金ポータル",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14X2RvM3VUZUlWb3RKaWlST0ZJaXA2Qm9tOW5TY210c0daLUFtbjBMdzlfN2VfdndWZzlWOEg3RTBpWU1UaGpsSXJ0VTdkdHNTT3M3Skp3dHNHampHMTNBWmhfYVk0QQ?oc=5",
       "pub_date": "2026-07-21T16:00:00+09:00",
-      "source": "日本経済新聞",
-      "description": "厚生労働省は社会保障審議会の医療保険部会にマイナ保険証の利用率を報告した 厚生労働省は18日、マイナンバーカードと健康保険証を一体にした「マイナ保険証」の4月の利用率が68.15%だったと報告した。紙やプラスチックの保険証を持参した場合も1〜3割 ...",
-      "_glink": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFZHhxak1fZFpadUdCazc5M04wTmhsZHpZZnVMbGVQRDlfY3F5Z0VaVDQ1OVhLWXNjVVJzMlNnQWUyV1NDUmlzUlhtcWpiUnhVYWRRcGI4QmQ4dGkwd1pETlI2WXJzVkF1dzdEUA?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFZHhxak1fZFpadUdCazc5M04wTmhsZHpZZnVMbGVQRDlfY3F5Z0VaVDQ1OVhLWXNjVVJzMlNnQWUyV1NDUmlzUlhtcWpiUnhVYWRRcGI4QmQ4dGkwd1pETlI2WXJzVkF1dzdEUA?oc=5",
-      "category": "統計",
-      "topic": "insurance"
-    },
-    {
-      "title": "暫定措置は7月で終了へ…「資格確認書」「マイナ保険証」迫るタイムリミットの対処法 - smartnews.com",
-      "link": "https://news.google.com/rss/articles/CBMiwARBVV95cUxQbVdsOFpCYXdPeUdKOFZyUUR0Q29zT1ExT1RhNS1PSnVsUTRVcnJCT19LQzlkXzlxUEgxRk1vWUZPYmNHMkNXSHNEZWg3ZFZwRHM0Sy1BSlh1UmFvMkwwMGZxZnZaQUd5dDRObDRIdTFzdmhJQVdNdzljcE5HbVpBT2paVWxmOUFqWXhqNFpTckJURGtxVTd6OFNQRlhsT1pTcG1pdHlMOWwwZGItWFlOQ3FBdzYzN1A3aVFZZGxiOGx2V1RyN1dMYmhlb1k1U3NtMEFCSlYwZE8xdktaVlNjN2FBLTdKRWtYWW1JLVdNbnlSUmlfckc4Y3MzNGpFU0VtN21GZW9sMGRyaTA2VEh6QkVSa0tpdzFKZjFTRVlXd1dtb0F1TnIzZG5yY0RCcmVuSmNWTXQtZXc1M2MyNF8yUVRwd0EyUXF1THFSYW8weDJYUHZjWGZGTXJkczk2YjZ1UzhiYlFyM1VsRGVIXzBTYXlGWjZ5WjZQVmluNURadTdxSnpiNkx4RldzS0FueExsZUt4Mkd6SE01Q2g5bHJQdHhMczhTUVJzSmdONGFzWENVSmdsQTl4Y2s1VFNpSXp2MGg0RUl2aDVlUG0zTkF2MUZRVk1uRFUzZmpTZmZxYzVvbG9tWlZiR1NjVGhhdDczRDIyNmZqTjRtcjAwdXNVRHIyaUlHank0b3BBZGd1M0NRREpnMC1naG8yVEtRNGdPYnIwb1ppdndhX0cwa2ZGRXdvdTc4bjRaSTd2TXViZWQ?oc=5",
-      "pub_date": "2026-07-21T16:00:00+09:00",
-      "source": "smartnews.com",
-      "description": "マイナ保険証への移行に伴い、従来の健康保険証を医療機関に持参した場合に保険診療が受けられる暫定措置が7月末で終了する。8月以降、健康保険証のみ持参し、その場で保険資格が確認できない場合は、いったん全額自費となる。 厚生労働省は1日、全国 ...",
-      "_glink": "https://news.google.com/rss/articles/CBMiwARBVV95cUxQbVdsOFpCYXdPeUdKOFZyUUR0Q29zT1ExT1RhNS1PSnVsUTRVcnJCT19LQzlkXzlxUEgxRk1vWUZPYmNHMkNXSHNEZWg3ZFZwRHM0Sy1BSlh1UmFvMkwwMGZxZnZaQUd5dDRObDRIdTFzdmhJQVdNdzljcE5HbVpBT2paVWxmOUFqWXhqNFpTckJURGtxVTd6OFNQRlhsT1pTcG1pdHlMOWwwZGItWFlOQ3FBdzYzN1A3aVFZZGxiOGx2V1RyN1dMYmhlb1k1U3NtMEFCSlYwZE8xdktaVlNjN2FBLTdKRWtYWW1JLVdNbnlSUmlfckc4Y3MzNGpFU0VtN21GZW9sMGRyaTA2VEh6QkVSa0tpdzFKZjFTRVlXd1dtb0F1TnIzZG5yY0RCcmVuSmNWTXQtZXc1M2MyNF8yUVRwd0EyUXF1THFSYW8weDJYUHZjWGZGTXJkczk2YjZ1UzhiYlFyM1VsRGVIXzBTYXlGWjZ5WjZQVmluNURadTdxSnpiNkx4RldzS0FueExsZUt4Mkd6SE01Q2g5bHJQdHhMczhTUVJzSmdONGFzWENVSmdsQTl4Y2s1VFNpSXp2MGg0RUl2aDVlUG0zTkF2MUZRVk1uRFUzZmpTZmZxYzVvbG9tWlZiR1NjVGhhdDczRDIyNmZqTjRtcjAwdXNVRHIyaUlHank0b3BBZGd1M0NRREpnMC1naG8yVEtRNGdPYnIwb1ppdndhX0cwa2ZGRXdvdTc4bjRaSTd2TXViZWQ?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiwARBVV95cUxQbVdsOFpCYXdPeUdKOFZyUUR0Q29zT1ExT1RhNS1PSnVsUTRVcnJCT19LQzlkXzlxUEgxRk1vWUZPYmNHMkNXSHNEZWg3ZFZwRHM0Sy1BSlh1UmFvMkwwMGZxZnZaQUd5dDRObDRIdTFzdmhJQVdNdzljcE5HbVpBT2paVWxmOUFqWXhqNFpTckJURGtxVTd6OFNQRlhsT1pTcG1pdHlMOWwwZGItWFlOQ3FBdzYzN1A3aVFZZGxiOGx2V1RyN1dMYmhlb1k1U3NtMEFCSlYwZE8xdktaVlNjN2FBLTdKRWtYWW1JLVdNbnlSUmlfckc4Y3MzNGpFU0VtN21GZW9sMGRyaTA2VEh6QkVSa0tpdzFKZjFTRVlXd1dtb0F1TnIzZG5yY0RCcmVuSmNWTXQtZXc1M2MyNF8yUVRwd0EyUXF1THFSYW8weDJYUHZjWGZGTXJkczk2YjZ1UzhiYlFyM1VsRGVIXzBTYXlGWjZ5WjZQVmluNURadTdxSnpiNkx4RldzS0FueExsZUt4Mkd6SE01Q2g5bHJQdHhMczhTUVJzSmdONGFzWENVSmdsQTl4Y2s1VFNpSXp2MGg0RUl2aDVlUG0zTkF2MUZRVk1uRFUzZmpTZmZxYzVvbG9tWlZiR1NjVGhhdDczRDIyNmZqTjRtcjAwdXNVRHIyaUlHank0b3BBZGd1M0NRREpnMC1naG8yVEtRNGdPYnIwb1ppdndhX0cwa2ZGRXdvdTc4bjRaSTd2TXViZWQ?oc=5",
-      "category": "一般",
-      "topic": "insurance"
-    },
-    {
-      "title": "【画像まとめ】保険証が7月末で利用できなくなる？10割負担のケースも…必要な手続きは - テレ朝NEWS",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5JX01SNWVEVFVHTWYyV0YtWEdKSEU2ejRiMXhLbGdwSW5pcDZSTmM5T25iY2ltMEo3Uk43X253Q0JZd2FraFJsTm5rUS1zSjFrdDFFMmJ2XzFpamRpcE1BVEt6RHYtdzNTQXdwalZxeWROV3UydlQ0N19uaw?oc=5",
-      "pub_date": "2026-07-21T16:00:00+09:00",
-      "source": "テレ朝NEWS",
-      "description": "「マイナ保険証」への移行に伴う暫定措置が間もなく終了する。8月からは従来の健康保険証を医療機関に持参した場合、医療費全額の10割負担を求められるかもしれない。安心して受診するためにも、気を付けたい二つのポイントを紹介する。 従来の保険証 ...",
-      "_glink": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5JX01SNWVEVFVHTWYyV0YtWEdKSEU2ejRiMXhLbGdwSW5pcDZSTmM5T25iY2ltMEo3Uk43X253Q0JZd2FraFJsTm5rUS1zSjFrdDFFMmJ2XzFpamRpcE1BVEt6RHYtdzNTQXdwalZxeWROV3UydlQ0N19uaw?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5JX01SNWVEVFVHTWYyV0YtWEdKSEU2ejRiMXhLbGdwSW5pcDZSTmM5T25iY2ltMEo3Uk43X253Q0JZd2FraFJsTm5rUS1zSjFrdDFFMmJ2XzFpamRpcE1BVEt6RHYtdzNTQXdwalZxeWROV3UydlQ0N19uaw?oc=5",
-      "category": "使い方",
+      "source": "補助金ポータル",
+      "description": "こんにちは！Hanzawatec（ハンザワテック）です。 7月の終わり、「8月から窓口で10割負担になるかも！？」というニュース、たくさん見かけましたよね。 期限切れの健康保険証で受診できた「暫定措置」が、2026年7月31日で終わりました。",
+      "_glink": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14X2RvM3VUZUlWb3RKaWlST0ZJaXA2Qm9tOW5TY210c0daLUFtbjBMdzlfN2VfdndWZzlWOEg3RTBpWU1UaGpsSXJ0VTdkdHNTT3M3Skp3dHNHampHMTNBWmhfYVk0QQ?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14X2RvM3VUZUlWb3RKaWlST0ZJaXA2Qm9tOW5TY210c0daLUFtbjBMdzlfN2VfdndWZzlWOEg3RTBpWU1UaGpsSXJ0VTdkdHNTT3M3Skp3dHNHampHMTNBWmhfYVk0QQ?oc=5",
+      "category": "制度変更",
       "topic": "insurance"
     }
   ]

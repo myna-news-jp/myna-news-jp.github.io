@@ -1,6 +1,17 @@
 {
-  "updated": "2026-10-20T23:09:15+09:00",
+  "updated": "2026-10-21T12:34:36+09:00",
   "articles": [
+    {
+      "title": "マイナンバーカードの健康保険証としての利用 - www.city.shinagawa.tokyo.jp",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yZlIzMjd1aUI0NVRJd1lLVUVRZ1FZSk1GeURveUtmb2phUjFNZHBUYXRvd1h4ck9sVHRCd29MWU1uUVF1SmJ1aTZzaW82eGRSZVlGUkl3TmFzWTcwQ19JZTE5QnZPUnBacEZ0blFuY2FvSDdkNkNiTkhVQ2Zndw?oc=5",
+      "pub_date": "2026-10-21T08:38:47+09:00",
+      "source": "www.city.shinagawa.tokyo.jp",
+      "description": "健康保険証の新規発行が2024年12月1日に終了したのに伴い、その1年後となる2025年12月1日をもって、既存の発行済みの健康保険証も有効期限を迎える。これにより、12月2日からはマイナ保険証を基本とする仕組みになる。マイナ保険証に登録していない人には ...",
+      "_glink": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yZlIzMjd1aUI0NVRJd1lLVUVRZ1FZSk1GeURveUtmb2phUjFNZHBUYXRvd1h4ck9sVHRCd29MWU1uUVF1SmJ1aTZzaW82eGRSZVlGUkl3TmFzWTcwQ19JZTE5QnZPUnBacEZ0blFuY2FvSDdkNkNiTkhVQ2Zndw?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yZlIzMjd1aUI0NVRJd1lLVUVRZ1FZSk1GeURveUtmb2phUjFNZHBUYXRvd1h4ck9sVHRCd29MWU1uUVF1SmJ1aTZzaW82eGRSZVlGUkl3TmFzWTcwQ19JZTE5QnZPUnBacEZ0blFuY2FvSDdkNkNiTkhVQ2Zndw?oc=5",
+      "category": "制度変更",
+      "topic": "insurance"
+    },
     {
       "title": "【2027年7月まで】協会けんぽ限度額認定証の期限。マイナ保険証なら入院時の事前手続なし（LIMO） - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EaWwtZ1FCMWZ2VkpWaXI1ZW5ibHNfY1B5UXdybXQ0Q0VBcy0zRWVvby04b20yTTJnaU9qcnB6Mk9BWThXOWZQQnR5ZFY1Vk1ya19wNzVtZ1BWT0pUektHdm5WVU1jTmFURXlpYklpOXRqMHI3YjNMN1lkdDRLc28?oc=5",
@@ -533,17 +544,6 @@
       "_resolved_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1pTXU5bTJQenhLM0J4SVFRdEU1b0hydGdfVS02RkVXY01VOFNLSzl0UW0ySmtQM2VIWnZ2SDBxRUhScWdqLVRfRkVNUGdqZw?oc=5",
       "category": "使い方",
       "topic": "insurance"
-    },
-    {
-      "title": "「小遣い稼ぎになると…」 虚偽の在留資格証明書を申請した疑いで元行政書士を逮捕 - 中日新聞Web",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1YUjBSZ3QwYUtZTm5aT0ZxaDRZYlFXZHI1UDVSNmFoVHpaZDZkT0dLTXFfMy0tRjZGTnplbDRSMVV5MTVaRmpocFNIX2dsZ0lCUnVvbA?oc=5",
-      "pub_date": "2026-09-30T20:05:16+09:00",
-      "source": "中日新聞Web",
-      "description": "",
-      "_glink": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1YUjBSZ3QwYUtZTm5aT0ZxaDRZYlFXZHI1UDVSNmFoVHpaZDZkT0dLTXFfMy0tRjZGTnplbDRSMVV5MTVaRmpocFNIX2dsZ0lCUnVvbA?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1YUjBSZ3QwYUtZTm5aT0ZxaDRZYlFXZHI1UDVSNmFoVHpaZDZkT0dLTXFfMy0tRjZGTnplbDRSMVV5MTVaRmpocFNIX2dsZ0lCUnVvbA?oc=5",
-      "category": "一般",
-      "topic": "mynumber"
     }
   ],
   "total": 500
