@@ -1,6 +1,17 @@
 {
-  "updated": "2026-10-22T12:34:23+09:00",
+  "updated": "2026-10-22T23:23:40+09:00",
   "articles": [
+    {
+      "title": "医療費控除はスマホとマイナンバーカードだけでも申告できるが、マイナポータル連携で自動入力されるのは保険診療分だけ。通知にない8万円を入れ忘れると、控除額は17万円から9万円に小さくなる試算 国税庁とデジタル庁の案内で確認すると、医療費通知情報は例年2月9日 - LIMO | くらしとお金の経済メディア",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5aWG9iaERaMWNWWEt3X3haQUhxdXNzWUZTeHk2cmlmRHNtdFlRMGJaRVQ2YmM4Z3h3dHR1eW5zQXlmRDQyWTFhaXhyQjU?oc=5",
+      "pub_date": "2026-10-22T21:09:00+09:00",
+      "source": "LIMO | くらしとお金の経済メディア",
+      "description": "まずは、会社員でも確定申告をした方がいい主なケースを確認しましょう。 1．医療費が多くかかった(医療費控除) 2025年1月1日～12月31日までの期間に支払った医療費が多かった場合に、医療費控除が受けられます。 ＜控除額＞ 支払った医療費－保険金等の ...",
+      "_glink": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5aWG9iaERaMWNWWEt3X3haQUhxdXNzWUZTeHk2cmlmRHNtdFlRMGJaRVQ2YmM4Z3h3dHR1eW5zQXlmRDQyWTFhaXhyQjU?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5aWG9iaERaMWNWWEt3X3haQUhxdXNzWUZTeHk2cmlmRHNtdFlRMGJaRVQ2YmM4Z3h3dHR1eW5zQXlmRDQyWTFhaXhyQjU?oc=5",
+      "category": "一般",
+      "topic": "insurance"
+    },
     {
       "title": "マイナカード総合サイトを一時停止　「ＰＨＰ」問題で―情報システム機構",
       "link": "https://www.jiji.com/jc/article?k=2026102200421&g=pol&m=rss",
@@ -9,6 +20,17 @@
       "description": "マイナンバーカードの発行業務を担う地方公共団体情報システム機構（Ｊ―ＬＩＳ）は２２日、マイナカードの申請方法などを紹介する総合サイトを一時停止していると発表した。",
       "thumbnail": "https://www.jiji.com/news2/kiji_photos/202610/20261022ds63_o.jpg",
       "category": "使い方",
+      "topic": "mynumber"
+    },
+    {
+      "title": "マイナンバーカードの電子証明書更新、期限切れの影響と自治体窓口での必須手続き : 国会 : 財経日報 - 재경일보",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKSEhULVBOY0N0Z2FtQjJlWmo0eUxudGZLZGk5Qk9WQjc5SUFxNl9EODBnSDVUNGxNWWs4Wi1pdWRlczc1TUV0bkt4Sl9HYW4xdzQ1di13QkJrMzM1S0JDZjlyVQ?oc=5",
+      "pub_date": "2026-10-22T10:01:04+09:00",
+      "source": "재경일보",
+      "description": "マイナンバーカードに搭載されている電子証明書はカード本体よりも有効期限が短く、失効するとe-Taxやコンビニ交付が利用できなくなる。更新はオンラインでは完結せず市区町村窓口での手続きが必要となるため、猶予措置や更新手順の把握が重要だ。",
+      "_glink": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKSEhULVBOY0N0Z2FtQjJlWmo0eUxudGZLZGk5Qk9WQjc5SUFxNl9EODBnSDVUNGxNWWs4Wi1pdWRlczc1TUV0bkt4Sl9HYW4xdzQ1di13QkJrMzM1S0JDZjlyVQ?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKSEhULVBOY0N0Z2FtQjJlWmo0eUxudGZLZGk5Qk9WQjc5SUFxNl9EODBnSDVUNGxNWWs4Wi1pdWRlczc1TUV0bkt4Sl9HYW4xdzQ1di13QkJrMzM1S0JDZjlyVQ?oc=5",
+      "category": "制度変更",
       "topic": "mynumber"
     },
     {
@@ -130,6 +152,17 @@
       "_resolved_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE01aVVmZ0hYZXVhWXVaVUJUV09GemZwRUNaaldjZk0zaTB6V0RTTm13Nm9BN3BGTWs1OElhSDJzaUExb0F5WjdhOFcxdV8?oc=5",
       "category": "一般",
       "topic": "mynumber"
+    },
+    {
+      "title": "資格確認書・資格情報のお知らせ - 新潟市",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORk9peTVkSmtTc1Fjb3gtN2ZfVmNQOVJzN0p5dTZkWEhCX29BdTZHR2cxR3dzNVl3bmxkTTJmZkVuczhaWkFVNjhQeTRrWnBRLWEzRTlTLXhCcGlKSUFibFNjQVZhQjdBSjNzNU9mcl9MWFFmRVZOd0JTcjRMcER5UzRMNA?oc=5",
+      "pub_date": "2026-10-19T16:00:00+09:00",
+      "source": "新潟市",
+      "description": "75～84歳までの後期高齢者は8月1日から医療機関を受診する際には注意が必要だ。資格確認書の全員交付が終わり、別の書類「資格情報のお知らせ」が送られた人たちがいる。「お知らせ」はマイナ保険証とセットで使う書類なので、従来の健康保険証のよう ...",
+      "_glink": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORk9peTVkSmtTc1Fjb3gtN2ZfVmNQOVJzN0p5dTZkWEhCX29BdTZHR2cxR3dzNVl3bmxkTTJmZkVuczhaWkFVNjhQeTRrWnBRLWEzRTlTLXhCcGlKSUFibFNjQVZhQjdBSjNzNU9mcl9MWFFmRVZOd0JTcjRMcER5UzRMNA?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORk9peTVkSmtTc1Fjb3gtN2ZfVmNQOVJzN0p5dTZkWEhCX29BdTZHR2cxR3dzNVl3bmxkTTJmZkVuczhaWkFVNjhQeTRrWnBRLWEzRTlTLXhCcGlKSUFibFNjQVZhQjdBSjNzNU9mcl9MWFFmRVZOd0JTcjRMcER5UzRMNA?oc=5",
+      "category": "一般",
+      "topic": "insurance"
     },
     {
       "title": "マイナンバーカードの健康保険証利用について - 大津市",
@@ -280,6 +313,17 @@
       "_glink": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51VndqX0pNQzZjYjhUNTlLVWdqZnlIWWFSbG5rRVNxcXNhSnM0eERWandNRjZrYVNIQS1sLUtmMGpXWHc1cFNicGY3UTRsUTZrU29uQWVzazlWTm5ROElrY0Mtc0NfYTVrV2gwN1M1MNIBdEFVX3lxTE1GaDlRN1BQZzZEcDNLSHZqa0RzbHh2S1FaZHFVSUVjUGRPZ0RBZWl6eGNST2dOOUNOSC1HVXNzLXhwSkVCVGhvbFVHWUlITjZJbDY3LUkyeUVnOUw5MV81VXpEQXktWHBDeGVYckpLRzBDWmM3?oc=5",
       "_resolved_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51VndqX0pNQzZjYjhUNTlLVWdqZnlIWWFSbG5rRVNxcXNhSnM0eERWandNRjZrYVNIQS1sLUtmMGpXWHc1cFNicGY3UTRsUTZrU29uQWVzazlWTm5ROElrY0Mtc0NfYTVrV2gwN1M1MNIBdEFVX3lxTE1GaDlRN1BQZzZEcDNLSHZqa0RzbHh2S1FaZHFVSUVjUGRPZ0RBZWl6eGNST2dOOUNOSC1HVXNzLXhwSkVCVGhvbFVHWUlITjZJbDY3LUkyeUVnOUw5MV81VXpEQXktWHBDeGVYckpLRzBDWmM3?oc=5",
       "category": "制度変更",
+      "topic": "insurance"
+    },
+    {
+      "title": "【マイナ保険証 × 医療費助成】医療証をマイナで確認できる市区町村は523→それでも紙は捨てないで 2025年10月時点（参加予定含む）の動向。さらに2027年4月の公費負担医療のオンライン資格確認制度化に向けた注意点も解説 | 2ページ目 - LIMO | くらしとお金の経済メディア",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLTnd0aV9vV0FEYmp3bU9uNVZOQmo1MGk2NkpmQWdISGtBZ2lfVE1rVmNRRmdVLW9XQXU2SGtmZmE3NGhfMEsxUHpTOV9EMVFvZ2xzcmF3?oc=5",
+      "pub_date": "2026-10-06T17:06:00+09:00",
+      "source": "LIMO | くらしとお金の経済メディア",
+      "description": "医療機関で子どもの医療費助成などを受ける際に、マイナンバーカードに健康保険証機能を持たせた「マイナ保険証」の提示だけで済む自治体が、今年度末に1400超に増える見通しであることがデジタル庁のまとめでわかった。医療機関側にも利点が ...",
+      "_glink": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLTnd0aV9vV0FEYmp3bU9uNVZOQmo1MGk2NkpmQWdISGtBZ2lfVE1rVmNRRmdVLW9XQXU2SGtmZmE3NGhfMEsxUHpTOV9EMVFvZ2xzcmF3?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLTnd0aV9vV0FEYmp3bU9uNVZOQmo1MGk2NkpmQWdISGtBZ2lfVE1rVmNRRmdVLW9XQXU2SGtmZmE3NGhfMEsxUHpTOV9EMVFvZ2xzcmF3?oc=5",
+      "category": "一般",
       "topic": "insurance"
     },
     {
@@ -500,49 +544,6 @@
       "_glink": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0YnNxMVZDaTFCMjQxcVAyZlhtZmNhdkd5bGJJbjlEX0loeEFDQTJnOUd0akhZMmlLSXFpcWxLWHAxY2I4NlhoLVhfR1hPNE9LMnZZNDBPRHRZQTVvbXdWem1jeUtaSjVhLXM0?oc=5",
       "_resolved_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0YnNxMVZDaTFCMjQxcVAyZlhtZmNhdkd5bGJJbjlEX0loeEFDQTJnOUd0akhZMmlLSXFpcWxLWHAxY2I4NlhoLVhfR1hPNE9LMnZZNDBPRHRZQTVvbXdWem1jeUtaSjVhLXM0?oc=5",
       "category": "一般",
-      "topic": "insurance"
-    },
-    {
-      "title": "マイナポータルで育児期間の国民年金保険料の免除申請ができるようになりました - デジタル庁 ウェブサービス・アプリケーション",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ndk1lS0g4cUFMTGQzdEdEcFhSZVdrRDJuNTd0em9yMUJpakEtSlpXSFFXZ2JfcmNqMUpneVNMSDZZYURUTVFQTndIUExZNVMyVjV4V1JvTXFhZjFVNGsybWFFekxFb0dQa01Ub3p3Mmd1bnpQWEJQVg?oc=5",
-      "pub_date": "2026-10-02T14:38:27+09:00",
-      "source": "デジタル庁 ウェブサービス・アプリケーション",
-      "description": "マイナポータルとねんきんネットと連携すると、いつでも自分の年金記録を確認できるようになる。「老後に入ってくるお金」を手軽に把握する方法と連携の手続きについてまとめた。 目次 マイナポータルで年金記録を確認する前に！知っておきたい基礎 ...",
-      "_glink": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ndk1lS0g4cUFMTGQzdEdEcFhSZVdrRDJuNTd0em9yMUJpakEtSlpXSFFXZ2JfcmNqMUpneVNMSDZZYURUTVFQTndIUExZNVMyVjV4V1JvTXFhZjFVNGsybWFFekxFb0dQa01Ub3p3Mmd1bnpQWEJQVg?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ndk1lS0g4cUFMTGQzdEdEcFhSZVdrRDJuNTd0em9yMUJpakEtSlpXSFFXZ2JfcmNqMUpneVNMSDZZYURUTVFQTndIUExZNVMyVjV4V1JvTXFhZjFVNGsybWFFekxFb0dQa01Ub3p3Mmd1bnpQWEJQVg?oc=5",
-      "category": "使い方",
-      "topic": "mynumber"
-    },
-    {
-      "title": "医療機関・薬局における導入・設定の負担を軽減するオンライン資格確認端末「RICOH EZX2100」を今冬発売 - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82YnRUMHpkV1JsV2tvU045RTZnMS15Vmx2QUVHTVFrcVpPVkRRSHhzWG13cGNoTE1SQ0hhTEtNaDlIRE5DRk03N2pwNlZRZGFTU1dONG8tbDczZWdiNUdQNUluQkVnX2VUMWc?oc=5",
-      "pub_date": "2026-10-02T13:10:01+09:00",
-      "source": "PR TIMES",
-      "description": "PHCホールディングス株式会社（本社：東京都千代田区、東証プライム：6523）傘下のウィーメックス株式会社（本社：東京都渋谷区、代表取締役社長：高橋秀明、以下「ウィーメックス」）は、本日4月1日より、医療機関・薬局向け セキュリティ対策 ...",
-      "_glink": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82YnRUMHpkV1JsV2tvU045RTZnMS15Vmx2QUVHTVFrcVpPVkRRSHhzWG13cGNoTE1SQ0hhTEtNaDlIRE5DRk03N2pwNlZRZGFTU1dONG8tbDczZWdiNUdQNUluQkVnX2VUMWc?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82YnRUMHpkV1JsV2tvU045RTZnMS15Vmx2QUVHTVFrcVpPVkRRSHhzWG13cGNoTE1SQ0hhTEtNaDlIRE5DRk03N2pwNlZRZGFTU1dONG8tbDczZWdiNUdQNUluQkVnX2VUMWc?oc=5",
-      "category": "一般",
-      "topic": "insurance"
-    },
-    {
-      "title": "2026年10月20日から「Androidのマイナンバーカード」を開始予定です（デジタル庁ウェブサービス・アプリケーション）",
-      "link": "https://services.digital.go.jp/mynumbercard-android/news/fec690c52f9ffeb35d30f/",
-      "pub_date": "2026-10-02T11:43:05+09:00",
-      "source": "デジタル庁",
-      "description": "",
-      "thumbnail": "https://services.digital.go.jp/ogp.png",
-      "category": "一般",
-      "topic": "mynumber"
-    },
-    {
-      "title": "資格情報のお知らせおよび資格確認書 - www.city.shinagawa.tokyo.jp",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IZ2dVYkl3OWhCdjRybkR3eW5qUXFPS2VaalRIT0hmMVB1QTV4cENHLUFSM3MyR3kzbi1hSlRRbFpiLTZiemJ2MmhPUkFmZUJYNVRzd0JTVUZNb0F3X0xSZmRzaGkzVm4zS2RsLTJzdmF0dEdDajJYSXNjMFNhZU0?oc=5",
-      "pub_date": "2026-10-01T16:00:00+09:00",
-      "source": "www.city.shinagawa.tokyo.jp",
-      "description": "去年12月、すべての「従来の保険証」の有効期限が切れた。 その後、暫定措置として「期限切れの保険証」や「資格情報のお知らせのみ」での受診も可能となったが、7月で終了。【画像】「資格確認書」と「資格情報のお知らせ」の違いは…8月から、医療 ...",
-      "_glink": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IZ2dVYkl3OWhCdjRybkR3eW5qUXFPS2VaalRIT0hmMVB1QTV4cENHLUFSM3MyR3kzbi1hSlRRbFpiLTZiemJ2MmhPUkFmZUJYNVRzd0JTVUZNb0F3X0xSZmRzaGkzVm4zS2RsLTJzdmF0dEdDajJYSXNjMFNhZU0?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IZ2dVYkl3OWhCdjRybkR3eW5qUXFPS2VaalRIT0hmMVB1QTV4cENHLUFSM3MyR3kzbi1hSlRRbFpiLTZiemJ2MmhPUkFmZUJYNVRzd0JTVUZNb0F3X0xSZmRzaGkzVm4zS2RsLTJzdmF0dEdDajJYSXNjMFNhZU0?oc=5",
-      "category": "制度変更",
       "topic": "insurance"
     }
   ],

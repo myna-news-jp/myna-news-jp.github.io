@@ -1,6 +1,17 @@
 {
-  "updated": "2026-10-22T12:34:23+09:00",
+  "updated": "2026-10-22T23:23:40+09:00",
   "articles": [
+    {
+      "title": "医療費控除はスマホとマイナンバーカードだけでも申告できるが、マイナポータル連携で自動入力されるのは保険診療分だけ。通知にない8万円を入れ忘れると、控除額は17万円から9万円に小さくなる試算 国税庁とデジタル庁の案内で確認すると、医療費通知情報は例年2月9日 - LIMO | くらしとお金の経済メディア",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5aWG9iaERaMWNWWEt3X3haQUhxdXNzWUZTeHk2cmlmRHNtdFlRMGJaRVQ2YmM4Z3h3dHR1eW5zQXlmRDQyWTFhaXhyQjU?oc=5",
+      "pub_date": "2026-10-22T21:09:00+09:00",
+      "source": "LIMO | くらしとお金の経済メディア",
+      "description": "まずは、会社員でも確定申告をした方がいい主なケースを確認しましょう。 1．医療費が多くかかった(医療費控除) 2025年1月1日～12月31日までの期間に支払った医療費が多かった場合に、医療費控除が受けられます。 ＜控除額＞ 支払った医療費－保険金等の ...",
+      "_glink": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5aWG9iaERaMWNWWEt3X3haQUhxdXNzWUZTeHk2cmlmRHNtdFlRMGJaRVQ2YmM4Z3h3dHR1eW5zQXlmRDQyWTFhaXhyQjU?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5aWG9iaERaMWNWWEt3X3haQUhxdXNzWUZTeHk2cmlmRHNtdFlRMGJaRVQ2YmM4Z3h3dHR1eW5zQXlmRDQyWTFhaXhyQjU?oc=5",
+      "category": "一般",
+      "topic": "insurance"
+    },
     {
       "title": "マイナカード総合サイトを一時停止　「ＰＨＰ」問題で―情報システム機構",
       "link": "https://www.jiji.com/jc/article?k=2026102200421&g=pol&m=rss",
@@ -9,6 +20,17 @@
       "description": "マイナンバーカードの発行業務を担う地方公共団体情報システム機構（Ｊ―ＬＩＳ）は２２日、マイナカードの申請方法などを紹介する総合サイトを一時停止していると発表した。",
       "thumbnail": "https://www.jiji.com/news2/kiji_photos/202610/20261022ds63_o.jpg",
       "category": "使い方",
+      "topic": "mynumber"
+    },
+    {
+      "title": "マイナンバーカードの電子証明書更新、期限切れの影響と自治体窓口での必須手続き : 国会 : 財経日報 - 재경일보",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKSEhULVBOY0N0Z2FtQjJlWmo0eUxudGZLZGk5Qk9WQjc5SUFxNl9EODBnSDVUNGxNWWs4Wi1pdWRlczc1TUV0bkt4Sl9HYW4xdzQ1di13QkJrMzM1S0JDZjlyVQ?oc=5",
+      "pub_date": "2026-10-22T10:01:04+09:00",
+      "source": "재경일보",
+      "description": "マイナンバーカードに搭載されている電子証明書はカード本体よりも有効期限が短く、失効するとe-Taxやコンビニ交付が利用できなくなる。更新はオンラインでは完結せず市区町村窓口での手続きが必要となるため、猶予措置や更新手順の把握が重要だ。",
+      "_glink": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKSEhULVBOY0N0Z2FtQjJlWmo0eUxudGZLZGk5Qk9WQjc5SUFxNl9EODBnSDVUNGxNWWs4Wi1pdWRlczc1TUV0bkt4Sl9HYW4xdzQ1di13QkJrMzM1S0JDZjlyVQ?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKSEhULVBOY0N0Z2FtQjJlWmo0eUxudGZLZGk5Qk9WQjc5SUFxNl9EODBnSDVUNGxNWWs4Wi1pdWRlczc1TUV0bkt4Sl9HYW4xdzQ1di13QkJrMzM1S0JDZjlyVQ?oc=5",
+      "category": "制度変更",
       "topic": "mynumber"
     },
     {
@@ -130,6 +152,17 @@
       "_resolved_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE01aVVmZ0hYZXVhWXVaVUJUV09GemZwRUNaaldjZk0zaTB6V0RTTm13Nm9BN3BGTWs1OElhSDJzaUExb0F5WjdhOFcxdV8?oc=5",
       "category": "一般",
       "topic": "mynumber"
+    },
+    {
+      "title": "資格確認書・資格情報のお知らせ - 新潟市",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORk9peTVkSmtTc1Fjb3gtN2ZfVmNQOVJzN0p5dTZkWEhCX29BdTZHR2cxR3dzNVl3bmxkTTJmZkVuczhaWkFVNjhQeTRrWnBRLWEzRTlTLXhCcGlKSUFibFNjQVZhQjdBSjNzNU9mcl9MWFFmRVZOd0JTcjRMcER5UzRMNA?oc=5",
+      "pub_date": "2026-10-19T16:00:00+09:00",
+      "source": "新潟市",
+      "description": "75～84歳までの後期高齢者は8月1日から医療機関を受診する際には注意が必要だ。資格確認書の全員交付が終わり、別の書類「資格情報のお知らせ」が送られた人たちがいる。「お知らせ」はマイナ保険証とセットで使う書類なので、従来の健康保険証のよう ...",
+      "_glink": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORk9peTVkSmtTc1Fjb3gtN2ZfVmNQOVJzN0p5dTZkWEhCX29BdTZHR2cxR3dzNVl3bmxkTTJmZkVuczhaWkFVNjhQeTRrWnBRLWEzRTlTLXhCcGlKSUFibFNjQVZhQjdBSjNzNU9mcl9MWFFmRVZOd0JTcjRMcER5UzRMNA?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORk9peTVkSmtTc1Fjb3gtN2ZfVmNQOVJzN0p5dTZkWEhCX29BdTZHR2cxR3dzNVl3bmxkTTJmZkVuczhaWkFVNjhQeTRrWnBRLWEzRTlTLXhCcGlKSUFibFNjQVZhQjdBSjNzNU9mcl9MWFFmRVZOd0JTcjRMcER5UzRMNA?oc=5",
+      "category": "一般",
+      "topic": "insurance"
     },
     {
       "title": "マイナンバーカードの健康保険証利用について - 大津市",
@@ -280,6 +313,17 @@
       "_glink": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51VndqX0pNQzZjYjhUNTlLVWdqZnlIWWFSbG5rRVNxcXNhSnM0eERWandNRjZrYVNIQS1sLUtmMGpXWHc1cFNicGY3UTRsUTZrU29uQWVzazlWTm5ROElrY0Mtc0NfYTVrV2gwN1M1MNIBdEFVX3lxTE1GaDlRN1BQZzZEcDNLSHZqa0RzbHh2S1FaZHFVSUVjUGRPZ0RBZWl6eGNST2dOOUNOSC1HVXNzLXhwSkVCVGhvbFVHWUlITjZJbDY3LUkyeUVnOUw5MV81VXpEQXktWHBDeGVYckpLRzBDWmM3?oc=5",
       "_resolved_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51VndqX0pNQzZjYjhUNTlLVWdqZnlIWWFSbG5rRVNxcXNhSnM0eERWandNRjZrYVNIQS1sLUtmMGpXWHc1cFNicGY3UTRsUTZrU29uQWVzazlWTm5ROElrY0Mtc0NfYTVrV2gwN1M1MNIBdEFVX3lxTE1GaDlRN1BQZzZEcDNLSHZqa0RzbHh2S1FaZHFVSUVjUGRPZ0RBZWl6eGNST2dOOUNOSC1HVXNzLXhwSkVCVGhvbFVHWUlITjZJbDY3LUkyeUVnOUw5MV81VXpEQXktWHBDeGVYckpLRzBDWmM3?oc=5",
       "category": "制度変更",
+      "topic": "insurance"
+    },
+    {
+      "title": "【マイナ保険証 × 医療費助成】医療証をマイナで確認できる市区町村は523→それでも紙は捨てないで 2025年10月時点（参加予定含む）の動向。さらに2027年4月の公費負担医療のオンライン資格確認制度化に向けた注意点も解説 | 2ページ目 - LIMO | くらしとお金の経済メディア",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLTnd0aV9vV0FEYmp3bU9uNVZOQmo1MGk2NkpmQWdISGtBZ2lfVE1rVmNRRmdVLW9XQXU2SGtmZmE3NGhfMEsxUHpTOV9EMVFvZ2xzcmF3?oc=5",
+      "pub_date": "2026-10-06T17:06:00+09:00",
+      "source": "LIMO | くらしとお金の経済メディア",
+      "description": "医療機関で子どもの医療費助成などを受ける際に、マイナンバーカードに健康保険証機能を持たせた「マイナ保険証」の提示だけで済む自治体が、今年度末に1400超に増える見通しであることがデジタル庁のまとめでわかった。医療機関側にも利点が ...",
+      "_glink": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLTnd0aV9vV0FEYmp3bU9uNVZOQmo1MGk2NkpmQWdISGtBZ2lfVE1rVmNRRmdVLW9XQXU2SGtmZmE3NGhfMEsxUHpTOV9EMVFvZ2xzcmF3?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLTnd0aV9vV0FEYmp3bU9uNVZOQmo1MGk2NkpmQWdISGtBZ2lfVE1rVmNRRmdVLW9XQXU2SGtmZmE3NGhfMEsxUHpTOV9EMVFvZ2xzcmF3?oc=5",
+      "category": "一般",
       "topic": "insurance"
     },
     {
@@ -5395,80 +5439,36 @@
       "topic": "insurance"
     },
     {
-      "title": "パナソニック、マイナ保険証リーダー刷新 端末一体型で省スペース実現、37万円台 - BigGo ファイナンス",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oV0tSSGNiVHU1MGp1aThOZDd5aHlPN2pSVTA5YVpHNGFoeEdZLVVjNm01cGFRSm1lc0tuem1HcFQ2RHhfWVZaaUJzQ1BxSUdIX19aWWhpQnhWMjdHTUVoSEd2UzJvQ29QMk5YQm1IWEc4bThE?oc=5",
+      "title": "マイナ保険証利用件数がピーク時から10％減 6月は50.15％ 前月比-0.18 - 全国保険医団体連合会",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wMXp5c09KS3hiejVNM01KY1hCS0tmdW1PbVUxTEtWT1pJMklTTVdWM1lPUzZpV1lFM1lDY1gwTFV1d0RTMmRHTjYzZTBnY2VJczlnTGR1amFseXNiRzFwMQ?oc=5",
       "pub_date": "2026-07-22T16:00:00+09:00",
-      "source": "BigGo ファイナンス",
-      "description": "パナソニック コネクトは7月22日、医療機関・薬局向け「顔認証付きカードリーダー」の新モデル（XC-STFR3J-MN）を発表した。8月24日に発売する。直販価格は37万9500円（税込）。 マイナ保険証リーダー ※クリックすると拡大画像が見られます 目玉は、読み取っ ...",
-      "_glink": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oV0tSSGNiVHU1MGp1aThOZDd5aHlPN2pSVTA5YVpHNGFoeEdZLVVjNm01cGFRSm1lc0tuem1HcFQ2RHhfWVZaaUJzQ1BxSUdIX19aWWhpQnhWMjdHTUVoSEd2UzJvQ29QMk5YQm1IWEc4bThE?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oV0tSSGNiVHU1MGp1aThOZDd5aHlPN2pSVTA5YVpHNGFoeEdZLVVjNm01cGFRSm1lc0tuem1HcFQ2RHhfWVZaaUJzQ1BxSUdIX19aWWhpQnhWMjdHTUVoSEd2UzJvQ29QMk5YQm1IWEc4bThE?oc=5",
-      "category": "一般",
-      "topic": "insurance"
-    },
-    {
-      "title": "マイナ保険証の暫定措置、7月31日で終了 8月から注意すべき点は - 東京報道新聞",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Sck5iTThWUDNvUWZkakt6dURoeWdaLW1vS3dQTllPejJKRnVVbWd1WFF5LXl2VF92UzVweGgwcVNjZ0JyVjVxV1lhWDlXNjJuX0I0?oc=5",
-      "pub_date": "2026-07-22T16:00:00+09:00",
-      "source": "東京報道新聞",
-      "description": "保険診療を受ける際、8月1日からマイナンバーカードと一体化した「マイナ保険証」か、マイナ保険証を持たない人に発行される「資格確認書」のどちらかを使う仕組みに完全移行する。有効期限が切れた従来の健康保険証でも受診を認める暫定措置は7 ...",
-      "_glink": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Sck5iTThWUDNvUWZkakt6dURoeWdaLW1vS3dQTllPejJKRnVVbWd1WFF5LXl2VF92UzVweGgwcVNjZ0JyVjVxV1lhWDlXNjJuX0I0?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Sck5iTThWUDNvUWZkakt6dURoeWdaLW1vS3dQTllPejJKRnVVbWd1WFF5LXl2VF92UzVweGgwcVNjZ0JyVjVxV1lhWDlXNjJuX0I0?oc=5",
-      "category": "制度変更",
-      "topic": "insurance"
-    },
-    {
-      "title": "後期高齢者医療資格確認書等について - city.kitaakita.akita.jp",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HYXhsejh1MVFnS2pvUWtneFJWWC1UTzBvRE8wQXFWdmJ1UmFYSkljaUhiNWoxNFc1WUFQSDEwLWZkNXZOeGZ3WThzZ2NqSkpTMDhEb3dqZUdMUF9wcDRUcDdVa2xrRzRELW9B?oc=5",
-      "pub_date": "2026-07-22T16:00:00+09:00",
-      "source": "city.kitaakita.akita.jp",
-      "description": "85歳以上と84歳以下で届く書類が変わる 後期高齢者医療制度に加入している方のもとには、毎年7月ごろに保険証代わりとなる書類が届きます。今年（令和8年）も7月中に発送が行われましたが、令和8年8月からは、この書類の交付ルールが一部変わりました。",
-      "_glink": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HYXhsejh1MVFnS2pvUWtneFJWWC1UTzBvRE8wQXFWdmJ1UmFYSkljaUhiNWoxNFc1WUFQSDEwLWZkNXZOeGZ3WThzZ2NqSkpTMDhEb3dqZUdMUF9wcDRUcDdVa2xrRzRELW9B?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HYXhsejh1MVFnS2pvUWtneFJWWC1UTzBvRE8wQXFWdmJ1UmFYSkljaUhiNWoxNFc1WUFQSDEwLWZkNXZOeGZ3WThzZ2NqSkpTMDhEb3dqZUdMUF9wcDRUcDdVa2xrRzRELW9B?oc=5",
-      "category": "一般",
-      "topic": "insurance"
-    },
-    {
-      "title": "従来の健康保険証は使用不可に…「マイナ保険証」移行終了へ 医療機関受診の際など注意 - 日テレNEWS NNN",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSTZWZ1lPaTYxcDNBbVYzVzlvdzltRHJRbFNGQ1B0Tjktbkc1YnpJX0pXaVkxYzJTNlRMMkxfQmRid3IzZEVCT2hSUHRQYmlIdVp1YjFWZlpwSUkxNjdBS29ZMExVTmJCV3BHWldPd1FBUEljM1BkM0lFU2ZPNk1qSlhRU3VxQWs?oc=5",
-      "pub_date": "2026-07-22T16:00:00+09:00",
-      "source": "日テレNEWS NNN",
+      "source": "全国保険医団体連合会",
       "description": "8月1日より、医療機関や薬局での受診時に「有効期限切れの従来の健康保険証」が一切使えなくなる。それに伴い、マイナ保険証や代替手段である「資格確認書」を持たずに受診した場合、保険証を忘れた場合と同様の対応となり、一時的に医療費を全額 ...",
-      "_glink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSTZWZ1lPaTYxcDNBbVYzVzlvdzltRHJRbFNGQ1B0Tjktbkc1YnpJX0pXaVkxYzJTNlRMMkxfQmRid3IzZEVCT2hSUHRQYmlIdVp1YjFWZlpwSUkxNjdBS29ZMExVTmJCV3BHWldPd1FBUEljM1BkM0lFU2ZPNk1qSlhRU3VxQWs?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSTZWZ1lPaTYxcDNBbVYzVzlvdzltRHJRbFNGQ1B0Tjktbkc1YnpJX0pXaVkxYzJTNlRMMkxfQmRid3IzZEVCT2hSUHRQYmlIdVp1YjFWZlpwSUkxNjdBS29ZMExVTmJCV3BHWldPd1FBUEljM1BkM0lFU2ZPNk1qSlhRU3VxQWs?oc=5",
+      "_glink": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wMXp5c09KS3hiejVNM01KY1hCS0tmdW1PbVUxTEtWT1pJMklTTVdWM1lPUzZpV1lFM1lDY1gwTFV1d0RTMmRHTjYzZTBnY2VJczlnTGR1amFseXNiRzFwMQ?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wMXp5c09KS3hiejVNM01KY1hCS0tmdW1PbVUxTEtWT1pJMklTTVdWM1lPUzZpV1lFM1lDY1gwTFV1d0RTMmRHTjYzZTBnY2VJczlnTGR1amFseXNiRzFwMQ?oc=5",
       "category": "制度変更",
       "topic": "insurance"
     },
     {
-      "title": "健康保険証とマイナンバーカードの一体化について - town.kadena.okinawa.jp",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qVVpkdGxmckZNcGFzblREazhXaEVLNzdyLWZnN2ZKVW13dVI1UmJIYmNRTE9wSXJXQ3NYM1psT2p4SkxxTjMyUE9RMmFNNXk0VkhFSU44U19Pa3BOdWl3cEpR?oc=5",
+      "title": "【パナソニックコネクト】マイナ保険証カードリーダー、別端末不要に 新モデル発表 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IcjRCUXZOYnBnYkQyZ0FSZVY1Tzdpeldub1hldUJ3bEFXek03UUpBeDZSTk5UU3p1TTljQlk3azB0MHJaOHNYXzYxQWhjSlR3TTNBZTl6YWsyaTZ3ZklmOGlIOEhyQjNYaUhXNA?oc=5",
       "pub_date": "2026-07-22T16:00:00+09:00",
-      "source": "town.kadena.okinawa.jp",
-      "description": "健康保険証の新規発行が2024年12月1日に終了したのに伴い、その1年後となる2025年12月1日をもって、既存の発行済みの健康保険証も有効期限を迎える。これにより、12月2日からはマイナ保険証を基本とする仕組みになる。マイナ保険証に登録していない人には ...",
-      "_glink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qVVpkdGxmckZNcGFzblREazhXaEVLNzdyLWZnN2ZKVW13dVI1UmJIYmNRTE9wSXJXQ3NYM1psT2p4SkxxTjMyUE9RMmFNNXk0VkhFSU44U19Pa3BOdWl3cEpR?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qVVpkdGxmckZNcGFzblREazhXaEVLNzdyLWZnN2ZKVW13dVI1UmJIYmNRTE9wSXJXQ3NYM1psT2p4SkxxTjMyUE9RMmFNNXk0VkhFSU44U19Pa3BOdWl3cEpR?oc=5",
-      "category": "制度変更",
-      "topic": "insurance"
-    },
-    {
-      "title": "パナソニックコネクト、資格確認端末内蔵の顔認証付きカードリーダー新モデル スマホのマイナ保険証にも対応 - 医療テックニュース",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05NDh4LXBRS0FBRTNCWjFMaWV5MXdmTWRURGZzeXpKVy1PRnJUdlJoNm5WNk9JelVxRFB6ZlA5ejZaRjFodmRpVzB4OG5UYmdQMy14ZHVjSXktbmRQRmJ3MTRwM0o5RTNIUWFhZUx3?oc=5",
-      "pub_date": "2026-07-22T16:00:00+09:00",
-      "source": "医療テックニュース",
-      "description": "パナソニック コネクトグループ（グループCEO：ケン・セイン、以下、パナソニック コネクト）は、医療機関・薬局向け「顔認証付きカードリーダー」の新モデルを2026年8月24日から発売します。現行モデルのコンパクトで使いやすいデザインと世界最高水準 ...",
-      "_glink": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05NDh4LXBRS0FBRTNCWjFMaWV5MXdmTWRURGZzeXpKVy1PRnJUdlJoNm5WNk9JelVxRFB6ZlA5ejZaRjFodmRpVzB4OG5UYmdQMy14ZHVjSXktbmRQRmJ3MTRwM0o5RTNIUWFhZUx3?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05NDh4LXBRS0FBRTNCWjFMaWV5MXdmTWRURGZzeXpKVy1PRnJUdlJoNm5WNk9JelVxRFB6ZlA5ejZaRjFodmRpVzB4OG5UYmdQMy14ZHVjSXktbmRQRmJ3MTRwM0o5RTNIUWFhZUx3?oc=5",
+      "source": "日本経済新聞",
+      "description": "パナソニック コネクトは7月22日、医療機関・薬局向け「顔認証付きカードリーダー」の新モデル（XC-STFR3J-MN）を発表した。8月24日に発売する。直販価格は37万9500円（税込）。 マイナ保険証リーダー ※クリックすると拡大画像が見られます 目玉は、読み取っ ...",
+      "_glink": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IcjRCUXZOYnBnYkQyZ0FSZVY1Tzdpeldub1hldUJ3bEFXek03UUpBeDZSTk5UU3p1TTljQlk3azB0MHJaOHNYXzYxQWhjSlR3TTNBZTl6YWsyaTZ3ZklmOGlIOEhyQjNYaUhXNA?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IcjRCUXZOYnBnYkQyZ0FSZVY1Tzdpeldub1hldUJ3bEFXek03UUpBeDZSTk5UU3p1TTljQlk3azB0MHJaOHNYXzYxQWhjSlR3TTNBZTl6YWsyaTZ3ZklmOGlIOEhyQjNYaUhXNA?oc=5",
       "category": "一般",
       "topic": "insurance"
     },
     {
-      "title": "保険証が7月末で利用できなくなる？10割負担のケースも…必要な手続きは（テレビ朝日系（ANN）） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZWpsUExkbmhMT3liSUcwbXlrbVFmZGFiREpNMXdVQmR4bEtWdVBnWThCTUJwWVFOaWplSU5TUDExWU1jellBZ3pLV3gyTUJNbXB0NGd4WUs0RHFMMmh5SlctQ2Q5VWpyN180MVhTVW03SzVVV09lYUE4LWc0V204M1pHQ3FrN1Vv?oc=5",
+      "title": "業界初、資格確認端末の内蔵で受付を省スペース化、スマホのマイナ保険証にも対応 医療機関・薬局向け「顔認証付きカードリーダー」新モデルを発売 | 企業・法人向けソリューション | 製品・サービス | プレスリリース - Panasonic Newsroom Global",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SbXVTZ1Q4ekM3enRvek8xcTVFamhPNDV4MnhfWl9VLWxmVnZpZjJFOWY3ZkJHZDVnLUJKd1NjR1REQ21DQjVMdk1IT0NLUGRSR3dOTXlwOEhmdw?oc=5",
       "pub_date": "2026-07-22T16:00:00+09:00",
-      "source": "Yahoo!ニュース",
-      "description": "「マイナ保険証」への移行に伴う暫定措置が間もなく終了する。8月からは従来の健康保険証を医療機関に持参した場合、医療費全額の10割負担を求められるかもしれない。安心して受診するためにも、気を付けたい二つのポイントを紹介する。 従来の保険証 ...",
-      "_glink": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZWpsUExkbmhMT3liSUcwbXlrbVFmZGFiREpNMXdVQmR4bEtWdVBnWThCTUJwWVFOaWplSU5TUDExWU1jellBZ3pLV3gyTUJNbXB0NGd4WUs0RHFMMmh5SlctQ2Q5VWpyN180MVhTVW03SzVVV09lYUE4LWc0V204M1pHQ3FrN1Vv?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZWpsUExkbmhMT3liSUcwbXlrbVFmZGFiREpNMXdVQmR4bEtWdVBnWThCTUJwWVFOaWplSU5TUDExWU1jellBZ3pLV3gyTUJNbXB0NGd4WUs0RHFMMmh5SlctQ2Q5VWpyN180MVhTVW03SzVVV09lYUE4LWc0V204M1pHQ3FrN1Vv?oc=5",
-      "category": "使い方",
+      "source": "Panasonic Newsroom Global",
+      "description": "パナソニック コネクトグループ（グループCEO：ケン・セイン、以下、パナソニック コネクト）は、医療機関・薬局向け「顔認証付きカードリーダー」の新モデルを2026年8月24日から発売します。現行モデルのコンパクトで使いやすいデザインと世界最高水準 ...",
+      "_glink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SbXVTZ1Q4ekM3enRvek8xcTVFamhPNDV4MnhfWl9VLWxmVnZpZjJFOWY3ZkJHZDVnLUJKd1NjR1REQ21DQjVMdk1IT0NLUGRSR3dOTXlwOEhmdw?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SbXVTZ1Q4ekM3enRvek8xcTVFamhPNDV4MnhfWl9VLWxmVnZpZjJFOWY3ZkJHZDVnLUJKd1NjR1REQ21DQjVMdk1IT0NLUGRSR3dOTXlwOEhmdw?oc=5",
+      "category": "一般",
       "topic": "insurance"
     }
   ]
