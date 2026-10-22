@@ -1,6 +1,16 @@
 {
-  "updated": "2026-10-21T23:22:45+09:00",
+  "updated": "2026-10-22T12:34:23+09:00",
   "articles": [
+    {
+      "title": "マイナカード総合サイトを一時停止　「ＰＨＰ」問題で―情報システム機構",
+      "link": "https://www.jiji.com/jc/article?k=2026102200421&g=pol&m=rss",
+      "pub_date": "2026-10-22T11:10:00+09:00",
+      "source": "時事通信",
+      "description": "マイナンバーカードの発行業務を担う地方公共団体情報システム機構（Ｊ―ＬＩＳ）は２２日、マイナカードの申請方法などを紹介する総合サイトを一時停止していると発表した。",
+      "thumbnail": "https://www.jiji.com/news2/kiji_photos/202610/20261022ds63_o.jpg",
+      "category": "使い方",
+      "topic": "mynumber"
+    },
     {
       "title": "マイナンバーカードに2つの有効期限 来年にかけて更新のピーク 窓口へ足を運ぶ必要あり 更新の落とし穴（UTYテレビ山梨） - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zeHZRWjZCMWJIMTk5cjNCbDg5U183ODB3VmhWbEtYekdrUzZ5Q3F2Z2hIMlBXYnFFNURjd09YdkI3OS1QRlhFVV95REtnb2lsZ2hJbWl0Ny1ja3pVN3Q0WFQ1dVUxS2haaWpPYUtFc0wyV2FfU0JmZktMcVgxZkk?oc=5",
@@ -42,6 +52,17 @@
       "description": "「Androidのマイナンバーカードの設定をはじめる」が表示されたら「はじめる」をタップ。すると、物理マイナンバーカードの署名用パスワード（6～16桁の英数字）の入力が求められるので入力し「次へ」をタップ。すると、再度物理マイナンバーカードを読み取る ...",
       "_glink": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nQ0RLXzRZa0VWTXN3ZE1RemFUYUUxeENsV2pCZFNhNE9FT2IxS0ctM3J0Wl9TTmRMVHdDdk1vNGgwZDAyWmZNS21KWTVJbzNLSHFqZzI2TzRvNTY0OXMzdHBVb3J3eXBLaFE?oc=5",
       "_resolved_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nQ0RLXzRZa0VWTXN3ZE1RemFUYUUxeENsV2pCZFNhNE9FT2IxS0ctM3J0Wl9TTmRMVHdDdk1vNGgwZDAyWmZNS21KWTVJbzNLSHFqZzI2TzRvNTY0OXMzdHBVb3J3eXBLaFE?oc=5",
+      "category": "一般",
+      "topic": "mynumber"
+    },
+    {
+      "title": "10月20日開始「Androidのマイナンバーカード」利用前に知りたい対応機種の条件とiPhoneとの違い - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ja2NFT3BEWW14Zk9JUVNaR1V5Yk83aFRqcTEyZ3JhSlc2LUI3ZmVFZ1FXMDJlZ1JiODUyUUlKVkl1NzZHbEhYWHRPOTBlVXB6cFFSVkhmRUVDcDNUZkpTaURRUGlQS3MxbWx1Qk1KQXdSeUtJaDhSMGsxTldndGs?oc=5",
+      "pub_date": "2026-10-20T11:00:02+09:00",
+      "source": "Yahoo!ニュース",
+      "description": "Android版マイナンバーカードが10月20日開始。対応機種の条件やStrongBoxの注意点、iPhoneとの違いを分かりやすく解説します。",
+      "_glink": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ja2NFT3BEWW14Zk9JUVNaR1V5Yk83aFRqcTEyZ3JhSlc2LUI3ZmVFZ1FXMDJlZ1JiODUyUUlKVkl1NzZHbEhYWHRPOTBlVXB6cFFSVkhmRUVDcDNUZkpTaURRUGlQS3MxbWx1Qk1KQXdSeUtJaDhSMGsxTldndGs?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ja2NFT3BEWW14Zk9JUVNaR1V5Yk83aFRqcTEyZ3JhSlc2LUI3ZmVFZ1FXMDJlZ1JiODUyUUlKVkl1NzZHbEhYWHRPOTBlVXB6cFFSVkhmRUVDcDNUZkpTaURRUGlQS3MxbWx1Qk1KQXdSeUtJaDhSMGsxTldndGs?oc=5",
       "category": "一般",
       "topic": "mynumber"
     },
@@ -111,6 +132,17 @@
       "topic": "mynumber"
     },
     {
+      "title": "マイナンバーカードの健康保険証利用について - 大津市",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16NHpOb3cyM3poOVNONW1McmhDNTNiWk1MRU9hTFIyQnB3T2wyb1BSc3dlS0RrWHhWZ3FhTi1Lak5ZOTdNeGtRYnI3RUNxR2hlYnhZZFJVUEljZGFENXM4T2NTOFdZMXprbUI0?oc=5",
+      "pub_date": "2026-10-19T16:00:00+09:00",
+      "source": "大津市",
+      "description": "有効期限切れの健康保険証でも保険診療（1〜3割負担）を受けられる暫定措置が、7月末まで延長される。しかし4カ月後、「保険証利用登録を済ませたマイナンバーカード」（マイナ保険証）などがないと保険診療が受けられず、全額自己負担（10割負担）と ...",
+      "_glink": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16NHpOb3cyM3poOVNONW1McmhDNTNiWk1MRU9hTFIyQnB3T2wyb1BSc3dlS0RrWHhWZ3FhTi1Lak5ZOTdNeGtRYnI3RUNxR2hlYnhZZFJVUEljZGFENXM4T2NTOFdZMXprbUI0?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16NHpOb3cyM3poOVNONW1McmhDNTNiWk1MRU9hTFIyQnB3T2wyb1BSc3dlS0RrWHhWZ3FhTi1Lak5ZOTdNeGtRYnI3RUNxR2hlYnhZZFJVUEljZGFENXM4T2NTOFdZMXprbUI0?oc=5",
+      "category": "制度変更",
+      "topic": "insurance"
+    },
+    {
       "title": "「マイナカード落としたら全情報漏れる！？」ICチップの高度な安全構造と失効した紙保険証の破棄ルール - TRILL",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBETGVDNWVxdnZQcnlibm9UcFI3ZTBDR3N5ZlRsVzhsU3VuUWdjUERzM010dUtJWlA3enVmUUlxZEZsYjZubTMwQWRDanRzclE?oc=5",
       "pub_date": "2026-10-19T15:20:00+09:00",
@@ -120,6 +152,17 @@
       "_resolved_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBETGVDNWVxdnZQcnlibm9UcFI3ZTBDR3N5ZlRsVzhsU3VuUWdjUERzM010dUtJWlA3enVmUUlxZEZsYjZubTMwQWRDanRzclE?oc=5",
       "category": "一般",
       "topic": "insurance"
+    },
+    {
+      "title": "「Androidのマイナンバーカード」が利用可能なスマホが判明 フル対応の機種は少なめ（アスキー） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kMmZSWWo0M2VyYlJzNnhyT2dvcFVETXhOLVJwZG1sb0VTZmt0VkE3eVAyTGV4NEQyTnJqM1hBWHRLTXMwYkNic0lvSU5iYUUyeF9DY09RbVBKUEt6WEdLTjNSTWRfMHJodktkM0tUX3cycU5YbVNjdHpBS1VpQzg?oc=5",
+      "pub_date": "2026-10-19T15:00:00+09:00",
+      "source": "Yahoo!ニュース",
+      "description": "デジタル庁は19日、「Androidのマイナンバーカードに対応しているスマートフォン」の一覧を更新。従来からの「電子証明書機能」に加えて、10月20日から開始の「属性証明機能」を利用できる端末が明らかになっている。",
+      "_glink": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kMmZSWWo0M2VyYlJzNnhyT2dvcFVETXhOLVJwZG1sb0VTZmt0VkE3eVAyTGV4NEQyTnJqM1hBWHRLTXMwYkNic0lvSU5iYUUyeF9DY09RbVBKUEt6WEdLTjNSTWRfMHJodktkM0tUX3cycU5YbVNjdHpBS1VpQzg?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kMmZSWWo0M2VyYlJzNnhyT2dvcFVETXhOLVJwZG1sb0VTZmt0VkE3eVAyTGV4NEQyTnJqM1hBWHRLTXMwYkNic0lvSU5iYUUyeF9DY09RbVBKUEt6WEdLTjNSTWRfMHJodktkM0tUX3cycU5YbVNjdHpBS1VpQzg?oc=5",
+      "category": "一般",
+      "topic": "mynumber"
     },
     {
       "title": "「Androidのマイナンバーカード」が利用可能なスマホが判明 フル対応の機種は少なめ - ASCII.jp",
@@ -492,58 +535,15 @@
       "topic": "mynumber"
     },
     {
-      "title": "「マイナ保険証」本格化！旧保険証廃止で注意点は？【WBS】 - テレ東BIZ",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLTjlzMHhhcmY5cUVhQjJ1OElQNWVLV05jQURwb3RLZGY4OGEyc29oeGRuNlpOVmx1dzlJUk1XblQ2a2tRRTZuQjkwWGx0UTVJV2tSXw?oc=5",
+      "title": "資格情報のお知らせおよび資格確認書 - www.city.shinagawa.tokyo.jp",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IZ2dVYkl3OWhCdjRybkR3eW5qUXFPS2VaalRIT0hmMVB1QTV4cENHLUFSM3MyR3kzbi1hSlRRbFpiLTZiemJ2MmhPUkFmZUJYNVRzd0JTVUZNb0F3X0xSZmRzaGkzVm4zS2RsLTJzdmF0dEdDajJYSXNjMFNhZU0?oc=5",
       "pub_date": "2026-10-01T16:00:00+09:00",
-      "source": "テレ東BIZ",
-      "description": "マイナ保険証を病院などで利用するときには、顔認証か暗証番号の入力をして本人確認を行います。暗証番号を使う場合には、4ケタの暗証番号を覚えておきましょう。暗証番号を3回連続して間違うと、ロックがかかってしまいます。 ロックされても、顔 ...",
-      "_glink": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLTjlzMHhhcmY5cUVhQjJ1OElQNWVLV05jQURwb3RLZGY4OGEyc29oeGRuNlpOVmx1dzlJUk1XblQ2a2tRRTZuQjkwWGx0UTVJV2tSXw?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLTjlzMHhhcmY5cUVhQjJ1OElQNWVLV05jQURwb3RLZGY4OGEyc29oeGRuNlpOVmx1dzlJUk1XblQ2a2tRRTZuQjkwWGx0UTVJV2tSXw?oc=5",
+      "source": "www.city.shinagawa.tokyo.jp",
+      "description": "去年12月、すべての「従来の保険証」の有効期限が切れた。 その後、暫定措置として「期限切れの保険証」や「資格情報のお知らせのみ」での受診も可能となったが、7月で終了。【画像】「資格確認書」と「資格情報のお知らせ」の違いは…8月から、医療 ...",
+      "_glink": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IZ2dVYkl3OWhCdjRybkR3eW5qUXFPS2VaalRIT0hmMVB1QTV4cENHLUFSM3MyR3kzbi1hSlRRbFpiLTZiemJ2MmhPUkFmZUJYNVRzd0JTVUZNb0F3X0xSZmRzaGkzVm4zS2RsLTJzdmF0dEdDajJYSXNjMFNhZU0?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IZ2dVYkl3OWhCdjRybkR3eW5qUXFPS2VaalRIT0hmMVB1QTV4cENHLUFSM3MyR3kzbi1hSlRRbFpiLTZiemJ2MmhPUkFmZUJYNVRzd0JTVUZNb0F3X0xSZmRzaGkzVm4zS2RsLTJzdmF0dEdDajJYSXNjMFNhZU0?oc=5",
       "category": "制度変更",
       "topic": "insurance"
-    },
-    {
-      "title": "顧客に安心と便利を。保険・銀行・証券が実践するマイナンバーカード活用の最前線 - デジタル庁ニュース",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Vdk82MVIxXzdLRkJvdngtallSeld3djdZS3NTMFl5dEViZnROb3ZubTFENXVkcFFCeWM3OUxsUDktQi1Jd3RJUTRTOF9uOF85Wk9aODBWVjlpaEUwRlpCVTVKSXBuUTYwbGQxWDB3?oc=5",
-      "pub_date": "2026-10-01T11:44:44+09:00",
-      "source": "デジタル庁ニュース",
-      "description": "",
-      "_glink": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Vdk82MVIxXzdLRkJvdngtallSeld3djdZS3NTMFl5dEViZnROb3ZubTFENXVkcFFCeWM3OUxsUDktQi1Jd3RJUTRTOF9uOF85Wk9aODBWVjlpaEUwRlpCVTVKSXBuUTYwbGQxWDB3?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Vdk82MVIxXzdLRkJvdngtallSeld3djdZS3NTMFl5dEViZnROb3ZubTFENXVkcFFCeWM3OUxsUDktQi1Jd3RJUTRTOF9uOF85Wk9aODBWVjlpaEUwRlpCVTVKSXBuUTYwbGQxWDB3?oc=5",
-      "category": "一般",
-      "topic": "mynumber"
-    },
-    {
-      "title": "医療機関・薬局向け顔認証付きカードリーダー「Caora 2」を販売開始 - Ricoh Global",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84Q1NMN1VKU0FDMnF1Q2ExRUlwYUcwWWM0NzJka2tWMW9leXBvSkc1UjlHMWVoUDVXTGU4ZDBQaDY1WDNEVkhOWjZRNWpRSlNlNEE?oc=5",
-      "pub_date": "2026-10-01T10:20:43+09:00",
-      "source": "Ricoh Global",
-      "description": "株式会社PFU（社長執行役員：平原 英治、以下 PFU）は、病院や薬局などの受付でマイナンバーカードによる資格確認に利用されている「顔認証付きカードリーダー Caora（カオラ）」の後継製品「Caora 2」（以下 Caora 2）を、2026年10月に提供を開始する予定です。",
-      "_glink": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84Q1NMN1VKU0FDMnF1Q2ExRUlwYUcwWWM0NzJka2tWMW9leXBvSkc1UjlHMWVoUDVXTGU4ZDBQaDY1WDNEVkhOWjZRNWpRSlNlNEE?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84Q1NMN1VKU0FDMnF1Q2ExRUlwYUcwWWM0NzJka2tWMW9leXBvSkc1UjlHMWVoUDVXTGU4ZDBQaDY1WDNEVkhOWjZRNWpRSlNlNEE?oc=5",
-      "category": "一般",
-      "topic": "insurance"
-    },
-    {
-      "title": "医療機関・薬局向け顔認証付きカードリーダー「Caora 2」を販売開始 - ZDNET Japan",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3Z0dOSlpUbTc3c3FsUjlyS1FWN0F3TUM0MU1hdHcyY3VyVWl0Y21LMHhuUExFZFFjcGdQYjJrZVhIX1NGZ05EdVhPc2l0SEgzNFpZ?oc=5",
-      "pub_date": "2026-10-01T10:00:00+09:00",
-      "source": "ZDNET Japan",
-      "description": "株式会社PFU（社長執行役員：平原 英治、以下 PFU）は、病院や薬局などの受付でマイナンバーカードによる資格確認に利用されている「顔認証付きカードリーダー Caora（カオラ）」の後継製品「Caora 2」（以下 Caora 2）を、2026年10月に提供を開始する予定です。",
-      "_glink": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3Z0dOSlpUbTc3c3FsUjlyS1FWN0F3TUM0MU1hdHcyY3VyVWl0Y21LMHhuUExFZFFjcGdQYjJrZVhIX1NGZ05EdVhPc2l0SEgzNFpZ?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3Z0dOSlpUbTc3c3FsUjlyS1FWN0F3TUM0MU1hdHcyY3VyVWl0Y21LMHhuUExFZFFjcGdQYjJrZVhIX1NGZ05EdVhPc2l0SEgzNFpZ?oc=5",
-      "category": "一般",
-      "topic": "insurance"
-    },
-    {
-      "title": "第58回社会保険労務士試験の合格者発表",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76425.html",
-      "pub_date": "2026-10-01T09:30:00+09:00",
-      "source": "厚生労働省",
-      "description": "こんにちは、あめです。 本日10月1日、第58回社労士試験の合格発表がありました。 結果は、不合格でした！ 結果の確認について ...",
-      "thumbnail": "https://www.mhlw.go.jp/common/img/img_ogp.jpg",
-      "category": "一般",
-      "topic": "mynumber"
     }
   ],
   "total": 500
