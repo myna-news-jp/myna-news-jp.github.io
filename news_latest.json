@@ -1,6 +1,17 @@
 {
-  "updated": "2026-10-23T12:39:07+09:00",
+  "updated": "2026-10-23T23:06:18+09:00",
   "articles": [
+    {
+      "title": "teppay、本人確認はなぜマイナンバーカードだけ？ JR東に理由を聞いた - ITmedia",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FRFF3SXJiQ2JTY1ZubXVvMHBteXd0YkFicVhRck5ueDlWMjlsUzBFY2NMS0pGNDhueXdPSGZVclUxdEVNdEs0OVd3YnE3RngwbDBrNkZLQXhlU1FtTE41cDFIeWlXSS1Wdmc?oc=5",
+      "pub_date": "2026-10-23T15:56:23+09:00",
+      "source": "ITmedia",
+      "description": "JR東日本が10月20日に始めたコード決済サービス「teppay」（テッペイ）では、本人確認（eKYC）に使える書類をマイナンバーカードのみとしており、運転免許証やパスポート、健康保険証などは使えない。なぜマイナンバーカードに限定したのか。ITmed ...",
+      "_glink": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FRFF3SXJiQ2JTY1ZubXVvMHBteXd0YkFicVhRck5ueDlWMjlsUzBFY2NMS0pGNDhueXdPSGZVclUxdEVNdEs0OVd3YnE3RngwbDBrNkZLQXhlU1FtTE41cDFIeWlXSS1Wdmc?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FRFF3SXJiQ2JTY1ZubXVvMHBteXd0YkFicVhRck5ueDlWMjlsUzBFY2NMS0pGNDhueXdPSGZVclUxdEVNdEs0OVd3YnE3RngwbDBrNkZLQXhlU1FtTE41cDFIeWlXSS1Wdmc?oc=5",
+      "category": "トラブル",
+      "topic": "insurance"
+    },
     {
       "title": "医療費控除はスマホとマイナンバーカードだけでも申告できるが、マイナポータル連携で自動入力されるのは保険診療分だけ。通知にない8万円を入れ忘れると、控除額は17万円から9万円に小さくなる試算 国税庁とデジタル庁の案内で確認すると、医療費通知情報は例年2月9日 - LIMO | くらしとお金の経済メディア",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5aWG9iaERaMWNWWEt3X3haQUhxdXNzWUZTeHk2cmlmRHNtdFlRMGJaRVQ2YmM4Z3h3dHR1eW5zQXlmRDQyWTFhaXhyQjU?oc=5",
@@ -54,6 +65,17 @@
       "_resolved_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yZlIzMjd1aUI0NVRJd1lLVUVRZ1FZSk1GeURveUtmb2phUjFNZHBUYXRvd1h4ck9sVHRCd29MWU1uUVF1SmJ1aTZzaW82eGRSZVlGUkl3TmFzWTcwQ19JZTE5QnZPUnBacEZ0blFuY2FvSDdkNkNiTkhVQ2Zndw?oc=5",
       "category": "制度変更",
       "topic": "insurance"
+    },
+    {
+      "title": "デジタル相｢自分の情報は自分で｣発言に｢これしかない｣と確信…現役医師が実践する\"病歴を守る最終手段\" - Yahoo!ファイナンス",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUWx2QUFyd1VjUE00dDFHZl9hUFhsVWxSTjhXMU43Qm0tQ2RDblo0dnBjdm0wN2JoYl9Ud0xRelpCUDYwNmNBcXNWSGdiNDJnV21zdUg2LXI3eHc1ZGlRSUJhb1NVOUk3YmNrVklpd0tLN21vSlQ5R3lKcGpuMTVyWjYwQWxJUkk?oc=5",
+      "pub_date": "2026-10-20T17:15:41+09:00",
+      "source": "Yahoo!ファイナンス",
+      "description": "企業の個人情報流出が相次いでいる。情報を守るためにできることはあるか。医師の木村知さんは「情報の中でも一際センシティブな、医療情報も例外ではない。大臣から『自衛』を呼びかけるようなシーンがあったが、問題の本質は“そもそも個人では防ぎようがない部分”に ...",
+      "_glink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUWx2QUFyd1VjUE00dDFHZl9hUFhsVWxSTjhXMU43Qm0tQ2RDblo0dnBjdm0wN2JoYl9Ud0xRelpCUDYwNmNBcXNWSGdiNDJnV21zdUg2LXI3eHc1ZGlRSUJhb1NVOUk3YmNrVklpd0tLN21vSlQ5R3lKcGpuMTVyWjYwQWxJUkk?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUWx2QUFyd1VjUE00dDFHZl9hUFhsVWxSTjhXMU43Qm0tQ2RDblo0dnBjdm0wN2JoYl9Ud0xRelpCUDYwNmNBcXNWSGdiNDJnV21zdUg2LXI3eHc1ZGlRSUJhb1NVOUk3YmNrVklpd0tLN21vSlQ5R3lKcGpuMTVyWjYwQWxJUkk?oc=5",
+      "category": "政治",
+      "topic": "mynumber"
     },
     {
       "title": "【2027年7月まで】協会けんぽ限度額認定証の期限。マイナ保険証なら入院時の事前手続なし（LIMO） - Yahoo!ニュース",
@@ -117,6 +139,17 @@
       "source": "デジタル庁",
       "description": "",
       "thumbnail": "https://services.digital.go.jp/ogp.png",
+      "category": "一般",
+      "topic": "mynumber"
+    },
+    {
+      "title": "AIによりオンライン上での人間行動の模倣が容易に--企業に求められる「検証（認証）」の再定義 - ZDNET Japan",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80T0Myb2VORHlITWZGeGU3LThscUpUclk0VkxCUnUtRGx6REVyb0dTeEdJLVNsaUo4ODhzOUR3U1lVemlITzVMWjJzZTdyMWlES2lV?oc=5",
+      "pub_date": "2026-10-20T08:00:00+09:00",
+      "source": "ZDNET Japan",
+      "description": "インターネットは長く、「画面の向こうには人間がいる」という前提の上に成り立ってきたが、生成AIの台頭によりオンラインサービス側から見ると、相手が実在する人間なのか、自動化されたプログラムなのか、あるいは人間から権限を与えられたAIエージェントなのかを ...",
+      "_glink": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80T0Myb2VORHlITWZGeGU3LThscUpUclk0VkxCUnUtRGx6REVyb0dTeEdJLVNsaUo4ODhzOUR3U1lVemlITzVMWjJzZTdyMWlES2lV?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80T0Myb2VORHlITWZGeGU3LThscUpUclk0VkxCUnUtRGx6REVyb0dTeEdJLVNsaUo4ODhzOUR3U1lVemlITzVMWjJzZTdyMWlES2lV?oc=5",
       "category": "一般",
       "topic": "mynumber"
     },
@@ -510,39 +543,6 @@
       "description": "リコーPFUコンピューティング（神奈川・海老名市）は10月2日、医療機関・薬局向けのオンライン資格確認専用PC「RICOH EZX2100」を今冬に発売すると発表した。小型きょう体を採用し、必要なソフトウエアを組み込んで提供する。長期供給や5年間の保守も行う。",
       "_glink": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5fNEhFSHQxVmNiR0hhR0tlN2ZRN0xNZGdUSElmSUlyaXNrcUlobVI3ZkwxRE9BNGcwbjdhemxfUG5KYW1DRnJ4Sy1hRDVEaXhqX1o5NWNvMHhZYk9wLWhNYWpDR21ERXFEcW11c2Zn?oc=5",
       "_resolved_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5fNEhFSHQxVmNiR0hhR0tlN2ZRN0xNZGdUSElmSUlyaXNrcUlobVI3ZkwxRE9BNGcwbjdhemxfUG5KYW1DRnJ4Sy1hRDVEaXhqX1o5NWNvMHhZYk9wLWhNYWpDR21ERXFEcW11c2Zn?oc=5",
-      "category": "一般",
-      "topic": "insurance"
-    },
-    {
-      "title": "リコーPFU、オンライン資格確認専用PC RICOH EZX2100を今冬発売へ - Dellows News",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11dHNyakIzbU9PeTh0RWNaYlhtNXRHM2lwRURLWXRKUi1pX2VKNzZrM0EzRXVXZThzOXh5ZDE4UTR5YVdsVmItZDNnQkxZWEFjbnJ4VTZReTVoLUllWFhLUy1ZR0w1QnlB?oc=5",
-      "pub_date": "2026-10-02T16:00:00+09:00",
-      "source": "Dellows News",
-      "description": "リコーPFUコンピューティング株式会社（社長執行役員：大谷 潤一郎）は、産業機器向けボードコンピュータの新製品として、ATX規格「RICOH FB22RB」およびMicro ATX規格「RICOH FB22RBM」の2製品を2026年10月から発売開始します。",
-      "_glink": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11dHNyakIzbU9PeTh0RWNaYlhtNXRHM2lwRURLWXRKUi1pX2VKNzZrM0EzRXVXZThzOXh5ZDE4UTR5YVdsVmItZDNnQkxZWEFjbnJ4VTZReTVoLUllWFhLUy1ZR0w1QnlB?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11dHNyakIzbU9PeTh0RWNaYlhtNXRHM2lwRURLWXRKUi1pX2VKNzZrM0EzRXVXZThzOXh5ZDE4UTR5YVdsVmItZDNnQkxZWEFjbnJ4VTZReTVoLUllWFhLUy1ZR0w1QnlB?oc=5",
-      "category": "一般",
-      "topic": "insurance"
-    },
-    {
-      "title": "資格確認書・資格情報のお知らせの再交付申請 - 新潟市",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtNTMzMzROZUJESk5uT3FuYXN1bVl4QjhtU1JGN0xOQ3hXT2JKbnpyTEZ5ODljUE93OUgyTWI5SEd1WV9aWGpuTW42MjU5LVNBcVV3Wi1YV2lhSHVGZC1jcDc0bVo1QUdEMGR0X1M3M0tZRWk0MlhHXw?oc=5",
-      "pub_date": "2026-10-02T16:00:00+09:00",
-      "source": "新潟市",
-      "description": "75～84歳までの後期高齢者は8月1日から医療機関を受診する際には注意が必要だ。資格確認書の全員交付が終わり、別の書類「資格情報のお知らせ」が送られた人たちがいる。「お知らせ」はマイナ保険証とセットで使う書類なので、従来の健康保険証のよう ...",
-      "_glink": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtNTMzMzROZUJESk5uT3FuYXN1bVl4QjhtU1JGN0xOQ3hXT2JKbnpyTEZ5ODljUE93OUgyTWI5SEd1WV9aWGpuTW42MjU5LVNBcVV3Wi1YV2lhSHVGZC1jcDc0bVo1QUdEMGR0X1M3M0tZRWk0MlhHXw?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtNTMzMzROZUJESk5uT3FuYXN1bVl4QjhtU1JGN0xOQ3hXT2JKbnpyTEZ5ODljUE93OUgyTWI5SEd1WV9aWGpuTW42MjU5LVNBcVV3Wi1YV2lhSHVGZC1jcDc0bVo1QUdEMGR0X1M3M0tZRWk0MlhHXw?oc=5",
-      "category": "一般",
-      "topic": "insurance"
-    },
-    {
-      "title": "リコーPFUコンピューティング、オンライン資格確認端末「RICOH EZX2100」を発売 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0YnNxMVZDaTFCMjQxcVAyZlhtZmNhdkd5bGJJbjlEX0loeEFDQTJnOUd0akhZMmlLSXFpcWxLWHAxY2I4NlhoLVhfR1hPNE9LMnZZNDBPRHRZQTVvbXdWem1jeUtaSjVhLXM0?oc=5",
-      "pub_date": "2026-10-02T14:49:00+09:00",
-      "source": "日本経済新聞",
-      "description": "【プレスリリース】発表日:2026年10月02日医療機関・薬局における導入・設定の負担を軽減するオンライン資格確認端末「RICOH EZX2100」を今冬発売〜受付スペースに最適な小型筐体と長期供給・保守に対応し、オンライン資格確認環境のスムーズな移行を支援〜リコーPFUコンピューティング株式会社（…",
-      "_glink": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0YnNxMVZDaTFCMjQxcVAyZlhtZmNhdkd5bGJJbjlEX0loeEFDQTJnOUd0akhZMmlLSXFpcWxLWHAxY2I4NlhoLVhfR1hPNE9LMnZZNDBPRHRZQTVvbXdWem1jeUtaSjVhLXM0?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0YnNxMVZDaTFCMjQxcVAyZlhtZmNhdkd5bGJJbjlEX0loeEFDQTJnOUd0akhZMmlLSXFpcWxLWHAxY2I4NlhoLVhfR1hPNE9LMnZZNDBPRHRZQTVvbXdWem1jeUtaSjVhLXM0?oc=5",
       "category": "一般",
       "topic": "insurance"
     }
