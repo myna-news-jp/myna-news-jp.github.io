@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T23:23:40+09:00",
+  "updated": "2026-10-23T12:39:07+09:00",
   "articles": [
     {
       "title": "医療費控除はスマホとマイナンバーカードだけでも申告できるが、マイナポータル連携で自動入力されるのは保険診療分だけ。通知にない8万円を入れ忘れると、控除額は17万円から9万円に小さくなる試算 国税庁とデジタル庁の案内で確認すると、医療費通知情報は例年2月9日 - LIMO | くらしとお金の経済メディア",
@@ -1242,6 +1242,17 @@
       "_glink": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HZ05uZmVvLXZZOEFKZVFCOXBRQ1kzMmRKVEdWWTY3eUl1bWlXbXFBR1lwSVMzeHZtODgtcmdkTk9peHh2cXMtODBIRV8xNExMOWxRVkU0VFYxeGxBXzMzNDNVZExhWWNuTm5fVUt3?oc=5",
       "_resolved_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HZ05uZmVvLXZZOEFKZVFCOXBRQ1kzMmRKVEdWWTY3eUl1bWlXbXFBR1lwSVMzeHZtODgtcmdkTk9peHh2cXMtODBIRV8xNExMOWxRVkU0VFYxeGxBXzMzNDNVZExhWWNuTm5fVUt3?oc=5",
       "category": "一般",
+      "topic": "insurance"
+    },
+    {
+      "title": "健康保険証とマイナンバーカードの一体化について - 沖縄県嘉手納町",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qVVpkdGxmckZNcGFzblREazhXaEVLNzdyLWZnN2ZKVW13dVI1UmJIYmNRTE9wSXJXQ3NYM1psT2p4SkxxTjMyUE9RMmFNNXk0VkhFSU44U19Pa3BOdWl3cEpR?oc=5",
+      "pub_date": "2026-09-10T16:00:00+09:00",
+      "source": "沖縄県嘉手納町",
+      "description": "健康保険証が使えなくなる話を聞いたことはないだろうか。従来の健康保険証は2025年12月1日をもって有効期限が終了している。 ただし、有効期限切れの保険証をそのまま使える「暫定措置」が複数回にわたって延長されているため、現在の状況がわかり ...",
+      "_glink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qVVpkdGxmckZNcGFzblREazhXaEVLNzdyLWZnN2ZKVW13dVI1UmJIYmNRTE9wSXJXQ3NYM1psT2p4SkxxTjMyUE9RMmFNNXk0VkhFSU44U19Pa3BOdWl3cEpR?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qVVpkdGxmckZNcGFzblREazhXaEVLNzdyLWZnN2ZKVW13dVI1UmJIYmNRTE9wSXJXQ3NYM1psT2p4SkxxTjMyUE9RMmFNNXk0VkhFSU44U19Pa3BOdWl3cEpR?oc=5",
+      "category": "制度変更",
       "topic": "insurance"
     },
     {
@@ -5439,35 +5450,24 @@
       "topic": "insurance"
     },
     {
-      "title": "マイナ保険証利用件数がピーク時から10％減 6月は50.15％ 前月比-0.18 - 全国保険医団体連合会",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wMXp5c09KS3hiejVNM01KY1hCS0tmdW1PbVUxTEtWT1pJMklTTVdWM1lPUzZpV1lFM1lDY1gwTFV1d0RTMmRHTjYzZTBnY2VJczlnTGR1amFseXNiRzFwMQ?oc=5",
+      "title": "パナソニック、病院でスマホのマイナカードが使える顔認証付きリーダー - Impress Watch",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1WV1kzUUlXbjdFU3RqZWxacU1CR0lxdkJMWDVfUEhmSzlydUJwN2VzX3JvM3BfTHhzenpTLThjZlRTWm1IWHlxZTBITGUtY1hpWF9Ualk0d09Tb28zOGkzcy1nanM?oc=5",
       "pub_date": "2026-07-22T16:00:00+09:00",
-      "source": "全国保険医団体連合会",
-      "description": "8月1日より、医療機関や薬局での受診時に「有効期限切れの従来の健康保険証」が一切使えなくなる。それに伴い、マイナ保険証や代替手段である「資格確認書」を持たずに受診した場合、保険証を忘れた場合と同様の対応となり、一時的に医療費を全額 ...",
-      "_glink": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wMXp5c09KS3hiejVNM01KY1hCS0tmdW1PbVUxTEtWT1pJMklTTVdWM1lPUzZpV1lFM1lDY1gwTFV1d0RTMmRHTjYzZTBnY2VJczlnTGR1amFseXNiRzFwMQ?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wMXp5c09KS3hiejVNM01KY1hCS0tmdW1PbVUxTEtWT1pJMklTTVdWM1lPUzZpV1lFM1lDY1gwTFV1d0RTMmRHTjYzZTBnY2VJczlnTGR1amFseXNiRzFwMQ?oc=5",
-      "category": "制度変更",
-      "topic": "insurance"
-    },
-    {
-      "title": "【パナソニックコネクト】マイナ保険証カードリーダー、別端末不要に 新モデル発表 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IcjRCUXZOYnBnYkQyZ0FSZVY1Tzdpeldub1hldUJ3bEFXek03UUpBeDZSTk5UU3p1TTljQlk3azB0MHJaOHNYXzYxQWhjSlR3TTNBZTl6YWsyaTZ3ZklmOGlIOEhyQjNYaUhXNA?oc=5",
-      "pub_date": "2026-07-22T16:00:00+09:00",
-      "source": "日本経済新聞",
+      "source": "Impress Watch",
       "description": "パナソニック コネクトは7月22日、医療機関・薬局向け「顔認証付きカードリーダー」の新モデル（XC-STFR3J-MN）を発表した。8月24日に発売する。直販価格は37万9500円（税込）。 マイナ保険証リーダー ※クリックすると拡大画像が見られます 目玉は、読み取っ ...",
-      "_glink": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IcjRCUXZOYnBnYkQyZ0FSZVY1Tzdpeldub1hldUJ3bEFXek03UUpBeDZSTk5UU3p1TTljQlk3azB0MHJaOHNYXzYxQWhjSlR3TTNBZTl6YWsyaTZ3ZklmOGlIOEhyQjNYaUhXNA?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IcjRCUXZOYnBnYkQyZ0FSZVY1Tzdpeldub1hldUJ3bEFXek03UUpBeDZSTk5UU3p1TTljQlk3azB0MHJaOHNYXzYxQWhjSlR3TTNBZTl6YWsyaTZ3ZklmOGlIOEhyQjNYaUhXNA?oc=5",
+      "_glink": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1WV1kzUUlXbjdFU3RqZWxacU1CR0lxdkJMWDVfUEhmSzlydUJwN2VzX3JvM3BfTHhzenpTLThjZlRTWm1IWHlxZTBITGUtY1hpWF9Ualk0d09Tb28zOGkzcy1nanM?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1WV1kzUUlXbjdFU3RqZWxacU1CR0lxdkJMWDVfUEhmSzlydUJwN2VzX3JvM3BfTHhzenpTLThjZlRTWm1IWHlxZTBITGUtY1hpWF9Ualk0d09Tb28zOGkzcy1nanM?oc=5",
       "category": "一般",
       "topic": "insurance"
     },
     {
-      "title": "業界初、資格確認端末の内蔵で受付を省スペース化、スマホのマイナ保険証にも対応 医療機関・薬局向け「顔認証付きカードリーダー」新モデルを発売 | 企業・法人向けソリューション | 製品・サービス | プレスリリース - Panasonic Newsroom Global",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SbXVTZ1Q4ekM3enRvek8xcTVFamhPNDV4MnhfWl9VLWxmVnZpZjJFOWY3ZkJHZDVnLUJKd1NjR1REQ21DQjVMdk1IT0NLUGRSR3dOTXlwOEhmdw?oc=5",
+      "title": "パナソニックコネクト、資格確認端末内蔵の顔認証付きカードリーダー新モデル スマホのマイナ保険証にも対応 - 医療テックニュース",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05NDh4LXBRS0FBRTNCWjFMaWV5MXdmTWRURGZzeXpKVy1PRnJUdlJoNm5WNk9JelVxRFB6ZlA5ejZaRjFodmRpVzB4OG5UYmdQMy14ZHVjSXktbmRQRmJ3MTRwM0o5RTNIUWFhZUx3?oc=5",
       "pub_date": "2026-07-22T16:00:00+09:00",
-      "source": "Panasonic Newsroom Global",
-      "description": "パナソニック コネクトグループ（グループCEO：ケン・セイン、以下、パナソニック コネクト）は、医療機関・薬局向け「顔認証付きカードリーダー」の新モデルを2026年8月24日から発売します。現行モデルのコンパクトで使いやすいデザインと世界最高水準 ...",
-      "_glink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SbXVTZ1Q4ekM3enRvek8xcTVFamhPNDV4MnhfWl9VLWxmVnZpZjJFOWY3ZkJHZDVnLUJKd1NjR1REQ21DQjVMdk1IT0NLUGRSR3dOTXlwOEhmdw?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SbXVTZ1Q4ekM3enRvek8xcTVFamhPNDV4MnhfWl9VLWxmVnZpZjJFOWY3ZkJHZDVnLUJKd1NjR1REQ21DQjVMdk1IT0NLUGRSR3dOTXlwOEhmdw?oc=5",
+      "source": "医療テックニュース",
+      "description": "パナソニックコネクトグループは22日、マイナ保険証の顔認証付きカードリーダーの新モデルを発表した。利用者の資格情報を確認するための専用端末を内蔵する。省スペースで、医療機関や薬局の受付に設置しやすくなる。 8月24日に発売する。従来モデル ...",
+      "_glink": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05NDh4LXBRS0FBRTNCWjFMaWV5MXdmTWRURGZzeXpKVy1PRnJUdlJoNm5WNk9JelVxRFB6ZlA5ejZaRjFodmRpVzB4OG5UYmdQMy14ZHVjSXktbmRQRmJ3MTRwM0o5RTNIUWFhZUx3?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05NDh4LXBRS0FBRTNCWjFMaWV5MXdmTWRURGZzeXpKVy1PRnJUdlJoNm5WNk9JelVxRFB6ZlA5ejZaRjFodmRpVzB4OG5UYmdQMy14ZHVjSXktbmRQRmJ3MTRwM0o5RTNIUWFhZUx3?oc=5",
       "category": "一般",
       "topic": "insurance"
     }
