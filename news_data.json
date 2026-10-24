@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T23:06:18+09:00",
+  "updated": "2026-10-24T12:32:52+09:00",
   "articles": [
     {
       "title": "teppay、本人確認はなぜマイナンバーカードだけ？ JR東に理由を聞いた - ITmedia",
@@ -871,6 +871,17 @@
       "_glink": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB5QjVUc2xkVGxxR0Y0dWZBblIxbUlHWmZjZ0VFeUZWZ0xMWTNtb3lHMGRMbkZRY1BfMkhHTUZQMkdsdnFLaUpKamVFZmNJQQ?oc=5",
       "_resolved_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB5QjVUc2xkVGxxR0Y0dWZBblIxbUlHWmZjZ0VFeUZWZ0xMWTNtb3lHMGRMbkZRY1BfMkhHTUZQMkdsdnFLaUpKamVFZmNJQQ?oc=5",
       "category": "使い方",
+      "topic": "insurance"
+    },
+    {
+      "title": "自治体の事務負担を軽減！介護保険証とマイナンバーカード一体化を徹底解説 - ポケットサイン株式会社",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5yaFJ4b0xCenZ4UkRXTHdvNlR5TVJZT2I3cjVlaTV6ajBSeHVPVll5QkpldlctUnVpaWd5TGYyZjFHMkthVThr?oc=5",
+      "pub_date": "2026-09-28T16:00:00+09:00",
+      "source": "ポケットサイン株式会社",
+      "description": "政府は、今年度から介護保険証とマイナンバーカードを一体化し、マイナカードのみで資格確認できる仕組みの導入を進めている。介護情報を電子データ化してシステム上で共有し、介護サービスの向上や事業所の負担軽減につなげる狙いがある。新 ...",
+      "_glink": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5yaFJ4b0xCenZ4UkRXTHdvNlR5TVJZT2I3cjVlaTV6ajBSeHVPVll5QkpldlctUnVpaWd5TGYyZjFHMkthVThr?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5yaFJ4b0xCenZ4UkRXTHdvNlR5TVJZT2I3cjVlaTV6ajBSeHVPVll5QkpldlctUnVpaWd5TGYyZjFHMkthVThr?oc=5",
+      "category": "一般",
       "topic": "insurance"
     },
     {
@@ -5364,6 +5375,17 @@
       "topic": "insurance"
     },
     {
+      "title": "マイナ保険証への切り替え - 税理士法人 浅田会計事務所",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1GWm8xOGFCMWQ1V1NySjFFTHdqZm1NT082VG9SRzhBUjZGN1JrUTNULU1xZkxvNC1GQndycFM3RTlqNTdjcVRWWExSZ0RKQlVDY1JKMGprMA?oc=5",
+      "pub_date": "2026-07-23T16:00:00+09:00",
+      "source": "税理士法人 浅田会計事務所",
+      "description": "7月末で従来の健康保険証の有効期限が切れた市町村国民健康保険（市町村国保）加入者のマイナ保険証への切り替え利用が進み、8月の利用率が43.6％と40％を超えたことが、厚生労働省のまとめで分かった。 「顕著な上昇傾向」 同省によると、7月の利用 ...",
+      "_glink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1GWm8xOGFCMWQ1V1NySjFFTHdqZm1NT082VG9SRzhBUjZGN1JrUTNULU1xZkxvNC1GQndycFM3RTlqNTdjcVRWWExSZ0RKQlVDY1JKMGprMA?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1GWm8xOGFCMWQ1V1NySjFFTHdqZm1NT082VG9SRzhBUjZGN1JrUTNULU1xZkxvNC1GQndycFM3RTlqNTdjcVRWWExSZ0RKQlVDY1JKMGprMA?oc=5",
+      "category": "制度変更",
+      "topic": "insurance"
+    },
+    {
       "title": "スマホ認証機構と資格確認用PCを内蔵した新型「顔認証付きカードリーダー」を発表：医療機器ニュース（1/2 ページ） - MONOist",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51bFBaSjBQNDJ5WFVuT2lQU1ZDV1ZVLWN2MDhOazdsY3djRU5LaEtReWMtb21LRUNfSVlVNzhfUlB3RjVoMVhmZ0VTa0tRRFBteUtqVjByY1J1YjJpalRNc3U3YnZNbjJwZnNwa0lLOA?oc=5",
       "pub_date": "2026-07-23T16:00:00+09:00",
@@ -5449,27 +5471,6 @@
       "thumbnail": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
       "category": "一般",
       "topic": "mynumber"
-    },
-    {
-      "title": "広報資料におけるマイナンバーカード活用等に関する周知用資料を更新しました",
-      "link": "https://www.digital.go.jp/policies/mynumber_resources",
-      "pub_date": "2026-07-23T15:00:00+09:00",
-      "source": "デジタル庁",
-      "description": "総務省は、行政手続における特定の個人を識別するための番号の利用等に関する法律施行規則等の一部を改正する命令（案）をとりまとめました。 つきましては、当該案について、令和8年2月 14 日（土）から令和8年3月 16 日（月）までの間、意見を募集します ...",
-      "thumbnail": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
-      "category": "制度変更",
-      "topic": "mynumber"
-    },
-    {
-      "title": "病院・薬局の受付でスマホタッチ、パナソニックが新型マイナ保険証リーダー発表 - ケータイ Watch",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TRWcyaE1NRkpUUzg4allNcHo5ZENJWW43Y2RhMFYtcjBYWWdHdThMLVhFV2prbWxkM2hQbWlKNG83QXNqNlVRRHFPMEh6M0ZJXy11MUJ4YXZ2T1F0b3ZKWTNmUEJkZmM?oc=5",
-      "pub_date": "2026-07-23T12:33:44+09:00",
-      "source": "ケータイ Watch",
-      "description": "リコー子会社でスキャナーの製造などを手がけるPFU（石川県かほく市）は、病院や薬局用の顔認証機能付きマイナンバーカードリーダーの新製品を10月に発売すると発表した。2025年9月から開始したスマートフォンのマイナ保険証にも対応する。 大画面、省 ...",
-      "_glink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TRWcyaE1NRkpUUzg4allNcHo5ZENJWW43Y2RhMFYtcjBYWWdHdThMLVhFV2prbWxkM2hQbWlKNG83QXNqNlVRRHFPMEh6M0ZJXy11MUJ4YXZ2T1F0b3ZKWTNmUEJkZmM?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TRWcyaE1NRkpUUzg4allNcHo5ZENJWW43Y2RhMFYtcjBYWWdHdThMLVhFV2prbWxkM2hQbWlKNG83QXNqNlVRRHFPMEh6M0ZJXy11MUJ4YXZ2T1F0b3ZKWTNmUEJkZmM?oc=5",
-      "category": "一般",
-      "topic": "insurance"
     }
   ]
 }
