@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-27T10:03:21+09:00",
+  "updated": "2026-10-27T10:27:06+09:00",
   "alert_level": "red",
   "keywords": [
     {
       "keyword": "マイナ保険証",
-      "current": 9.0,
+      "current": 8.0,
       "yesterday": 6.0,
-      "change_day": 50.0,
-      "avg_7day": 5.3,
-      "change_week": 69.8,
+      "change_day": 33.3,
+      "avg_7day": 5.1,
+      "change_week": 56.9,
       "alert": true,
       "history": [
         {
@@ -381,17 +381,17 @@
         },
         {
           "date": "2026-10-27",
-          "value": 9.0
+          "value": 8.0
         }
       ]
     },
     {
       "keyword": "マイナンバーカード",
-      "current": 53.0,
+      "current": 54.0,
       "yesterday": 45.0,
-      "change_day": 17.8,
-      "avg_7day": 40.1,
-      "change_week": 32.2,
+      "change_day": 20.0,
+      "avg_7day": 40.3,
+      "change_week": 34.0,
       "alert": false,
       "history": [
         {
@@ -764,15 +764,15 @@
         },
         {
           "date": "2026-10-27",
-          "value": 53.0
+          "value": 54.0
         }
       ]
     },
     {
       "keyword": "保険証",
       "current": 37.0,
-      "yesterday": 26.0,
-      "change_day": 42.3,
+      "yesterday": 25.0,
+      "change_day": 48.0,
       "avg_7day": 23.0,
       "change_week": 60.9,
       "alert": true,
@@ -1139,11 +1139,11 @@
         },
         {
           "date": "2026-10-25",
-          "value": 13.0
+          "value": 14.0
         },
         {
           "date": "2026-10-26",
-          "value": 26.0
+          "value": 25.0
         },
         {
           "date": "2026-10-27",
@@ -1919,11 +1919,11 @@
     },
     {
       "keyword": "オンライン資格確認",
-      "current": 2.0,
+      "current": 2.2,
       "yesterday": 0.8,
-      "change_day": 150.0,
+      "change_day": 175.0,
       "avg_7day": 0.9,
-      "change_week": 122.2,
+      "change_week": 144.4,
       "alert": false,
       "history": [
         {
@@ -2296,17 +2296,17 @@
         },
         {
           "date": "2026-10-27",
-          "value": 2.0
+          "value": 2.2
         }
       ]
     },
     {
       "keyword": "資格確認書",
-      "current": 10.6,
+      "current": 10.4,
       "yesterday": 6.7,
-      "change_day": 58.2,
+      "change_day": 55.2,
       "avg_7day": 6.1,
-      "change_week": 73.8,
+      "change_week": 70.5,
       "alert": true,
       "history": [
         {
@@ -2431,7 +2431,7 @@
         },
         {
           "date": "2026-08-26",
-          "value": 7.8
+          "value": 7.7
         },
         {
           "date": "2026-08-27",
@@ -2479,7 +2479,7 @@
         },
         {
           "date": "2026-09-07",
-          "value": 7.8
+          "value": 7.7
         },
         {
           "date": "2026-09-08",
@@ -2511,7 +2511,7 @@
         },
         {
           "date": "2026-09-15",
-          "value": 7.8
+          "value": 7.7
         },
         {
           "date": "2026-09-16",
@@ -2527,7 +2527,7 @@
         },
         {
           "date": "2026-09-19",
-          "value": 5.1
+          "value": 5.0
         },
         {
           "date": "2026-09-20",
@@ -2563,7 +2563,7 @@
         },
         {
           "date": "2026-09-28",
-          "value": 7.8
+          "value": 7.7
         },
         {
           "date": "2026-09-29",
@@ -2623,7 +2623,7 @@
         },
         {
           "date": "2026-10-13",
-          "value": 7.8
+          "value": 7.7
         },
         {
           "date": "2026-10-14",
@@ -2647,7 +2647,7 @@
         },
         {
           "date": "2026-10-19",
-          "value": 7.8
+          "value": 7.7
         },
         {
           "date": "2026-10-20",
@@ -2679,7 +2679,7 @@
         },
         {
           "date": "2026-10-27",
-          "value": 10.6
+          "value": 10.4
         }
       ]
     }
