@@ -8,23 +8,28 @@ on:
     # GitHub 画面から手動実行も可能
 
 permissions:
-  contents: write   # news_data.json をコミットするために必要
+  contents: write   # データJSONをコミットするために必要（それ以外の権限は付与しない）
 
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
+      # 外部ActionはタグではなくコミットSHAで固定（タグ付け替えによる乗っ取り対策）
       - name: リポジトリをチェックアウト
-        uses: actions/checkout@v4
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+        with:
+          persist-credentials: false   # 取得スクリプト実行中に認証情報を残さない
 
       - name: Python をセットアップ
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5.6.0
         with:
           python-version: '3.11'
           cache: pip
+          cache-dependency-path: requirements.txt
 
-      - name: 依存ライブラリをインストール
-        run: pip install -r requirements.txt
+      - name: 依存ライブラリをインストール（バージョン固定＋ハッシュ検証）
+        run: pip install --require-hashes -r requirements.txt
 
       - name: ニュースを取得
         run: python fetch_news.py --force
@@ -37,10 +42,24 @@ jobs:
       - name: 統計データを集計
         run: python fetch_stats.py --force
 
+      # トークンはこのステップにだけ渡す（第三者製の自動コミットActionは使わない）
       - name: データをコミット & プッシュ
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: 'chore: update news, diet & stats data [skip ci]'
-          file_pattern: news_data.json news_latest.json diet_data.json stats_data.json
-          commit_user_name: github-actions[bot]
-          commit_user_email: github-actions[bot]@users.noreply.github.com
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add news_data.json news_latest.json diet_data.json stats_data.json
+          if git diff --cached --quiet; then
+            echo "変更なし（コミット不要）"
+            exit 0
+          fi
+          git commit -m "chore: update news, diet & stats data [skip ci]"
+          for i in 1 2 3; do
+            if git push "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" "HEAD:${GITHUB_REF_NAME}"; then
+              exit 0
+            fi
+            echo "push 競合 → 最新を取り込み再試行 ($i)"
+            git pull --rebase "https://github.com/${GITHUB_REPOSITORY}.git" "${GITHUB_REF_NAME}"
+          done
+          exit 1

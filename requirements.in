@@ -1,0 +1,6 @@
+# ニュース・国会会議録・統計の取得用（.github/workflows/update_news.yml）
+# 直接の依存のみ記載。ロック（requirements.txt）は下記で再生成する:
+#   uv pip compile requirements.in --python-version 3.11.17 --python-platform linux --generate-hashes --no-annotate -o requirements.txt
+requests
+beautifulsoup4
+anthropic

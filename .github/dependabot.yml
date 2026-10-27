@@ -1,0 +1,7 @@
+version: 2
+updates:
+  # ワークフローで SHA 固定している Action を、安全な新版へ追従させる（週次でPRを作成）
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly

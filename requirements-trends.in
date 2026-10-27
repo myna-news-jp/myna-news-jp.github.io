@@ -1,0 +1,8 @@
+# Googleトレンド取得用（.github/workflows/update_trends.yml）
+# 直接の依存のみ記載。ロック（requirements-trends.txt）は下記で再生成する:
+#   uv pip compile requirements-trends.in --python-version 3.12.15 --python-platform linux --generate-hashes --no-annotate -o requirements-trends.txt
+pytrends
+pandas
+requests
+urllib3<2.0   # pytrends が urllib3 2系の Retry 仕様変更に未対応のため旧系に固定
+anthropic
