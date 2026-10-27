@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T10:27:06+09:00",
+  "updated": "2026-10-27T10:30:15+09:00",
   "alert_level": "red",
   "keywords": [
     {
@@ -770,11 +770,11 @@
     },
     {
       "keyword": "保険証",
-      "current": 37.0,
+      "current": 36.0,
       "yesterday": 25.0,
-      "change_day": 48.0,
-      "avg_7day": 23.0,
-      "change_week": 60.9,
+      "change_day": 44.0,
+      "avg_7day": 22.9,
+      "change_week": 57.2,
       "alert": true,
       "history": [
         {
@@ -1147,7 +1147,7 @@
         },
         {
           "date": "2026-10-27",
-          "value": 37.0
+          "value": 36.0
         }
       ]
     },
@@ -2399,7 +2399,7 @@
         },
         {
           "date": "2026-08-18",
-          "value": 8.8
+          "value": 8.7
         },
         {
           "date": "2026-08-19",
