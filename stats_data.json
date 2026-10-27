@@ -1,19 +1,9 @@
 {
-  "updated": "2026-10-27T12:58:01+09:00",
-  "csv_url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/65ee2cb2-0b1f-46fa-9a40-7eefea58a06b/5e08d4d2/20260731_mynumber_card_penetration_usage_table_01.csv",
+  "updated": "2026-10-27T16:00:31+09:00",
+  "csv_url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/65ee2cb2-0b1f-46fa-9a40-7eefea58a06b/21d5a3d6/20261002_mynumber_card_penetration_usage_table.csv",
   "source": "デジタル庁「マイナンバーカード普及状況ダッシュボード」",
-  "source_page": "https://www.digital.go.jp/resources/govdashboard/mynumber_penetration_rate",
+  "source_page": "https://www.digital.go.jp/resources/govdashboard/mynumber_card_penetration_usage",
   "myna_card": [
-    {
-      "month": "2024-07",
-      "rate": 74.9,
-      "cumul": 93083991
-    },
-    {
-      "month": "2024-08",
-      "rate": 75.2,
-      "cumul": 93470356
-    },
     {
       "month": "2024-09",
       "rate": 75.6,
@@ -123,29 +113,19 @@
       "month": "2026-06",
       "rate": 83.6,
       "cumul": 103856694
+    },
+    {
+      "month": "2026-07",
+      "rate": 83.8,
+      "cumul": 104184326
+    },
+    {
+      "month": "2026-08",
+      "rate": 84.1,
+      "cumul": 104525120
     }
   ],
   "kenpo_reg": [
-    {
-      "month": "2025-03",
-      "rate": 85.0,
-      "cumul": 83011764
-    },
-    {
-      "month": "2025-04",
-      "rate": 86.0,
-      "cumul": 83916088
-    },
-    {
-      "month": "2025-05",
-      "rate": 86.0,
-      "cumul": 84394855
-    },
-    {
-      "month": "2025-06",
-      "rate": 86.0,
-      "cumul": 84836417
-    },
     {
       "month": "2025-07",
       "rate": 87.0,
@@ -195,6 +175,26 @@
       "month": "2026-04",
       "rate": 91.0,
       "cumul": 93915443
+    },
+    {
+      "month": "2026-05",
+      "rate": 91.0,
+      "cumul": 94434442
+    },
+    {
+      "month": "2026-06",
+      "rate": 91.0,
+      "cumul": 94867766
+    },
+    {
+      "month": "2026-07",
+      "rate": 91.0,
+      "cumul": 95304684
+    },
+    {
+      "month": "2026-08",
+      "rate": 92.0,
+      "cumul": 95736614
     }
   ],
   "myna_rate_estimated": true,
