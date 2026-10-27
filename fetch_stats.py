@@ -5,9 +5,11 @@
   ② 健康保険証としての利用登録率
 を取得して stats_data.json に保存します。
 
-データ元: https://www.digital.go.jp/resources/govdashboard/mynumber_penetration_rate
-CSV:  上記ページの *_penetration_usage_table_01.csv（縦持ち: 年月・指標名・値）。
-      2026年にファイル名（penetration-rate→penetration_usage）と形式（横持ち→縦持ち）が変更された。
+データ元: https://www.digital.go.jp/resources/govdashboard/mynumber_card_penetration_usage
+CSV:  上記ページの *_penetration_usage_table.csv（縦持ち: 年月・指標名・値）。
+      2026年にファイル名（penetration-rate→penetration_usage）と形式（横持ち→縦持ち）が変更。
+      2026-10 にページURL（mynumber_penetration_rate→mynumber_card_penetration_usage）、
+      ファイル名末尾（table_01→table）、年月の書式（YYYY/M/D→YYYY年M月）が再度変更された。
 """
 
 import sys
@@ -36,11 +38,12 @@ FRESHNESS_SECS  = 3600
 CONNECT_TIMEOUT = 10
 READ_TIMEOUT    = 30
 
-DASHBOARD_PAGE  = "https://www.digital.go.jp/resources/govdashboard/mynumber_penetration_rate"
+DASHBOARD_PAGE  = "https://www.digital.go.jp/resources/govdashboard/mynumber_card_penetration_usage"
 # CSVリンクの正規表現（日付部分はページ更新ごとに変わる）
+#   ファイル名: 旧 penetration-rate / 新 penetration_usage、末尾 table_01.csv / table.csv の両方に対応
 CSV_LINK_PAT    = re.compile(
     r'(/assets/contents/node/basic_page/field_ref_resources/'
-    r'[^"\']+penetration[^"\']*table_01\.csv)',   # 旧 penetration-rate / 新 penetration_usage 両対応
+    r'[^"\']+penetration[^"\']*table(?:_\d+)?\.csv)',
     re.IGNORECASE,
 )
 DIGITAL_GO_BASE = "https://www.digital.go.jp"
@@ -110,8 +113,8 @@ def resolve_csv_url() -> str | None:
     fallback = (
         DIGITAL_GO_BASE
         + "/assets/contents/node/basic_page/field_ref_resources/"
-        "65ee2cb2-0b1f-46fa-9a40-7eefea58a06b/5e08d4d2/"
-        "20260731_mynumber_card_penetration_usage_table_01.csv"
+        "65ee2cb2-0b1f-46fa-9a40-7eefea58a06b/21d5a3d6/"
+        "20261002_mynumber_card_penetration_usage_table.csv"
     )
     print(f"  [CSV URL] フォールバック: {fallback}")
     # 黙って古いCSVに固定され続けるのを防ぐため、フォールバック使用を警告として可視化する
