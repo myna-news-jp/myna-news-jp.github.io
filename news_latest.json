@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T10:03:20+09:00",
+  "updated": "2026-10-27T10:27:09+09:00",
   "articles": [
     {
       "title": "「マイナポータル自治体手続申請サービス」の本格運用開始について掲載しました",
@@ -65,6 +65,17 @@
       "_resolved_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uQ0lyWWliNHpxTkdfdnVfS0pMaGxjb2lUQkE2SVlEdTJJeW96X0FPRHV4aXUwNmZEaHc5ZHlkdERKbDJUdm02cUd4UzdWWDBFNFE?oc=5",
       "category": "一般",
       "topic": "mynumber"
+    },
+    {
+      "title": "令和8年分の確定申告はどう変わる？ 令和9年1月から給与情報の自動入力が拡大、スマホ申告の新ルール - ゴールドオンライン",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3R1JsVG1EblJ3Z1FxLS1Na3JiRkNYQXRRT0hhT2Q1cEMwYkh4TUdpeDN0dFNSc3FWS3NpblRYYjJkQ3p5OG1KOV9neUZuZ2NicUsxSHhuTkNCWEE?oc=5",
+      "pub_date": "2026-10-26T05:00:00+09:00",
+      "source": "ゴールドオンライン",
+      "description": "令和8年分の確定申告では、令和9年1月から、給与情報をマイナポータル連携で申告書に自動入力できる人が大幅に増える。医療費やふるさと納税の情報もデータで取得でき、転記や集計の手間を減らせる。ただし、勤務先のオンライン提出や事前登録、マイナアプリへの更新 ...",
+      "_glink": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3R1JsVG1EblJ3Z1FxLS1Na3JiRkNYQXRRT0hhT2Q1cEMwYkh4TUdpeDN0dFNSc3FWS3NpblRYYjJkQ3p5OG1KOV9neUZuZ2NicUsxSHhuTkNCWEE?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3R1JsVG1EblJ3Z1FxLS1Na3JiRkNYQXRRT0hhT2Q1cEMwYkh4TUdpeDN0dFNSc3FWS3NpblRYYjJkQ3p5OG1KOV9neUZuZ2NicUsxSHhuTkNCWEE?oc=5",
+      "category": "一般",
+      "topic": "insurance"
     },
     {
       "title": "【ドローン免許・操縦者教育のDX】AI搭載『ONLINE FACE®』（オンラインフェイス）で安心・安全・法令遵守のオンライン教育を強化 - PR TIMES",
@@ -184,6 +195,17 @@
       "thumbnail": "https://www.mhlw.go.jp/common/img/img_ogp.jpg",
       "category": "制度変更",
       "topic": "insurance"
+    },
+    {
+      "title": "国保基本健診・国保保健指導・計画等 - www.city.shinagawa.tokyo.jp",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UT1owU0dOb2NCbGxCRDFGdjZDcFU5ZjlRQ1dtRWl6WXpqZTVDbU1SeWRZakxGWU9VZlBWVy1aakVkaFZya2M2alI3TC1WcVlIb0wxQm1ZZzNuV0szemRBT2lDRzk4WUZEdmVJcTMwQ1Z0Y1ZWTjB2ZFBxNlB3SUU?oc=5",
+      "pub_date": "2026-10-20T11:19:04+09:00",
+      "source": "www.city.shinagawa.tokyo.jp",
+      "description": "2008年に導入された特定健康診査・特定保健指導(いわゆるメタボ健診制度)により、保健事業に投じる費用が拡大した自治体 ...",
+      "_glink": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UT1owU0dOb2NCbGxCRDFGdjZDcFU5ZjlRQ1dtRWl6WXpqZTVDbU1SeWRZakxGWU9VZlBWVy1aakVkaFZya2M2alI3TC1WcVlIb0wxQm1ZZzNuV0szemRBT2lDRzk4WUZEdmVJcTMwQ1Z0Y1ZWTjB2ZFBxNlB3SUU?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UT1owU0dOb2NCbGxCRDFGdjZDcFU5ZjlRQ1dtRWl6WXpqZTVDbU1SeWRZakxGWU9VZlBWVy1aakVkaFZya2M2alI3TC1WcVlIb0wxQm1ZZzNuV0szemRBT2lDRzk4WUZEdmVJcTMwQ1Z0Y1ZWTjB2ZFBxNlB3SUU?oc=5",
+      "category": "一般",
+      "topic": "mynumber"
     },
     {
       "title": "10月20日開始「Androidのマイナンバーカード」利用前に知りたい対応機種の条件とiPhoneとの違い - Yahoo!ニュース",
@@ -520,28 +542,6 @@
       "_glink": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaDE3d1VMdVktblRTRlVCMUhSZWRnVlNVbW8zbDUyZFhsU0hkcUROOS1lYm5DMldzX3ZLRGNUcUpjYjYwT2xBZEw1OXpDb0dvWG9sQ09CT1lmLUUxSmxiZnFYaTJ0bFZEZG5IMG12LWRNdFkxN2Z5Y3p0ZlJFYkZncHo1allONWV1?oc=5",
       "_resolved_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaDE3d1VMdVktblRTRlVCMUhSZWRnVlNVbW8zbDUyZFhsU0hkcUROOS1lYm5DMldzX3ZLRGNUcUpjYjYwT2xBZEw1OXpDb0dvWG9sQ09CT1lmLUUxSmxiZnFYaTJ0bFZEZG5IMG12LWRNdFkxN2Z5Y3p0ZlJFYkZncHo1allONWV1?oc=5",
       "category": "制度変更",
-      "topic": "insurance"
-    },
-    {
-      "title": "健康保険組合向けの電子申請がマイナポータル経由からe-Govに変更 - sogyotecho.jp",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BalRBMkVaZzVQZU13SjItZ1l2NXlWZVoydWItVWFHdFh1UnZkQnliX2p1SkhzVHRadWFDZmRLMUY0WVppYV9sUVBQZV92ZUV4ak1Nb0E1RkZ5QW8?oc=5",
-      "pub_date": "2026-10-06T14:10:39+09:00",
-      "source": "sogyotecho.jp",
-      "description": "フラクタルワークアウト株式会社（本社：東京都渋谷区、代表取締役：高瀬雅弘）は、健康保険組合、企業人事、健康経営担当者、コラボヘルス担当者向けに、保健事業と健康経営を連携させたコラボヘルス施策の設計・実行支援を提供開始しました。",
-      "_glink": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BalRBMkVaZzVQZU13SjItZ1l2NXlWZVoydWItVWFHdFh1UnZkQnliX2p1SkhzVHRadWFDZmRLMUY0WVppYV9sUVBQZV92ZUV4ak1Nb0E1RkZ5QW8?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BalRBMkVaZzVQZU13SjItZ1l2NXlWZVoydWItVWFHdFh1UnZkQnliX2p1SkhzVHRadWFDZmRLMUY0WVppYV9sUVBQZV92ZUV4ak1Nb0E1RkZ5QW8?oc=5",
-      "category": "一般",
-      "topic": "insurance"
-    },
-    {
-      "title": "リコーPFU、小型筐体を採用した医療機関／薬局向けオンライン資格確認端末「RICOH EZX2100」 (ITmedia PC USER) - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNek9XZDFwRXgwLXlic1VqUklDeEtnd2RKSWFZRUtpU1VncUVZZHJzZFBWc3p0YVZQVmdadWdrTWVjVllCMVRLc0FFUnM5U3RjQjBBUWlsaGhLbVk4TTFxTU01QWNTUjhEbkxDRzJKVEdMazJWdVhIeDkwVGhidHhQRjlEbXlEQVZ1N1JmaXNB?oc=5",
-      "pub_date": "2026-10-05T16:33:48+09:00",
-      "source": "Yahoo!ニュース",
-      "description": "リコーPFUコンピューティングはこのほど、医療機関／薬局向けとなるオンライン資格確認端末「RICOH EZX2100」を発表、今冬に販売を開始する。",
-      "_glink": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNek9XZDFwRXgwLXlic1VqUklDeEtnd2RKSWFZRUtpU1VncUVZZHJzZFBWc3p0YVZQVmdadWdrTWVjVllCMVRLc0FFUnM5U3RjQjBBUWlsaGhLbVk4TTFxTU01QWNTUjhEbkxDRzJKVEdMazJWdVhIeDkwVGhidHhQRjlEbXlEQVZ1N1JmaXNB?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNek9XZDFwRXgwLXlic1VqUklDeEtnd2RKSWFZRUtpU1VncUVZZHJzZFBWc3p0YVZQVmdadWdrTWVjVllCMVRLc0FFUnM5U3RjQjBBUWlsaGhLbVk4TTFxTU01QWNTUjhEbkxDRzJKVEdMazJWdVhIeDkwVGhidHhQRjlEbXlEQVZ1N1JmaXNB?oc=5",
-      "category": "一般",
       "topic": "insurance"
     }
   ],
