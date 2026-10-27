@@ -210,13 +210,22 @@ def decode_gnews_url(url: str) -> str:
 
 
 # ── URL解決（Google News リダイレクト → 実記事URL） ──────────────────────────
+def _is_gnews(url: str) -> bool:
+    """Google News の記事URLか。部分文字列ではなくホスト名で判定する
+    （"news.google.com" を含むだけの他サイトURLを誤判定しない）。"""
+    try:
+        return (urllib.parse.urlparse(url or "").hostname or "").lower() == "news.google.com"
+    except ValueError:
+        return False
+
+
 def _resolve_one(url: str, session: "requests.Session") -> str:
     """
     記事 URL を実際の記事 URL に解決する。
     - Google News URL: Base64 デコードを試みる（高速・失敗しても即返却）
     - Bing redirect URL: HTTP リダイレクトを追跡（確実に解決できる）
     """
-    if "news.google.com" in url:
+    if _is_gnews(url):
         # Base64 デコードのみ試みる（HTTPフォールバックはしない：遅すぎるため）
         return decode_gnews_url(url)
 
@@ -249,7 +258,7 @@ def resolve_urls(articles: list[dict], session: "requests.Session", label: str =
     """
     targets = [
         (i, a) for i, a in enumerate(articles)
-        if "news.google.com" in a.get("link", "")
+        if _is_gnews(a.get("link", ""))
     ]
     if not targets:
         return articles
@@ -400,7 +409,7 @@ def _fetch_one_snippet(args):
 def _fetch_og_image_one(args) -> tuple:
     """1記事の og:image / twitter:image URL を取得する（並列実行用）"""
     url, session = args
-    if not url or "news.google.com" in url or not url.startswith("http"):
+    if not url or _is_gnews(url) or not url.startswith("http"):
         return url, ""
     try:
         resp = session.get(
@@ -502,7 +511,7 @@ def _ai_summarize_one(args) -> tuple:
     url = article.get("link", "")
 
     # Google News URL はスキップ（リダイレクト不可）
-    if "news.google.com" in url or not url.startswith("http"):
+    if _is_gnews(url) or not url.startswith("http"):
         return idx, ""
 
     # 記事HTML取得
@@ -957,7 +966,7 @@ def save_news(new_articles: list[dict], json_path: str,
 def resolve_existing(json_path: str, session: "requests.Session") -> None:
     """保存済み記事の Google News URL を実記事 URL に解決して上書き保存する。"""
     existing = load_existing(json_path)
-    need = [a for a in existing if "news.google.com" in a.get("link", "")]
+    need = [a for a in existing if _is_gnews(a.get("link", ""))]
     if not need:
         print("  [既存URL解決] 解決が必要な URL はありません")
         return
