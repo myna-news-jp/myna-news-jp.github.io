@@ -32,6 +32,8 @@ import random
 import datetime
 import argparse
 
+import data_guard
+
 try:
     import pandas as pd
     from pytrends.request import TrendReq
@@ -590,6 +592,12 @@ def main():
         print(f"  [本日速報] 付与: {got} 件")
     except Exception as e:
         print(f"  [本日速報] スキップ（{e}）")
+
+    # 健全性チェック: キーワード件数が0件/急減した場合は前回データを保持
+    prev = data_guard.load_json(json_path) or {}
+    if not data_guard.count_ok("Googleトレンド", len(results), len(prev.get("keywords") or [])):
+        print("=" * 52)
+        return
 
     output = {
         "updated":     _iso_jst(),

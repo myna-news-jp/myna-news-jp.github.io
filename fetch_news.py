@@ -16,6 +16,8 @@ import html as html_module
 import xml.etree.ElementTree as ET
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
+import data_guard
+
 try:
     import requests
     _USE_REQUESTS = True
@@ -888,6 +890,14 @@ def save_news(new_articles: list[dict], json_path: str,
     t0 = time.perf_counter()
     existing = load_existing(json_path)
 
+    # 健全性チェック: 既存ファイルがあるのに読めない場合は上書きしない（蓄積済み履歴の消失防止）
+    if os.path.exists(json_path) and data_guard.load_json(json_path) is None:
+        data_guard.warn("ニュース: 既存の news_data.json を読み込めないため更新を見送ります（履歴の消失防止）")
+        return
+    # 健全性チェック: http(s) 以外のリンク・未来日付の記事は公開しない
+    new_articles = data_guard.drop_non_http_links(new_articles, "link", "ニュース")
+    new_articles = data_guard.drop_future_dated(new_articles, "pub_date", "ニュース")
+
     # 既存記事の Google URL セットで重複排除
     existing_keys = {_gkey(a) for a in existing}
     fresh = [a for a in new_articles if _gkey(a) not in existing_keys]
@@ -918,6 +928,9 @@ def save_news(new_articles: list[dict], json_path: str,
     except Exception:
         pass
     all_articles = all_articles[:MAX_ARTICLES]
+
+    if not data_guard.count_ok("ニュース", len(all_articles), len(existing)):
+        return
 
     data = {"updated": _iso_jst(), "articles": all_articles}
     with open(json_path, "w", encoding="utf-8") as f:

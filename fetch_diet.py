@@ -21,6 +21,8 @@ import urllib.parse
 from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
+import data_guard
+
 try:
     import requests
     _USE_REQUESTS = True
@@ -284,6 +286,11 @@ def generate_titles_with_ai(exchanges: list[dict]) -> list[dict]:
 
 # ─── 保存 ─────────────────────────────────────────────────────────────────────
 def save_diet(exchanges: list[dict], json_path: str) -> None:
+    # 健全性チェック: 国会API の障害・レート制限で件数が0件/急減した場合は前回データを保持
+    prev = data_guard.load_json(json_path) or {}
+    if not data_guard.count_ok("国会会議録", len(exchanges), prev.get("total_exchanges")):
+        return
+
     total_q   = sum(1 for e in exchanges if e["question"])
     total_ans = sum(len(e["answers"]) for e in exchanges)
 

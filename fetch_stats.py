@@ -23,6 +23,8 @@ import urllib.request
 import urllib.parse
 import urllib.error
 
+import data_guard
+
 try:
     import requests as _requests
     _USE_REQUESTS = True
@@ -112,6 +114,9 @@ def resolve_csv_url() -> str | None:
         "20260731_mynumber_card_penetration_usage_table_01.csv"
     )
     print(f"  [CSV URL] フォールバック: {fallback}")
+    # 黙って古いCSVに固定され続けるのを防ぐため、フォールバック使用を警告として可視化する
+    data_guard.warn("統計: ダッシュボードのページからCSVリンクを検出できず、既知の固定URLを使用しました。"
+                    "デジタル庁側のページ構成・ファイル名変更の可能性があり、データが更新されない恐れがあります")
     return fallback
 
 
@@ -259,6 +264,30 @@ def main():
     parsed = parse_csv(raw)
     myna  = parsed["myna"]
     kenpo = parsed["kenpo"]
+
+    # 健全性チェック①: 未来の月・0〜100%の範囲外の値は除外
+    this_month = _now_jst().strftime("%Y-%m")
+    def _valid(rows: list[dict], label: str) -> list[dict]:
+        ok = [r for r in rows
+              if r.get("month", "9999-99") <= this_month
+              and isinstance(r.get("rate"), (int, float)) and 0 <= r["rate"] <= 100]
+        if len(ok) != len(rows):
+            data_guard.warn(f"統計({label}): 未来の月または範囲外の値 {len(rows) - len(ok)} 件を除外しました")
+        return ok
+    myna  = _valid(myna, "マイナカード")
+    kenpo = _valid(kenpo, "健保利用登録")
+
+    # 健全性チェック②: 件数の急減や「公開中より古いデータ」への巻き戻りは保存しない
+    # （データ源の形式・URL変更で古いCSVに固定される事象を、黙って公開せず警告で検知する）
+    prev = data_guard.load_json(json_path) or {}
+    for label, new_rows, prev_rows in (("マイナカード", myna,  prev.get("myna_card") or []),
+                                       ("健保利用登録", kenpo, prev.get("kenpo_reg") or [])):
+        if not data_guard.count_ok(f"統計({label})", len(new_rows), len(prev_rows)):
+            return
+        if prev_rows and new_rows[-1]["month"] < prev_rows[-1]["month"]:
+            data_guard.warn(f"統計({label}): 取得データの最新月 {new_rows[-1]['month']} が公開中の "
+                            f"{prev_rows[-1]['month']} より古いため更新を見送ります（データ源の形式・URL変更の可能性）")
+            return
 
     print(f"  [マイナカード] {len(myna)} ヶ月分 "
           + (f"（最新: {myna[-1]['month']} / {myna[-1]['rate']}%）" if myna else ""))
