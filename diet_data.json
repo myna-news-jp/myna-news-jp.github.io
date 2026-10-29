@@ -1,9 +1,40 @@
 {
-  "updated": "2026-10-29T13:40:44+09:00",
+  "updated": "2026-10-30T00:54:25+09:00",
   "total_exchanges": 256,
-  "total_questions": 225,
-  "total_answers": 114,
+  "total_questions": 224,
+  "total_answers": 115,
   "exchanges": [
+    {
+      "issueID": "122204260X00120261021",
+      "session": 222,
+      "nameOfHouse": "衆議院",
+      "nameOfMeeting": "厚生労働委員会",
+      "issue": "第1号",
+      "imageKind": "会議録",
+      "date": "2026-10-21",
+      "question": null,
+      "answers": [
+        {
+          "speechID": "122204260X00120261021_008",
+          "issueID": "122204260X00120261021",
+          "session": 222,
+          "nameOfHouse": "衆議院",
+          "nameOfMeeting": "厚生労働委員会",
+          "issue": "第1号",
+          "imageKind": "会議録",
+          "date": "2026-10-21",
+          "speaker": "上野賢一郎",
+          "speakerGroup": "自由民主党・無所属の会",
+          "speakerPosition": "厚生労働大臣",
+          "speakerRole": "",
+          "is_minister": true,
+          "excerpt": "○上野国務大臣 厚生労働委員会の開催に当たり、御挨拶申し上げます。 第二次高市改造内閣で厚生労働大臣を再び拝命いたしました。 厚生労働行政は、国民の生活を生涯にわたって支える使命を担っており、改めて責任の重大さに身の引き締まる思いです。国民の安全、安心の確保に万全を期すことにより、社会経済活動の安定に資するよう、職務に邁進してまいります。",
+          "speechURL": "https://kokkai.ndl.go.jp/txt/122204260X00120261021/8",
+          "speechOrder": 8
+        }
+      ],
+      "ai_title": ""
+    },
     {
       "issueID": "122104260X02020260724",
       "session": 221,
@@ -4028,35 +4059,6 @@
         "excerpt": "○橘委員 ありがとうございます。 連携それからお互いの協力が大事でありますし、また、総務省としてもお取り組みいただきたいと思いますが、今、局長さんの答弁にもデジタル技術のお話がございました。 その点でいいますと、マイナンバーカードの活用が保険証、免許証など広がりを見せておりまして、自治体においても住民サービスの向上や業務の効率化に役立てていける、",
         "speechURL": "https://kokkai.ndl.go.jp/txt/121904601X00220251120/6",
         "speechOrder": 6
-      },
-      "answers": [],
-      "ai_title": ""
-    },
-    {
-      "issueID": "121904260X00220251119",
-      "session": 219,
-      "nameOfHouse": "衆議院",
-      "nameOfMeeting": "厚生労働委員会",
-      "issue": "第2号",
-      "imageKind": "会議録",
-      "date": "2025-11-19",
-      "question": {
-        "speechID": "121904260X00220251119_146",
-        "issueID": "121904260X00220251119",
-        "session": 219,
-        "nameOfHouse": "衆議院",
-        "nameOfMeeting": "厚生労働委員会",
-        "issue": "第2号",
-        "imageKind": "会議録",
-        "date": "2025-11-19",
-        "speaker": "宮川伸",
-        "speakerGroup": "立憲民主党・無所属",
-        "speakerPosition": "",
-        "speakerRole": "",
-        "is_minister": false,
-        "excerpt": "○宮川委員 今の問題ですけれども、医療情報というのは極めて貴重な個人情報だと思っています。今、学校等でも、連絡網に関しても、電話番号、住所、これがお友達に知れるのも個人情報というふうに言われるような状況の中で、医療情報というのは更に貴重な個人情報だということであります。 これから医療法の改正に伴って、三文書六情報、さらに、",
-        "speechURL": "https://kokkai.ndl.go.jp/txt/121904260X00220251119/146",
-        "speechOrder": 146
       },
       "answers": [],
       "ai_title": ""
