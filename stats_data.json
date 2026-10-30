@@ -1,14 +1,9 @@
 {
-  "updated": "2026-10-30T13:40:12+09:00",
-  "csv_url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/65ee2cb2-0b1f-46fa-9a40-7eefea58a06b/21d5a3d6/20261002_mynumber_card_penetration_usage_table.csv",
+  "updated": "2026-10-31T00:36:46+09:00",
+  "csv_url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/65ee2cb2-0b1f-46fa-9a40-7eefea58a06b/aa4aa675/20261030_mynumber_card_penetration_usage_table.csv",
   "source": "デジタル庁「マイナンバーカード普及状況ダッシュボード」",
   "source_page": "https://www.digital.go.jp/resources/govdashboard/mynumber_card_penetration_usage",
   "myna_card": [
-    {
-      "month": "2024-09",
-      "rate": 75.6,
-      "cumul": 93880977
-    },
     {
       "month": "2024-10",
       "rate": 76.0,
@@ -123,6 +118,11 @@
       "month": "2026-08",
       "rate": 84.1,
       "cumul": 104525120
+    },
+    {
+      "month": "2026-09",
+      "rate": 84.3,
+      "cumul": 104729857
     }
   ],
   "kenpo_reg": [

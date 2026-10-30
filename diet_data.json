@@ -1,9 +1,40 @@
 {
-  "updated": "2026-10-30T13:40:10+09:00",
+  "updated": "2026-10-31T00:36:46+09:00",
   "total_exchanges": 256,
-  "total_questions": 224,
-  "total_answers": 115,
+  "total_questions": 223,
+  "total_answers": 116,
   "exchanges": [
+    {
+      "issueID": "122215385X00220261023",
+      "session": 222,
+      "nameOfHouse": "参議院",
+      "nameOfMeeting": "デジタル社会の形成及び人工知能の活用等に関する特別委員会",
+      "issue": "第2号",
+      "imageKind": "会議録",
+      "date": "2026-10-23",
+      "question": null,
+      "answers": [
+        {
+          "speechID": "122215385X00220261023_002",
+          "issueID": "122215385X00220261023",
+          "session": 222,
+          "nameOfHouse": "参議院",
+          "nameOfMeeting": "デジタル社会の形成及び人工知能の活用等に関する特別委員会",
+          "issue": "第2号",
+          "imageKind": "会議録",
+          "date": "2026-10-23",
+          "speaker": "古川俊治",
+          "speakerGroup": "自由民主党・無所属の会",
+          "speakerPosition": "デジタル大臣・内閣府特命担当大臣（知的財産戦略・科学技術政策・宇宙政策・人工知能戦略・海洋政策・サイバー安全保障）",
+          "speakerRole": "",
+          "is_minister": true,
+          "excerpt": "○国務大臣（古川俊治君） ありがとうございます。 デジタル大臣、ＡＩ・デジタル改革推進担当大臣、コンテンツ戦略担当大臣並びに知的財産戦略、科学技術政策、宇宙政策、人工知能戦略を担当する内閣府特命担当大臣として、所信の一端を申し述べます。 人口減少、人手不足に直面する中で、経済成長の実現や公共サービスの維持強化を図るためには、",
+          "speechURL": "https://kokkai.ndl.go.jp/txt/122215385X00220261023/2",
+          "speechOrder": 2
+        }
+      ],
+      "ai_title": ""
+    },
     {
       "issueID": "122204260X00120261021",
       "session": 222,
@@ -7244,35 +7275,6 @@
           "speechOrder": 23
         }
       ],
-      "ai_title": ""
-    },
-    {
-      "issueID": "121715360X00420250409",
-      "session": 217,
-      "nameOfHouse": "参議院",
-      "nameOfMeeting": "地方創生及びデジタル社会の形成等に関する特別委員会",
-      "issue": "第4号",
-      "imageKind": "会議録",
-      "date": "2025-04-09",
-      "question": {
-        "speechID": "121715360X00420250409_007",
-        "issueID": "121715360X00420250409",
-        "session": 217,
-        "nameOfHouse": "参議院",
-        "nameOfMeeting": "地方創生及びデジタル社会の形成等に関する特別委員会",
-        "issue": "第4号",
-        "imageKind": "会議録",
-        "date": "2025-04-09",
-        "speaker": "小野田紀美",
-        "speakerGroup": "自由民主党",
-        "speakerPosition": "",
-        "speakerRole": "",
-        "is_minister": false,
-        "excerpt": "○小野田紀美君 確かに、今、カード差し込みって、私、台湾の例で言いましたけれども、スマホにマイナカードも取り込めるようになって、これからｉＰｈｏｎｅも多分近いうちにできると思うので、そうすれば確かに、カードを差し込むというアナログな仕組みで、果たしてそれでつくっていいのか、システムを、というところは確かに検討をしなくてはいけないなというふうに思いました。",
-        "speechURL": "https://kokkai.ndl.go.jp/txt/121715360X00420250409/7",
-        "speechOrder": 7
-      },
-      "answers": [],
       "ai_title": ""
     },
     {
