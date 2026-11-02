@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-02T13:44:36+09:00",
+  "updated": "2026-11-03T04:14:40+09:00",
   "articles": [
+    {
+      "title": "第219回社会保障審議会医療保険部会（ペーパーレス）の開催について",
+      "link": "https://www.mhlw.go.jp/stf/newpage_77043.html",
+      "pub_date": "2026-11-02T14:00:00+09:00",
+      "source": "厚生労働省",
+      "description": "社会保障審議会の医療保険部会が令和8年10月16日に開催され、持続可能な医療保険制度の構築に向けた改革案が議論されました。今回の部会では、高齢者の窓口負担見直しや金融所得の反映方針とともに、薬局や薬剤師の実務に直結するOTC医薬品との代替性が高い薬剤を保険給付から除外する「一部保険外療養」の具体策が…",
+      "thumbnail": "https://www.mhlw.go.jp/common/img/img_ogp.jpg",
+      "category": "制度変更",
+      "topic": "insurance"
+    },
     {
       "title": "病院の領収書に「見慣れない加算」が？令和8年6月から変わったマイナ関連の新ルールと窓口負担（LIMO） - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UeXYxTTFHT3BvcXVDTC12aDJkNlYxdC1fQkFJeDU0d0JZcUtkZzhFLTlBSXNWNElROWloNElady1CSWJLd0JTUWNFR3FfLVB5Yk84bDl3WGY1NnZ2NTNJdTVNQng2RzBWa2ppenU3aGQwNGhJYUxlbi1CRVA0eTQ?oc=5",
@@ -533,17 +543,6 @@
       "description": "インターネットは長く、「画面の向こうには人間がいる」という前提の上に成り立ってきたが、生成AIの台頭によりオンラインサービス側から見ると、相手が実在する人間なのか、自動化されたプログラムなのか、あるいは人間から権限を与えられたAIエージェントなのかを ...",
       "_glink": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80T0Myb2VORHlITWZGeGU3LThscUpUclk0VkxCUnUtRGx6REVyb0dTeEdJLVNsaUo4ODhzOUR3U1lVemlITzVMWjJzZTdyMWlES2lV?oc=5",
       "_resolved_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80T0Myb2VORHlITWZGeGU3LThscUpUclk0VkxCUnUtRGx6REVyb0dTeEdJLVNsaUo4ODhzOUR3U1lVemlITzVMWjJzZTdyMWlES2lV?oc=5",
-      "category": "一般",
-      "topic": "mynumber"
-    },
-    {
-      "title": "Androidのマイナンバーカードが10月20日から本人確認に対応。使えるのはPixel 6以降など一部機種 - GAZLOG",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDZ1QyZy1MYUE4ZTBWeWNUd1dudGl6T0FrTnh0aGZPaGdNQTJoekFHZ2RRcC1tZFgtYjV3cHYwZERHMDVtYmw0cmRkTmZ4c1VQZlhKeG1vdEg0T0c3V1E?oc=5",
-      "pub_date": "2026-10-20T07:40:00+09:00",
-      "source": "GAZLOG",
-      "description": "",
-      "_glink": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDZ1QyZy1MYUE4ZTBWeWNUd1dudGl6T0FrTnh0aGZPaGdNQTJoekFHZ2RRcC1tZFgtYjV3cHYwZERHMDVtYmw0cmRkTmZ4c1VQZlhKeG1vdEg0T0c3V1E?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDZ1QyZy1MYUE4ZTBWeWNUd1dudGl6T0FrTnh0aGZPaGdNQTJoekFHZ2RRcC1tZFgtYjV3cHYwZERHMDVtYmw0cmRkTmZ4c1VQZlhKeG1vdEg0T0c3V1E?oc=5",
       "category": "一般",
       "topic": "mynumber"
     }
