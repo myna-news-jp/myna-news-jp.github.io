@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-04T14:04:48+09:00",
-  "total_exchanges": 256,
+  "updated": "2026-11-05T01:53:41+09:00",
+  "total_exchanges": 257,
   "total_questions": 223,
-  "total_answers": 116,
+  "total_answers": 117,
   "exchanges": [
     {
       "issueID": "122215385X00220261023",
@@ -31,6 +31,37 @@
           "excerpt": "○国務大臣（古川俊治君） ありがとうございます。 デジタル大臣、ＡＩ・デジタル改革推進担当大臣、コンテンツ戦略担当大臣並びに知的財産戦略、科学技術政策、宇宙政策、人工知能戦略を担当する内閣府特命担当大臣として、所信の一端を申し述べます。 人口減少、人手不足に直面する中で、経済成長の実現や公共サービスの維持強化を図るためには、",
           "speechURL": "https://kokkai.ndl.go.jp/txt/122215385X00220261023/2",
           "speechOrder": 2
+        }
+      ],
+      "ai_title": ""
+    },
+    {
+      "issueID": "122214260X00120261022",
+      "session": 222,
+      "nameOfHouse": "参議院",
+      "nameOfMeeting": "厚生労働委員会",
+      "issue": "第1号",
+      "imageKind": "会議録",
+      "date": "2026-10-22",
+      "question": null,
+      "answers": [
+        {
+          "speechID": "122214260X00120261022_009",
+          "issueID": "122214260X00120261022",
+          "session": 222,
+          "nameOfHouse": "参議院",
+          "nameOfMeeting": "厚生労働委員会",
+          "issue": "第1号",
+          "imageKind": "会議録",
+          "date": "2026-10-22",
+          "speaker": "上野賢一郎",
+          "speakerGroup": "自由民主党・無所属の会",
+          "speakerPosition": "厚生労働大臣",
+          "speakerRole": "",
+          "is_minister": true,
+          "excerpt": "○国務大臣（上野賢一郎君） 厚生労働委員会の開催に当たり、御挨拶申し上げます。 第二次高市改造内閣で厚生労働大臣を再び拝命いたしました。厚生労働行政は、国民の生活を生涯にわたって支える使命を担っており、改めて責任の重大さに身の引き締まる思いです。国民の安全、安心の確保に万全を期すことにより、社会経済活動の安定に資するよう、職務に邁進してまいります。",
+          "speechURL": "https://kokkai.ndl.go.jp/txt/122214260X00120261022/9",
+          "speechOrder": 9
         }
       ],
       "ai_title": ""
