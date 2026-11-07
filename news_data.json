@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T01:37:11+09:00",
+  "updated": "2026-11-07T13:54:02+09:00",
   "articles": [
     {
       "title": "選挙でのマイナンバー提示について - 選挙ドットコム",
@@ -56,6 +56,17 @@
       "topic": "insurance"
     },
     {
+      "title": "《医療機関の倒産が過去最多》医師の高齢化と後継者不足に追い打ち…マイナ保険証が招く地域医療の危機《経済のプロ荻原博子が徹底解説》 - 女性自身",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zWVItX1hJWHJGaTZPZHJuUVpmWFEzZzFYbThTOUNsbENnY0RWYWpQNUkwMmVhZWlFdE41MlluV05Nd0tIeHpIOVkyRnRtUQ?oc=5",
+      "pub_date": "2026-11-06T11:00:00+09:00",
+      "source": "女性自身",
+      "description": "2026年上半期の医療機関の倒産は39件となり、過去最多のペースで推移した。物価高や人件費の高騰による収益力悪化や経営者の高齢化・後継者難を背景として、事業継続を断念する事業者が相次いだ。年間では初めて80件に達する可能性がある。 ・倒産件数 ...",
+      "_glink": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zWVItX1hJWHJGaTZPZHJuUVpmWFEzZzFYbThTOUNsbENnY0RWYWpQNUkwMmVhZWlFdE41MlluV05Nd0tIeHpIOVkyRnRtUQ?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zWVItX1hJWHJGaTZPZHJuUVpmWFEzZzFYbThTOUNsbENnY0RWYWpQNUkwMmVhZWlFdE41MlluV05Nd0tIeHpIOVkyRnRtUQ?oc=5",
+      "category": "一般",
+      "topic": "insurance"
+    },
+    {
       "title": "NTT西日本の電話加入権にオンライン本人確認サービス「LIQUID eKYC（リキッドイーケーワイシー）」を提供 - 株式会社Liquid",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKeDBtem1EOFUzX2dCRTlSV3hIeThjeG1GU1lSUHpqQ3JRR3ZoZGRneTdOcGRPcGxuNm4wcWZKWDdpM194XzZWZkl6S3dwemgzcmdqOUtGTXdRNUNw?oc=5",
       "pub_date": "2026-11-06T10:05:49+09:00",
@@ -63,6 +74,17 @@
       "description": "",
       "_glink": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKeDBtem1EOFUzX2dCRTlSV3hIeThjeG1GU1lSUHpqQ3JRR3ZoZGRneTdOcGRPcGxuNm4wcWZKWDdpM194XzZWZkl6S3dwemgzcmdqOUtGTXdRNUNw?oc=5",
       "_resolved_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKeDBtem1EOFUzX2dCRTlSV3hIeThjeG1GU1lSUHpqQ3JRR3ZoZGRneTdOcGRPcGxuNm4wcWZKWDdpM194XzZWZkl6S3dwemgzcmdqOUtGTXdRNUNw?oc=5",
+      "category": "一般",
+      "topic": "mynumber"
+    },
+    {
+      "title": "台湾のテックマンロボット製協働ロボット「TM AI Cobot S Series」が国際セキュリティ認証を取得 - ロボスタ",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ybWM1QmE5Z3ZrdElhLUpmZTRORHR4MURoczFiSlVDOTVtUm01MnV6dElBYUZiR1o1MlAwUWlRSFI4T25ibEJFTjROSXJmMHdWUkJWeUQ3ZnpiUE9WSWtfVmNBN3g?oc=5",
+      "pub_date": "2026-11-05T16:00:03+09:00",
+      "source": "ロボスタ",
+      "description": "台湾の協働ロボットメーカー、テックマンロボット（TECHMAN ROBOT INC.、台湾証券取引所上場：4585）は、同社の「TM AI Cobot S Series」が、産業用制御機器のセキュリティに関する国際規格「IEC 62443-4-2」で ...",
+      "_glink": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ybWM1QmE5Z3ZrdElhLUpmZTRORHR4MURoczFiSlVDOTVtUm01MnV6dElBYUZiR1o1MlAwUWlRSFI4T25ibEJFTjROSXJmMHdWUkJWeUQ3ZnpiUE9WSWtfVmNBN3g?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ybWM1QmE5Z3ZrdElhLUpmZTRORHR4MURoczFiSlVDOTVtUm01MnV6dElBYUZiR1o1MlAwUWlRSFI4T25ibEJFTjROSXJmMHdWUkJWeUQ3ZnpiUE9WSWtfVmNBN3g?oc=5",
       "category": "一般",
       "topic": "mynumber"
     },
@@ -5443,28 +5465,6 @@
       "description": "健康保険証が使えなくなる話を聞いたことはないだろうか。従来の健康保険証は2025年12月1日をもって有効期限が終了している。 ただし、有効期限切れの保険証をそのまま使える「暫定措置」が複数回にわたって延長されているため、現在の状況がわかり ...",
       "_glink": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMU2U0ZVZWdVRzYUhvcGpmRkVjdGIwS1hQMUF1NUQ5VzFyc2ZUVVFnQ3hNZUZjSXk4dEhEUGlsMUhZTE9GcmtjUS11TWdfaHhiZ2UteWd0REZuQ2NLZENsag?oc=5",
       "_resolved_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMU2U0ZVZWdVRzYUhvcGpmRkVjdGIwS1hQMUF1NUQ5VzFyc2ZUVVFnQ3hNZUZjSXk4dEhEUGlsMUhZTE9GcmtjUS11TWdfaHhiZ2UteWd0REZuQ2NLZENsag?oc=5",
-      "category": "制度変更",
-      "topic": "insurance"
-    },
-    {
-      "title": "熊本県内２１市町村 保険証なしでも医療など可能に 厚労省 - NHKニュース",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnR25LbjhwcTN4TEo0MlRnMEpuei01Rkh3bUhxWlA0aDhpS2JlMGhhdEpFNFlTdWRfSEZvTUpKeFdGc1haaGdvTVlXb3hmQ3dTR3J4UzhYSUE?oc=5",
-      "pub_date": "2026-07-29T02:15:00+09:00",
-      "source": "NHKニュース",
-      "description": "病院の玄関前で乗合タクシーから降りる女性＝22日、天草市 熊本県内の自治体で乗合タクシーの導入が広がっている。熊本県によると、2025年度は県全体の8割弱に当たる34市町村が実施しており、運行エリアは統計が残る8年前に比べ6割増の110カ所に達している ...",
-      "_glink": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnR25LbjhwcTN4TEo0MlRnMEpuei01Rkh3bUhxWlA0aDhpS2JlMGhhdEpFNFlTdWRfSEZvTUpKeFdGc1haaGdvTVlXb3hmQ3dTR3J4UzhYSUE?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnR25LbjhwcTN4TEo0MlRnMEpuei01Rkh3bUhxWlA0aDhpS2JlMGhhdEpFNFlTdWRfSEZvTUpKeFdGc1haaGdvTVlXb3hmQ3dTR3J4UzhYSUE?oc=5",
-      "category": "一般",
-      "topic": "insurance"
-    },
-    {
-      "title": "健康保険「資格確認書」が届かない？ Web交付という可能性も（画像）（1/2枚目） - ITmedia",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBUSE1QQWE1RHJjLTJqdGJpS1poWk5XQXdKUHNsVmVKOUowNFlGa19fNUdmal9tOWNxUkpPS1Z4YTFGMjJtSEliNnd3S1VyRE9NZXVpUl96cTFnTFlPajBsMUhxY2pEa2hrQmpQV2lSMTUyQ285TWU0djVETQ?oc=5",
-      "pub_date": "2026-07-28T22:07:23+09:00",
-      "source": "ITmedia",
-      "description": "従来の健康保険証が、12月1日で有効期限が切れた。2026年3月末まで使える暫定措置はあるものの、今後は原則として医療機関の窓口で「マイナ保険証」か「資格確認書」を提示する必要がある。資格確認書は申請なしで送付されるが、中には届かないケース ...",
-      "_glink": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBUSE1QQWE1RHJjLTJqdGJpS1poWk5XQXdKUHNsVmVKOUowNFlGa19fNUdmal9tOWNxUkpPS1Z4YTFGMjJtSEliNnd3S1VyRE9NZXVpUl96cTFnTFlPajBsMUhxY2pEa2hrQmpQV2lSMTUyQ285TWU0djVETQ?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBUSE1QQWE1RHJjLTJqdGJpS1poWk5XQXdKUHNsVmVKOUowNFlGa19fNUdmal9tOWNxUkpPS1Z4YTFGMjJtSEliNnd3S1VyRE9NZXVpUl96cTFnTFlPajBsMUhxY2pEa2hrQmpQV2lSMTUyQ285TWU0djVETQ?oc=5",
       "category": "制度変更",
       "topic": "insurance"
     }
