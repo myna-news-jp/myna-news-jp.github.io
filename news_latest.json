@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-09T13:55:31+09:00",
+  "updated": "2026-11-10T04:31:58+09:00",
   "articles": [
+    {
+      "title": "第220回社会保障審議会医療保険部会（ペーパーレス）の開催について",
+      "link": "https://www.mhlw.go.jp/stf/newpage_77211.html",
+      "pub_date": "2026-11-09T14:00:00+09:00",
+      "source": "厚生労働省",
+      "description": "厚生労働省の社会保障審議会医療保険部会（部会長：岩村正彦・東京大学名誉教授）は10月1日、高齢者の医療費窓口負担の見直しを巡る本格的な議論を開始した。参考人として招かれた日本退職者連合、日本退職公務員連盟、認知症の人と家族の会の3団体 ...",
+      "thumbnail": "https://www.mhlw.go.jp/common/img/img_ogp.jpg",
+      "category": "制度変更",
+      "topic": "insurance"
+    },
     {
       "title": "SBIレミットの国際送金サービスにオンライン本人確認サービス「LIQUID eKYC」を提供 - 株式会社Liquid",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TM3VkYWFiMnBSWkhEYnZvaklneEg2dUFTS1ViZEF6U1VXeHlJWG5xR1RRUFVOSGpjc2ZaVmtlVHJnQWoyNGxwSGtkS2RnR3AwTWIzUE5XRGZIV2Iz?oc=5",
@@ -28,7 +38,7 @@
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1sYzlURnUyQTh1ZHRiTWc1Skc4S3F2c2tZQ0lydm04YTdGcG5PTXVZSDU5OUNaU0prbUI2cl95YTY2TzlQbTJFcDVINXQ?oc=5",
       "pub_date": "2026-11-07T18:09:00+09:00",
       "source": "LIMO | くらしとお金の経済メディア",
-      "description": "病院の受付で、マイナ保険証を顔認証付きカードリーダーにかざしたのに、顔認証がうまくいかない。◆【保存版】マイナ保険証「顔認証エラー」で焦らないための4つの手順後ろに人が並んでいて焦る。そんな場面を想像したことはありませんか。",
+      "description": "マイナ保険証「顔認証」ができなくても焦る必要はありません。暗証番号ロックや通信エラーでも“今まで通り”受診できる 病院の受付で、マイナ保険証を顔認証付きカードリーダーにかざしたのに、顔認証がうまくいかない。 後ろに人が並んでいて焦る。そんな場面を想像したことはありませんか。",
       "_glink": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1sYzlURnUyQTh1ZHRiTWc1Skc4S3F2c2tZQ0lydm04YTdGcG5PTXVZSDU5OUNaU0prbUI2cl95YTY2TzlQbTJFcDVINXQ?oc=5",
       "_resolved_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1sYzlURnUyQTh1ZHRiTWc1Skc4S3F2c2tZQ0lydm04YTdGcG5PTXVZSDU5OUNaU0prbUI2cl95YTY2TzlQbTJFcDVINXQ?oc=5",
       "category": "トラブル",
@@ -533,17 +543,6 @@
       "description": "SNS上の農家・農園をかたる偽アカウント・筆者撮影・加工 実在する農家や農園をかたった偽アカウントが次々にSNS上に出てきています。果物や野菜を販売する生産者の顔が見えることから、安心して商品を購入しようとする人を狙った悪質な手口です。",
       "_glink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdzZGblpDVzFqOXNLUVBnM1Z1YzFCaWhJX2Z3Nm1ab2h0ZFV6d2VQRTBBWWdJX3QzWnNFSzk1aFNZRkJZaThDdWp4XzI4QTZRbFFzcE9QcS1NMTlPdHY3a1ZESGtNd0RfY3VtZGM0V29JN1gxNFU0cXZYd0tnck1FMWNLNGhRWGo1UXB2T3RKYTRhNEstM0dhenVRT19QNHRnSk5NemJseTFEWUpCRVJFbTZn?oc=5",
       "_resolved_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdzZGblpDVzFqOXNLUVBnM1Z1YzFCaWhJX2Z3Nm1ab2h0ZFV6d2VQRTBBWWdJX3QzWnNFSzk1aFNZRkJZaThDdWp4XzI4QTZRbFFzcE9QcS1NMTlPdHY3a1ZESGtNd0RfY3VtZGM0V29JN1gxNFU0cXZYd0tnck1FMWNLNGhRWGo1UXB2T3RKYTRhNEstM0dhenVRT19QNHRnSk5NemJseTFEWUpCRVJFbTZn?oc=5",
-      "category": "一般",
-      "topic": "mynumber"
-    },
-    {
-      "title": "スタッフ定着を考える院長へ：DXや最新設備だけでは足りない組織づくり（note） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LeGVUVl9YazU5NzkxdFVyZUxZSURwdXNHLTIxbVQ2S0EyajYzMXR0NV9fNThmVmQ5NDc2S1ZDN2FiTG5fd2F0ZTRHVnV4bGFtbWRNOHd6QWN4RkJWVXJ4WW5Oa19xaUFqcDJVcnc2S3VzaktTQXV3bXRUTncycEU?oc=5",
-      "pub_date": "2026-10-26T16:01:31+09:00",
-      "source": "Yahoo!ニュース",
-      "description": "「日本の福田康夫元首相が死去した」&#160;中国メディアも速報福田元総理は親子二代にわたって中国と関わり「戦略的互恵関係」の深化・民間交流の重要性を訴え 文春オンライン10/26(月)6:12 ...",
-      "_glink": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LeGVUVl9YazU5NzkxdFVyZUxZSURwdXNHLTIxbVQ2S0EyajYzMXR0NV9fNThmVmQ5NDc2S1ZDN2FiTG5fd2F0ZTRHVnV4bGFtbWRNOHd6QWN4RkJWVXJ4WW5Oa19xaUFqcDJVcnc2S3VzaktTQXV3bXRUTncycEU?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LeGVUVl9YazU5NzkxdFVyZUxZSURwdXNHLTIxbVQ2S0EyajYzMXR0NV9fNThmVmQ5NDc2S1ZDN2FiTG5fd2F0ZTRHVnV4bGFtbWRNOHd6QWN4RkJWVXJ4WW5Oa19xaUFqcDJVcnc2S3VzaktTQXV3bXRUTncycEU?oc=5",
       "category": "一般",
       "topic": "mynumber"
     }

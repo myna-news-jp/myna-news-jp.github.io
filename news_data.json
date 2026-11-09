@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-09T13:55:31+09:00",
+  "updated": "2026-11-10T04:31:58+09:00",
   "articles": [
+    {
+      "title": "第220回社会保障審議会医療保険部会（ペーパーレス）の開催について",
+      "link": "https://www.mhlw.go.jp/stf/newpage_77211.html",
+      "pub_date": "2026-11-09T14:00:00+09:00",
+      "source": "厚生労働省",
+      "description": "厚生労働省の社会保障審議会医療保険部会（部会長：岩村正彦・東京大学名誉教授）は10月1日、高齢者の医療費窓口負担の見直しを巡る本格的な議論を開始した。参考人として招かれた日本退職者連合、日本退職公務員連盟、認知症の人と家族の会の3団体 ...",
+      "thumbnail": "https://www.mhlw.go.jp/common/img/img_ogp.jpg",
+      "category": "制度変更",
+      "topic": "insurance"
+    },
     {
       "title": "SBIレミットの国際送金サービスにオンライン本人確認サービス「LIQUID eKYC」を提供 - 株式会社Liquid",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TM3VkYWFiMnBSWkhEYnZvaklneEg2dUFTS1ViZEF6U1VXeHlJWG5xR1RRUFVOSGpjc2ZaVmtlVHJnQWoyNGxwSGtkS2RnR3AwTWIzUE5XRGZIV2Iz?oc=5",
@@ -28,7 +38,7 @@
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1sYzlURnUyQTh1ZHRiTWc1Skc4S3F2c2tZQ0lydm04YTdGcG5PTXVZSDU5OUNaU0prbUI2cl95YTY2TzlQbTJFcDVINXQ?oc=5",
       "pub_date": "2026-11-07T18:09:00+09:00",
       "source": "LIMO | くらしとお金の経済メディア",
-      "description": "病院の受付で、マイナ保険証を顔認証付きカードリーダーにかざしたのに、顔認証がうまくいかない。◆【保存版】マイナ保険証「顔認証エラー」で焦らないための4つの手順後ろに人が並んでいて焦る。そんな場面を想像したことはありませんか。",
+      "description": "マイナ保険証「顔認証」ができなくても焦る必要はありません。暗証番号ロックや通信エラーでも“今まで通り”受診できる 病院の受付で、マイナ保険証を顔認証付きカードリーダーにかざしたのに、顔認証がうまくいかない。 後ろに人が並んでいて焦る。そんな場面を想像したことはありませんか。",
       "_glink": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1sYzlURnUyQTh1ZHRiTWc1Skc4S3F2c2tZQ0lydm04YTdGcG5PTXVZSDU5OUNaU0prbUI2cl95YTY2TzlQbTJFcDVINXQ?oc=5",
       "_resolved_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1sYzlURnUyQTh1ZHRiTWc1Skc4S3F2c2tZQ0lydm04YTdGcG5PTXVZSDU5OUNaU0prbUI2cl95YTY2TzlQbTJFcDVINXQ?oc=5",
       "category": "トラブル",
@@ -5454,17 +5464,6 @@
       "description": "日本は国民皆保険制度を採用しています。私たちは、公的医療保険（国民健康保険、協会けんぽ、健康保険組合、共済組合など）に加入し、保険料を支払う義務を負っています。これによって、医療機関などの窓口で利用者が支払う自己負担額は大幅に軽減 ...",
       "_glink": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1iTGxzd2t2UHY0eFRXSERaX2prYUFuR1pNUE5ndUxyQUU0ZTVSSTVBZGMxcHlMLUs3RzN4NlZ5eUN1MVA5Z2dtbtIBTkFVX3lxTE1TeEFIdFFJMHFvbm56a1U4MWdXY05RR3NvdG9WdUNvVnVXMWhmN0tLZFVDcGNzenBaR0paS2dhSGpxZVNEdVhVNS1jc0VZUQ?oc=5",
       "_resolved_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1iTGxzd2t2UHY0eFRXSERaX2prYUFuR1pNUE5ndUxyQUU0ZTVSSTVBZGMxcHlMLUs3RzN4NlZ5eUN1MVA5Z2dtbtIBTkFVX3lxTE1TeEFIdFFJMHFvbm56a1U4MWdXY05RR3NvdG9WdUNvVnVXMWhmN0tLZFVDcGNzenBaR0paS2dhSGpxZVNEdVhVNS1jc0VZUQ?oc=5",
-      "category": "一般",
-      "topic": "insurance"
-    },
-    {
-      "title": "熊本地震の被災者 マイナ保険証なしで受診可 - 厚労省（医療介護ＣＢニュース） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uSmlIQzg4OW40RmZlTEtJa2h6N3lUN1gzQ2E3b1I0ZmRjNS0zbEhxY0xuZTZJRzlyUmlNZ09oN2VGN3VqUHVwYzFtQVlLMEpuVGEwQzNOWkxzSUluRk5VM2hqRFZWLXg1QmVfQ09PN2Z5QkpEcHc3U2tkZ0NOVm8?oc=5",
-      "pub_date": "2026-07-29T13:00:00+09:00",
-      "source": "Yahoo!ニュース",
-      "description": "厚生労働省が5月29日に開いた健康・医療・介護情報利活用検討会医療等情報利活用ワーキンググループ（WG）で、患者の同意取得が困難な場合でもマイナ保険証による本人確認ができればレセプト情報などの医療情報を取得できる「救急時医療情報閲覧機能 ...",
-      "_glink": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uSmlIQzg4OW40RmZlTEtJa2h6N3lUN1gzQ2E3b1I0ZmRjNS0zbEhxY0xuZTZJRzlyUmlNZ09oN2VGN3VqUHVwYzFtQVlLMEpuVGEwQzNOWkxzSUluRk5VM2hqRFZWLXg1QmVfQ09PN2Z5QkpEcHc3U2tkZ0NOVm8?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uSmlIQzg4OW40RmZlTEtJa2h6N3lUN1gzQ2E3b1I0ZmRjNS0zbEhxY0xuZTZJRzlyUmlNZ09oN2VGN3VqUHVwYzFtQVlLMEpuVGEwQzNOWkxzSUluRk5VM2hqRFZWLXg1QmVfQ09PN2Z5QkpEcHc3U2tkZ0NOVm8?oc=5",
       "category": "一般",
       "topic": "insurance"
     }
