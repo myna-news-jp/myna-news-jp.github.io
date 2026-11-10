@@ -1,9 +1,38 @@
 {
-  "updated": "2026-11-10T15:11:04+09:00",
-  "total_exchanges": 257,
-  "total_questions": 223,
+  "updated": "2026-11-11T01:49:10+09:00",
+  "total_exchanges": 258,
+  "total_questions": 224,
   "total_answers": 117,
   "exchanges": [
+    {
+      "issueID": "122215385X00320261028",
+      "session": 222,
+      "nameOfHouse": "参議院",
+      "nameOfMeeting": "デジタル社会の形成及び人工知能の活用等に関する特別委員会",
+      "issue": "第3号",
+      "imageKind": "会議録",
+      "date": "2026-10-28",
+      "question": {
+        "speechID": "122215385X00320261028_061",
+        "issueID": "122215385X00320261028",
+        "session": 222,
+        "nameOfHouse": "参議院",
+        "nameOfMeeting": "デジタル社会の形成及び人工知能の活用等に関する特別委員会",
+        "issue": "第3号",
+        "imageKind": "会議録",
+        "date": "2026-10-28",
+        "speaker": "かごしま彰宏",
+        "speakerGroup": "国民民主党・新緑風会",
+        "speakerPosition": "",
+        "speakerRole": "",
+        "is_minister": false,
+        "excerpt": "○かごしま彰宏君 ありがとうございました。 御説明をいただいたとおり、様々な制度がひも付いていたりするんですね。それは、学生の特例であったりですとか、あるいは国保の方が会社に入って組合健保、協会けんぽになったり保険者が変わるような例もあったりして、なかなかこの転入届と国保の加入届というのを一緒にできないという事情はあるんだろうとは思いますけれども、",
+        "speechURL": "https://kokkai.ndl.go.jp/txt/122215385X00320261028/61",
+        "speechOrder": 61
+      },
+      "answers": [],
+      "ai_title": ""
+    },
     {
       "issueID": "122215385X00220261023",
       "session": 222,
