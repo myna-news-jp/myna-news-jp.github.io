@@ -1,9 +1,40 @@
 {
-  "updated": "2026-11-11T13:57:29+09:00",
-  "total_exchanges": 258,
+  "updated": "2026-11-12T01:55:41+09:00",
+  "total_exchanges": 259,
   "total_questions": 224,
-  "total_answers": 117,
+  "total_answers": 118,
   "exchanges": [
+    {
+      "issueID": "122205367X00220261030",
+      "session": 222,
+      "nameOfHouse": "衆議院",
+      "nameOfMeeting": "地域活性化・こども政策・デジタル社会形成に関する特別委員会",
+      "issue": "第2号",
+      "imageKind": "会議録",
+      "date": "2026-10-30",
+      "question": null,
+      "answers": [
+        {
+          "speechID": "122205367X00220261030_004",
+          "issueID": "122205367X00220261030",
+          "session": 222,
+          "nameOfHouse": "衆議院",
+          "nameOfMeeting": "地域活性化・こども政策・デジタル社会形成に関する特別委員会",
+          "issue": "第2号",
+          "imageKind": "会議録",
+          "date": "2026-10-30",
+          "speaker": "古川俊治",
+          "speakerGroup": "自由民主党・無所属の会",
+          "speakerPosition": "デジタル大臣・内閣府特命担当大臣（知的財産戦略・科学技術政策・宇宙政策・人工知能戦略・海洋政策・サイバー安全保障）",
+          "speakerRole": "",
+          "is_minister": true,
+          "excerpt": "○古川国務大臣 デジタル大臣、ＡＩ・デジタル改革推進担当大臣として、所信の一端を申し述べます。 人口減少、人手不足に直面する中で、経済成長の実現や公共サービスの維持強化を図るためには、ＡＩやデジタルの徹底活用による社会変革を強力に推進することが必要です。 社会全体のデジタル化の司令塔として、ＡＩ・デジタル改革推進会議を開催し、",
+          "speechURL": "https://kokkai.ndl.go.jp/txt/122205367X00220261030/4",
+          "speechOrder": 4
+        }
+      ],
+      "ai_title": ""
+    },
     {
       "issueID": "122215385X00320261028",
       "session": 222,
