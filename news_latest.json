@@ -1,6 +1,27 @@
 {
-  "updated": "2026-11-12T14:59:15+09:00",
+  "updated": "2026-11-13T02:23:25+09:00",
   "articles": [
+    {
+      "title": "アイオーデータ、週刊BCNなどの全3回連載で人材育成やIT基盤の取り組みを公開 - Dellows News",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1pV1A0QVdldENIM2JlRTFRdzJpVGZFV3ZNbEJ6eVJidzcwY29WUFZMUTVDc1pPU2ZmN3lOS1owSERXZGh4Y1BZ?oc=5",
+      "pub_date": "2026-11-12T17:06:33+09:00",
+      "source": "Dellows News",
+      "description": "",
+      "_glink": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1pV1A0QVdldENIM2JlRTFRdzJpVGZFV3ZNbEJ6eVJidzcwY29WUFZMUTVDc1pPU2ZmN3lOS1owSERXZGh4Y1BZ?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1pV1A0QVdldENIM2JlRTFRdzJpVGZFV3ZNbEJ6eVJidzcwY29WUFZMUTVDc1pPU2ZmN3lOS1owSERXZGh4Y1BZ?oc=5",
+      "category": "一般",
+      "topic": "mynumber"
+    },
+    {
+      "title": "広報資料に「スマートフォンのマイナンバーカード」に関するポスターを掲載しました",
+      "link": "https://www.digital.go.jp/policies/mynumber_resources",
+      "pub_date": "2026-11-12T15:00:00+09:00",
+      "source": "デジタル庁",
+      "description": "20日、「Androidのマイナンバーカード」がスタートした。対象のスマートフォンがあれば利用でき、カードを持ち歩く必要がなくなる。Android 12以降を搭載する一部のスマートフォンで利用できる。 「Androidのマイナンバーカード」の登録・利用を開始するには ...",
+      "thumbnail": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
+      "category": "一般",
+      "topic": "mynumber"
+    },
     {
       "title": "「サステナブルビジネス・パートナーズ」の募集を開始 新たなサステナブルビジネス認証制度の全体像を公開 - ニコニコニュース",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04RzFDMEZmdXNGMjBfaGg2Ykk4Ump6U2dPN0FvOHJoX1dkTHZOd2hWRjEyV3F5cURwYnN6YTJ6dFNtWWl0bUdDcHFZTHByaGJoLTRfaHhUVEdaTEhPSXVtdEZZWjdjQm1V?oc=5",
@@ -42,6 +63,17 @@
       "description": "医療システムの完全デジタル化に向けた大きな一歩として、日本政府はマイナンバー健康保険証のモバイル版を正式に導入しました。この新しい取り組みにより、国民はマイナンバー健康保険証をスマートフォンのウォレットに安全に直接保管でき、全国の医療サービスに迅速かつ非接触でアクセスできるようになります。",
       "_glink": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52TXBpQVNIeXlQMWRGblVGSjVnTC1QaHRPN1JyTzNxa3JoM2lCSGhldkk4UERZdVY2dlpZaG91dXI4cnBZSjhkSXdzWmFmWE1hdndyUDFSeGtFX0ZjbUYwRnVqZEdqWjVZYkE?oc=5",
       "_resolved_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52TXBpQVNIeXlQMWRGblVGSjVnTC1QaHRPN1JyTzNxa3JoM2lCSGhldkk4UERZdVY2dlpZaG91dXI4cnBZSjhkSXdzWmFmWE1hdndyUDFSeGtFX0ZjbUYwRnVqZEdqWjVZYkE?oc=5",
+      "category": "一般",
+      "topic": "insurance"
+    },
+    {
+      "title": "SB C&S、マイナ保険証で受付から会計・決済までをセルフで完了できる「PayCAS Check IN」「PayCAS Check OUT」提供開始 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iRjZDVWFodWxVaTVlX3FNc0xzLXJ3YzVWdlN6c0szclBtS1F6SXFhUC1lQi0xYkRoWFVGMEFGX2NlbWF1UFRtZ3A0MXByU0hhc05YWWRTQWF4akNKcWcxSk15N19UTFpBSUE?oc=5",
+      "pub_date": "2026-11-12T11:00:02+09:00",
+      "source": "PR TIMES",
+      "description": "［SB C&S株式会社］～マイナ保険証と連携した自動受付・精算管理システムに関する特許も取得～SB C&S株式会社（本社：東京都港区、代表取締役社長 兼 CEO：草川 和哉、以下「SB C&S」）は、クリニックにおけるマイナ保険証を利用した受付※1から会計・決済までの一連の流れをセルフ化する「Pay…",
+      "_glink": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iRjZDVWFodWxVaTVlX3FNc0xzLXJ3YzVWdlN6c0szclBtS1F6SXFhUC1lQi0xYkRoWFVGMEFGX2NlbWF1UFRtZ3A0MXByU0hhc05YWWRTQWF4akNKcWcxSk15N19UTFpBSUE?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iRjZDVWFodWxVaTVlX3FNc0xzLXJ3YzVWdlN6c0szclBtS1F6SXFhUC1lQi0xYkRoWFVGMEFGX2NlbWF1UFRtZ3A0MXByU0hhc05YWWRTQWF4akNKcWcxSk15N19UTFpBSUE?oc=5",
       "category": "一般",
       "topic": "insurance"
     },
@@ -513,39 +545,6 @@
       "_resolved_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1WmdEVU5ZN0NSS2xua0YzUzh3bFp5Zl9vV2pQT2RNZjFzYVZtYVhUX3d3OEc0cmxfSDFjRE5jcDJhb1VIRTJ2d1NoZkRBeG5CbElqNi01WUZVOXYzdm1mbXRHbXNsYWVBeXlzTS1LYXpmM3V2Q1h3VllEQjI5MkE?oc=5",
       "category": "制度変更",
       "topic": "insurance"
-    },
-    {
-      "title": "マイナンバーカードの電子証明書、来年度は更新見込み何件？期限後の猶予は3か月で、その間は診療や薬の情報が見られないかを解説（LIMO） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNjNwYVBrTFlqXzYzVEZwWFJSQ2JUVG8tbVl4bnFJS3ZXejdURFJMSUNUTTk1RlhuSVFKYW9yY1YzRWowUnlOOE5SVmZ6emhkLXdORHhDR3JzSDdwZXhuRElzM2daZXJLLWZyRHE2VEVWZWFMSXpnQnVFVHJncHVTUFgyQ1NJNDRY?oc=5",
-      "pub_date": "2026-10-31T16:00:00+09:00",
-      "source": "Yahoo!ニュース",
-      "description": "デジタル庁は2026年10月20日から、スマホのGoogle ウォレットに入れて使う「Androidのマイナンバーカード」の提供を始めました。令和8年8月からは、後期高齢者医療でも、年齢とマイナ保険証の利用登録の有無などで、届く書類が「資格確認書」と ...",
-      "_glink": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNjNwYVBrTFlqXzYzVEZwWFJSQ2JUVG8tbVl4bnFJS3ZXejdURFJMSUNUTTk1RlhuSVFKYW9yY1YzRWowUnlOOE5SVmZ6emhkLXdORHhDR3JzSDdwZXhuRElzM2daZXJLLWZyRHE2VEVWZWFMSXpnQnVFVHJncHVTUFgyQ1NJNDRY?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNjNwYVBrTFlqXzYzVEZwWFJSQ2JUVG8tbVl4bnFJS3ZXejdURFJMSUNUTTk1RlhuSVFKYW9yY1YzRWowUnlOOE5SVmZ6emhkLXdORHhDR3JzSDdwZXhuRElzM2daZXJLLWZyRHE2VEVWZWFMSXpnQnVFVHJncHVTUFgyQ1NJNDRY?oc=5",
-      "category": "制度変更",
-      "topic": "insurance"
-    },
-    {
-      "title": "パナソニック インダストリー AI関連事業へ約920億円投資 基板材料・高分子コンデンサーの生産能力拡大 - 電波新聞デジタル",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1Y1MxVWlwam9rUHVWZGx4NWt0dWEwS3FQejZ6N2JjUmo4LVctSFlnWHhYb2FTRWpWWFhYNTQxZ3pnbm5YcWNJajVXMFFnOTRvTHc?oc=5",
-      "pub_date": "2026-10-30T19:42:09+09:00",
-      "source": "電波新聞デジタル",
-      "description": "多層基板材料・導電性高分子コンデンサの生産能力拡大、次世代半導体用材料の研究開発棟も新設 パナソニック インダストリー株式会社（本社：東京都港区、代表取締役 社長執行役員・CEO：小澤 正人、以下、当社）は、拡大する生成AI市場の需要に対応するため、AI関連事業への積極投資を進めています。",
-      "_glink": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1Y1MxVWlwam9rUHVWZGx4NWt0dWEwS3FQejZ6N2JjUmo4LVctSFlnWHhYb2FTRWpWWFhYNTQxZ3pnbm5YcWNJajVXMFFnOTRvTHc?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1Y1MxVWlwam9rUHVWZGx4NWt0dWEwS3FQejZ6N2JjUmo4LVctSFlnWHhYb2FTRWpWWFhYNTQxZ3pnbm5YcWNJajVXMFFnOTRvTHc?oc=5",
-      "category": "一般",
-      "topic": "mynumber"
-    },
-    {
-      "title": "プリキュア プリティストア - 東映アニメーション",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45UDRjUk9YdkVfbnRTaFFOZlp4RVA4d2hDajk5Q3VIQkRmUTFJRXR6aEV6TEJBMFRTN2g5cDB1WUl3OHd1bHk1ZG5BcjBQMkdNVGZvOHpYOUx6d1hFZ3BHX2ZkeGpxcjBkMUo3NDNqaUlBSlNHaWc?oc=5",
-      "pub_date": "2026-10-30T18:27:20+09:00",
-      "source": "東映アニメーション",
-      "description": "2026年8月22日(土)から8月31日(月)までの期間限定で、『プリキュア プリティストア』のPOPUPを、SHIBUYA TSUTAYA 1階にて開催いたします。",
-      "_glink": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45UDRjUk9YdkVfbnRTaFFOZlp4RVA4d2hDajk5Q3VIQkRmUTFJRXR6aEV6TEJBMFRTN2g5cDB1WUl3OHd1bHk1ZG5BcjBQMkdNVGZvOHpYOUx6d1hFZ3BHX2ZkeGpxcjBkMUo3NDNqaUlBSlNHaWc?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45UDRjUk9YdkVfbnRTaFFOZlp4RVA4d2hDajk5Q3VIQkRmUTFJRXR6aEV6TEJBMFRTN2g5cDB1WUl3OHd1bHk1ZG5BcjBQMkdNVGZvOHpYOUx6d1hFZ3BHX2ZkeGpxcjBkMUo3NDNqaUlBSlNHaWc?oc=5",
-      "category": "一般",
-      "topic": "mynumber"
     }
   ],
   "total": 500

@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-12T14:59:23+09:00",
-  "total_exchanges": 259,
-  "total_questions": 224,
+  "updated": "2026-11-13T02:23:34+09:00",
+  "total_exchanges": 260,
+  "total_questions": 225,
   "total_answers": 118,
   "exchanges": [
     {
@@ -155,6 +155,35 @@
           "speechOrder": 8
         }
       ],
+      "ai_title": ""
+    },
+    {
+      "issueID": "122205254X00220261007",
+      "session": 222,
+      "nameOfHouse": "衆議院",
+      "nameOfMeeting": "本会議",
+      "issue": "第2号",
+      "imageKind": "会議録",
+      "date": "2026-10-07",
+      "question": {
+        "speechID": "122205254X00220261007_003",
+        "issueID": "122205254X00220261007",
+        "session": 222,
+        "nameOfHouse": "衆議院",
+        "nameOfMeeting": "本会議",
+        "issue": "第2号",
+        "imageKind": "会議録",
+        "date": "2026-10-07",
+        "speaker": "岡本三成",
+        "speakerGroup": "中道",
+        "speakerPosition": "",
+        "speakerRole": "",
+        "is_minister": false,
+        "excerpt": "○岡本三成君 公明党代表の岡本三成です。 統一会派中道を代表いたしまして、高市総理の所信表明演説に対し質問をいたします。（拍手） 質問に先立ちまして、本年の熊本地震や台風、豪雨災害で亡くなられた方々に哀悼の意を表し、被災された皆様に心からのお見舞いを申し上げます。政府には、生活再建と復旧復興に最優先で取り組むように求めます。 また、",
+        "speechURL": "https://kokkai.ndl.go.jp/txt/122205254X00220261007/3",
+        "speechOrder": 3
+      },
+      "answers": [],
       "ai_title": ""
     },
     {
