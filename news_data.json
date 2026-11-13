@@ -1,6 +1,27 @@
 {
-  "updated": "2026-11-13T02:23:25+09:00",
+  "updated": "2026-11-13T14:23:25+09:00",
   "articles": [
+    {
+      "title": "第221回社会保障審議会医療保険部会（ペーパーレス）の開催について",
+      "link": "https://www.mhlw.go.jp/stf/newpage_77350.html",
+      "pub_date": "2026-11-13T14:00:00+09:00",
+      "source": "厚生労働省",
+      "description": "厚生労働省は１１日、自営業者らが加入する国民健康保険（国保）の保険料について、医療分の年間上限額を３万円引き上げて９６万円とする案を社会保障審議会（厚労相の諮問機関）の医療保険部会に提示した。反対意見は出ず、来年度から実施される見通しだ。",
+      "thumbnail": "https://www.mhlw.go.jp/common/img/img_ogp.jpg",
+      "category": "一般",
+      "topic": "insurance"
+    },
+    {
+      "title": "「受験にもお金がかかるので…」“偽造”資格証明書で保育士と偽り勤務か 女逮捕（テレビ朝日系（ANN）） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DUmg3TWRpTkl3SmliQzVDcHJHSkNOc0N2YW5aNlZ5NXBINWE0Q1o2OEE2QktLRElpSHM4WGtuNGFiamZxZmotMDk5U3phS3d2QnJsSEVNdUpOa2JyT3d1XzBYR1BTcndhdUxkRnpXOUFNWmdnWDhGby1Uc01XaGs?oc=5",
+      "pub_date": "2026-11-13T11:17:10+09:00",
+      "source": "Yahoo!ニュース",
+      "description": "保育士資格の証明書を偽造し、札幌市の保育園で保育士と偽って勤務したとして、42歳の女が逮捕されました。",
+      "_glink": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DUmg3TWRpTkl3SmliQzVDcHJHSkNOc0N2YW5aNlZ5NXBINWE0Q1o2OEE2QktLRElpSHM4WGtuNGFiamZxZmotMDk5U3phS3d2QnJsSEVNdUpOa2JyT3d1XzBYR1BTcndhdUxkRnpXOUFNWmdnWDhGby1Uc01XaGs?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DUmg3TWRpTkl3SmliQzVDcHJHSkNOc0N2YW5aNlZ5NXBINWE0Q1o2OEE2QktLRElpSHM4WGtuNGFiamZxZmotMDk5U3phS3d2QnJsSEVNdUpOa2JyT3d1XzBYR1BTcndhdUxkRnpXOUFNWmdnWDhGby1Uc01XaGs?oc=5",
+      "category": "一般",
+      "topic": "mynumber"
+    },
     {
       "title": "アイオーデータ、週刊BCNなどの全3回連載で人材育成やIT基盤の取り組みを公開 - Dellows News",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1pV1A0QVdldENIM2JlRTFRdzJpVGZFV3ZNbEJ6eVJidzcwY29WUFZMUTVDc1pPU2ZmN3lOS1owSERXZGh4Y1BZ?oc=5",
@@ -199,6 +220,17 @@
       "topic": "mynumber"
     },
     {
+      "title": "個人番号制度の利用拡大 国民監視強化する制度は廃止に - 全国商工団体連合会",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MZ0twazZsaW5TcUtKS1UxQUVoc1FfQ0JfU3ZBeW5tTHdFMExRWi1Pb1IzcThleDl4b0Z1ci1rZExXYnhrTGFrYWxFOFZkQUpSYjYtdHBvV0xscF96UUE?oc=5",
+      "pub_date": "2026-11-09T17:00:00+09:00",
+      "source": "全国商工団体連合会",
+      "description": "",
+      "_glink": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MZ0twazZsaW5TcUtKS1UxQUVoc1FfQ0JfU3ZBeW5tTHdFMExRWi1Pb1IzcThleDl4b0Z1ci1rZExXYnhrTGFrYWxFOFZkQUpSYjYtdHBvV0xscF96UUE?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MZ0twazZsaW5TcUtKS1UxQUVoc1FfQ0JfU3ZBeW5tTHdFMExRWi1Pb1IzcThleDl4b0Z1ci1rZExXYnhrTGFrYWxFOFZkQUpSYjYtdHBvV0xscF96UUE?oc=5",
+      "category": "制度変更",
+      "topic": "mynumber"
+    },
+    {
       "title": "第220回社会保障審議会医療保険部会（ペーパーレス）の開催について",
       "link": "https://www.mhlw.go.jp/stf/newpage_77211.html",
       "pub_date": "2026-11-09T14:00:00+09:00",
@@ -294,6 +326,17 @@
       "thumbnail": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
       "category": "制度変更",
       "topic": "mynumber"
+    },
+    {
+      "title": "《医療機関の倒産が過去最多》医師の高齢化と後継者不足に追い打ち…マイナ保険証が招く地域医療の危機《経済のプロ荻原博子が徹底解説》 - Excite エキサイト",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HR2pBNmI5WkYyQVQ4NXR4RzFyVklFcEFzQUFnWWY0MVFWcHNpMnJNMDRmZFdjUjJhMHhnWURwLUttMVFrVVgwMWVCTWxuMEVRTmk4d0N4cTRjWFYyUTV6Rw?oc=5",
+      "pub_date": "2026-11-06T11:12:10+09:00",
+      "source": "Excite エキサイト",
+      "description": "帝国データバンク（TDB）の集計で、2026年1〜9月の医療機関（病院・診療所・歯科医院）の倒産が60件になったと、CBnewsマネジメントが2026年10月13日に報じました。内訳は診療所30件、歯科医院23件、病院7件で、過去最多だった2025年通年の66件に迫る水準とされています。",
+      "_glink": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HR2pBNmI5WkYyQVQ4NXR4RzFyVklFcEFzQUFnWWY0MVFWcHNpMnJNMDRmZFdjUjJhMHhnWURwLUttMVFrVVgwMWVCTWxuMEVRTmk4d0N4cTRjWFYyUTV6Rw?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HR2pBNmI5WkYyQVQ4NXR4RzFyVklFcEFzQUFnWWY0MVFWcHNpMnJNMDRmZFdjUjJhMHhnWURwLUttMVFrVVgwMWVCTWxuMEVRTmk4d0N4cTRjWFYyUTV6Rw?oc=5",
+      "category": "一般",
+      "topic": "insurance"
     },
     {
       "title": "《医療機関の倒産が過去最多》医師の高齢化と後継者不足に追い打ち…マイナ保険証が招く地域医療の危機《経済のプロ荻原博子が徹底解説》 - au Webポータル",
@@ -5421,50 +5464,6 @@
       "_resolved_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xOUdLSFBPbVpUMk1sOVlGcUU4Z3lXNFkxVm0tamRGcWY0SWkwdjFnb0ZZbXUyV1Z1LVh6ajJCeW9JeXNlM0JhMGN5TlBxeUdpbkFPcWdlMHRKT3p1?oc=5",
       "category": "一般",
       "topic": "insurance"
-    },
-    {
-      "title": "8月の値上げは約1900品目「いつまで続くのか」不安の声も 一方従来の健康保険証は使用不可に - FNNプライムオンライン",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9EUWVGZWRwU3V1V0d3OUVWaXNvcmM4eXRsRVhXLVlvUHZKcVBmMGdZd0dvU3p1ZWp1X2pQejBoWE5pX2daN0VzOHdFWnhIdw?oc=5",
-      "pub_date": "2026-07-30T18:30:00+09:00",
-      "source": "FNNプライムオンライン",
-      "description": "8月から多くの食料品の値上げが予定されているほか、医療機関を受診する時に使っていた従来の健康保険証が使えなくなります。値上げの現状や病院などを受診する時の注意点などを取材しました。毎月続いている食品の値上げ。帝国データバンクによりますと8月から値上がりするのは、およそ1900品目に上ります。",
-      "_glink": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9EUWVGZWRwU3V1V0d3OUVWaXNvcmM4eXRsRVhXLVlvUHZKcVBmMGdZd0dvU3p1ZWp1X2pQejBoWE5pX2daN0VzOHdFWnhIdw?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9EUWVGZWRwU3V1V0d3OUVWaXNvcmM4eXRsRVhXLVlvUHZKcVBmMGdZd0dvU3p1ZWp1X2pQejBoWE5pX2daN0VzOHdFWnhIdw?oc=5",
-      "category": "一般",
-      "topic": "insurance"
-    },
-    {
-      "title": "健康保険証が8月1日から使えない マイナ保険証か資格確認書が必要に【佐賀県】｜佐賀のニュース - サガテレビ",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QZGptX3JvWFZadUZFV2tJN3ZocmNqNHVndGVjdVJjX2I5OV9hYXpyZVlwZ0ZqYVpxYWt4X1UzcDdMdlRmaXdmdl9PZjU2MHVqcVNKbUNkaTVabk5CVk9JVldn?oc=5",
-      "pub_date": "2026-07-30T18:21:00+09:00",
-      "source": "サガテレビ",
-      "description": "従来の健康保険証が8月1日から使えなくなります。8月からはマイナ保険証などが必要ですが、県内の利用率は約7割にとどまっています。 【リポーター】 「マイナ保険証への移行に伴い31日までで従来の健康保険証だけでは保険診療を受けられなくなるということです」 「マイナ保険証」とは健康保険証の機能を持たせた…",
-      "_glink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QZGptX3JvWFZadUZFV2tJN3ZocmNqNHVndGVjdVJjX2I5OV9hYXpyZVlwZ0ZqYVpxYWt4X1UzcDdMdlRmaXdmdl9PZjU2MHVqcVNKbUNkaTVabk5CVk9JVldn?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QZGptX3JvWFZadUZFV2tJN3ZocmNqNHVndGVjdVJjX2I5OV9hYXpyZVlwZ0ZqYVpxYWt4X1UzcDdMdlRmaXdmdl9PZjU2MHVqcVNKbUNkaTVabk5CVk9JVldn?oc=5",
-      "category": "トラブル",
-      "topic": "insurance"
-    },
-    {
-      "title": "松本剛明・前衆院議員が死去、６７歳…岸田内閣でマイナカード普及に取り組む - 読売新聞",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PTDNMdmtDOGRscmUzUm5IY25aajNlRmdrMlZ2VjMwVHlGblB6dENMSHhhLUJLVHZTaEk5VGI4X05fYmhlRTdpUVJLQjBHU3RrU0NPNF9wT2RHZmRQU3p6MS13LUpTS0tGb3ZEejVB?oc=5",
-      "pub_date": "2026-07-30T17:30:00+09:00",
-      "source": "読売新聞",
-      "description": "松本剛明・前衆院議員が死去、６７歳…岸田内閣でマイナカード普及に取り組む ...",
-      "_glink": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PTDNMdmtDOGRscmUzUm5IY25aajNlRmdrMlZ2VjMwVHlGblB6dENMSHhhLUJLVHZTaEk5VGI4X05fYmhlRTdpUVJLQjBHU3RrU0NPNF9wT2RHZmRQU3p6MS13LUpTS0tGb3ZEejVB?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PTDNMdmtDOGRscmUzUm5IY25aajNlRmdrMlZ2VjMwVHlGblB6dENMSHhhLUJLVHZTaEk5VGI4X05fYmhlRTdpUVJLQjBHU3RrU0NPNF9wT2RHZmRQU3p6MS13LUpTS0tGb3ZEejVB?oc=5",
-      "category": "政治",
-      "topic": "mynumber"
-    },
-    {
-      "title": "令和8年3月31日からマイナンバーカードを医療証として利用できるようになりました（PMH） - town.oiso.kanagawa.jp",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPXzBZU1VldG9qU1NKRU9XdWtldklhV0xGY200bmZTaWxpUjFCMUQzcTNPSnFSSV8yX2h3bm1WRUdDWXQ3U01UemROQ0RrMGJ4ZkkxcGoybF9hOS04NlB4UkhmdFU4TnJNTDhWY0VPeEduZzF6NlVYQW1pLW9HZzlNSnpDR1hzUTNJd1l0ZGkwTXN5dU9vQkhWRFpaQQ?oc=5",
-      "pub_date": "2026-07-30T16:00:00+09:00",
-      "source": "town.oiso.kanagawa.jp",
-      "description": "",
-      "_glink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPXzBZU1VldG9qU1NKRU9XdWtldklhV0xGY200bmZTaWxpUjFCMUQzcTNPSnFSSV8yX2h3bm1WRUdDWXQ3U01UemROQ0RrMGJ4ZkkxcGoybF9hOS04NlB4UkhmdFU4TnJNTDhWY0VPeEduZzF6NlVYQW1pLW9HZzlNSnpDR1hzUTNJd1l0ZGkwTXN5dU9vQkhWRFpaQQ?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPXzBZU1VldG9qU1NKRU9XdWtldklhV0xGY200bmZTaWxpUjFCMUQzcTNPSnFSSV8yX2h3bm1WRUdDWXQ3U01UemROQ0RrMGJ4ZkkxcGoybF9hOS04NlB4UkhmdFU4TnJNTDhWY0VPeEduZzF6NlVYQW1pLW9HZzlNSnpDR1hzUTNJd1l0ZGkwTXN5dU9vQkhWRFpaQQ?oc=5",
-      "category": "一般",
-      "topic": "mynumber"
     }
   ]
 }

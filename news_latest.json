@@ -1,6 +1,27 @@
 {
-  "updated": "2026-11-13T02:23:25+09:00",
+  "updated": "2026-11-13T14:23:25+09:00",
   "articles": [
+    {
+      "title": "第221回社会保障審議会医療保険部会（ペーパーレス）の開催について",
+      "link": "https://www.mhlw.go.jp/stf/newpage_77350.html",
+      "pub_date": "2026-11-13T14:00:00+09:00",
+      "source": "厚生労働省",
+      "description": "厚生労働省は１１日、自営業者らが加入する国民健康保険（国保）の保険料について、医療分の年間上限額を３万円引き上げて９６万円とする案を社会保障審議会（厚労相の諮問機関）の医療保険部会に提示した。反対意見は出ず、来年度から実施される見通しだ。",
+      "thumbnail": "https://www.mhlw.go.jp/common/img/img_ogp.jpg",
+      "category": "一般",
+      "topic": "insurance"
+    },
+    {
+      "title": "「受験にもお金がかかるので…」“偽造”資格証明書で保育士と偽り勤務か 女逮捕（テレビ朝日系（ANN）） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DUmg3TWRpTkl3SmliQzVDcHJHSkNOc0N2YW5aNlZ5NXBINWE0Q1o2OEE2QktLRElpSHM4WGtuNGFiamZxZmotMDk5U3phS3d2QnJsSEVNdUpOa2JyT3d1XzBYR1BTcndhdUxkRnpXOUFNWmdnWDhGby1Uc01XaGs?oc=5",
+      "pub_date": "2026-11-13T11:17:10+09:00",
+      "source": "Yahoo!ニュース",
+      "description": "保育士資格の証明書を偽造し、札幌市の保育園で保育士と偽って勤務したとして、42歳の女が逮捕されました。",
+      "_glink": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DUmg3TWRpTkl3SmliQzVDcHJHSkNOc0N2YW5aNlZ5NXBINWE0Q1o2OEE2QktLRElpSHM4WGtuNGFiamZxZmotMDk5U3phS3d2QnJsSEVNdUpOa2JyT3d1XzBYR1BTcndhdUxkRnpXOUFNWmdnWDhGby1Uc01XaGs?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DUmg3TWRpTkl3SmliQzVDcHJHSkNOc0N2YW5aNlZ5NXBINWE0Q1o2OEE2QktLRElpSHM4WGtuNGFiamZxZmotMDk5U3phS3d2QnJsSEVNdUpOa2JyT3d1XzBYR1BTcndhdUxkRnpXOUFNWmdnWDhGby1Uc01XaGs?oc=5",
+      "category": "一般",
+      "topic": "mynumber"
+    },
     {
       "title": "アイオーデータ、週刊BCNなどの全3回連載で人材育成やIT基盤の取り組みを公開 - Dellows News",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1pV1A0QVdldENIM2JlRTFRdzJpVGZFV3ZNbEJ6eVJidzcwY29WUFZMUTVDc1pPU2ZmN3lOS1owSERXZGh4Y1BZ?oc=5",
@@ -199,6 +220,17 @@
       "topic": "mynumber"
     },
     {
+      "title": "個人番号制度の利用拡大 国民監視強化する制度は廃止に - 全国商工団体連合会",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MZ0twazZsaW5TcUtKS1UxQUVoc1FfQ0JfU3ZBeW5tTHdFMExRWi1Pb1IzcThleDl4b0Z1ci1rZExXYnhrTGFrYWxFOFZkQUpSYjYtdHBvV0xscF96UUE?oc=5",
+      "pub_date": "2026-11-09T17:00:00+09:00",
+      "source": "全国商工団体連合会",
+      "description": "",
+      "_glink": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MZ0twazZsaW5TcUtKS1UxQUVoc1FfQ0JfU3ZBeW5tTHdFMExRWi1Pb1IzcThleDl4b0Z1ci1rZExXYnhrTGFrYWxFOFZkQUpSYjYtdHBvV0xscF96UUE?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MZ0twazZsaW5TcUtKS1UxQUVoc1FfQ0JfU3ZBeW5tTHdFMExRWi1Pb1IzcThleDl4b0Z1ci1rZExXYnhrTGFrYWxFOFZkQUpSYjYtdHBvV0xscF96UUE?oc=5",
+      "category": "制度変更",
+      "topic": "mynumber"
+    },
+    {
       "title": "第220回社会保障審議会医療保険部会（ペーパーレス）の開催について",
       "link": "https://www.mhlw.go.jp/stf/newpage_77211.html",
       "pub_date": "2026-11-09T14:00:00+09:00",
@@ -294,6 +326,17 @@
       "thumbnail": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
       "category": "制度変更",
       "topic": "mynumber"
+    },
+    {
+      "title": "《医療機関の倒産が過去最多》医師の高齢化と後継者不足に追い打ち…マイナ保険証が招く地域医療の危機《経済のプロ荻原博子が徹底解説》 - Excite エキサイト",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HR2pBNmI5WkYyQVQ4NXR4RzFyVklFcEFzQUFnWWY0MVFWcHNpMnJNMDRmZFdjUjJhMHhnWURwLUttMVFrVVgwMWVCTWxuMEVRTmk4d0N4cTRjWFYyUTV6Rw?oc=5",
+      "pub_date": "2026-11-06T11:12:10+09:00",
+      "source": "Excite エキサイト",
+      "description": "帝国データバンク（TDB）の集計で、2026年1〜9月の医療機関（病院・診療所・歯科医院）の倒産が60件になったと、CBnewsマネジメントが2026年10月13日に報じました。内訳は診療所30件、歯科医院23件、病院7件で、過去最多だった2025年通年の66件に迫る水準とされています。",
+      "_glink": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HR2pBNmI5WkYyQVQ4NXR4RzFyVklFcEFzQUFnWWY0MVFWcHNpMnJNMDRmZFdjUjJhMHhnWURwLUttMVFrVVgwMWVCTWxuMEVRTmk4d0N4cTRjWFYyUTV6Rw?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HR2pBNmI5WkYyQVQ4NXR4RzFyVklFcEFzQUFnWWY0MVFWcHNpMnJNMDRmZFdjUjJhMHhnWURwLUttMVFrVVgwMWVCTWxuMEVRTmk4d0N4cTRjWFYyUTV6Rw?oc=5",
+      "category": "一般",
+      "topic": "insurance"
     },
     {
       "title": "《医療機関の倒産が過去最多》医師の高齢化と後継者不足に追い打ち…マイナ保険証が招く地域医療の危機《経済のプロ荻原博子が徹底解説》 - au Webポータル",
@@ -502,49 +545,6 @@
       "_resolved_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yT3VPVEkzZm1IV2ZIOGl3M1J3azRRRWRVeEJfYTJOQ2RqdTMzTnBrcnhTOGtRZEhqamxUT2VqUXVjVm9abm83eTZLWHNvS3Z3cWUxcV92VzVlS3YtZ3ZFN3NWNS0wbVczVjZ5cm1qT01hWjhDRHdub2VjaGc4Z3M?oc=5",
       "category": "統計",
       "topic": "mynumber"
-    },
-    {
-      "title": "第219回社会保障審議会医療保険部会（ペーパーレス）の開催について",
-      "link": "https://www.mhlw.go.jp/stf/newpage_77043.html",
-      "pub_date": "2026-11-02T14:00:00+09:00",
-      "source": "厚生労働省",
-      "description": "社会保障審議会の医療保険部会が令和8年10月16日に開催され、持続可能な医療保険制度の構築に向けた改革案が議論されました。今回の部会では、高齢者の窓口負担見直しや金融所得の反映方針とともに、薬局や薬剤師の実務に直結するOTC医薬品との代替性が高い薬剤を保険給付から除外する「一部保険外療養」の具体策が…",
-      "thumbnail": "https://www.mhlw.go.jp/common/img/img_ogp.jpg",
-      "category": "制度変更",
-      "topic": "insurance"
-    },
-    {
-      "title": "病院の領収書に「見慣れない加算」が？令和8年6月から変わったマイナ関連の新ルールと窓口負担（LIMO） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UeXYxTTFHT3BvcXVDTC12aDJkNlYxdC1fQkFJeDU0d0JZcUtkZzhFLTlBSXNWNElROWloNElady1CSWJLd0JTUWNFR3FfLVB5Yk84bDl3WGY1NnZ2NTNJdTVNQng2RzBWa2ppenU3aGQwNGhJYUxlbi1CRVA0eTQ?oc=5",
-      "pub_date": "2026-11-02T13:10:54+09:00",
-      "source": "Yahoo!ニュース",
-      "description": "病院でもらう領収書や診療明細書に、見慣れない加算の名前が出てくる時期です。 厚生労働省の「令和8年度診療報酬改定の概要【医科全体版】」によると、令和8年（2026年）6月から、医療DX推進体制整備加算と医療情報取得加算は廃止され、電子的診療情報連携体制整備加算が新設されます。",
-      "_glink": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UeXYxTTFHT3BvcXVDTC12aDJkNlYxdC1fQkFJeDU0d0JZcUtkZzhFLTlBSXNWNElROWloNElady1CSWJLd0JTUWNFR3FfLVB5Yk84bDl3WGY1NnZ2NTNJdTVNQng2RzBWa2ppenU3aGQwNGhJYUxlbi1CRVA0eTQ?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UeXYxTTFHT3BvcXVDTC12aDJkNlYxdC1fQkFJeDU0d0JZcUtkZzhFLTlBSXNWNElROWloNElady1CSWJLd0JTUWNFR3FfLVB5Yk84bDl3WGY1NnZ2NTNJdTVNQng2RzBWa2ppenU3aGQwNGhJYUxlbi1CRVA0eTQ?oc=5",
-      "category": "制度変更",
-      "topic": "insurance"
-    },
-    {
-      "title": "薬局でマイナ保険証を使うと薬代はいくら変わる？令和8年6月新設ルールと3割負担の試算（LIMO） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kNHh6M3dWMXh4Z2RGSTFDUG94M2hTNGc5QVRuSVZkRG5nX3FaYm1uNVFoWFJGcXFSbzk1REo5V2JmeUJFdDQtMFgzd3lGX3VjbGpKNDV5RU9neXYtRXlMOFFYRmlUY2FsQnNMWllUZ1I3STF5dHdIN0hkLXUydk0?oc=5",
-      "pub_date": "2026-11-01T12:10:51+09:00",
-      "source": "Yahoo!ニュース",
-      "description": "厚生労働省は、令和8年度の診療報酬改定（令和8年6月施行）で、保険薬局の調剤について、医療情報取得加算を廃止し、医療DX推進体制整備加算を「電子的調剤情報連携体制整備加算」に改めました。新しい加算は、月1回に限り8点です（厚生労働省「令和8年度診療報酬改定の概要【調剤】」）。",
-      "_glink": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kNHh6M3dWMXh4Z2RGSTFDUG94M2hTNGc5QVRuSVZkRG5nX3FaYm1uNVFoWFJGcXFSbzk1REo5V2JmeUJFdDQtMFgzd3lGX3VjbGpKNDV5RU9neXYtRXlMOFFYRmlUY2FsQnNMWllUZ1I3STF5dHdIN0hkLXUydk0?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kNHh6M3dWMXh4Z2RGSTFDUG94M2hTNGc5QVRuSVZkRG5nX3FaYm1uNVFoWFJGcXFSbzk1REo5V2JmeUJFdDQtMFgzd3lGX3VjbGpKNDV5RU9neXYtRXlMOFFYRmlUY2FsQnNMWllUZ1I3STF5dHdIN0hkLXUydk0?oc=5",
-      "category": "制度変更",
-      "topic": "insurance"
-    },
-    {
-      "title": "マイナンバーカードの電子証明書、来年度は更新見込み何件？期限後の猶予は3か月で、その間は診療や薬の情報が見られないかを解説（LIMO） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1WmdEVU5ZN0NSS2xua0YzUzh3bFp5Zl9vV2pQT2RNZjFzYVZtYVhUX3d3OEc0cmxfSDFjRE5jcDJhb1VIRTJ2d1NoZkRBeG5CbElqNi01WUZVOXYzdm1mbXRHbXNsYWVBeXlzTS1LYXpmM3V2Q1h3VllEQjI5MkE?oc=5",
-      "pub_date": "2026-10-31T18:10:51+09:00",
-      "source": "Yahoo!ニュース",
-      "description": "マイナンバーカードを持っている人は、カード本体のほかに「電子証明書」にも有効期限があります。電子証明書の期限が切れると、マイナポータルや確定申告の電子申告など、オンラインの行政サービスが使えなくなります。",
-      "_glink": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1WmdEVU5ZN0NSS2xua0YzUzh3bFp5Zl9vV2pQT2RNZjFzYVZtYVhUX3d3OEc0cmxfSDFjRE5jcDJhb1VIRTJ2d1NoZkRBeG5CbElqNi01WUZVOXYzdm1mbXRHbXNsYWVBeXlzTS1LYXpmM3V2Q1h3VllEQjI5MkE?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1WmdEVU5ZN0NSS2xua0YzUzh3bFp5Zl9vV2pQT2RNZjFzYVZtYVhUX3d3OEc0cmxfSDFjRE5jcDJhb1VIRTJ2d1NoZkRBeG5CbElqNi01WUZVOXYzdm1mbXRHbXNsYWVBeXlzTS1LYXpmM3V2Q1h3VllEQjI5MkE?oc=5",
-      "category": "制度変更",
-      "topic": "insurance"
     }
   ],
   "total": 500
