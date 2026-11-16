@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-16T01:06:05+09:00",
+  "updated": "2026-11-16T14:03:23+09:00",
   "articles": [
+    {
+      "title": "クラウド型電子カルテ「CLIUS(クリアス)」が「Googleで予約」に対応 - 株式会社DONUTS",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTMWEwY1FQX3FqUTJOWXdwYUxXZ2NDanNRd2lxakhndjh5dW5rWEtoeXpNejF0T3pJZ0hlQjYwcFMxT1lSa1JRX3dmbWRremctQzUtVnZVcnBUN0RGVUVJWDRfRTFEZUxwS1E4eHp3?oc=5",
+      "pub_date": "2026-11-16T10:04:27+09:00",
+      "source": "株式会社DONUTS",
+      "description": "［DONUTS］～Googleマップ・Google検索から、クリニックのWeb予約へ直接進めるように～株式会社DONUTS(東京都渋谷区、代表取締役:西村啓成)が提供するクリニック向けクラウド型電子カルテ「CLIUS(クリアス)」のWeb予約は、2026年11月11日(水)より「Googleで予約(…",
+      "_glink": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTMWEwY1FQX3FqUTJOWXdwYUxXZ2NDanNRd2lxakhndjh5dW5rWEtoeXpNejF0T3pJZ0hlQjYwcFMxT1lSa1JRX3dmbWRremctQzUtVnZVcnBUN0RGVUVJWDRfRTFEZUxwS1E4eHp3?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTMWEwY1FQX3FqUTJOWXdwYUxXZ2NDanNRd2lxakhndjh5dW5rWEtoeXpNejF0T3pJZ0hlQjYwcFMxT1lSa1JRX3dmbWRremctQzUtVnZVcnBUN0RGVUVJWDRfRTFEZUxwS1E4eHp3?oc=5",
+      "category": "一般",
+      "topic": "mynumber"
+    },
+    {
+      "title": "■NEWS 特定機能病院の電子カルシステム等を国の基幹インフラに、セキュリティ対策を強化へ - 日本医事新報社",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ySW9zRFR6ZVRTV0F2SXJkaXRaNi0zVUt2NjhnZ1pVZFdzaWZWbjB5QWVYUHhySFFGS05NR3RxblNGVGsybmxOR2RhMDB2QUlwdU8tNVo0RHNvUVI2dDU3QQ?oc=5",
+      "pub_date": "2026-11-16T09:38:28+09:00",
+      "source": "日本医事新報社",
+      "description": "厚生労働省は11月11日の社会保障審議会医療部会で、国の基幹インフラ制度への医療分野の追加について説明した。特定機能病院の電子カルテや手術・ICU部門の設備を導入時などに国への事前届出が必要な基幹インフラに位置付ける。",
+      "_glink": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ySW9zRFR6ZVRTV0F2SXJkaXRaNi0zVUt2NjhnZ1pVZFdzaWZWbjB5QWVYUHhySFFGS05NR3RxblNGVGsybmxOR2RhMDB2QUlwdU8tNVo0RHNvUVI2dDU3QQ?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ySW9zRFR6ZVRTV0F2SXJkaXRaNi0zVUt2NjhnZ1pVZFdzaWZWbjB5QWVYUHhySFFGS05NR3RxblNGVGsybmxOR2RhMDB2QUlwdU8tNVo0RHNvUVI2dDU3QQ?oc=5",
+      "category": "一般",
+      "topic": "mynumber"
+    },
     {
       "title": "【2026年最新】マイナ保険証と「資格確認書」の落とし穴！知らないと医療費の立て替えで30万円消える罠と手元確認 - YouTube",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBSW1pQnp5cU1BTTdmU3c0RXV4czFXeGxZZVRiRElHbnBqOGoxc2psZnBxMTNJTWNaV09Yd2Zsc2JhU0wxelJzbVllY1JQWS1KZmxsMWRwWS1GRHQt?oc=5",
@@ -11,6 +33,28 @@
       "_resolved_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBSW1pQnp5cU1BTTdmU3c0RXV4czFXeGxZZVRiRElHbnBqOGoxc2psZnBxMTNJTWNaV09Yd2Zsc2JhU0wxelJzbVllY1JQWS1KZmxsMWRwWS1GRHQt?oc=5",
       "category": "制度変更",
       "topic": "insurance"
+    },
+    {
+      "title": "上野大臣会見概要 - 厚生労働省",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90MnZVckZlcDZYdkNYU2VINFhjbHJCQVNKM0E4NHZlYWNweF95QzZ4UlN0Q1dicUlJcHBxUFpwZWN5bEgzSG0tWEFNN3AxMmpibDZ6Y1o2YjM1N21hVldkSEV0THp0YWNzSXBvdFNTSQ?oc=5",
+      "pub_date": "2026-11-15T16:22:00+09:00",
+      "source": "厚生労働省",
+      "description": "医療機関のサイバーセキュリティ対策の強化に向け、上野厚生労働大臣は被害を受けたことのある川崎市内の病院を視察しました。 上野厚労大臣 「サイバー攻撃が急増していると認識をしておりますので、社会全体としてもサイバー対策についてはしっかりやっていく」 ...",
+      "_glink": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90MnZVckZlcDZYdkNYU2VINFhjbHJCQVNKM0E4NHZlYWNweF95QzZ4UlN0Q1dicUlJcHBxUFpwZWN5bEgzSG0tWEFNN3AxMmpibDZ6Y1o2YjM1N21hVldkSEV0THp0YWNzSXBvdFNTSQ?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90MnZVckZlcDZYdkNYU2VINFhjbHJCQVNKM0E4NHZlYWNweF95QzZ4UlN0Q1dicUlJcHBxUFpwZWN5bEgzSG0tWEFNN3AxMmpibDZ6Y1o2YjM1N21hVldkSEV0THp0YWNzSXBvdFNTSQ?oc=5",
+      "category": "トラブル",
+      "topic": "insurance"
+    },
+    {
+      "title": "AB CircleがAmazon Japanにストアを開設 主要3製品の販売を開始 - Dellows News",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE14aDVuTFE5M056SlY1WHRmQnFjVGRaY1dmX05KWTZhZDFKLXkzQ2VJZmNxbmEwckVnQy02Mm9XZWpweHB4eXZv?oc=5",
+      "pub_date": "2026-11-15T13:25:30+09:00",
+      "source": "Dellows News",
+      "description": "スマートカードリーダーおよびセキュア認証ソリューションのグローバルリーダーであるAB Circle Limitedは、Amazon Japan（Amazon.co.jp）にストアを開設したことを発表しました。お客様からの強いご要望にお応えし、AB ...",
+      "_glink": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE14aDVuTFE5M056SlY1WHRmQnFjVGRaY1dmX05KWTZhZDFKLXkzQ2VJZmNxbmEwckVnQy02Mm9XZWpweHB4eXZv?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE14aDVuTFE5M056SlY1WHRmQnFjVGRaY1dmX05KWTZhZDFKLXkzQ2VJZmNxbmEwckVnQy02Mm9XZWpweHB4eXZv?oc=5",
+      "category": "一般",
+      "topic": "mynumber"
     },
     {
       "title": "【2026年11月】仕事中や通勤途中のけがは、マイナ保険証で受診しても健康保険は使えない。誤って使うと協会けんぽの負担分「7割」を返す手続きに。けがで受診すると届く「負傷原因」の照会は返送が必要 「健康保険か労災か」は自分で選べない？通勤中のケガで誤ってマイナ - LIMO | くらしとお金の経済メディア",
@@ -502,50 +546,6 @@
       "_resolved_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGQXhudF9TTmdEMTlpNkVfMXpfdEZaaUVkOG05QzRLYkFhZ3dMMlVYQjVRT2VDdHZSS3Q4a2VZM2oyRGcyUDY1QlBDeGx6UXpTdDFHdC0yT2tBRlJjbmVEVDluQWNHU2hJOTBLQzRB?oc=5",
       "category": "一般",
       "topic": "insurance"
-    },
-    {
-      "title": "《医療機関の倒産が過去最多》医師の高齢化と後継者不足に追い打ち…マイナ保険証が招く地域医療の危機《経済のプロ荻原博子が徹底解説》 - ライブドアニュース",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92d3dia0tEZl9KV3B4QmY0NmV0Q0pxa3NUcVVGbnFaLUNMSWF4NDVQSjBCWGJTZTg2cFRoMVlzc01hOFU3QjRkS2NRTzB1all0aTM2UGJMN1Z0OTBPeE5j?oc=5",
-      "pub_date": "2026-11-06T11:00:10+09:00",
-      "source": "ライブドアニュース",
-      "description": "「お医者さんは儲かる」は昔の話？赤字病院が増え、看護師も辞めていく ある都市の居酒屋で夕食をとっていたときのことです。同じカウンターに座っていた女性が、店の主人に深刻な相談をしていました。 女性は民間病院に勤務する看護師でした。",
-      "_glink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92d3dia0tEZl9KV3B4QmY0NmV0Q0pxa3NUcVVGbnFaLUNMSWF4NDVQSjBCWGJTZTg2cFRoMVlzc01hOFU3QjRkS2NRTzB1all0aTM2UGJMN1Z0OTBPeE5j?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92d3dia0tEZl9KV3B4QmY0NmV0Q0pxa3NUcVVGbnFaLUNMSWF4NDVQSjBCWGJTZTg2cFRoMVlzc01hOFU3QjRkS2NRTzB1all0aTM2UGJMN1Z0OTBPeE5j?oc=5",
-      "category": "一般",
-      "topic": "insurance"
-    },
-    {
-      "title": "《医療機関の倒産が過去最多》医師の高齢化と後継者不足に追い打ち…マイナ保険証が招く地域医療の危機《経済のプロ荻原博子が徹底解説》 - 女性自身",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zWVItX1hJWHJGaTZPZHJuUVpmWFEzZzFYbThTOUNsbENnY0RWYWpQNUkwMmVhZWlFdE41MlluV05Nd0tIeHpIOVkyRnRtUQ?oc=5",
-      "pub_date": "2026-11-06T11:00:00+09:00",
-      "source": "女性自身",
-      "description": "2026年上半期の医療機関の倒産は39件となり、過去最多のペースで推移した。物価高や人件費の高騰による収益力悪化や経営者の高齢化・後継者難を背景として、事業継続を断念する事業者が相次いだ。年間では初めて80件に達する可能性がある。 ・倒産件数 ...",
-      "_glink": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zWVItX1hJWHJGaTZPZHJuUVpmWFEzZzFYbThTOUNsbENnY0RWYWpQNUkwMmVhZWlFdE41MlluV05Nd0tIeHpIOVkyRnRtUQ?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zWVItX1hJWHJGaTZPZHJuUVpmWFEzZzFYbThTOUNsbENnY0RWYWpQNUkwMmVhZWlFdE41MlluV05Nd0tIeHpIOVkyRnRtUQ?oc=5",
-      "category": "一般",
-      "topic": "insurance"
-    },
-    {
-      "title": "NTT西日本の電話加入権にオンライン本人確認サービス「LIQUID eKYC（リキッドイーケーワイシー）」を提供 - 株式会社Liquid",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKeDBtem1EOFUzX2dCRTlSV3hIeThjeG1GU1lSUHpqQ3JRR3ZoZGRneTdOcGRPcGxuNm4wcWZKWDdpM194XzZWZkl6S3dwemgzcmdqOUtGTXdRNUNw?oc=5",
-      "pub_date": "2026-11-06T10:05:49+09:00",
-      "source": "株式会社Liquid",
-      "description": "",
-      "_glink": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKeDBtem1EOFUzX2dCRTlSV3hIeThjeG1GU1lSUHpqQ3JRR3ZoZGRneTdOcGRPcGxuNm4wcWZKWDdpM194XzZWZkl6S3dwemgzcmdqOUtGTXdRNUNw?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKeDBtem1EOFUzX2dCRTlSV3hIeThjeG1GU1lSUHpqQ3JRR3ZoZGRneTdOcGRPcGxuNm4wcWZKWDdpM194XzZWZkl6S3dwemgzcmdqOUtGTXdRNUNw?oc=5",
-      "category": "一般",
-      "topic": "mynumber"
-    },
-    {
-      "title": "台湾のテックマンロボット製協働ロボット「TM AI Cobot S Series」が国際セキュリティ認証を取得 - ロボスタ",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ybWM1QmE5Z3ZrdElhLUpmZTRORHR4MURoczFiSlVDOTVtUm01MnV6dElBYUZiR1o1MlAwUWlRSFI4T25ibEJFTjROSXJmMHdWUkJWeUQ3ZnpiUE9WSWtfVmNBN3g?oc=5",
-      "pub_date": "2026-11-05T16:00:03+09:00",
-      "source": "ロボスタ",
-      "description": "台湾の協働ロボットメーカー、テックマンロボット（TECHMAN ROBOT INC.、台湾証券取引所上場：4585）は、同社の「TM AI Cobot S Series」が、産業用制御機器のセキュリティに関する国際規格「IEC 62443-4-2」で ...",
-      "_glink": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ybWM1QmE5Z3ZrdElhLUpmZTRORHR4MURoczFiSlVDOTVtUm01MnV6dElBYUZiR1o1MlAwUWlRSFI4T25ibEJFTjROSXJmMHdWUkJWeUQ3ZnpiUE9WSWtfVmNBN3g?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ybWM1QmE5Z3ZrdElhLUpmZTRORHR4MURoczFiSlVDOTVtUm01MnV6dElBYUZiR1o1MlAwUWlRSFI4T25ibEJFTjROSXJmMHdWUkJWeUQ3ZnpiUE9WSWtfVmNBN3g?oc=5",
-      "category": "一般",
-      "topic": "mynumber"
     }
   ],
   "total": 500

@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-16T01:06:05+09:00",
+  "updated": "2026-11-16T14:03:23+09:00",
   "articles": [
+    {
+      "title": "クラウド型電子カルテ「CLIUS(クリアス)」が「Googleで予約」に対応 - 株式会社DONUTS",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTMWEwY1FQX3FqUTJOWXdwYUxXZ2NDanNRd2lxakhndjh5dW5rWEtoeXpNejF0T3pJZ0hlQjYwcFMxT1lSa1JRX3dmbWRremctQzUtVnZVcnBUN0RGVUVJWDRfRTFEZUxwS1E4eHp3?oc=5",
+      "pub_date": "2026-11-16T10:04:27+09:00",
+      "source": "株式会社DONUTS",
+      "description": "［DONUTS］～Googleマップ・Google検索から、クリニックのWeb予約へ直接進めるように～株式会社DONUTS(東京都渋谷区、代表取締役:西村啓成)が提供するクリニック向けクラウド型電子カルテ「CLIUS(クリアス)」のWeb予約は、2026年11月11日(水)より「Googleで予約(…",
+      "_glink": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTMWEwY1FQX3FqUTJOWXdwYUxXZ2NDanNRd2lxakhndjh5dW5rWEtoeXpNejF0T3pJZ0hlQjYwcFMxT1lSa1JRX3dmbWRremctQzUtVnZVcnBUN0RGVUVJWDRfRTFEZUxwS1E4eHp3?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTMWEwY1FQX3FqUTJOWXdwYUxXZ2NDanNRd2lxakhndjh5dW5rWEtoeXpNejF0T3pJZ0hlQjYwcFMxT1lSa1JRX3dmbWRremctQzUtVnZVcnBUN0RGVUVJWDRfRTFEZUxwS1E4eHp3?oc=5",
+      "category": "一般",
+      "topic": "mynumber"
+    },
+    {
+      "title": "■NEWS 特定機能病院の電子カルシステム等を国の基幹インフラに、セキュリティ対策を強化へ - 日本医事新報社",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ySW9zRFR6ZVRTV0F2SXJkaXRaNi0zVUt2NjhnZ1pVZFdzaWZWbjB5QWVYUHhySFFGS05NR3RxblNGVGsybmxOR2RhMDB2QUlwdU8tNVo0RHNvUVI2dDU3QQ?oc=5",
+      "pub_date": "2026-11-16T09:38:28+09:00",
+      "source": "日本医事新報社",
+      "description": "厚生労働省は11月11日の社会保障審議会医療部会で、国の基幹インフラ制度への医療分野の追加について説明した。特定機能病院の電子カルテや手術・ICU部門の設備を導入時などに国への事前届出が必要な基幹インフラに位置付ける。",
+      "_glink": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ySW9zRFR6ZVRTV0F2SXJkaXRaNi0zVUt2NjhnZ1pVZFdzaWZWbjB5QWVYUHhySFFGS05NR3RxblNGVGsybmxOR2RhMDB2QUlwdU8tNVo0RHNvUVI2dDU3QQ?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ySW9zRFR6ZVRTV0F2SXJkaXRaNi0zVUt2NjhnZ1pVZFdzaWZWbjB5QWVYUHhySFFGS05NR3RxblNGVGsybmxOR2RhMDB2QUlwdU8tNVo0RHNvUVI2dDU3QQ?oc=5",
+      "category": "一般",
+      "topic": "mynumber"
+    },
     {
       "title": "【2026年最新】マイナ保険証と「資格確認書」の落とし穴！知らないと医療費の立て替えで30万円消える罠と手元確認 - YouTube",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBSW1pQnp5cU1BTTdmU3c0RXV4czFXeGxZZVRiRElHbnBqOGoxc2psZnBxMTNJTWNaV09Yd2Zsc2JhU0wxelJzbVllY1JQWS1KZmxsMWRwWS1GRHQt?oc=5",
@@ -11,6 +33,28 @@
       "_resolved_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBSW1pQnp5cU1BTTdmU3c0RXV4czFXeGxZZVRiRElHbnBqOGoxc2psZnBxMTNJTWNaV09Yd2Zsc2JhU0wxelJzbVllY1JQWS1KZmxsMWRwWS1GRHQt?oc=5",
       "category": "制度変更",
       "topic": "insurance"
+    },
+    {
+      "title": "上野大臣会見概要 - 厚生労働省",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90MnZVckZlcDZYdkNYU2VINFhjbHJCQVNKM0E4NHZlYWNweF95QzZ4UlN0Q1dicUlJcHBxUFpwZWN5bEgzSG0tWEFNN3AxMmpibDZ6Y1o2YjM1N21hVldkSEV0THp0YWNzSXBvdFNTSQ?oc=5",
+      "pub_date": "2026-11-15T16:22:00+09:00",
+      "source": "厚生労働省",
+      "description": "医療機関のサイバーセキュリティ対策の強化に向け、上野厚生労働大臣は被害を受けたことのある川崎市内の病院を視察しました。 上野厚労大臣 「サイバー攻撃が急増していると認識をしておりますので、社会全体としてもサイバー対策についてはしっかりやっていく」 ...",
+      "_glink": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90MnZVckZlcDZYdkNYU2VINFhjbHJCQVNKM0E4NHZlYWNweF95QzZ4UlN0Q1dicUlJcHBxUFpwZWN5bEgzSG0tWEFNN3AxMmpibDZ6Y1o2YjM1N21hVldkSEV0THp0YWNzSXBvdFNTSQ?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90MnZVckZlcDZYdkNYU2VINFhjbHJCQVNKM0E4NHZlYWNweF95QzZ4UlN0Q1dicUlJcHBxUFpwZWN5bEgzSG0tWEFNN3AxMmpibDZ6Y1o2YjM1N21hVldkSEV0THp0YWNzSXBvdFNTSQ?oc=5",
+      "category": "トラブル",
+      "topic": "insurance"
+    },
+    {
+      "title": "AB CircleがAmazon Japanにストアを開設 主要3製品の販売を開始 - Dellows News",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE14aDVuTFE5M056SlY1WHRmQnFjVGRaY1dmX05KWTZhZDFKLXkzQ2VJZmNxbmEwckVnQy02Mm9XZWpweHB4eXZv?oc=5",
+      "pub_date": "2026-11-15T13:25:30+09:00",
+      "source": "Dellows News",
+      "description": "スマートカードリーダーおよびセキュア認証ソリューションのグローバルリーダーであるAB Circle Limitedは、Amazon Japan（Amazon.co.jp）にストアを開設したことを発表しました。お客様からの強いご要望にお応えし、AB ...",
+      "_glink": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE14aDVuTFE5M056SlY1WHRmQnFjVGRaY1dmX05KWTZhZDFKLXkzQ2VJZmNxbmEwckVnQy02Mm9XZWpweHB4eXZv?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE14aDVuTFE5M056SlY1WHRmQnFjVGRaY1dmX05KWTZhZDFKLXkzQ2VJZmNxbmEwckVnQy02Mm9XZWpweHB4eXZv?oc=5",
+      "category": "一般",
+      "topic": "mynumber"
     },
     {
       "title": "【2026年11月】仕事中や通勤途中のけがは、マイナ保険証で受診しても健康保険は使えない。誤って使うと協会けんぽの負担分「7割」を返す手続きに。けがで受診すると届く「負傷原因」の照会は返送が必要 「健康保険か労災か」は自分で選べない？通勤中のケガで誤ってマイナ - LIMO | くらしとお金の経済メディア",
@@ -5418,50 +5462,6 @@
       "description": "従来の保険証が31日限りで使えなくなります。厚生労働省は「マイナ保険証」への切り替えを改めて呼び掛けました。 従来の健康保険証はすべて、有効期限が去年12月までで切れています。",
       "_glink": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1TmJxOEg1QXZLMkl6LW53UUtXZG1ZRE5XZThJbXBNNmFjajNMV05pWE9Mb2hCT1ZRdWNJQVJxZUJ4SUFxTUE2ZWtfWTIwc3JacXpyNzRqTGNwVTU0QUJjd0xPc01oVGZfLTNiaGVjVUIzOGhISlFaa3g0ekllWm8?oc=5",
       "_resolved_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1TmJxOEg1QXZLMkl6LW53UUtXZG1ZRE5XZThJbXBNNmFjajNMV05pWE9Mb2hCT1ZRdWNJQVJxZUJ4SUFxTUE2ZWtfWTIwc3JacXpyNzRqTGNwVTU0QUJjd0xPc01oVGZfLTNiaGVjVUIzOGhISlFaa3g0ekllWm8?oc=5",
-      "category": "制度変更",
-      "topic": "insurance"
-    },
-    {
-      "title": "従来の保険証きょうまで　「マイナ保険証」切り替え呼びかけ　利用率は頭打ち - ｄメニューニュース",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaDlUNjBsY2drb2pMVHViU21sWFE1dDJkeFhRbjFFYlpmX29kSkd3SnMybWlGTEtMQUNhT3B4clg0bS1Tbm9qcUR6cmREV2t6bkR3UDRtcWMxS2Q5QktRNWYydWM0SDN2NWc2c0h6YVAwYjZiNlFqN3UzQmFjV1FkZ3lTTDhzNW_SAYwBQVVfeXFMUGp4Yk10WmJrM3NQT25Dc3RJQXo1SkNIUHVKVEk3NkhhR3pVMnZ5d2hRcEt5a2VldXVSc3BQOTAtR3BsTHkxZGJ2U0oxWVFpLXlBTmJzdXdXQnk3THBfNEcxVDNaR1QydE1FdmJNdTQyYno4QV9FanF1RldMaXhDUTNWX3ViN1ExVTBrSEg?oc=5",
-      "pub_date": "2026-07-31T12:35:00+09:00",
-      "source": "ｄメニューニュース",
-      "description": "マイナンバーカードに保険証の機能を持たせた「マイナ保険証」への移行に伴い、12月1日で従来の健康保険証が全て有効期限を迎える。昨年12月に保険証の新規発行が停止され、経過措置が終了するため。2日以降はマイナ保険証の利用が基本となり ...",
-      "_glink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaDlUNjBsY2drb2pMVHViU21sWFE1dDJkeFhRbjFFYlpmX29kSkd3SnMybWlGTEtMQUNhT3B4clg0bS1Tbm9qcUR6cmREV2t6bkR3UDRtcWMxS2Q5QktRNWYydWM0SDN2NWc2c0h6YVAwYjZiNlFqN3UzQmFjV1FkZ3lTTDhzNW_SAYwBQVVfeXFMUGp4Yk10WmJrM3NQT25Dc3RJQXo1SkNIUHVKVEk3NkhhR3pVMnZ5d2hRcEt5a2VldXVSc3BQOTAtR3BsTHkxZGJ2U0oxWVFpLXlBTmJzdXdXQnk3THBfNEcxVDNaR1QydE1FdmJNdTQyYno4QV9FanF1RldMaXhDUTNWX3ViN1ExVTBrSEg?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaDlUNjBsY2drb2pMVHViU21sWFE1dDJkeFhRbjFFYlpmX29kSkd3SnMybWlGTEtMQUNhT3B4clg0bS1Tbm9qcUR6cmREV2t6bkR3UDRtcWMxS2Q5QktRNWYydWM0SDN2NWc2c0h6YVAwYjZiNlFqN3UzQmFjV1FkZ3lTTDhzNW_SAYwBQVVfeXFMUGp4Yk10WmJrM3NQT25Dc3RJQXo1SkNIUHVKVEk3NkhhR3pVMnZ5d2hRcEt5a2VldXVSc3BQOTAtR3BsTHkxZGJ2U0oxWVFpLXlBTmJzdXdXQnk3THBfNEcxVDNaR1QydE1FdmJNdTQyYno4QV9FanF1RldMaXhDUTNWX3ViN1ExVTBrSEg?oc=5",
-      "category": "制度変更",
-      "topic": "insurance"
-    },
-    {
-      "title": "従来の健康保険証が8月から使えず 医療費全額負担を求められる可能性も 暫定措置きょうで終了 今後は「マイナ保険証」や「資格確認書」の提示が必要に 厚生労働省 - TBS NEWS DIG",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GS0NuQXdEQlhjOWY0ZDBlS2NtLUJQV0xJZW1zWVc0Q1lJVEdXSzhSanlXaWlHTmFocXZIRThhYWpneVlzcFRFYlFaazlkNnlLcVZqOTBHdw?oc=5",
-      "pub_date": "2026-07-31T12:15:41+09:00",
-      "source": "TBS NEWS DIG",
-      "description": "従来の健康保険証があす8月から使えなくなります。保険診療を受ける場合、「マイナ保険証」か「資格確認書」が必要です。 保険適用で診察を受ける際に必要な健康保険証は、去年12月にマイナンバーカードと一体化した「マイナ保険証」に移行しました。",
-      "_glink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GS0NuQXdEQlhjOWY0ZDBlS2NtLUJQV0xJZW1zWVc0Q1lJVEdXSzhSanlXaWlHTmFocXZIRThhYWpneVlzcFRFYlFaazlkNnlLcVZqOTBHdw?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GS0NuQXdEQlhjOWY0ZDBlS2NtLUJQV0xJZW1zWVc0Q1lJVEdXSzhSanlXaWlHTmFocXZIRThhYWpneVlzcFRFYlFaazlkNnlLcVZqOTBHdw?oc=5",
-      "category": "一般",
-      "topic": "insurance"
-    },
-    {
-      "title": "従来の健康保険証が8月から使えず 医療費全額負担を求められる可能性も 暫定措置きょうで終了 今後は「マイナ保険証」や「資格確認書」の提示が必要に 厚生労働省（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94dkhiWVptbG9UTHkzZWVXMUVJbHVIYmNDYTRRZE5aRWV2UnB1WG5fQmZvUjhYNGU2bFJ4SndPOXdrVW1SZUFVUi1qdzFfVmx2TmNVbG5yZDkxcmJFQlR4ajlhWGZUYXFuZElOVFVuT3FIWFlnUWx5TW1KYWVJMms?oc=5",
-      "pub_date": "2026-07-31T12:14:19+09:00",
-      "source": "Yahoo!ニュース",
-      "description": "従来の健康保険証があす8月から使えなくなります。保険診療を受ける場合、「マイナ保険証」か「資格確認書」が必要です。 保険適用で診察を受ける際に必要な健康保険証は、去年12月にマイナンバーカードと一体化した「マイナ保険証」に移行しました。",
-      "_glink": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94dkhiWVptbG9UTHkzZWVXMUVJbHVIYmNDYTRRZE5aRWV2UnB1WG5fQmZvUjhYNGU2bFJ4SndPOXdrVW1SZUFVUi1qdzFfVmx2TmNVbG5yZDkxcmJFQlR4ajlhWGZUYXFuZElOVFVuT3FIWFlnUWx5TW1KYWVJMms?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94dkhiWVptbG9UTHkzZWVXMUVJbHVIYmNDYTRRZE5aRWV2UnB1WG5fQmZvUjhYNGU2bFJ4SndPOXdrVW1SZUFVUi1qdzFfVmx2TmNVbG5yZDkxcmJFQlR4ajlhWGZUYXFuZElOVFVuT3FIWFlnUWx5TW1KYWVJMms?oc=5",
-      "category": "一般",
-      "topic": "insurance"
-    },
-    {
-      "title": "従来の保険証の利用はきょうまで マイナ保険証への切り替えを呼びかけ（テレビ朝日系（ANN）） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vQl9iT1Q2ZU53V1JsVkg5ekt6OHV1VWRybmdLWTdLVjlldlRISUNVTFA3MkJoczJ4REVUazNmamlRWjFwMm1YU1Jqa0RUVkNQNHp1WkNGTF9vVWhTYngxaVlHd0Z6Q0g3c1RhV05vakljX2NZVkdLSmU4SnpJbDA?oc=5",
-      "pub_date": "2026-07-31T11:33:22+09:00",
-      "source": "Yahoo!ニュース",
-      "description": "今月末で、健康保険証が使えなくなる人が出てくるといいます。場合によっては10割負担も?気になる疑問を専門家がずばり解決します。 【画像】マイナ保険証がない場合に必要になる「資格確認書」 月末で終了?保険証の疑問 街の老若男女に聞きました。",
-      "_glink": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vQl9iT1Q2ZU53V1JsVkg5ekt6OHV1VWRybmdLWTdLVjlldlRISUNVTFA3MkJoczJ4REVUazNmamlRWjFwMm1YU1Jqa0RUVkNQNHp1WkNGTF9vVWhTYngxaVlHd0Z6Q0g3c1RhV05vakljX2NZVkdLSmU4SnpJbDA?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vQl9iT1Q2ZU53V1JsVkg5ekt6OHV1VWRybmdLWTdLVjlldlRISUNVTFA3MkJoczJ4REVUazNmamlRWjFwMm1YU1Jqa0RUVkNQNHp1WkNGTF9vVWhTYngxaVlHd0Z6Q0g3c1RhV05vakljX2NZVkdLSmU4SnpJbDA?oc=5",
       "category": "制度変更",
       "topic": "insurance"
     }
