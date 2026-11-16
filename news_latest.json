@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-16T14:03:23+09:00",
+  "updated": "2026-11-17T04:18:48+09:00",
   "articles": [
+    {
+      "title": "調達仕様書等の意見招請に対する回答：「令和9年度マイナアプリのテスト支援」を掲載しました",
+      "link": "https://www.digital.go.jp/procurement/invitation-answer",
+      "pub_date": "2026-11-16T15:00:00+09:00",
+      "source": "デジタル庁",
+      "description": "東京都GIGAスクール推進協議会は2026年11月9日、2027年度（令和9年度）に予定する都内公立学校の学習者用コンピュータの共同調達に向け、事業者を対象とした情報提供依頼（RFI）を開始した。対象はiPadのWi-Fiモデルで、仕様書案への意見や ...",
+      "thumbnail": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
+      "category": "一般",
+      "topic": "mynumber"
+    },
     {
       "title": "クラウド型電子カルテ「CLIUS(クリアス)」が「Googleで予約」に対応 - 株式会社DONUTS",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTMWEwY1FQX3FqUTJOWXdwYUxXZ2NDanNRd2lxakhndjh5dW5rWEtoeXpNejF0T3pJZ0hlQjYwcFMxT1lSa1JRX3dmbWRremctQzUtVnZVcnBUN0RGVUVJWDRfRTFEZUxwS1E4eHp3?oc=5",
@@ -533,17 +543,6 @@
       "description": "帝国データバンク（TDB）の集計で、2026年1〜9月の医療機関（病院・診療所・歯科医院）の倒産が60件になったと、CBnewsマネジメントが2026年10月13日に報じました。内訳は診療所30件、歯科医院23件、病院7件で、過去最多だった2025年通年の66件に迫る水準とされています。",
       "_glink": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HR2pBNmI5WkYyQVQ4NXR4RzFyVklFcEFzQUFnWWY0MVFWcHNpMnJNMDRmZFdjUjJhMHhnWURwLUttMVFrVVgwMWVCTWxuMEVRTmk4d0N4cTRjWFYyUTV6Rw?oc=5",
       "_resolved_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HR2pBNmI5WkYyQVQ4NXR4RzFyVklFcEFzQUFnWWY0MVFWcHNpMnJNMDRmZFdjUjJhMHhnWURwLUttMVFrVVgwMWVCTWxuMEVRTmk4d0N4cTRjWFYyUTV6Rw?oc=5",
-      "category": "一般",
-      "topic": "insurance"
-    },
-    {
-      "title": "《医療機関の倒産が過去最多》医師の高齢化と後継者不足に追い打ち…マイナ保険証が招く地域医療の危機《経済のプロ荻原博子が徹底解説》 - au Webポータル",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGQXhudF9TTmdEMTlpNkVfMXpfdEZaaUVkOG05QzRLYkFhZ3dMMlVYQjVRT2VDdHZSS3Q4a2VZM2oyRGcyUDY1QlBDeGx6UXpTdDFHdC0yT2tBRlJjbmVEVDluQWNHU2hJOTBLQzRB?oc=5",
-      "pub_date": "2026-11-06T11:00:10+09:00",
-      "source": "au Webポータル",
-      "description": "2026年上半期の医療機関の倒産は39件となり、過去最多のペースで推移した。物価高や人件費の高騰による収益力悪化や経営者の高齢化・後継者難を背景として、事業継続を断念する事業者が相次いだ。年間では初めて80件に達する可能性がある。 ・倒産件数 ...",
-      "_glink": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGQXhudF9TTmdEMTlpNkVfMXpfdEZaaUVkOG05QzRLYkFhZ3dMMlVYQjVRT2VDdHZSS3Q4a2VZM2oyRGcyUDY1QlBDeGx6UXpTdDFHdC0yT2tBRlJjbmVEVDluQWNHU2hJOTBLQzRB?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGQXhudF9TTmdEMTlpNkVfMXpfdEZaaUVkOG05QzRLYkFhZ3dMMlVYQjVRT2VDdHZSS3Q4a2VZM2oyRGcyUDY1QlBDeGx6UXpTdDFHdC0yT2tBRlJjbmVEVDluQWNHU2hJOTBLQzRB?oc=5",
       "category": "一般",
       "topic": "insurance"
     }

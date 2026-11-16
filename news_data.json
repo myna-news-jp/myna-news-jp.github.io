@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-16T14:03:23+09:00",
+  "updated": "2026-11-17T04:18:48+09:00",
   "articles": [
+    {
+      "title": "調達仕様書等の意見招請に対する回答：「令和9年度マイナアプリのテスト支援」を掲載しました",
+      "link": "https://www.digital.go.jp/procurement/invitation-answer",
+      "pub_date": "2026-11-16T15:00:00+09:00",
+      "source": "デジタル庁",
+      "description": "東京都GIGAスクール推進協議会は2026年11月9日、2027年度（令和9年度）に予定する都内公立学校の学習者用コンピュータの共同調達に向け、事業者を対象とした情報提供依頼（RFI）を開始した。対象はiPadのWi-Fiモデルで、仕様書案への意見や ...",
+      "thumbnail": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
+      "category": "一般",
+      "topic": "mynumber"
+    },
     {
       "title": "クラウド型電子カルテ「CLIUS(クリアス)」が「Googleで予約」に対応 - 株式会社DONUTS",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTMWEwY1FQX3FqUTJOWXdwYUxXZ2NDanNRd2lxakhndjh5dW5rWEtoeXpNejF0T3pJZ0hlQjYwcFMxT1lSa1JRX3dmbWRremctQzUtVnZVcnBUN0RGVUVJWDRfRTFEZUxwS1E4eHp3?oc=5",
@@ -5451,17 +5461,6 @@
       "description": "従来の保険証が31日限りで使えなくなります。厚生労働省は「マイナ保険証」への切り替えを改めて呼び掛けました。 従来の健康保険証はすべて、有効期限が去年12月までで切れています。",
       "_glink": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PM25PblNSZkw5MzhIekVmcVc1ZlNEbjlnVHZSRDJQOGF3ZFYtMGdRRE5MV2dMUUlYTi1yUlFzZHpDdXpLc3FrOXNoSE50a3dIT0JQS3p6emtpZ2dSQUl3Sm9iNUQ2dGx5U2U0U1BVY2VCQQ?oc=5",
       "_resolved_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PM25PblNSZkw5MzhIekVmcVc1ZlNEbjlnVHZSRDJQOGF3ZFYtMGdRRE5MV2dMUUlYTi1yUlFzZHpDdXpLc3FrOXNoSE50a3dIT0JQS3p6emtpZ2dSQUl3Sm9iNUQ2dGx5U2U0U1BVY2VCQQ?oc=5",
-      "category": "制度変更",
-      "topic": "insurance"
-    },
-    {
-      "title": "従来の保険証きょうまで 「マイナ保険証」切り替え呼びかけ 利用率は頭打ち（テレビ朝日系（ANN）） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1TmJxOEg1QXZLMkl6LW53UUtXZG1ZRE5XZThJbXBNNmFjajNMV05pWE9Mb2hCT1ZRdWNJQVJxZUJ4SUFxTUE2ZWtfWTIwc3JacXpyNzRqTGNwVTU0QUJjd0xPc01oVGZfLTNiaGVjVUIzOGhISlFaa3g0ekllWm8?oc=5",
-      "pub_date": "2026-07-31T12:35:57+09:00",
-      "source": "Yahoo!ニュース",
-      "description": "従来の保険証が31日限りで使えなくなります。厚生労働省は「マイナ保険証」への切り替えを改めて呼び掛けました。 従来の健康保険証はすべて、有効期限が去年12月までで切れています。",
-      "_glink": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1TmJxOEg1QXZLMkl6LW53UUtXZG1ZRE5XZThJbXBNNmFjajNMV05pWE9Mb2hCT1ZRdWNJQVJxZUJ4SUFxTUE2ZWtfWTIwc3JacXpyNzRqTGNwVTU0QUJjd0xPc01oVGZfLTNiaGVjVUIzOGhISlFaa3g0ekllWm8?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1TmJxOEg1QXZLMkl6LW53UUtXZG1ZRE5XZThJbXBNNmFjajNMV05pWE9Mb2hCT1ZRdWNJQVJxZUJ4SUFxTUE2ZWtfWTIwc3JacXpyNzRqTGNwVTU0QUJjd0xPc01oVGZfLTNiaGVjVUIzOGhISlFaa3g0ekllWm8?oc=5",
       "category": "制度変更",
       "topic": "insurance"
     }
