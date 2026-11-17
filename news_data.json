@@ -1,6 +1,39 @@
 {
-  "updated": "2026-11-17T04:18:48+09:00",
+  "updated": "2026-11-18T03:12:19+09:00",
   "articles": [
+    {
+      "title": "【デジタル庁】転職・退職したらマイナ保険証の再登録は必要？やり直し不要の手続きと保険の切替ルールまとめ - DXマガジン",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1vNi1pUEhOaEZ2OU1uZW5mWUdKeDdnSEU3ZHJULTdidGdPQ2hsVGtHQ3dQOEt4ZUlWVkVBLWV1SXZ3N3dNS3VfSWJiZk9KQQ?oc=5",
+      "pub_date": "2026-11-17T17:52:06+09:00",
+      "source": "DXマガジン",
+      "description": "マイナンバーカードの更新って、10年に1回でしょ？　私もそう思っていました。でも調べていくと、そう単純じゃなかった。カード本体の期限はまだ先でも、中に入っている電子証明書のほうが先に切れる。そういう作りになっていたんです。",
+      "_glink": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1vNi1pUEhOaEZ2OU1uZW5mWUdKeDdnSEU3ZHJULTdidGdPQ2hsVGtHQ3dQOEt4ZUlWVkVBLWV1SXZ3N3dNS3VfSWJiZk9KQQ?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1vNi1pUEhOaEZ2OU1uZW5mWUdKeDdnSEU3ZHJULTdidGdPQ2hsVGtHQ3dQOEt4ZUlWVkVBLWV1SXZ3N3dNS3VfSWJiZk9KQQ?oc=5",
+      "category": "制度変更",
+      "topic": "insurance"
+    },
+    {
+      "title": "BlackNevasランサムウェア、VMware ESXiホスト4台とバックアップ基盤を破壊 vCenterの正規管理機能を悪用 - 合同会社ロケットボーイズ",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa3VVMGk4UEdDY1I0R0hSMUZES0NhaGw0dlJudDc2c2piZVdYaW1XbGM1dWRQUEVRU2ZWaXp5N01HbVZuSXZIa3kzX0pPRVNQYVBpUTNUZWFLSUc5VzlYMk42Y1pDNVlGSTFiX1d4NktocnF5NEdoMWhrVzVTdl95SjFDM2d1YWszTzM4MU9ldndSM01oY093eTJSQmJBdUotLVVULWpieEtUcFBlbzRF?oc=5",
+      "pub_date": "2026-11-17T14:00:31+09:00",
+      "source": "合同会社ロケットボーイズ",
+      "description": "ランサムウェア対策に特化した米国のサイバーセキュリティ企業Halcyonの日本法人、Halcyon Japan株式会社（本社：東京都渋谷区、カントリーマネージャー：露木 正樹）は本日、ランサムウェアオペレーションセンター（ROC）が観測した2026年8月のランサム ...",
+      "_glink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa3VVMGk4UEdDY1I0R0hSMUZES0NhaGw0dlJudDc2c2piZVdYaW1XbGM1dWRQUEVRU2ZWaXp5N01HbVZuSXZIa3kzX0pPRVNQYVBpUTNUZWFLSUc5VzlYMk42Y1pDNVlGSTFiX1d4NktocnF5NEdoMWhrVzVTdl95SjFDM2d1YWszTzM4MU9ldndSM01oY093eTJSQmJBdUotLVVULWpieEtUcFBlbzRF?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa3VVMGk4UEdDY1I0R0hSMUZES0NhaGw0dlJudDc2c2piZVdYaW1XbGM1dWRQUEVRU2ZWaXp5N01HbVZuSXZIa3kzX0pPRVNQYVBpUTNUZWFLSUc5VzlYMk42Y1pDNVlGSTFiX1d4NktocnF5NEdoMWhrVzVTdl95SjFDM2d1YWszTzM4MU9ldndSM01oY093eTJSQmJBdUotLVVULWpieEtUcFBlbzRF?oc=5",
+      "category": "一般",
+      "topic": "mynumber"
+    },
+    {
+      "title": "事業者側の開発不要、店頭で本人確認を完結できる「対面KYC専用アプリ」新規契約受付開始 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fZHlnUHhlUFduMjFrX0hXV28tcTFBNFlzOTVNUExWbm5ubVdTTmN4cGl5SC1lTS0wMEktcWNMa0tSVHdBX0RUcGhUVEoxWmNoS2ZSZk9aTXlVMTZQeUJsMV9KbTdBY3ZYVnc?oc=5",
+      "pub_date": "2026-11-17T10:00:02+09:00",
+      "source": "PR TIMES",
+      "description": "［株式会社ELEMENTS］2027年4月施行の犯罪収益移転防止法改正で原則必須となる、対面でのICチップ読み取りに対応株式会社Liquid（本社：東京都中央区、代表取締役：長谷川 敬起、以下「Liquid」）は、オンライン本人確認サービス「LIQUID eKYC」において、店頭・対面での本人確認に…",
+      "_glink": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fZHlnUHhlUFduMjFrX0hXV28tcTFBNFlzOTVNUExWbm5ubVdTTmN4cGl5SC1lTS0wMEktcWNMa0tSVHdBX0RUcGhUVEoxWmNoS2ZSZk9aTXlVMTZQeUJsMV9KbTdBY3ZYVnc?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fZHlnUHhlUFduMjFrX0hXV28tcTFBNFlzOTVNUExWbm5ubVdTTmN4cGl5SC1lTS0wMEktcWNMa0tSVHdBX0RUcGhUVEoxWmNoS2ZSZk9aTXlVMTZQeUJsMV9KbTdBY3ZYVnc?oc=5",
+      "category": "制度変更",
+      "topic": "mynumber"
+    },
     {
       "title": "調達仕様書等の意見招請に対する回答：「令和9年度マイナアプリのテスト支援」を掲載しました",
       "link": "https://www.digital.go.jp/procurement/invitation-answer",
@@ -8,6 +41,17 @@
       "source": "デジタル庁",
       "description": "東京都GIGAスクール推進協議会は2026年11月9日、2027年度（令和9年度）に予定する都内公立学校の学習者用コンピュータの共同調達に向け、事業者を対象とした情報提供依頼（RFI）を開始した。対象はiPadのWi-Fiモデルで、仕様書案への意見や ...",
       "thumbnail": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
+      "category": "一般",
+      "topic": "mynumber"
+    },
+    {
+      "title": "クラウド型電子カルテ「CLIUS(クリアス)」が「Googleで予約」に対応 - ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BTXRxQlk4VG5GNFVfNG5VYzN0RzNGeGNNWnhQVjJzbkhMR1E4ckJDVjVHdkJ3cmVLSFZQM0lwQ0duUzlqRnNLbHN0ZUthWE8zaFU1R2psSmJ3LURSNHcycUxPYWhma0Jr?oc=5",
+      "pub_date": "2026-11-16T13:00:26+09:00",
+      "source": "ニコニコニュース",
+      "description": "～Googleマップ・Google検索から、クリニックのWeb予約へ直接進めるように～ ...",
+      "_glink": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BTXRxQlk4VG5GNFVfNG5VYzN0RzNGeGNNWnhQVjJzbkhMR1E4ckJDVjVHdkJ3cmVLSFZQM0lwQ0duUzlqRnNLbHN0ZUthWE8zaFU1R2psSmJ3LURSNHcycUxPYWhma0Jr?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BTXRxQlk4VG5GNFVfNG5VYzN0RzNGeGNNWnhQVjJzbkhMR1E4ckJDVjVHdkJ3cmVLSFZQM0lwQ0duUzlqRnNLbHN0ZUthWE8zaFU1R2psSmJ3LURSNHcycUxPYWhma0Jr?oc=5",
       "category": "一般",
       "topic": "mynumber"
     },
@@ -5419,49 +5463,6 @@
       "_glink": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBCTVpOYk00RmpVUjc1SGlHblVPMDhWM0hPSUJFVmM0OTlMajB1YmJVZGxxWHc2U2RnUTZoQV9ISzBWWXhLbHU5czVock9FcGNHY1F2cXNIb1lweXJ5c1ExQlRtaEdGcEVJb1NtX3cya3Rqbl94V3NMUGkyWk0?oc=5",
       "_resolved_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBCTVpOYk00RmpVUjc1SGlHblVPMDhWM0hPSUJFVmM0OTlMajB1YmJVZGxxWHc2U2RnUTZoQV9ISzBWWXhLbHU5czVock9FcGNHY1F2cXNIb1lweXJ5c1ExQlRtaEdGcEVJb1NtX3cya3Rqbl94V3NMUGkyWk0?oc=5",
       "category": "一般",
-      "topic": "insurance"
-    },
-    {
-      "title": "従来の健康保険証31日まで マイナ保険証か資格確認書の提示を | NHKニュース | 医療・健康、マイナンバー、厚生労働省 - NHKニュース",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5URkR1WmQ4RktndkRDTGVuTDZ1QU5fNkVIdW5STFhJSkRhVjY4R211Zkwta0txLVQ0ckp5RWN0S3ljNlBSRjE1Wlk3OUtxT29rX0ZOLXRpN21ZU0gtVnBr?oc=5",
-      "pub_date": "2026-07-31T13:08:15+09:00",
-      "source": "NHKニュース",
-      "description": "従来の健康保険証が1日で期限切れとなり、2日から医療機関を受診する際はマイナンバーカードと一体化した「マイナ保険証」か、マイナカードを持たない人に発行された「資格確認書」を使う仕組みへ本格移行する。政府はマイナ保険証のメリットを ...",
-      "_glink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5URkR1WmQ4RktndkRDTGVuTDZ1QU5fNkVIdW5STFhJSkRhVjY4R211Zkwta0txLVQ0ckp5RWN0S3ljNlBSRjE1Wlk3OUtxT29rX0ZOLXRpN21ZU0gtVnBr?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5URkR1WmQ4RktndkRDTGVuTDZ1QU5fNkVIdW5STFhJSkRhVjY4R211Zkwta0txLVQ0ckp5RWN0S3ljNlBSRjE1Wlk3OUtxT29rX0ZOLXRpN21ZU0gtVnBr?oc=5",
-      "category": "制度変更",
-      "topic": "insurance"
-    },
-    {
-      "title": "従来の健康保険証31日まで マイナ保険証か資格確認書の提示を",
-      "link": "http://www3.nhk.or.jp/news/html/20260731/k10015191931000.html",
-      "pub_date": "2026-07-31T13:08:15+09:00",
-      "source": "NHK政治",
-      "description": "マイナンバーカードと一体化した「マイナ保険証」の利用が基本となる中、従来の健康保険証でも保険診療を受けられる措置は、7月31日で終了します。8月1日以降、医療機関や薬局の窓口では「マイナ保険証」か「資格確認書」の提示が必要となります。",
-      "thumbnail": "https://imgu.web.nhk/news/u/news/html/20260731/K10015191931_2607311247_0731130815_01_02.jpg",
-      "category": "一般",
-      "topic": "insurance"
-    },
-    {
-      "title": "【画像】【8月1日から】期限切れの健康保険証は原則使えず。マイナ保険証がない人はどうなる？資格確認書って何 - ハフポスト",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBadUJoYlM2eXdwWkxRcFc1X0JhTEFNd1Y2eld2bGRzYktBbUVXbEc1aGg1Z1BUV0lkZEtZc1N6b1hxZi1aLXNmal9aYmtFNlZTNmpOSF9BRDhzWFBoNDFteEFsSzY0dkZmbklEbUEzUTNvWGpGV3h3Vg?oc=5",
-      "pub_date": "2026-07-31T12:58:40+09:00",
-      "source": "ハフポスト",
-      "description": "8月1日から、期限切れの従来の「健康保険証」を利用可能とする対応が終了します。これに伴い、厚生労働省は「マイナ保険証」か「資格確認書」のどちらかが手元にあるか確認するよう、呼びかけています。 【画像】熊本地震で被災し、「マイナ保険証」や「資格確認書」が持ち出せなかった場合の対応 ...",
-      "_glink": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBadUJoYlM2eXdwWkxRcFc1X0JhTEFNd1Y2eld2bGRzYktBbUVXbEc1aGg1Z1BUV0lkZEtZc1N6b1hxZi1aLXNmal9aYmtFNlZTNmpOSF9BRDhzWFBoNDFteEFsSzY0dkZmbklEbUEzUTNvWGpGV3h3Vg?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBadUJoYlM2eXdwWkxRcFc1X0JhTEFNd1Y2eld2bGRzYktBbUVXbEc1aGg1Z1BUV0lkZEtZc1N6b1hxZi1aLXNmal9aYmtFNlZTNmpOSF9BRDhzWFBoNDFteEFsSzY0dkZmbklEbUEzUTNvWGpGV3h3Vg?oc=5",
-      "category": "制度変更",
-      "topic": "insurance"
-    },
-    {
-      "title": "従来の保険証きょうまで 「マイナ保険証」切り替え呼びかけ 利用率は頭打ち - テレ朝NEWS",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PM25PblNSZkw5MzhIekVmcVc1ZlNEbjlnVHZSRDJQOGF3ZFYtMGdRRE5MV2dMUUlYTi1yUlFzZHpDdXpLc3FrOXNoSE50a3dIT0JQS3p6emtpZ2dSQUl3Sm9iNUQ2dGx5U2U0U1BVY2VCQQ?oc=5",
-      "pub_date": "2026-07-31T12:35:57+09:00",
-      "source": "テレ朝NEWS",
-      "description": "従来の保険証が31日限りで使えなくなります。厚生労働省は「マイナ保険証」への切り替えを改めて呼び掛けました。 従来の健康保険証はすべて、有効期限が去年12月までで切れています。",
-      "_glink": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PM25PblNSZkw5MzhIekVmcVc1ZlNEbjlnVHZSRDJQOGF3ZFYtMGdRRE5MV2dMUUlYTi1yUlFzZHpDdXpLc3FrOXNoSE50a3dIT0JQS3p6emtpZ2dSQUl3Sm9iNUQ2dGx5U2U0U1BVY2VCQQ?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PM25PblNSZkw5MzhIekVmcVc1ZlNEbjlnVHZSRDJQOGF3ZFYtMGdRRE5MV2dMUUlYTi1yUlFzZHpDdXpLc3FrOXNoSE50a3dIT0JQS3p6emtpZ2dSQUl3Sm9iNUQ2dGx5U2U0U1BVY2VCQQ?oc=5",
-      "category": "制度変更",
       "topic": "insurance"
     }
   ]
