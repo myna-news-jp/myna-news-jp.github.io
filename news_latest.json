@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-19T15:11:43+09:00",
+  "updated": "2026-11-20T02:59:30+09:00",
   "articles": [
+    {
+      "title": "CLINITがクリニック向けに「30分無料セキュリティチェック」を開始する意義 - ニュースメディアVOIX",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVLUJMMUZvRDcxS2NsUG9mRmtVUGdtY08yYTd1TERrOGp6anFxcHJXdHhYV0NXZnBIUGg0SXM5NHRrdkpiRWxwSGYwMUl2X3NiZ2tPbmNKVk5iVUZJelRzOXRCY1BkWFd5LWc?oc=5",
+      "pub_date": "2026-11-19T21:38:10+09:00",
+      "source": "ニュースメディアVOIX",
+      "description": "CLINITでは、クリニック向けに「30分無料セキュリティチェック」をオンラインで実施しています。厚生労働省のチェックリストをベースに、現在のIT環境や対策状況をヒアリングし、優先して確認すべき課題や今後の進め方をご案内します。",
+      "_glink": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVLUJMMUZvRDcxS2NsUG9mRmtVUGdtY08yYTd1TERrOGp6anFxcHJXdHhYV0NXZnBIUGg0SXM5NHRrdkpiRWxwSGYwMUl2X3NiZ2tPbmNKVk5iVUZJelRzOXRCY1BkWFd5LWc?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVLUJMMUZvRDcxS2NsUG9mRmtVUGdtY08yYTd1TERrOGp6anFxcHJXdHhYV0NXZnBIUGg0SXM5NHRrdkpiRWxwSGYwMUl2X3NiZ2tPbmNKVk5iVUZJelRzOXRCY1BkWFd5LWc?oc=5",
+      "category": "一般",
+      "topic": "mynumber"
+    },
+    {
+      "title": "CLINIT、クリニック向け「30分無料セキュリティチェック」受付を開始 - ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyS2taNlI2aVNnREZHYVZjREkzakVCWFVRQ0xhVXZoRlN2UlNwUTBkUDAtRUVoU0VpNkwyWHVnMFJ1MzQ3dHhxOXJnSUFnVXQwSkR3c3Z2bUJOWTBENTB0eFc3R1ZEMHlQ?oc=5",
+      "pub_date": "2026-11-19T21:30:32+09:00",
+      "source": "ニコニコニュース",
+      "description": "［CLINIT株式会社］厚労省チェックリストをもとに、優先すべき課題と進め方をオンラインで案内。現状確認から設定改善・復旧準備までの支援にも対応。CLINIT（クリニット）株式会社（東京都品川区、代表取締役：松本 健一郎）は、クリニック向けの「30分無料セキュリティチェック」の受付を開始しました。",
+      "_glink": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyS2taNlI2aVNnREZHYVZjREkzakVCWFVRQ0xhVXZoRlN2UlNwUTBkUDAtRUVoU0VpNkwyWHVnMFJ1MzQ3dHhxOXJnSUFnVXQwSkR3c3Z2bUJOWTBENTB0eFc3R1ZEMHlQ?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyS2taNlI2aVNnREZHYVZjREkzakVCWFVRQ0xhVXZoRlN2UlNwUTBkUDAtRUVoU0VpNkwyWHVnMFJ1MzQ3dHhxOXJnSUFnVXQwSkR3c3Z2bUJOWTBENTB0eFc3R1ZEMHlQ?oc=5",
+      "category": "一般",
+      "topic": "mynumber"
+    },
     {
       "title": "CLINIT、クリニック向け「30分無料セキュリティチェック」受付を開始 - 時事ドットコム",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44TGdneno4UDU4U3BDM0VBalIyWVJlRTRNT3dsWUJPbmxvSVYyOTJ6SDBFamhfUGFOS3ZuUElnelV3Z1JFV2pOQ1RURXphSkxHQVRJeVVnN0oyVGdRRFgtRFhja0ZYblhoQ0cw?oc=5",
@@ -524,28 +546,6 @@
       "thumbnail": "https://www.mhlw.go.jp/common/img/img_ogp.jpg",
       "category": "制度変更",
       "topic": "insurance"
-    },
-    {
-      "title": "SBIレミットの国際送金サービスにオンライン本人確認サービス「LIQUID eKYC」を提供 - 株式会社Liquid",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TM3VkYWFiMnBSWkhEYnZvaklneEg2dUFTS1ViZEF6U1VXeHlJWG5xR1RRUFVOSGpjc2ZaVmtlVHJnQWoyNGxwSGtkS2RnR3AwTWIzUE5XRGZIV2Iz?oc=5",
-      "pub_date": "2026-11-09T13:05:38+09:00",
-      "source": "株式会社Liquid",
-      "description": "国際送金サービスを提供するレミットリー（本社：米国ワシントン州シアトル）は、日本に在住する外国人を対象とした「住みたい町」の調査を実施しました。 総務省の調査によると、日本に住む外国人の数は過去最多を記録しており、日本で暮らす人々の ...",
-      "_glink": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TM3VkYWFiMnBSWkhEYnZvaklneEg2dUFTS1ViZEF6U1VXeHlJWG5xR1RRUFVOSGpjc2ZaVmtlVHJnQWoyNGxwSGtkS2RnR3AwTWIzUE5XRGZIV2Iz?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TM3VkYWFiMnBSWkhEYnZvaklneEg2dUFTS1ViZEF6U1VXeHlJWG5xR1RRUFVOSGpjc2ZaVmtlVHJnQWoyNGxwSGtkS2RnR3AwTWIzUE5XRGZIV2Iz?oc=5",
-      "category": "一般",
-      "topic": "mynumber"
-    },
-    {
-      "title": "DOBERMAN INFINITY COUNTDOWN LIVE 2026 ▷ 2027 開催決定！ - LDH",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA1Zl9MU0R6bE1ndTM0THpRSXNEZUducGVsZXVLd3hjQmoyWGpPcFJYbllPT3JGWlFCMjJCMFdWTkZzMVRvbnNIQ2F3Z3NxZWJENE5WMldPRFhEd0NrUG9zbXBHQ09jT2R0ZUFmcFpfcWpmWGdDMzJmRHYtaU95UQ?oc=5",
-      "pub_date": "2026-11-09T12:53:29+09:00",
-      "source": "LDH",
-      "description": "DOBERMAN INFINITYが、12月31日(木)に大阪・なんばHatchでカウントダウンライブ『DOBERMAN INFINITY COUNTDOWN LIVE 2026 ▷ ...",
-      "_glink": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA1Zl9MU0R6bE1ndTM0THpRSXNEZUducGVsZXVLd3hjQmoyWGpPcFJYbllPT3JGWlFCMjJCMFdWTkZzMVRvbnNIQ2F3Z3NxZWJENE5WMldPRFhEd0NrUG9zbXBHQ09jT2R0ZUFmcFpfcWpmWGdDMzJmRHYtaU95UQ?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA1Zl9MU0R6bE1ndTM0THpRSXNEZUducGVsZXVLd3hjQmoyWGpPcFJYbllPT3JGWlFCMjJCMFdWTkZzMVRvbnNIQ2F3Z3NxZWJENE5WMldPRFhEd0NrUG9zbXBHQ09jT2R0ZUFmcFpfcWpmWGdDMzJmRHYtaU95UQ?oc=5",
-      "category": "一般",
-      "topic": "mynumber"
     }
   ],
   "total": 500
