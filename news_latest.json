@@ -1,6 +1,17 @@
 {
-  "updated": "2026-11-20T02:59:30+09:00",
+  "updated": "2026-11-20T14:57:40+09:00",
   "articles": [
+    {
+      "title": "CLINITがクリニック向けに「30分無料セキュリティチェック」を開始する意義 - ニュースメディアVOIX",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDNW1ua19meHFrb3ZJaFNNQ2lsTHFWT3NrbHVadGJGSDJoQlhrOGFGSVQ1Um1aQjBmRm5zdElGM25Kck9MakQ2czIxMHpSRExrWlh3TUdYbEtDek5GWGhWQXdBZmNLejA?oc=5",
+      "pub_date": "2026-11-19T21:38:10+09:00",
+      "source": "ニュースメディアVOIX",
+      "description": "［CLINIT株式会社］厚労省チェックリストをもとに、優先すべき課題と進め方をオンラインで案内。現状確認から設定改善・復旧準備までの支援にも対応。CLINIT（クリニット）株式会社（東京都品川区、代表取締役：松本 健一郎）は、クリニック向けの「30分無料セキュリティチェック」の受付を開始しました。",
+      "_glink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDNW1ua19meHFrb3ZJaFNNQ2lsTHFWT3NrbHVadGJGSDJoQlhrOGFGSVQ1Um1aQjBmRm5zdElGM25Kck9MakQ2czIxMHpSRExrWlh3TUdYbEtDek5GWGhWQXdBZmNLejA?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDNW1ua19meHFrb3ZJaFNNQ2lsTHFWT3NrbHVadGJGSDJoQlhrOGFGSVQ1Um1aQjBmRm5zdElGM25Kck9MakQ2czIxMHpSRExrWlh3TUdYbEtDek5GWGhWQXdBZmNLejA?oc=5",
+      "category": "一般",
+      "topic": "mynumber"
+    },
     {
       "title": "CLINITがクリニック向けに「30分無料セキュリティチェック」を開始する意義 - ニュースメディアVOIX",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVLUJMMUZvRDcxS2NsUG9mRmtVUGdtY08yYTd1TERrOGp6anFxcHJXdHhYV0NXZnBIUGg0SXM5NHRrdkpiRWxwSGYwMUl2X3NiZ2tPbmNKVk5iVUZJelRzOXRCY1BkWFd5LWc?oc=5",
@@ -536,16 +547,6 @@
       "_resolved_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MZ0twazZsaW5TcUtKS1UxQUVoc1FfQ0JfU3ZBeW5tTHdFMExRWi1Pb1IzcThleDl4b0Z1ci1rZExXYnhrTGFrYWxFOFZkQUpSYjYtdHBvV0xscF96UUE?oc=5",
       "category": "制度変更",
       "topic": "mynumber"
-    },
-    {
-      "title": "第220回社会保障審議会医療保険部会（ペーパーレス）の開催について",
-      "link": "https://www.mhlw.go.jp/stf/newpage_77211.html",
-      "pub_date": "2026-11-09T14:00:00+09:00",
-      "source": "厚生労働省",
-      "description": "厚生労働省の社会保障審議会医療保険部会（部会長：岩村正彦・東京大学名誉教授）は10月1日、高齢者の医療費窓口負担の見直しを巡る本格的な議論を開始した。参考人として招かれた日本退職者連合、日本退職公務員連盟、認知症の人と家族の会の3団体 ...",
-      "thumbnail": "https://www.mhlw.go.jp/common/img/img_ogp.jpg",
-      "category": "制度変更",
-      "topic": "insurance"
     }
   ],
   "total": 500
