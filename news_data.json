@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T16:16:30+09:00",
+  "updated": "2026-11-26T03:59:57+09:00",
   "articles": [
     {
       "title": "メール会員限定】プレゼントキャンペーン！『保険診療 基本法令テキストブック（医科／令和8年4月版） - 社会保険研究所",
@@ -5223,6 +5223,17 @@
       "topic": "insurance"
     },
     {
+      "title": "8月からマイナ保険証へ本格移行！ 期限切れ保険証で｢窓口10割負担｣を防ぐ直前対策と注意点 - 東洋経済オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44NGhVMXRyYWhWRnR6ZWMza3h3VjlRQXlHX0trZThibkdmM1A1UUhoTWFLWkIyMkJNM0ppcGFtdnk2Y2s5a1B2Ui1JTUM0WHRrWGZ5czl5WnpwNG80cWUw?oc=5",
+      "pub_date": "2026-08-01T16:00:00+09:00",
+      "source": "東洋経済オンライン",
+      "description": "紙など従来の健康保険証が今月いっぱいで使えなくなり、8月からマイナンバーカード（マイナカード）に保険証機能を登録した「マイナ保険証」に完全移行する。移行の経緯や注意すべき点などを解説する。 医療の質向上などメリット多い 従来の健康 ...",
+      "_glink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44NGhVMXRyYWhWRnR6ZWMza3h3VjlRQXlHX0trZThibkdmM1A1UUhoTWFLWkIyMkJNM0ppcGFtdnk2Y2s5a1B2Ui1JTUM0WHRrWGZ5czl5WnpwNG80cWUw?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44NGhVMXRyYWhWRnR6ZWMza3h3VjlRQXlHX0trZThibkdmM1A1UUhoTWFLWkIyMkJNM0ppcGFtdnk2Y2s5a1B2Ui1JTUM0WHRrWGZ5czl5WnpwNG80cWUw?oc=5",
+      "category": "制度変更",
+      "topic": "insurance"
+    },
+    {
       "title": "8月から保険診療に「マイナ保険証」か「資格確認書」の提示が必要に 従来の保険証の「暫定措置」7月で終了 - TBS NEWS DIG",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80MG5QZHZkclJ6NTU2bW9CLWJyTFNscmdjZThWRTBNMTJsLTFhbFBUZEszaDJHQXJ3N1FXZjdjZzhPYkpweG5VS1JKUlZybVpxdlJQZFVNbw?oc=5",
       "pub_date": "2026-08-01T16:00:00+09:00",
@@ -5452,17 +5463,6 @@
       "_resolved_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5qRS04UWVFUHJsNV9WbGdaZ3F5UF8yOTJSM3VqUzhrWEZrUVhGd2NaWVIyd3gtR3VYYk9KLTF2Y1Q2Z3J5TlRiU3Nrd1dnMUY5?oc=5",
       "category": "一般",
       "topic": "insurance"
-    },
-    {
-      "title": "高齢者「登録法分からず」 マイナ完全移行、不安の声も 東京（時事通信） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHU3ZjM3NXdThTNFJYNWFJMEh0UERiTVhHczRwOFZjTGdUT0xOZm16Ul9nMGs2OE9DakpreEk3Z21DVWhxYjYyNktoejdqbjJNTEh4bVVtUjgtVjFFdEZ4RU9xME1ZT0tUaWp4aHBtS3dNY1AyNzI0bEVQMWtCZVU?oc=5",
-      "pub_date": "2026-08-01T07:19:54+09:00",
-      "source": "Yahoo!ニュース",
-      "description": "",
-      "_glink": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHU3ZjM3NXdThTNFJYNWFJMEh0UERiTVhHczRwOFZjTGdUT0xOZm16Ul9nMGs2OE9DakpreEk3Z21DVWhxYjYyNktoejdqbjJNTEh4bVVtUjgtVjFFdEZ4RU9xME1ZT0tUaWp4aHBtS3dNY1AyNzI0bEVQMWtCZVU?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHU3ZjM3NXdThTNFJYNWFJMEh0UERiTVhHczRwOFZjTGdUT0xOZm16Ul9nMGs2OE9DakpreEk3Z21DVWhxYjYyNktoejdqbjJNTEh4bVVtUjgtVjFFdEZ4RU9xME1ZT0tUaWp4aHBtS3dNY1AyNzI0bEVQMWtCZVU?oc=5",
-      "category": "一般",
-      "topic": "mynumber"
     }
   ]
 }

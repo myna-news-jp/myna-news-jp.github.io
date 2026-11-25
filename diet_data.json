@@ -1,9 +1,40 @@
 {
-  "updated": "2026-11-25T16:16:37+09:00",
+  "updated": "2026-11-26T04:00:03+09:00",
   "total_exchanges": 260,
-  "total_questions": 225,
+  "total_questions": 224,
   "total_answers": 118,
   "exchanges": [
+    {
+      "issueID": "122205367X00320261106",
+      "session": 222,
+      "nameOfHouse": "衆議院",
+      "nameOfMeeting": "地域活性化・こども政策・デジタル社会形成に関する特別委員会",
+      "issue": "第3号",
+      "imageKind": "会議録",
+      "date": "2026-11-06",
+      "question": null,
+      "answers": [
+        {
+          "speechID": "122205367X00320261106_081",
+          "issueID": "122205367X00320261106",
+          "session": 222,
+          "nameOfHouse": "衆議院",
+          "nameOfMeeting": "地域活性化・こども政策・デジタル社会形成に関する特別委員会",
+          "issue": "第3号",
+          "imageKind": "会議録",
+          "date": "2026-11-06",
+          "speaker": "古川俊治",
+          "speakerGroup": "自由民主党・無所属の会",
+          "speakerPosition": "デジタル大臣・内閣府特命担当大臣（知的財産戦略・科学技術政策・宇宙政策・人工知能戦略・海洋政策・サイバー安全保障）",
+          "speakerRole": "",
+          "is_minister": true,
+          "excerpt": "○古川国務大臣 マイナンバーカードは、安全、確実で便利な本人確認手段として様々なシーンで利用することができます。 具体的には、確定申告、パスポート、引っ越しなど、様々な行政手続をオンラインで行えるほか、健康保険証、運転免許証、図書館カードなどとして、マイナンバーカード一枚で様々な行政サービスを受けることもでき、さらには、銀行、証券、通信など、",
+          "speechURL": "https://kokkai.ndl.go.jp/txt/122205367X00320261106/81",
+          "speechOrder": 81
+        }
+      ],
+      "ai_title": ""
+    },
     {
       "issueID": "122205367X00220261030",
       "session": 222,
@@ -7059,35 +7090,6 @@
       "ai_title": ""
     },
     {
-      "issueID": "121704889X01420250416",
-      "session": 217,
-      "nameOfHouse": "衆議院",
-      "nameOfMeeting": "内閣委員会",
-      "issue": "第14号",
-      "imageKind": "会議録",
-      "date": "2025-04-16",
-      "question": {
-        "speechID": "121704889X01420250416_215",
-        "issueID": "121704889X01420250416",
-        "session": 217,
-        "nameOfHouse": "衆議院",
-        "nameOfMeeting": "内閣委員会",
-        "issue": "第14号",
-        "imageKind": "会議録",
-        "date": "2025-04-16",
-        "speaker": "上村英明",
-        "speakerGroup": "れいわ新選組",
-        "speakerPosition": "",
-        "speakerRole": "",
-        "is_minister": false,
-        "excerpt": "○上村委員 これはある意味で日本の教育の質の問題にも関わるところなので、是非前向きにいろいろと御検討いただければと思います。 最後の質問になると思いますので、どこまで行けるか分からないんですけれども、一応話をしておきますと、ＡＩ推進の周辺の部分でいろいろな動きがあるんですけれども、現在、同時並行で、",
-        "speechURL": "https://kokkai.ndl.go.jp/txt/121704889X01420250416/215",
-        "speechOrder": 215
-      },
-      "answers": [],
-      "ai_title": ""
-    },
-    {
       "issueID": "121704260X01020250416",
       "session": 217,
       "nameOfHouse": "衆議院",
@@ -8997,24 +8999,6 @@
           "excerpt": "○政府参考人（榊原毅君） お答え申し上げます。 医療機関において初診の患者がマイナ保険証を何らかの理由で利用できず、また資格情報のお知らせ等の提示ができないと、またこれまでかかったこともないというような事例につきまして、被保険者資格申立書を記入いただくことによりまして、十割負担ではなく、",
           "speechURL": "https://kokkai.ndl.go.jp/txt/121615360X00320241219/41",
           "speechOrder": 41
-        },
-        {
-          "speechID": "121615360X00320241219_047",
-          "issueID": "121615360X00320241219",
-          "session": 216,
-          "nameOfHouse": "参議院",
-          "nameOfMeeting": "地方創生及びデジタル社会の形成等に関する特別委員会",
-          "issue": "第3号",
-          "imageKind": "会議録",
-          "date": "2024-12-19",
-          "speaker": "阿部竜矢",
-          "speakerGroup": "",
-          "speakerPosition": "警察庁長官官房審議官",
-          "speakerRole": "",
-          "is_minister": true,
-          "excerpt": "○政府参考人（阿部竜矢君） お答えいたします。 マイナ免許証の保有形態ですけど、マイナ免許証かあるいは従来の免許証、それか両方持つかと、三パターンあるというふうに考えております。 運転免許証をまず廃止することにつきましては、例えば、運転免許試験に合格した方がマイナンバーカードを保有していない場合にどうするかといった課題がございます。 それから、",
-          "speechURL": "https://kokkai.ndl.go.jp/txt/121615360X00320241219/47",
-          "speechOrder": 47
         },
         {
           "speechID": "121615360X00320241219_097",
