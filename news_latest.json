@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T03:43:21+09:00",
+  "updated": "2026-11-28T15:35:33+09:00",
   "articles": [
     {
       "title": "完全審査制マッチングアプリ「Hills high」の本人確認にPocketSign Verify導入 - ニコニコニュース",
@@ -11,6 +11,17 @@
       "_resolved_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nZ1ZkT2JLMUtCX0NKVk1oY19KcVBZTVFCVDZvVkt2QWhnVTdUNVVNZXM1QmZNYm10RVp0LUxUQVJoQnF5MmZFU0dvWGkxQzJkQWR4QXpacEZZRmRrMC0wQlBTZzRCWllnZlJTSTVjanJuTVl4R0E?oc=5",
       "category": "一般",
       "topic": "mynumber"
+    },
+    {
+      "title": "SB C&S、パナソニック コネクトの医療機関・薬局向け「顔認証付きカードリーダー」新モデルの取り扱いを開始 - ASCII.jp",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9SOFVIblh4ZFJjZk1hRVpwU1VNem9xUDR1cEFSckJhYWJMXzRwRjlNZEZkV0lPUW9wM2xVZ1MtR0xHbF9oc0JaeEg5RGJ2WVhYdFhIUA?oc=5",
+      "pub_date": "2026-11-27T20:27:57+09:00",
+      "source": "ASCII.jp",
+      "description": "～資格確認端末の内蔵による省スペース化と独自の保守サービスで、医療現場の安定運用を支援～ SB C&amp;S株式会社（本社：東京都港区、代表取締役社長 兼 CEO：草川 和哉、以下「SB C&amp;S」）は、パナソニック ...",
+      "_glink": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9SOFVIblh4ZFJjZk1hRVpwU1VNem9xUDR1cEFSckJhYWJMXzRwRjlNZEZkV0lPUW9wM2xVZ1MtR0xHbF9oc0JaeEg5RGJ2WVhYdFhIUA?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9SOFVIblh4ZFJjZk1hRVpwU1VNem9xUDR1cEFSckJhYWJMXzRwRjlNZEZkV0lPUW9wM2xVZ1MtR0xHbF9oc0JaeEg5RGJ2WVhYdFhIUA?oc=5",
+      "category": "一般",
+      "topic": "insurance"
     },
     {
       "title": "『ポケカ』30周年記念商品がポケセンオンラインで抽選販売！拡張パック「30th CELEBRATION」や「エーフィ・ブラッキーセット」が対象 - インサイド",
@@ -534,17 +545,6 @@
       "_resolved_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ySW9zRFR6ZVRTV0F2SXJkaXRaNi0zVUt2NjhnZ1pVZFdzaWZWbjB5QWVYUHhySFFGS05NR3RxblNGVGsybmxOR2RhMDB2QUlwdU8tNVo0RHNvUVI2dDU3QQ?oc=5",
       "category": "一般",
       "topic": "mynumber"
-    },
-    {
-      "title": "【2026年最新】マイナ保険証と「資格確認書」の落とし穴！知らないと医療費の立て替えで30万円消える罠と手元確認 - YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBSW1pQnp5cU1BTTdmU3c0RXV4czFXeGxZZVRiRElHbnBqOGoxc2psZnBxMTNJTWNaV09Yd2Zsc2JhU0wxelJzbVllY1JQWS1KZmxsMWRwWS1GRHQt?oc=5",
-      "pub_date": "2026-11-15T18:10:54+09:00",
-      "source": "YouTube",
-      "description": "健康保険証が使えなくなる話を聞いたことはないだろうか。従来の健康保険証は2025年12月1日をもって有効期限が終了している。 ただし、有効期限切れの保険証をそのまま使える「暫定措置」が複数回にわたって延長されているため、現在の状況がわかり ...",
-      "_glink": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBSW1pQnp5cU1BTTdmU3c0RXV4czFXeGxZZVRiRElHbnBqOGoxc2psZnBxMTNJTWNaV09Yd2Zsc2JhU0wxelJzbVllY1JQWS1KZmxsMWRwWS1GRHQt?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBSW1pQnp5cU1BTTdmU3c0RXV4czFXeGxZZVRiRElHbnBqOGoxc2psZnBxMTNJTWNaV09Yd2Zsc2JhU0wxelJzbVllY1JQWS1KZmxsMWRwWS1GRHQt?oc=5",
-      "category": "制度変更",
-      "topic": "insurance"
     }
   ],
   "total": 500

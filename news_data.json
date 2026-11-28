@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T03:43:21+09:00",
+  "updated": "2026-11-28T15:35:33+09:00",
   "articles": [
     {
       "title": "完全審査制マッチングアプリ「Hills high」の本人確認にPocketSign Verify導入 - ニコニコニュース",
@@ -11,6 +11,17 @@
       "_resolved_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nZ1ZkT2JLMUtCX0NKVk1oY19KcVBZTVFCVDZvVkt2QWhnVTdUNVVNZXM1QmZNYm10RVp0LUxUQVJoQnF5MmZFU0dvWGkxQzJkQWR4QXpacEZZRmRrMC0wQlBTZzRCWllnZlJTSTVjanJuTVl4R0E?oc=5",
       "category": "一般",
       "topic": "mynumber"
+    },
+    {
+      "title": "SB C&S、パナソニック コネクトの医療機関・薬局向け「顔認証付きカードリーダー」新モデルの取り扱いを開始 - ASCII.jp",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9SOFVIblh4ZFJjZk1hRVpwU1VNem9xUDR1cEFSckJhYWJMXzRwRjlNZEZkV0lPUW9wM2xVZ1MtR0xHbF9oc0JaeEg5RGJ2WVhYdFhIUA?oc=5",
+      "pub_date": "2026-11-27T20:27:57+09:00",
+      "source": "ASCII.jp",
+      "description": "～資格確認端末の内蔵による省スペース化と独自の保守サービスで、医療現場の安定運用を支援～ SB C&amp;S株式会社（本社：東京都港区、代表取締役社長 兼 CEO：草川 和哉、以下「SB C&amp;S」）は、パナソニック ...",
+      "_glink": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9SOFVIblh4ZFJjZk1hRVpwU1VNem9xUDR1cEFSckJhYWJMXzRwRjlNZEZkV0lPUW9wM2xVZ1MtR0xHbF9oc0JaeEg5RGJ2WVhYdFhIUA?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9SOFVIblh4ZFJjZk1hRVpwU1VNem9xUDR1cEFSckJhYWJMXzRwRjlNZEZkV0lPUW9wM2xVZ1MtR0xHbF9oc0JaeEg5RGJ2WVhYdFhIUA?oc=5",
+      "category": "一般",
+      "topic": "insurance"
     },
     {
       "title": "『ポケカ』30周年記念商品がポケセンオンラインで抽選販売！拡張パック「30th CELEBRATION」や「エーフィ・ブラッキーセット」が対象 - インサイド",
@@ -5375,6 +5386,39 @@
       "topic": "insurance"
     },
     {
+      "title": "浜松の医療機関、マイナ保険証読み取り機器増設など対応 従来保険証が完全廃止 - 47NEWS",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9PbUVpQU9hNWUzZTh5eG1uZ29MaXc0ZDFuZ2lDTjZPeFowX1FHX2ZOV3NnZUdrVENEdjc4WU9oUnBWUWREbEdNVVM0OA?oc=5",
+      "pub_date": "2026-08-01T16:00:00+09:00",
+      "source": "47NEWS",
+      "description": "マイナンバーカードに健康保険証の機能を持たせた「マイナ保険証」への移行に伴い、8月1日からは従来の健康保険証は使用できなくなる。これまでは健康保険証だけでも保険資格が確認できれば、1～3割負担での保 ... 【仕事内容】一つずつ覚えられる職場 ...",
+      "_glink": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9PbUVpQU9hNWUzZTh5eG1uZ29MaXc0ZDFuZ2lDTjZPeFowX1FHX2ZOV3NnZUdrVENEdjc4WU9oUnBWUWREbEdNVVM0OA?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9PbUVpQU9hNWUzZTh5eG1uZ29MaXc0ZDFuZ2lDTjZPeFowX1FHX2ZOV3NnZUdrVENEdjc4WU9oUnBWUWREbEdNVVM0OA?oc=5",
+      "category": "制度変更",
+      "topic": "insurance"
+    },
+    {
+      "title": "令和8年8月1日からの資格確認書等の交付について - 白井市",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNXlmQWNyNGtMdjVkRFVrLTY3d0FDanAteW1rbGVmc3RvWXloVG9yRGhPd0tZVWRnMTBLaFNaWEJFdzc1d1YzUE83M3hUQTVyeHRoeHVxVzFmLUNVQllTMXZKZmdUTkg2Y1QxYnBfVDZPYVRqVTJ2eWUyaTZ0eUktbXU1cVRVN2RUWkE?oc=5",
+      "pub_date": "2026-08-01T16:00:00+09:00",
+      "source": "白井市",
+      "description": "後期高齢者医療制度に加入している方のもとには、毎年7月ごろに保険証代わりとなる書類が届きます。今年（令和8年）も7月中に発送が行われましたが、令和8年8月からは、この書類の交付ルールが一部変わりました。 【写真】後期高齢者医療制度「窓口 ...",
+      "_glink": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNXlmQWNyNGtMdjVkRFVrLTY3d0FDanAteW1rbGVmc3RvWXloVG9yRGhPd0tZVWRnMTBLaFNaWEJFdzc1d1YzUE83M3hUQTVyeHRoeHVxVzFmLUNVQllTMXZKZmdUTkg2Y1QxYnBfVDZPYVRqVTJ2eWUyaTZ0eUktbXU1cVRVN2RUWkE?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNXlmQWNyNGtMdjVkRFVrLTY3d0FDanAteW1rbGVmc3RvWXloVG9yRGhPd0tZVWRnMTBLaFNaWEJFdzc1d1YzUE83M3hUQTVyeHRoeHVxVzFmLUNVQllTMXZKZmdUTkg2Y1QxYnBfVDZPYVRqVTJ2eWUyaTZ0eUktbXU1cVRVN2RUWkE?oc=5",
+      "category": "一般",
+      "topic": "insurance"
+    },
+    {
+      "title": "【後期高齢者医療制度の被保険者の方】マイナ保険証をご利用ください - 福津市",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Mcy1xdzlKakdMb2VuN2RfOTlhaFZGS2FRQ28wWGtFbHQ4NzM5WDV0LXU1VEh0dGdFNi1xclY0STlwYlI0Vm1xb3dCem9hYlhBT3FyNFIzVHlUdlczU0x2eXU1ZnoyMlJGbmVOSUNPdk4xMVdMNFFhNzh0alAyZw?oc=5",
+      "pub_date": "2026-08-01T16:00:00+09:00",
+      "source": "福津市",
+      "description": "財布の中に、まだ以前の健康保険証が入っていませんか。2025年12月1日で、発行済みの健康保険証はすべて有効期限が終わりました。",
+      "_glink": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Mcy1xdzlKakdMb2VuN2RfOTlhaFZGS2FRQ28wWGtFbHQ4NzM5WDV0LXU1VEh0dGdFNi1xclY0STlwYlI0Vm1xb3dCem9hYlhBT3FyNFIzVHlUdlczU0x2eXU1ZnoyMlJGbmVOSUNPdk4xMVdMNFFhNzh0alAyZw?oc=5",
+      "_resolved_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Mcy1xdzlKakdMb2VuN2RfOTlhaFZGS2FRQ28wWGtFbHQ4NzM5WDV0LXU1VEh0dGdFNi1xclY0STlwYlI0Vm1xb3dCem9hYlhBT3FyNFIzVHlUdlczU0x2eXU1ZnoyMlJGbmVOSUNPdk4xMVdMNFFhNzh0alAyZw?oc=5",
+      "category": "制度変更",
+      "topic": "insurance"
+    },
+    {
       "title": "資格確認書および資格情報のお知らせについて（後期高齢者医療制度） - 西東京市",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMXZDdl90SjBkQkFFYzJPRGU5TEtOSnNfTWtwWTFOZnRwT0gtSl9kQ2hnX0Q1WjQ2dzRWcFRoUi1CRy1JNHlTRzljUmlrckphUnlmSzdTRmEyUnhYclFleHhsTFRodEVkV3JKX3lFaGVrTndjZXJWaHAwMDlrekprajFVcFNNVlQ5WDFEaFdvaEdKTHc?oc=5",
       "pub_date": "2026-08-01T16:00:00+09:00",
@@ -5415,50 +5459,6 @@
       "description": "一般社団法人クレア人財育英協会（本社：東京都千代田区紀尾井町、代表理事：酒井 康博）は、いよいよ今月末（令和8年7月31日）に迫った従来の健康保険証の経過措置終了に伴い、企業の人事労務担当者が直面する実務上の留意点と、マイナ保険証を持た ...",
       "_glink": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vVjNPSUoxVmVQMmd5bjZSQ3EtUkpZOGdRaEY3X3lvU1Vha2RseTk1TVNaWVVqeGRBUVZaek1lcWNXNjllUzltczMwbGFLZWlxbk4yZVNBQUdvTkdlX2d5a3dNa1JIY1pQWTNF?oc=5",
       "_resolved_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vVjNPSUoxVmVQMmd5bjZSQ3EtUkpZOGdRaEY3X3lvU1Vha2RseTk1TVNaWVVqeGRBUVZaek1lcWNXNjllUzltczMwbGFLZWlxbk4yZVNBQUdvTkdlX2d5a3dNa1JIY1pQWTNF?oc=5",
-      "category": "一般",
-      "topic": "insurance"
-    },
-    {
-      "title": "8月からマイナ保険証へ本格移行！ 期限切れ保険証で｢窓口10割負担｣を防ぐ直前対策と注意点 - 東洋経済オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44NGhVMXRyYWhWRnR6ZWMza3h3VjlRQXlHX0trZThibkdmM1A1UUhoTWFLWkIyMkJNM0ppcGFtdnk2Y2s5a1B2Ui1JTUM0WHRrWGZ5czl5WnpwNG80cWUw?oc=5",
-      "pub_date": "2026-08-01T16:00:00+09:00",
-      "source": "東洋経済オンライン",
-      "description": "紙など従来の健康保険証が今月いっぱいで使えなくなり、8月からマイナンバーカード（マイナカード）に保険証機能を登録した「マイナ保険証」に完全移行する。移行の経緯や注意すべき点などを解説する。 医療の質向上などメリット多い 従来の健康 ...",
-      "_glink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44NGhVMXRyYWhWRnR6ZWMza3h3VjlRQXlHX0trZThibkdmM1A1UUhoTWFLWkIyMkJNM0ppcGFtdnk2Y2s5a1B2Ui1JTUM0WHRrWGZ5czl5WnpwNG80cWUw?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44NGhVMXRyYWhWRnR6ZWMza3h3VjlRQXlHX0trZThibkdmM1A1UUhoTWFLWkIyMkJNM0ppcGFtdnk2Y2s5a1B2Ui1JTUM0WHRrWGZ5czl5WnpwNG80cWUw?oc=5",
-      "category": "制度変更",
-      "topic": "insurance"
-    },
-    {
-      "title": "8月から保険診療に「マイナ保険証」か「資格確認書」の提示が必要に 従来の保険証の「暫定措置」7月で終了 - TBS NEWS DIG",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80MG5QZHZkclJ6NTU2bW9CLWJyTFNscmdjZThWRTBNMTJsLTFhbFBUZEszaDJHQXJ3N1FXZjdjZzhPYkpweG5VS1JKUlZybVpxdlJQZFVNbw?oc=5",
-      "pub_date": "2026-08-01T16:00:00+09:00",
-      "source": "TBS NEWS DIG",
-      "description": "財布の中に、まだ以前の健康保険証が入っていませんか。2025年12月1日で、発行済みの健康保険証はすべて有効期限が終わりました。",
-      "_glink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80MG5QZHZkclJ6NTU2bW9CLWJyTFNscmdjZThWRTBNMTJsLTFhbFBUZEszaDJHQXJ3N1FXZjdjZzhPYkpweG5VS1JKUlZybVpxdlJQZFVNbw?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80MG5QZHZkclJ6NTU2bW9CLWJyTFNscmdjZThWRTBNMTJsLTFhbFBUZEszaDJHQXJ3N1FXZjdjZzhPYkpweG5VS1JKUlZybVpxdlJQZFVNbw?oc=5",
-      "category": "制度変更",
-      "topic": "insurance"
-    },
-    {
-      "title": "令和8年8月以降、後期高齢者医療制度の資格確認書に関する運用が変わりました - 金沢市公式ホームページ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQck5JZnozUGlxekx3Sk0wWi1WUjBVY3Nxa295SFV5NkZxNW5rZWs2ZTdOQUxsQVhTczhYMFFOSkdKSUxHYzh3NEtEcm95RUZmQU4xOFBDdXJEeTNpT1h4Z0YwVklSOG9ldGdUTEswTDJJTkNDQkZiYWtZb05MdmQ3RVR6dFhuT041NElSSVN4bTZpdw?oc=5",
-      "pub_date": "2026-08-01T16:00:00+09:00",
-      "source": "金沢市公式ホームページ",
-      "description": "後期高齢者医療制度に加入している方のもとには、毎年7月ごろに保険証代わりとなる書類が届きます。今年（令和8年）も7月中に発送が行われましたが、令和8年8月からは、この書類の交付ルールが一部変わりました。 【写真】後期高齢者医療制度「窓口 ...",
-      "_glink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQck5JZnozUGlxekx3Sk0wWi1WUjBVY3Nxa295SFV5NkZxNW5rZWs2ZTdOQUxsQVhTczhYMFFOSkdKSUxHYzh3NEtEcm95RUZmQU4xOFBDdXJEeTNpT1h4Z0YwVklSOG9ldGdUTEswTDJJTkNDQkZiYWtZb05MdmQ3RVR6dFhuT041NElSSVN4bTZpdw?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQck5JZnozUGlxekx3Sk0wWi1WUjBVY3Nxa295SFV5NkZxNW5rZWs2ZTdOQUxsQVhTczhYMFFOSkdKSUxHYzh3NEtEcm95RUZmQU4xOFBDdXJEeTNpT1h4Z0YwVklSOG9ldGdUTEswTDJJTkNDQkZiYWtZb05MdmQ3RVR6dFhuT041NElSSVN4bTZpdw?oc=5",
-      "category": "一般",
-      "topic": "insurance"
-    },
-    {
-      "title": "後期高齢者医療資格確認書・資格情報のお知らせについて - 藤岡市",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQM0RvZUxGbFZHS09JUVBwMzBOR2d2aUFTU0xyZlk3VEhMUXdqdE50eUh3a01laV9EZDB3OTd1TkticjdTSnhlV3kyTDdmVTB4RTJBRVJoMTF0b2t4VVhCSFJxbEROU3hPZklvaFotQUZmOUhKNDlUcXNaV2pSM1RlNg?oc=5",
-      "pub_date": "2026-08-01T16:00:00+09:00",
-      "source": "藤岡市",
-      "description": "後期高齢者医療制度に加入している方のもとには、毎年7月ごろに保険証代わりとなる書類が届きます。今年（令和8年）も7月中に発送が行われましたが、令和8年8月からは、この書類の交付ルールが一部変わりました。 【写真】後期高齢者医療制度「窓口 ...",
-      "_glink": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQM0RvZUxGbFZHS09JUVBwMzBOR2d2aUFTU0xyZlk3VEhMUXdqdE50eUh3a01laV9EZDB3OTd1TkticjdTSnhlV3kyTDdmVTB4RTJBRVJoMTF0b2t4VVhCSFJxbEROU3hPZklvaFotQUZmOUhKNDlUcXNaV2pSM1RlNg?oc=5",
-      "_resolved_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQM0RvZUxGbFZHS09JUVBwMzBOR2d2aUFTU0xyZlk3VEhMUXdqdE50eUh3a01laV9EZDB3OTd1TkticjdTSnhlV3kyTDdmVTB4RTJBRVJoMTF0b2t4VVhCSFJxbEROU3hPZklvaFotQUZmOUhKNDlUcXNaV2pSM1RlNg?oc=5",
       "category": "一般",
       "topic": "insurance"
     }
